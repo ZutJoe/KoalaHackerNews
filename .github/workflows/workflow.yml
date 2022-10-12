@@ -24,12 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-
       - uses: actions/setup-node@v1
-
-      - name: Fetch resources
-        run: ./scripts/fetch-resources.sh
-
       - name: Update resources
         uses: test-room-7/action-update-file@v1
         with:
