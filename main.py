@@ -48,7 +48,6 @@ def get_commont_data() -> None:
     base_url = 'http://api.bilibili.com/x/v2/reply/main'
     for urls in get_data():
         for url in urls:
-            
             data = json.loads(json.dumps(url))
             params = {
                 'type': 1,
@@ -58,7 +57,7 @@ def get_commont_data() -> None:
             commont_data = commont_data.json()
             with open('data.json', 'a', encoding='utf-8') as f:
                 if commont_data['data']['top']['upper'] is not None:
-                    f.write(json.dumps(commont_data['data']['top']['upper']['content']))
+                    f.write(json.dumps(commont_data['data']['top']['upper']['content'], ensure_ascii=False))
                 else:
                     f.write(str(data['aid']))
                 f.write(',')
