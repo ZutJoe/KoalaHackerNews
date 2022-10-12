@@ -19,17 +19,10 @@ jobs:
           pip install requests
       - name: run
         run: python main.py
-  resources:
-    name: Update resources
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v1
-      - uses: actions/setup-node@v1
-      - name: Update resources
-        uses: test-room-7/action-update-file@v1
+      - uses: wow-actions/update-file@v1
         with:
-          file-path: |
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          path: |
             README.md
             data.json
-          commit-msg: Update resources
-          github-token: ${{ secrets.TOKEN }}
+          content: 'Updated by update-file action'
