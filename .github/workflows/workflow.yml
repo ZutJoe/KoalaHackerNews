@@ -29,6 +29,7 @@ jobs:
         uses: test-room-7/action-update-file@v1
         with:
           file-path: |
+            path/to/file
             path/to/README.md
             path/to/data.json
           commit-msg: Update resources
