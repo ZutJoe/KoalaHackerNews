@@ -47,6 +47,8 @@ def get_data() -> list[object]:
 
 def get_commont_data() -> None:
     base_url = 'http://api.bilibili.com/x/v2/reply/main'
+    with open('data.json', 'a+', encoding='utf-8') as f:
+        f.write('[')
     for urls in get_data():
         for url in urls:
             data = json.loads(json.dumps(url))
@@ -56,13 +58,20 @@ def get_commont_data() -> None:
             }
             commont_data = requests.get(url=base_url, params=params, headers=headers)
             commont_data = commont_data.json()
-            with open('data.json', 'a', encoding='utf-8') as f:
-                if commont_data['data']['top']['upper'] is not None:
-                    f.write(json.dumps(commont_data['data']['top']['upper']['content'], ensure_ascii=False))
+            with open('data.json', 'a+', encoding='utf-8') as f:
+                if (top_commont_data := commont_data['data']['top']['upper']) is not None:
+                    content = json.dumps(top_commont_data['content'], ensure_ascii=False)
+                    # content += '"bvid": ' + data['bvid']
+                    content = content[:-1]
+                    content += ', "bvid": "' + data['bvid'] + '"}'
+                    f.write(content)
                 else:
                     f.write('{"aid": ' + str(data['aid']) + '}')
                 f.write(',')
-                f.write('\n')
+    with open('data.json', 'rb+') as f:
+        f.seek(-1, os.SEEK_END)
+        f.truncate()
+        f.write(b']\n')
 
 
 def parse_top_commont() -> None:
@@ -89,8 +98,9 @@ def parse_top_commont() -> None:
                         # print(content)
                     else:
                         continue
-                    
-                write_md(times, introduces, links)
+                
+                bvid = top_commont[i]['bvid']
+                write_md(times, introduces, links, bvid)
 
         # 本期时间轴：
         # 00:09 sharing｜将电脑中的文件通过二维码分享给手机
@@ -133,9 +143,10 @@ def parse_top_commont() -> None:
         # write_md(times, introduces, links)
 
 
-def write_md(times: list[str], introduces: list[str], links: list[str]) -> None:
-    with open('test.md', 'a', encoding='utf-8') as f:
+def write_md(times: list[str], introduces: list[str], links: list[str], bvid: str) -> None:
+    with open('test.md', 'a+', encoding='utf-8') as f:
         f.write('\n')
+        f.write('## [视频链接](https://www.bilibili.com/video/' + bvid + ')\n\n')
         f.write('|时间轴|简介|链接|\n')
         f.write('|:--:|:--:|:--:|\n')
         for i in range(max(len(times), len(introduces), len(links))):
@@ -154,4 +165,6 @@ def write_md(times: list[str], introduces: list[str], links: list[str]) -> None:
             else:
                 f.write(' |\n')
 
+
+# get_commont_data()
 parse_top_commont()
