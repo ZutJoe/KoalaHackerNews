@@ -145,8 +145,6 @@ def parse_top_commont() -> None:
 
 def write_md(times: list[str], introduces: list[str], links: list[str], bvid: str) -> None:
     with open('README.md', 'a+', encoding='utf-8') as f:
-        f.write('# Koala_hacker_news \n Koala hacker news [周报内容](https://space.bilibili.com/489667127/channel/collectiondetail?sid=249279)')
-        f.write('\n')
         f.write('## [视频链接](https://www.bilibili.com/video/' + bvid + ')\n\n')
         f.write('|时间轴|简介|链接|\n')
         f.write('|:--:|:--:|:--:|\n')
@@ -168,5 +166,8 @@ def write_md(times: list[str], introduces: list[str], links: list[str], bvid: st
 
 
 os.remove('README.md')
+with open('README.md', 'a+', encoding='utf-8') as f:
+    f.write('# Koala_hacker_news \n Koala hacker news [周报内容](https://space.bilibili.com/489667127/channel/collectiondetail?sid=249279)')
+    f.write('\n')
 get_commont_data()
 parse_top_commont()
