@@ -1,4 +1,5 @@
 import os
+import re
 import json
 import requests
 
@@ -59,9 +60,48 @@ def get_commont_data() -> None:
                 if commont_data['data']['top']['upper'] is not None:
                     f.write(json.dumps(commont_data['data']['top']['upper']['content'], ensure_ascii=False))
                 else:
-                    f.write(str(data['aid']))
+                    f.write('{"aid": ' + str(data['aid']) + '}')
                 f.write(',')
                 f.write('\n')
 
-get_commont_data()
+# get_commont_data()
 
+def parse_top_commont() -> None:
+    with open('data.json', 'r', encoding='utf-8') as f:
+        top_commont = json.load(f)
+        # for i in range(0, len(top_commont)):
+        #     if (msg := top_commont[i].get('message')) is not None:
+        #         for content in msg.split('\n'):
+        #             print(content)
+
+        msg = top_commont[0].get('message')
+        # 本期时间轴：
+        # 00:09 sharing｜将电脑中的文件通过二维码分享给手机
+        # 00:31 Steampipe｜ 浏览云服务资产的交互式命令行工具
+        # 00:54 Horizon UI｜ 基于 Chakra UI 的管理后台模版
+        # 01:16 Postgres WASM｜ 开源 WASM 运行 PostgresSQL 方案
+        # 01:50 v86｜ 通过 WebAssembly 运行 x86 兼容的虚拟机
+        # 02:06  libSQL｜ SQLite 下游版本
+        # 02:38 TypeScript  10 years anniversary
+        # Bam｜Wingsuit Flying by Michele Nobler
+        # 本期项目链接：
+        # https://github.com/parvardegr/sharing
+        # https://steampipe.io/
+        # https://horizon-ui.com/
+        # https://supabase.com/blog/postgres-wasm
+        # https://github.com/copy/v86
+        # https://github.com/libsql/libsql & https://itnext.io/sqlite-qemu-all-over-again-aedad19c9a1c
+        # https://devblogs.microsoft.com/typescript/ten-years-of-typescript/
+        for content in msg.split('\n'):
+            if re.match(r'^\d{2}:\d{2}', time := content.strip()[:5]) != None or re.match(r'\w*[|｜]\w*', content) != None:
+                print(time, end=' ')
+                print(content.strip()[6:])
+            elif re.match(r'时间轴', content) != None or re.match(r'链接', content) != None:
+                continue
+            elif re.match(r'https', content) != None:
+                print(content)
+            else:
+                continue
+
+
+parse_top_commont()

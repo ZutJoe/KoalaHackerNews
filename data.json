@@ -309,7 +309,7 @@
         },
         "max_line": 6
     },
-    471440344,
+    {"aid": 471440344},
     {
         "message": "本期时间轴：\n00:11 Google 发布新编程语言 Carbon\n00:58 榫卯｜ Sunmao ｜低代码工具开发框架\n01:40 Comcast｜模拟弱网环境的工具\n02:36 Tweakpane｜ 一个调节参数的 JS 库\n02:58 AI 系统 DALL·E 开放 Beta 测试\n03:21 一篇关于 Scratch 潜能的文章\n本期项目链接：\nhttps://github.com/carbon-language/carbon-lang \nhttps://github.com/smartxworks/sunmao-ui \nhttps://github.com/tylertreat/comcast \nhttps://cocopon.github.io/tweakpane/ \nhttps://openai.com/blog/dall-e-now-available-in-beta \nhttps://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal",
         "plat": 0,
@@ -1056,8 +1056,8 @@
         },
         "max_line": 6
     },
-    851363567,
-    808652802,
+    {"aid": 851363567},
+    {"aid": 808652802},
     {
         "message": "整理了本期周报的时间轴，方便大家观看：\n00:08 faker.js 删库事件新进展\n00:37 暴雪被收购\n01:00 PyFlow｜一个可视化编程环境\n01:14 CSS 选择器练习题网站\n01:27 GPS 工作原理详解\n01:47 Lichess | 一个国际象棋服务器的支出分析\n02:25 谷歌分析在欧盟合法性及其替代品\n02:53 AWS DynamoDB 十年回顾\n03:18 CyberChef | 一个数据格式转换工具\n03:32 curl | 最近支持了 JSON\n03:42 轻松一刻｜弹珠撞击木块游戏",
         "plat": 0,
@@ -1151,6 +1151,6 @@
         },
         "max_line": 6
     },
-    722854302,
-    465206549
+    {"aid": 722854302},
+    {"aid": 465206549}
 ]
