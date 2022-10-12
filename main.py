@@ -169,7 +169,7 @@ os.remove('data.json')
 os.remove('README.md')
 with open('README.md', 'a+', encoding='utf-8') as f:
     f.write('# Koala_hacker_news \n Koala hacker news [周报内容](https://space.bilibili.com/489667127/channel/collectiondetail?sid=249279)')
-    f.write('\n====================\n')
+    f.write('\n')
 get_commont_data()
 parse_top_commont()
 
