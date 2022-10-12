@@ -33,5 +33,7 @@ jobs:
             file-path: |
               README.md
               data.json
+            allow-dot: true
+            allow-removing: true
             commit-msg: Update resources
             github-token: ${{ secrets.TOKEN }}
