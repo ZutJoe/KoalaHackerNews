@@ -1,3 +1,3 @@
-#!/usr/bin/env bash
+#!/usr/bin/sh
 
 cat README.md data.json
