@@ -64,17 +64,34 @@ def get_commont_data() -> None:
                 f.write(',')
                 f.write('\n')
 
-# get_commont_data()
 
 def parse_top_commont() -> None:
     with open('data.json', 'r', encoding='utf-8') as f:
         top_commont = json.load(f)
-        # for i in range(0, len(top_commont)):
-        #     if (msg := top_commont[i].get('message')) is not None:
-        #         for content in msg.split('\n'):
-        #             print(content)
+        for i in range(0, len(top_commont)):
+            if (msg := top_commont[i].get('message')) is not None:
+                times = []
+                introduces = []
+                links = []
+                for content in msg.split('\n'):
+                    if (time := re.search(r'^\d{2}:\d{2}', content.strip()[:5])) != None or re.search(r'[|｜]', content.strip()) != None:
+                        if time == None:
+                            introduces.append(content.strip())
+                            continue
+                        times.append(time.group())
+                        introduces.append(content.strip()[6:].strip())
+                        # print(time, end=' ')
+                        # print(content.strip()[6:])
+                    elif re.search(r'时间轴', content) != None or re.search(r'链接', content) != None:
+                        continue
+                    elif re.search(r'https', content) != None:
+                        links.append(content.strip())
+                        # print(content)
+                    else:
+                        continue
+                    
+                write_md(times, introduces, links)
 
-        msg = top_commont[0].get('message')
         # 本期时间轴：
         # 00:09 sharing｜将电脑中的文件通过二维码分享给手机
         # 00:31 Steampipe｜ 浏览云服务资产的交互式命令行工具
@@ -92,16 +109,49 @@ def parse_top_commont() -> None:
         # https://github.com/copy/v86
         # https://github.com/libsql/libsql & https://itnext.io/sqlite-qemu-all-over-again-aedad19c9a1c
         # https://devblogs.microsoft.com/typescript/ten-years-of-typescript/
-        for content in msg.split('\n'):
-            if re.match(r'^\d{2}:\d{2}', time := content.strip()[:5]) != None or re.match(r'\w*[|｜]\w*', content) != None:
-                print(time, end=' ')
-                print(content.strip()[6:])
-            elif re.match(r'时间轴', content) != None or re.match(r'链接', content) != None:
-                continue
-            elif re.match(r'https', content) != None:
-                print(content)
-            else:
-                continue
+        # msg = top_commont[0].get('message')
+        # times = []
+        # introduces = []
+        # links = []
+        # for content in msg.split('\n'):
+        #     if (time := re.search(r'^\d{2}:\d{2}', content.strip()[:5])) != None or re.search(r'[|｜]', content.strip()) != None:
+        #         if time == None:
+        #             introduces.append(content.strip())
+        #             continue
+        #         times.append(time.group())
+        #         introduces.append(content.strip()[6:].strip())
+        #         # print(time, end=' ')
+        #         # print(content.strip()[6:])
+        #     elif re.search(r'时间轴', content) != None or re.search(r'链接', content) != None:
+        #         continue
+        #     elif re.search(r'https', content) != None:
+        #         links.append(content.strip())
+        #         # print(content)
+        #     else:
+        #         continue
+            
+        # write_md(times, introduces, links)
 
+
+def write_md(times: list[str], introduces: list[str], links: list[str]) -> None:
+    with open('test.md', 'a', encoding='utf-8') as f:
+        f.write('\n')
+        f.write('|时间轴|简介|链接|\n')
+        f.write('|:--:|:--:|:--:|\n')
+        for i in range(max(len(times), len(introduces), len(links))):
+            if i < len(times):
+                f.write('|' + times[i] + '|')
+            else:
+                f.write('| |')
+
+            if i < len(introduces):
+                f.write(introduces[i] + '|')
+            else:
+                f.write(' |')
+
+            if i < len(links):
+                f.write(links[i] + '|\n')
+            else:
+                f.write(' |\n')
 
 parse_top_commont()
