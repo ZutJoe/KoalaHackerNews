@@ -19,7 +19,7 @@ headers = {
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37',
 }
 
-def get_url() -> list[object]:
+def get_data() -> list[object]:
     page_num = 0
     while True:
         page_num += 1
@@ -43,15 +43,26 @@ def get_url() -> list[object]:
 
         yield bv_list
 
-with open('data.json', 'a', encoding='utf-8') as f:
-    f.write('[')
 
-for urls in get_url():
-    for url in urls:
-        with open('data.json', 'a', encoding='utf-8') as f:
-            f.write(json.dumps(url))
-            f.write(',')
-            f.write('\n')
+def get_commont_data() -> None:
+    base_url = 'http://api.bilibili.com/x/v2/reply/main'
+    for urls in get_data():
+        for url in urls:
+            
+            data = json.loads(json.dumps(url))
+            params = {
+                'type': 1,
+                'oid': data['aid']
+            }
+            commont_data = requests.get(url=base_url, params=params, headers=headers)
+            commont_data = commont_data.json()
+            with open('data.json', 'a', encoding='utf-8') as f:
+                if commont_data['data']['top']['upper'] is not None:
+                    f.write(json.dumps(commont_data['data']['top']['upper']['content']))
+                else:
+                    f.write(str(data['aid']))
+                f.write(',')
+                f.write('\n')
 
-with open('data.json', 'a', encoding='utf-8') as f:
-    f.write(']')
+get_commont_data()
+
