@@ -104,13 +104,17 @@ def parse_top_commont() -> None:
 
 
 def write_md(times: list[str], introduces: list[str], links: list[str], bvid: str) -> None:
+    vedio_url = f'https://www.bilibili.com/video/{bvid}'
     with open('README.md', 'a+', encoding='utf-8') as f:
-        f.write('## [视频链接](https://www.bilibili.com/video/' + bvid + ')\n\n')
+        f.write(f'## [视频链接]({vedio_url})\n\n')
         f.write('|时间轴|简介|链接|\n')
         f.write('|:--:|:--:|:--:|\n')
         for i in range(max(len(times), len(introduces), len(links))):
             if i < len(times):
-                f.write('|' + times[i] + '|')
+                time = times[i]
+                m = int(time.split(':')[0])
+                s = int(time.split(':')[1])
+                f.write(f'|[{time}]({vedio_url}?t={m*60 + s})|')
             else:
                 f.write('| |')
 
