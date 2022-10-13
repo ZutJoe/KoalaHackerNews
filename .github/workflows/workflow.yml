@@ -22,7 +22,9 @@ jobs:
       - name: commit change data
         uses: fnkr/github-action-git-bash@v1
         with:
-          secrets: ${{ secrets.TOKEN }}, ${{ secrets.SSH_KEY }}
+          secrets: |
+            ${{ secrets.TOKEN }}
+            ${{ secrets.SSH_KEY }}
           args: |
             bash -c "$(git rev-parse --abbrev-ref HEAD)" = "main"
             rm -rf .github
