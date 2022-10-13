@@ -19,5 +19,8 @@ jobs:
           pip install requests
       - name: run
         run: python main.py
-      - name: git version
-        run: git --version
+      - name: git
+        run: |
+          git add .
+          git commit -m "update"
+          git push
