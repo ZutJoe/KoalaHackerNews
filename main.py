@@ -102,46 +102,6 @@ def parse_top_commont() -> None:
                 bvid = top_commont[i]['bvid']
                 write_md(times, introduces, links, bvid)
 
-        # 本期时间轴：
-        # 00:09 sharing｜将电脑中的文件通过二维码分享给手机
-        # 00:31 Steampipe｜ 浏览云服务资产的交互式命令行工具
-        # 00:54 Horizon UI｜ 基于 Chakra UI 的管理后台模版
-        # 01:16 Postgres WASM｜ 开源 WASM 运行 PostgresSQL 方案
-        # 01:50 v86｜ 通过 WebAssembly 运行 x86 兼容的虚拟机
-        # 02:06  libSQL｜ SQLite 下游版本
-        # 02:38 TypeScript  10 years anniversary
-        # Bam｜Wingsuit Flying by Michele Nobler
-        # 本期项目链接：
-        # https://github.com/parvardegr/sharing
-        # https://steampipe.io/
-        # https://horizon-ui.com/
-        # https://supabase.com/blog/postgres-wasm
-        # https://github.com/copy/v86
-        # https://github.com/libsql/libsql & https://itnext.io/sqlite-qemu-all-over-again-aedad19c9a1c
-        # https://devblogs.microsoft.com/typescript/ten-years-of-typescript/
-        # msg = top_commont[0].get('message')
-        # times = []
-        # introduces = []
-        # links = []
-        # for content in msg.split('\n'):
-        #     if (time := re.search(r'^\d{2}:\d{2}', content.strip()[:5])) != None or re.search(r'[|｜]', content.strip()) != None:
-        #         if time == None:
-        #             introduces.append(content.strip())
-        #             continue
-        #         times.append(time.group())
-        #         introduces.append(content.strip()[6:].strip())
-        #         # print(time, end=' ')
-        #         # print(content.strip()[6:])
-        #     elif re.search(r'时间轴', content) != None or re.search(r'链接', content) != None:
-        #         continue
-        #     elif re.search(r'https', content) != None:
-        #         links.append(content.strip())
-        #         # print(content)
-        #     else:
-        #         continue
-            
-        # write_md(times, introduces, links)
-
 
 def write_md(times: list[str], introduces: list[str], links: list[str], bvid: str) -> None:
     with open('README.md', 'a+', encoding='utf-8') as f:
@@ -169,7 +129,7 @@ os.remove('data.json')
 os.remove('README.md')
 with open('README.md', 'a+', encoding='utf-8') as f:
     f.write('# Koala_hacker_news \n Koala hacker news [周报内容](https://space.bilibili.com/489667127/channel/collectiondetail?sid=249279)')
-    f.write('\n====================================\n')
+    f.write('\n')
 get_commont_data()
 parse_top_commont()
 
