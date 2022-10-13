@@ -19,11 +19,5 @@ jobs:
           pip install requests
       - name: run
         run: python main.py
-      - name: commit change data
-        uses: fnkr/github-action-git-bash@v1
-        with:
-          secrets: |
-            ${{ secrets.TOKEN }}
-          args: |
-            git config --global --add safe.directory /github/workspace
-            "bash" "-c" "{ [ \"$(git rev-parse --abbrev-ref HEAD)\" = \"master\" ] || exit 78; } && rm -rf .github && git add -A .github && git commit -m \"Remove .github\" && git remote set-url origin git@github.com:GITHUB/PROJECT.git && git push --force origin master"
+      - name: git version
+        run: git --version
