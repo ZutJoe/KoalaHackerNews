@@ -28,5 +28,5 @@ jobs:
           git config --global user.email "zhout50@163.com"
           git config --global user.name "ZutJoe"
           git add .
-          git commit -m "update"
+          git commit -m "${{ steps.date.outputs.date }} update"
           git push
