@@ -1,6 +1,6 @@
 # Koala_hacker_news 
 
-b站up主[Koala聊开源](https://space.bilibili.com/489667128)的《hacker news 周报》[合集](https://space.bilibili.com/489667127/channel/collectiondetail?sid=249279)的内容总结 
+b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news 周报》[合集](https://space.bilibili.com/489667127/channel/collectiondetail?sid=249279)的内容总结 
 
 ## [视频链接](https://www.bilibili.com/video/BV1GR4y1R7Yw)
 
