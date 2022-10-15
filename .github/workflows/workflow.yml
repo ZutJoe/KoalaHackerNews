@@ -25,11 +25,11 @@ jobs:
         run: python main.py
       - name: Get current date
         id: date
-        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+        run: echo "current_date=$(date '+%Y-%m-%d')" >> $GITHUB_OUTPUT
       - name: git
         run: |
           git config --global user.email "zhout50@163.com"
           git config --global user.name "ZutJoe"
           git add .
-          git commit -m "${{ steps.date.outputs.date }} update"
+          git commit -m "${{ steps.date.outputs.current_date }} update"
           git push
