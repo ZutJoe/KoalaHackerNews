@@ -21,6 +21,12 @@ headers = {
 }
 
 def get_data() -> list[object]:
+    """
+    获取视频集合的数据，如果当前页没有视频数据则退出循环
+
+    :return: 每一页的所有视频信息
+    """
+
     page_num = 0
     while True:
         page_num += 1
@@ -46,6 +52,10 @@ def get_data() -> list[object]:
 
 
 def get_commont_data() -> None:
+    """
+    对每页获取到的评论进行处理，获取置顶评论，格式化数据并将相应视频bv号添加到json数据中
+    """
+
     base_url = 'http://api.bilibili.com/x/v2/reply/main'
     with open('data.json', 'a+', encoding='utf-8') as f:
         f.write('[')
@@ -61,7 +71,6 @@ def get_commont_data() -> None:
             with open('data.json', 'a+', encoding='utf-8') as f:
                 if (top_commont_data := commont_data['data']['top']['upper']) is not None:
                     content = json.dumps(top_commont_data['content'], ensure_ascii=False)
-                    # content += '"bvid": ' + data['bvid']
                     content = content[:-1]
                     content += ', "bvid": "' + data['bvid'] + '"}'
                     f.write(content)
@@ -75,6 +84,10 @@ def get_commont_data() -> None:
 
 
 def parse_top_commont() -> None:
+    """
+    对所有的置顶评论进行解析
+    """
+
     with open('data.json', 'r', encoding='utf-8') as f:
         top_commont = json.load(f)
         for i in range(0, len(top_commont)):
@@ -88,14 +101,11 @@ def parse_top_commont() -> None:
                             introduces.append(content.strip())
                             continue
                         times.append(time.group())
-                        introduces.append(content.strip()[6:].strip())
-                        # print(time, end=' ')
-                        # print(content.strip()[6:])
+                        introduces.append(content.strip()[6:].strip().replace('|', '｜'))
                     elif re.search(r'时间轴', content) != None or re.search(r'链接', content) != None:
                         continue
                     elif re.search(r'https', content) != None:
                         links.append(content.strip())
-                        # print(content)
                     else:
                         continue
                 
@@ -104,6 +114,15 @@ def parse_top_commont() -> None:
 
 
 def write_md(times: list[str], introduces: list[str], links: list[str], bvid: str) -> None:
+    """
+    对解析之后的单个视频置顶评论写入到md文件当中
+
+    :param times: 解析出来的时间数据
+    :param introduces: 解析出来的简介
+    :param links: 解析出来的链接
+    :param bvid: 该视频的bvid
+    """
+    
     vedio_url = f'https://www.bilibili.com/video/{bvid}'
     with open('README.md', 'a+', encoding='utf-8') as f:
         f.write(f'## [视频链接]({vedio_url})\n\n')
