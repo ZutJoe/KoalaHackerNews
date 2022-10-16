@@ -108,7 +108,7 @@ def parse_top_commont() -> None:
                         links.append(content.strip())
                     else:
                         continue
-                
+
                 bvid = top_commont[i]['bvid']
                 write_md(times, introduces, links, bvid)
 
@@ -122,7 +122,7 @@ def write_md(times: list[str], introduces: list[str], links: list[str], bvid: st
     :param links: 解析出来的链接
     :param bvid: 该视频的bvid
     """
-    
+
     vedio_url = f'https://www.bilibili.com/video/{bvid}'
     with open('README.md', 'a+', encoding='utf-8') as f:
         f.write(f'## [视频链接]({vedio_url})\n\n')
