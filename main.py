@@ -1,11 +1,16 @@
 import os
 import re
 import json
+import itertools
+
+from typing import Iterator
+
 import requests
+
 
 os.environ["NO_PROXY"] = "bilibili.com"
 
-headers = {
+HEADERS = {
     'authority': 'api.bilibili.com',
     'accept': 'application/json, text/plain, */*',
     'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
@@ -20,17 +25,14 @@ headers = {
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37',
 }
 
-def get_data() -> list[object]:
+
+def get_data() -> Iterator[int]:
     """
     获取视频集合的数据，如果当前页没有视频数据则退出循环
 
-    :return: 每一页的所有视频信息
+    :return: 合集内每个视频的av号
     """
-
-    page_num = 0
-    while True:
-        page_num += 1
-        bv_list = []
+    for page_num in itertools.count(1):
         params = {
             'mid': '489667127',
             'season_id': '249279',
@@ -38,17 +40,21 @@ def get_data() -> list[object]:
             'page_num': str(page_num),
             'page_size': '30',
         }
-
-        response = requests.get('https://api.bilibili.com/x/polymer/space/seasons_archives_list', params=params, headers=headers)
+        response = requests.get(
+            'https://api.bilibili.com/x/polymer/space/seasons_archives_list',
+            params=params,
+            headers=HEADERS,
+            timeout=10,
+        )
+        response.raise_for_status()
         data = response.json()
-        if len(data['data']['archives']) == 0:
+
+        aids = data['data']['aids']
+        if len(aids) == 0:
             break
 
-        print(len(data['data']['archives']))
-        for obj in data['data']['archives']:
-            bv_list.append(obj)
-
-        yield bv_list
+        for aid in aids:
+            yield aid
 
 
 def get_commont_data() -> None:
