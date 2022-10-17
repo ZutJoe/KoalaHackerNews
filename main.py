@@ -228,47 +228,72 @@ def update_data_json() -> list[VideoInfo]:
     return new_video_infos
 
 
-def write_md(times: list[str], introduces: list[str], links: list[str], bvid: str) -> None:
+def generate_md_table(video_info: VideoInfo) -> list[str]:
     """
-    对解析之后的单个视频置顶评论写入到md文件当中
-
-    :param times: 解析出来的时间数据
-    :param introduces: 解析出来的简介
-    :param links: 解析出来的链接
-    :param bvid: 该视频的bvid
+    把解析之后的单个视频置顶评论转换成 markdown 表格形式
     """
+    aid = video_info.aid
+    times = video_info.hn_items.times
+    introduces = video_info.hn_items.introduces
+    links = video_info.hn_items.links
+    video_url = f'https://www.bilibili.com/video/av{aid}'
 
-    vedio_url = f'https://www.bilibili.com/video/{bvid}'
-    with open('README.md', 'a+', encoding='utf-8') as f:
-        f.write(f'## [视频链接]({vedio_url})\n\n')
-        f.write('|时间轴|简介|链接|\n')
-        f.write('|:--:|:--:|:--:|\n')
-        for i in range(max(len(times), len(introduces), len(links))):
-            if i < len(times):
-                time = times[i]
-                m = int(time.split(':')[0])
-                s = int(time.split(':')[1])
-                f.write(f'|[{time}]({vedio_url}?t={m*60 + s})|')
-            else:
-                f.write('| |')
+    readme: list[str] = []
 
-            if i < len(introduces):
-                f.write(introduces[i] + '|')
-            else:
-                f.write(' |')
+    readme.append(
+        '\n'
+        f'## [视频链接]({video_url})\n'
+        '\n'
+        '|时间轴|简介|链接|\n'
+        '|:--:|:--:|:--:|\n'
+    )
 
-            if i < len(links):
-                f.write(links[i] + '|\n')
-            else:
-                f.write(' |\n')
+    time: VideoTime | None
+    intro: str | None
+    link: str | list[str] | None
+    for time, intro, link in itertools.zip_longest(times, introduces, links):
+        if time is None:
+            time_str = ' '
+        else:
+            m = time.minutes
+            s = time.seconds
+            time_str = f'[{m:02d}:{s:02d}]'  f'({video_url}?t={m*60 + s})'
+
+        intro_str = intro if intro else ' '
+
+        if link is None:
+            link_str = ' '
+        elif isinstance(link, list):
+            link_str = '<br>'.join(link)
+        else:
+            link_str = link
+
+        readme.append(f'|{time_str}|{intro_str}|{link_str}|\n')
+
+    return readme
 
 
-os.remove('data.json')
-os.remove('README.md')
-with open('README.md', 'a+', encoding='utf-8') as f:
-    f.write('# Koala_hacker_news \n\n')
-    f.write('b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news 周报》[合集](https://space.bilibili.com/489667127/channel/collectiondetail?sid=249279)的内容总结 \n')
-    f.write('\n')
-get_commont_data()
-parse_top_commont()
+def write_md(video_infos: list[VideoInfo]) -> None:
+    readme: list[str] = []
+    readme.append(
+        '# Koala_hacker_news \n'
+        '\n'
+        'b站up主[Koala聊开源](https://space.bilibili.com/489667127)'
+        '的《hacker news 周报》[合集]'
+        '(https://space.bilibili.com/489667127/channel/collectiondetail?sid=249279)'
+        '的内容总结 \n'
+    )
+    for video_info in video_infos:
+        readme.extend(generate_md_table(video_info))
 
+    with open('README.md', 'w', encoding='utf-8') as f:
+        f.write("".join(readme))
+
+
+def main() -> None:
+    video_infos = update_data_json()
+    write_md(video_infos)
+
+
+if __name__ == '__main__':
+    main()
