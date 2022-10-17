@@ -88,34 +88,95 @@ def get_comment_data() -> Iterator[CommentData]:
             yield CommentData(aid, top_comment_data['content']['message'])
 
 
-def parse_top_commont() -> None:
-    """
-    对所有的置顶评论进行解析
-    """
+@dataclass(frozen=True)
+class VideoTime:
+    minutes: int
+    seconds: int
 
-    with open('data.json', 'r', encoding='utf-8') as f:
-        top_commont = json.load(f)
-        for i in range(0, len(top_commont)):
-            if (msg := top_commont[i].get('message')) is not None:
-                times = []
-                introduces = []
-                links = []
-                for content in msg.split('\n'):
-                    if (time := re.search(r'^\d{2}:\d{2}', content.strip()[:5])) != None or re.search(r'[|｜]', content.strip()) != None:
-                        if time == None:
-                            introduces.append(content.strip())
-                            continue
-                        times.append(time.group())
-                        introduces.append(content.strip()[6:].strip().replace('|', '｜'))
-                    elif re.search(r'时间轴', content) != None or re.search(r'链接', content) != None:
-                        continue
-                    elif re.search(r'https', content) != None:
-                        links.append(content.strip())
-                    else:
-                        continue
 
-                bvid = top_commont[i]['bvid']
-                write_md(times, introduces, links, bvid)
+@dataclass
+class HackerNewsItems:
+    times: list[VideoTime]
+    introduces: list[str]
+    links: list[str | list[str]]
+
+    @classmethod
+    def from_dict(cls, d: dict) -> 'HackerNewsItems':
+        return HackerNewsItems(
+            [VideoTime(**time) for time in d['times']],
+            d['introduces'],
+            d['links'],
+        )
+
+
+def _parse_time_and_intro(
+    line: str,
+    matches: list[re.Match],
+    times: list[VideoTime],
+    introduces: list[str],
+) -> None:
+    """解析时间和简介"""
+    # 一行有可能有不止一个时间，如 https://b23.tv/av1497344798
+    for match, match_next in itertools.pairwise(matches):
+        times.append(VideoTime(int(match[1]), int(match[2])))
+        intro = line[match.end():match_next.start()].strip()
+        introduces.append(intro.replace("|", "｜"))
+
+    match = matches[-1]
+    times.append(VideoTime(int(match[1]), int(match[2])))
+    intro = line[match.end():].strip()
+    introduces.append(intro.replace("|", "｜"))
+
+
+def parse_top_comment(message: str | None) -> HackerNewsItems:
+    """
+    解析置顶评论，获得每个条目的时间轴、简介、以及链接
+    """
+    times: list[VideoTime] = []
+    introduces: list[str] = []
+    links: list[str | list[str]] = []
+
+    if message is None:
+        message = ""
+
+    # 一个简单的状态机，解析什么内容取决于当前的状态 state
+    state: str = '开始'
+    for line in message.splitlines():
+
+        if state == '开始':
+            match = re.search(r'时间轴', line)
+            if match is None:
+                continue
+            line = line[match.end():]
+            state = '时间轴'
+
+        if state == '时间轴':
+            matches = list(re.finditer(r'(\d{1,}):(\d{2})', line, re.ASCII))
+            if len(matches) > 0:
+                _parse_time_and_intro(line, matches, times, introduces)
+                continue
+
+            # 这一行里没有找到时间，尝试寻找“链接”二字
+            match = re.search(r'链接', line)
+            if match is None:
+                continue
+            line = line[match.end():]
+            state = '链接'
+
+        if state == '链接':
+            line_links: list[str] = []
+            # 双引号、空格、左右尖括号、竖线一定不会出现在 URL 中
+            for match in re.finditer(r'(https?://[^\s"<>|]+)', line, re.ASCII):
+                line_links.append(match.group())
+
+            # 一行里如果有多个链接，那就是同一个条目的链接，如：
+            # https://b23.tv/av346450481
+            if len(line_links) <= 1:
+                links.extend(line_links)
+            else:
+                links.append(line_links)
+
+    return HackerNewsItems(times, introduces, links)
 
 
 def write_md(times: list[str], introduces: list[str], links: list[str], bvid: str) -> None:
