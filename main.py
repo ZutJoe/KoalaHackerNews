@@ -2,6 +2,8 @@ import os
 import re
 import json
 import itertools
+import dataclasses
+from dataclasses import dataclass
 
 from typing import Iterator
 
@@ -26,9 +28,9 @@ HEADERS = {
 }
 
 
-def get_data() -> Iterator[int]:
+def get_aids() -> Iterator[int]:
     """
-    获取视频集合的数据，如果当前页没有视频数据则退出循环
+    获取视频合集内视频的av号
 
     :return: 合集内每个视频的av号
     """
@@ -57,36 +59,33 @@ def get_data() -> Iterator[int]:
             yield aid
 
 
-def get_commont_data() -> None:
-    """
-    对每页获取到的评论进行处理，获取置顶评论，格式化数据并将相应视频bv号添加到json数据中
-    """
+@dataclass(frozen=True)
+class CommentData:
+    aid: int  # 视频av号
+    top_comment: str | None  # 置顶评论内容，可能不存在
 
+
+def get_comment_data() -> Iterator[CommentData]:
+    """
+    对每页获取到的评论进行处理，获取置顶评论
+    """
     base_url = 'http://api.bilibili.com/x/v2/reply/main'
-    with open('data.json', 'a+', encoding='utf-8') as f:
-        f.write('[')
-    for urls in get_data():
-        for url in urls:
-            data = json.loads(json.dumps(url))
-            params = {
-                'type': 1,
-                'oid': data['aid']
-            }
-            commont_data = requests.get(url=base_url, params=params, headers=headers)
-            commont_data = commont_data.json()
-            with open('data.json', 'a+', encoding='utf-8') as f:
-                if (top_commont_data := commont_data['data']['top']['upper']) is not None:
-                    content = json.dumps(top_commont_data['content'], ensure_ascii=False)
-                    content = content[:-1]
-                    content += ', "bvid": "' + data['bvid'] + '"}'
-                    f.write(content)
-                else:
-                    f.write('{"aid": ' + str(data['aid']) + '}')
-                f.write(',')
-    with open('data.json', 'rb+') as f:
-        f.seek(-1, os.SEEK_END)
-        f.truncate()
-        f.write(b']\n')
+
+    for aid in get_aids():
+        params = {
+            'type': 1,
+            'oid': aid,
+        }
+        response = requests.get(
+            url=base_url, params=params, headers=HEADERS, timeout=10)
+        response.raise_for_status()
+        comment_data = response.json()
+
+        top_comment_data = comment_data['data']['top']['upper']
+        if top_comment_data is None:
+            yield CommentData(aid, None)
+        else:
+            yield CommentData(aid, top_comment_data['content']['message'])
 
 
 def parse_top_commont() -> None:
