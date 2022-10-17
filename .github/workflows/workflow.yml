@@ -1,8 +1,8 @@
 name: Koala hacker news
-on: 
+on:
   push:
     branches: main
-  schedule: 
+  schedule:
     - cron: '0 0 * * TUE'
 
 jobs:
