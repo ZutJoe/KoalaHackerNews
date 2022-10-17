@@ -1,5 +1,6 @@
 import os
 import re
+import sys
 import json
 import itertools
 import dataclasses
@@ -170,6 +171,61 @@ def parse_top_comment(message: str | None) -> HackerNewsItems:
                 links.append(line_links)
 
     return HackerNewsItems(times, introduces, links)
+
+
+@dataclass(kw_only=True)
+class VideoInfo:
+    aid: int
+    hn_items: HackerNewsItems
+
+    @classmethod
+    def from_dict(cls, d: dict) -> 'VideoInfo':
+        return VideoInfo(
+            aid = d['aid'],
+            hn_items = HackerNewsItems.from_dict(d['hn_items']),
+        )
+
+
+def load_data_json() -> list[VideoInfo]:
+    with open('data.json', encoding='utf-8') as f:
+        data = json.load(f)
+
+    return [VideoInfo.from_dict(video_info) for video_info in data]
+
+
+def save_data_json(video_info_list: list[VideoInfo]) -> None:
+    data = [dataclasses.asdict(video_info) for video_info in video_info_list]
+
+    with open('data.json', 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+        f.write('\n')  # 为文本文件添加行尾换行符
+
+
+def update_data_json() -> list[VideoInfo]:
+    """
+    更新最新视频数据，解析后保存到 data.json
+    """
+    try:
+        video_infos = load_data_json()
+    except FileNotFoundError:
+        print("没有找到 data.json 文件，将自动重新获取完整数据", file=sys.stderr)
+        video_infos = []
+
+    video_info_dict = {video_info.aid: video_info for video_info in video_infos}
+    new_video_infos: list[VideoInfo] = []
+
+    for aid in get_aids():
+        # 已经保存在 data.json 中的视频，无需重新获取一遍
+        video_info = video_info_dict.get(aid)
+        if video_info is None:
+            video_info = VideoInfo(
+                aid=aid,
+                hn_items=parse_top_comment(get_top_comment(aid)),
+            )
+        new_video_infos.append(video_info)
+
+    save_data_json(new_video_infos)
+    return new_video_infos
 
 
 def write_md(times: list[str], introduces: list[str], links: list[str], bvid: str) -> None:
