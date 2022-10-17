@@ -59,33 +59,26 @@ def get_aids() -> Iterator[int]:
             yield aid
 
 
-@dataclass(frozen=True)
-class CommentData:
-    aid: int  # 视频av号
-    top_comment: str | None  # 置顶评论内容，可能不存在
-
-
-def get_comment_data() -> Iterator[CommentData]:
+def get_top_comment(aid: int) -> str | None:
     """
-    对每页获取到的评论进行处理，获取置顶评论
+    获取视频的置顶评论，如果没有置顶评论则返回 None
     """
     base_url = 'http://api.bilibili.com/x/v2/reply/main'
 
-    for aid in get_aids():
-        params = {
-            'type': 1,
-            'oid': aid,
-        }
-        response = requests.get(
-            url=base_url, params=params, headers=HEADERS, timeout=10)
-        response.raise_for_status()
-        comment_data = response.json()
+    params = {
+        'type': 1,
+        'oid': aid,
+    }
+    response = requests.get(
+        url=base_url, params=params, headers=HEADERS, timeout=10)
+    response.raise_for_status()
+    comment_data = response.json()
 
-        top_comment_data = comment_data['data']['top']['upper']
-        if top_comment_data is None:
-            yield CommentData(aid, None)
-        else:
-            yield CommentData(aid, top_comment_data['content']['message'])
+    top_comment_data = comment_data['data']['top']['upper']
+    if top_comment_data is None:
+        return None
+    else:
+        return top_comment_data['content']['message']
 
 
 @dataclass(frozen=True)
