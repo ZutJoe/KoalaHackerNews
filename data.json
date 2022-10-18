@@ -379,7 +379,16 @@
         "Heroku 即将停止免费额度",
         "GitHub 开发者关系副总裁回复移除 Trending"
       ],
-      "links": []
+      "links": [
+        "https://github.com/jetpack-io/devbox",
+        "https://d2-lang.com/tour/intro",
+        "https://yaoapps.com/",
+        "https://jsoncrack.com/",
+        "https://github.com/alyssaxuu/motionity",
+        "https://univalence.me/posts/mvsqlite",
+        "https://dev.to/lorenzojkrl/bye-bye-heroku-2npi",
+        "https://github.com/community/community/discussions/31644"
+      ]
     }
   },
   {
@@ -579,9 +588,48 @@
   {
     "aid": 471440344,
     "hn_items": {
-      "times": [],
-      "introduces": [],
-      "links": []
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 32
+        },
+        {
+          "minutes": 1,
+          "seconds": 8
+        },
+        {
+          "minutes": 1,
+          "seconds": 44
+        },
+        {
+          "minutes": 2,
+          "seconds": 25
+        },
+        {
+          "minutes": 2,
+          "seconds": 50
+        }
+      ],
+      "introduces": [
+        "Blueboat｜多功能 serverless JS 运行时",
+        "languageTool ｜Grammarly 开源替代品",
+        "Publii｜桌面端的 CMS 工具",
+        "Virtink｜ K8s 轻量级虚拟化插件",
+        "Skeleton｜ 全功能 Svelte UI 组件库",
+        "K8s 提出了 Gateway 网关 API"
+      ],
+      "links": [
+        "https://blueboat.io/",
+        "https://languagetool.org/dev",
+        "https://github.com/GetPublii/Publii",
+        "https://github.com/smartxworks/virtink",
+        "https://skeleton.brainandbonesllc.com/",
+        "https://www.armosec.io/blog/kubernetes-gateway-api"
+      ]
     }
   },
   {
@@ -777,6 +825,14 @@
     "hn_items": {
       "times": [
         {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 46
+        },
+        {
           "minutes": 1,
           "seconds": 1
         },
@@ -802,6 +858,8 @@
         }
       ],
       "introduces": [
+        "Github AI 代码助手 Copilot 正式发布",
+        "Markwhen｜绘制时间轴的工具",
         "Viddy｜现代的 watch 替代品",
         "Elastic UI｜Elastic 开源的前端 UI 组件库",
         "Avo｜构建在 Ruby on Rails 方案之上的应用开发框架",
@@ -824,9 +882,54 @@
   {
     "aid": 257594368,
     "hn_items": {
-      "times": [],
-      "introduces": [],
-      "links": []
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 34
+        },
+        {
+          "minutes": 0,
+          "seconds": 55
+        },
+        {
+          "minutes": 1,
+          "seconds": 14
+        },
+        {
+          "minutes": 1,
+          "seconds": 31
+        },
+        {
+          "minutes": 1,
+          "seconds": 46
+        },
+        {
+          "minutes": 2,
+          "seconds": 1
+        }
+      ],
+      "introduces": [
+        "FRESH｜Deno 原生 SSR Web 框架",
+        "Vitest｜基于 vite 的单元测试框架",
+        "Rulex｜新的正则表达式语言",
+        "Recut｜视频剪辑工具",
+        "moon｜构建工具",
+        "一个寻找项目灵感的网站",
+        "程序员社交新尝试"
+      ],
+      "links": [
+        "https://fresh.deno.dev/",
+        "https://cn.vitest.dev/",
+        "https://pomsky-lang.org/",
+        "https://getrecut.com/",
+        "https://moonrepo.dev/",
+        "https://mysideproject.rocks/",
+        "https://connectdome.com/"
+      ]
     }
   },
   {
@@ -1254,7 +1357,15 @@
         "GO 发表介绍泛型的文章",
         "一个单手键盘"
       ],
-      "links": []
+      "links": [
+        "https://www.insanelyusefulwebsites.com/",
+        "https://lexical.dev/",
+        "https://ydb.tech/",
+        "https://openrefine.org/",
+        "https://nodejs.org/en/",
+        "https://go.dev/blog/when-generics",
+        "https://tipykeyboard.com/en/home/"
+      ]
     }
   },
   {
@@ -1299,7 +1410,15 @@
         "｜Deno 推出 FaaS 服务",
         "EIGHT COLORS ｜一个小游戏"
       ],
-      "links": []
+      "links": [
+        "https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/",
+        "https://github.com/ekzhang/bore",
+        "https://weektodo.me/",
+        "https://www.zeditor.app/",
+        "https://docs.getpinry.com/",
+        "https://deno.com/blog/a-whole-website-in-a-single-js-file",
+        "https://eightcolors.net/"
+      ]
     }
   },
   {
@@ -1340,16 +1459,25 @@
         }
       ],
       "introduces": [
-        "Coolify ｜自部署 PaaS",
+        "Coolify｜自部署 PaaS",
         "warp｜现代化终端",
         "redo｜开源命令行工具",
         "MetricFlow｜数据仓库管理工具",
         "Ruby 增加 WASM 支持",
         "Rome 发布 Rome Formatter｜对标 Prettier",
         "一篇博客｜TypeScript 编译器工作原理",
-        "一篇博客｜ 一些易被忽略的 HTML 属性"
+        "一篇博客｜一些易被忽略的 HTML 属性"
       ],
-      "links": []
+      "links": [
+        "https://coolify.io/",
+        "https://www.warp.dev/",
+        "https://github.com/barthr/redo",
+        "https://transform.co/metricflow/",
+        "https://www.ruby-lang.org/en/news/2022/04/03/ruby-3-2-0-preview1-released",
+        "https://rome.tools/blog/2022/04/05/rome-formatter-release",
+        "https://www.huy.rocks/everyday/04-01-2022-typescript-how-the-compiler-compiles",
+        "https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use"
+      ]
     }
   },
   {
@@ -1404,7 +1532,20 @@
         "WebAssembly 运行 Python",
         "Blog Search｜技术类搜索引擎"
       ],
-      "links": []
+      "links": [
+        "https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues",
+        "https://oh-heck.dev/",
+        [
+          "https://dagger.io/",
+          "https://dagger.io/blog/public-launch-announcement"
+        ],
+        "https://reactjs.org/blog/2022/03/29/react-v18.html",
+        "https://stars.chromeexperiments.com/",
+        "https://github.com/kognise/arpchat",
+        "https://calenday.co/",
+        "https://2022.pycon.de/program/SBCNDY",
+        "https://blogsurf.io/"
+      ]
     }
   },
   {
@@ -1454,7 +1595,16 @@
         "mdn 推出 plus 订阅计划｜Mozilla 商业化新尝试",
         "一篇题为 《Data Mesh 架构》的文章"
       ],
-      "links": []
+      "links": [
+        "https://github.com/appwrite/appwrite",
+        "https://bionic-reading.com/",
+        "https://www.diagrams.net/",
+        "https://www.smort.io/",
+        "https://github.com/junegunn/fzf",
+        "https://www.tangramvision.com/blog/hands-on-with-postgresql-authorization-part-2-row-level-security",
+        "https://hacks.mozilla.org/2022/03/introducing-mdn-plus-make-mdn-your-own/",
+        "https://www.datamesh-architecture.com/"
+      ]
     }
   },
   {
@@ -1509,7 +1659,17 @@
         "CSS-Tricks 网站被 DigitalOcean 收购",
         "Veloren ｜一个基于 Rust 开发的开源多人 RPG 游戏"
       ],
-      "links": []
+      "links": [
+        "https://www.zotero.org/blog/zotero-6/",
+        "https://github.com/nkallen/plasticity",
+        "https://lapce.dev/",
+        "https://github.com/rothgar/awesome-tuis",
+        "https://github.com/derailed/k9s",
+        "https://jvns.ca/blog/2022/03/13/celebrate-tiny-learning-milestones/",
+        "https://golang.google.cn/",
+        "https://css-tricks.com/css-tricks-is-joining-digitalocean/",
+        "https://www.youtube.com/watch?v=hCC1C5KIeUA"
+      ]
     }
   },
   {
@@ -1559,7 +1719,16 @@
         "dasel ｜单一工具完成 JSON、TOML 等文件的读取和修改",
         "“请停止使用 :latest 标签”｜一篇关于版本安全的文章"
       ],
-      "links": []
+      "links": [
+        "",
+        "",
+        "",
+        "https://godotengine.org/",
+        "https://www.apple.com/mac-studio/",
+        "https://stackoverflow.com/questions/1108/how-does-database-indexing-work",
+        "https://github.com/TomWright/dasel",
+        "https://platformers.dev/log/2022/latest-literally-kills-puppies/"
+      ]
     }
   },
   {
@@ -1609,7 +1778,16 @@
         "迷你掌上游戏机 playdate 开源了 SDK",
         "轻松一刻时间｜小游戏"
       ],
-      "links": []
+      "links": [
+        "https://developer.mozilla.org/zh-CN/",
+        "https://hubs.mozilla.com/",
+        "https://hoppscotch.io/",
+        "https://streamlit.io/",
+        "https://textframe.app/",
+        "https://github.com/RunaCapital/awesome-oss-alternatives",
+        "https://play.date/dev/",
+        "https://www.lessmilk.com/almost-pong/"
+      ]
     }
   },
   {

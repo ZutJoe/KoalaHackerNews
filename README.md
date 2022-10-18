@@ -80,14 +80,14 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
-|[00:09](https://www.bilibili.com/video/av260156898?t=9)|Devbox｜快速启动隔离开发环境| |
-|[00:38](https://www.bilibili.com/video/av260156898?t=38)|绘图语言 D2| |
-|[00:52](https://www.bilibili.com/video/av260156898?t=52)|YAO｜开发应用引擎| |
-|[01:20](https://www.bilibili.com/video/av260156898?t=80)|JSON Crack｜JSON 可视化工具| |
-|[01:42](https://www.bilibili.com/video/av260156898?t=102)|Motionity｜动效编辑器| |
-|[02:02](https://www.bilibili.com/video/av260156898?t=122)|mvSQLite｜分布式 SQLite| |
-|[02:37](https://www.bilibili.com/video/av260156898?t=157)|Heroku 即将停止免费额度| |
-|[03:01](https://www.bilibili.com/video/av260156898?t=181)|GitHub 开发者关系副总裁回复移除 Trending| |
+|[00:09](https://www.bilibili.com/video/av260156898?t=9)|Devbox｜快速启动隔离开发环境|https://github.com/jetpack-io/devbox|
+|[00:38](https://www.bilibili.com/video/av260156898?t=38)|绘图语言 D2|https://d2-lang.com/tour/intro|
+|[00:52](https://www.bilibili.com/video/av260156898?t=52)|YAO｜开发应用引擎|https://yaoapps.com/|
+|[01:20](https://www.bilibili.com/video/av260156898?t=80)|JSON Crack｜JSON 可视化工具|https://jsoncrack.com/|
+|[01:42](https://www.bilibili.com/video/av260156898?t=102)|Motionity｜动效编辑器|https://github.com/alyssaxuu/motionity|
+|[02:02](https://www.bilibili.com/video/av260156898?t=122)|mvSQLite｜分布式 SQLite|https://univalence.me/posts/mvsqlite|
+|[02:37](https://www.bilibili.com/video/av260156898?t=157)|Heroku 即将停止免费额度|https://dev.to/lorenzojkrl/bye-bye-heroku-2npi|
+|[03:01](https://www.bilibili.com/video/av260156898?t=181)|GitHub 开发者关系副总裁回复移除 Trending|https://github.com/community/community/discussions/31644|
 
 ## [视频链接](https://www.bilibili.com/video/av217441979)
 
@@ -138,6 +138,12 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av471440344?t=9)|Blueboat｜多功能 serverless JS 运行时|https://blueboat.io/|
+|[00:32](https://www.bilibili.com/video/av471440344?t=32)|languageTool ｜Grammarly 开源替代品|https://languagetool.org/dev|
+|[01:08](https://www.bilibili.com/video/av471440344?t=68)|Publii｜桌面端的 CMS 工具|https://github.com/GetPublii/Publii|
+|[01:44](https://www.bilibili.com/video/av471440344?t=104)|Virtink｜ K8s 轻量级虚拟化插件|https://github.com/smartxworks/virtink|
+|[02:25](https://www.bilibili.com/video/av471440344?t=145)|Skeleton｜ 全功能 Svelte UI 组件库|https://skeleton.brainandbonesllc.com/|
+|[02:50](https://www.bilibili.com/video/av471440344?t=170)|K8s 提出了 Gateway 网关 API|https://www.armosec.io/blog/kubernetes-gateway-api|
 
 ## [视频链接](https://www.bilibili.com/video/av856201719)
 
@@ -187,19 +193,26 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
-|[01:01](https://www.bilibili.com/video/av427756499?t=61)|Viddy｜现代的 watch 替代品|https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/|
-|[01:21](https://www.bilibili.com/video/av427756499?t=81)|Elastic UI｜Elastic 开源的前端 UI 组件库|https://markwhen.com/|
-|[01:49](https://www.bilibili.com/video/av427756499?t=109)|Avo｜构建在 Ruby on Rails 方案之上的应用开发框架|https://github.com/sachaos/viddy|
-|[02:23](https://www.bilibili.com/video/av427756499?t=143)|Unclutter｜整理网页的浏览器插件|https://elastic.github.io/eui/#/|
-|[02:43](https://www.bilibili.com/video/av427756499?t=163)|SQLite 发布 SQLite4 设计|https://avohq.io/|
-|[03:04](https://www.bilibili.com/video/av427756499?t=184)|Deno 完成 A 轮融资|https://unclutter.lindylearn.io/|
-| | |https://sqlite.org/src4/doc/trunk/www/design.wiki|
-| | |https://deno.com/blog/series-a|
+|[00:09](https://www.bilibili.com/video/av427756499?t=9)|Github AI 代码助手 Copilot 正式发布|https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/|
+|[00:46](https://www.bilibili.com/video/av427756499?t=46)|Markwhen｜绘制时间轴的工具|https://markwhen.com/|
+|[01:01](https://www.bilibili.com/video/av427756499?t=61)|Viddy｜现代的 watch 替代品|https://github.com/sachaos/viddy|
+|[01:21](https://www.bilibili.com/video/av427756499?t=81)|Elastic UI｜Elastic 开源的前端 UI 组件库|https://elastic.github.io/eui/#/|
+|[01:49](https://www.bilibili.com/video/av427756499?t=109)|Avo｜构建在 Ruby on Rails 方案之上的应用开发框架|https://avohq.io/|
+|[02:23](https://www.bilibili.com/video/av427756499?t=143)|Unclutter｜整理网页的浏览器插件|https://unclutter.lindylearn.io/|
+|[02:43](https://www.bilibili.com/video/av427756499?t=163)|SQLite 发布 SQLite4 设计|https://sqlite.org/src4/doc/trunk/www/design.wiki|
+|[03:04](https://www.bilibili.com/video/av427756499?t=184)|Deno 完成 A 轮融资|https://deno.com/blog/series-a|
 
 ## [视频链接](https://www.bilibili.com/video/av257594368)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av257594368?t=9)|FRESH｜Deno 原生 SSR Web 框架|https://fresh.deno.dev/|
+|[00:34](https://www.bilibili.com/video/av257594368?t=34)|Vitest｜基于 vite 的单元测试框架|https://cn.vitest.dev/|
+|[00:55](https://www.bilibili.com/video/av257594368?t=55)|Rulex｜新的正则表达式语言|https://pomsky-lang.org/|
+|[01:14](https://www.bilibili.com/video/av257594368?t=74)|Recut｜视频剪辑工具|https://getrecut.com/|
+|[01:31](https://www.bilibili.com/video/av257594368?t=91)|moon｜构建工具|https://moonrepo.dev/|
+|[01:46](https://www.bilibili.com/video/av257594368?t=106)|一个寻找项目灵感的网站|https://mysideproject.rocks/|
+|[02:01](https://www.bilibili.com/video/av257594368?t=121)|程序员社交新尝试|https://connectdome.com/|
 
 ## [视频链接](https://www.bilibili.com/video/av727379202)
 
@@ -291,105 +304,105 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
-|[00:08](https://www.bilibili.com/video/av595895504?t=8)|一个有用网站的合集| |
-|[00:24](https://www.bilibili.com/video/av595895504?t=24)|一个开源的 web 文本编辑器| |
-|[00:44](https://www.bilibili.com/video/av595895504?t=44)|一个开源的分布式数据库| |
-|[01:11](https://www.bilibili.com/video/av595895504?t=71)|OpenRefine｜开源数据清洗工具| |
-|[01:31](https://www.bilibili.com/video/av595895504?t=91)|Node.js 发布18版本| |
-|[01:47](https://www.bilibili.com/video/av595895504?t=107)|GO 发表介绍泛型的文章| |
-|[02:03](https://www.bilibili.com/video/av595895504?t=123)|一个单手键盘| |
+|[00:08](https://www.bilibili.com/video/av595895504?t=8)|一个有用网站的合集|https://www.insanelyusefulwebsites.com/|
+|[00:24](https://www.bilibili.com/video/av595895504?t=24)|一个开源的 web 文本编辑器|https://lexical.dev/|
+|[00:44](https://www.bilibili.com/video/av595895504?t=44)|一个开源的分布式数据库|https://ydb.tech/|
+|[01:11](https://www.bilibili.com/video/av595895504?t=71)|OpenRefine｜开源数据清洗工具|https://openrefine.org/|
+|[01:31](https://www.bilibili.com/video/av595895504?t=91)|Node.js 发布18版本|https://nodejs.org/en/|
+|[01:47](https://www.bilibili.com/video/av595895504?t=107)|GO 发表介绍泛型的文章|https://go.dev/blog/when-generics|
+|[02:03](https://www.bilibili.com/video/av595895504?t=123)|一个单手键盘|https://tipykeyboard.com/en/home/|
 
 ## [视频链接](https://www.bilibili.com/video/av553253895)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
-|[00:09](https://www.bilibili.com/video/av553253895?t=9)|现代 CLI 大全| |
-|[00:35](https://www.bilibili.com/video/av553253895?t=35)|bore｜基于 Rust 的隧道工具| |
-|[00:53](https://www.bilibili.com/video/av553253895?t=53)|WeekToDo｜本地计划管理工具| |
-|[01:09](https://www.bilibili.com/video/av553253895?t=69)|Zas｜专注于 GO 和 Rust 的编辑器| |
-|[01:24](https://www.bilibili.com/video/av553253895?t=84)|Pinry｜Pinterest 的开源替代品| |
-|[01:45](https://www.bilibili.com/video/av553253895?t=105)|｜Deno 推出 FaaS 服务| |
-|[02:13](https://www.bilibili.com/video/av553253895?t=133)|EIGHT COLORS ｜一个小游戏| |
+|[00:09](https://www.bilibili.com/video/av553253895?t=9)|现代 CLI 大全|https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/|
+|[00:35](https://www.bilibili.com/video/av553253895?t=35)|bore｜基于 Rust 的隧道工具|https://github.com/ekzhang/bore|
+|[00:53](https://www.bilibili.com/video/av553253895?t=53)|WeekToDo｜本地计划管理工具|https://weektodo.me/|
+|[01:09](https://www.bilibili.com/video/av553253895?t=69)|Zas｜专注于 GO 和 Rust 的编辑器|https://www.zeditor.app/|
+|[01:24](https://www.bilibili.com/video/av553253895?t=84)|Pinry｜Pinterest 的开源替代品|https://docs.getpinry.com/|
+|[01:45](https://www.bilibili.com/video/av553253895?t=105)|｜Deno 推出 FaaS 服务|https://deno.com/blog/a-whole-website-in-a-single-js-file|
+|[02:13](https://www.bilibili.com/video/av553253895?t=133)|EIGHT COLORS ｜一个小游戏|https://eightcolors.net/|
 
 ## [视频链接](https://www.bilibili.com/video/av553093356)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
-|[00:11](https://www.bilibili.com/video/av553093356?t=11)|Coolify ｜自部署 PaaS| |
-|[00:29](https://www.bilibili.com/video/av553093356?t=29)|warp｜现代化终端| |
-|[00:48](https://www.bilibili.com/video/av553093356?t=48)|redo｜开源命令行工具| |
-|[00:59](https://www.bilibili.com/video/av553093356?t=59)|MetricFlow｜数据仓库管理工具| |
-|[01:15](https://www.bilibili.com/video/av553093356?t=75)|Ruby 增加 WASM 支持| |
-|[01:41](https://www.bilibili.com/video/av553093356?t=101)|Rome 发布 Rome Formatter｜对标 Prettier| |
-|[02:04](https://www.bilibili.com/video/av553093356?t=124)|一篇博客｜TypeScript 编译器工作原理| |
-|[02:18](https://www.bilibili.com/video/av553093356?t=138)|一篇博客｜ 一些易被忽略的 HTML 属性| |
+|[00:11](https://www.bilibili.com/video/av553093356?t=11)|Coolify｜自部署 PaaS|https://coolify.io/|
+|[00:29](https://www.bilibili.com/video/av553093356?t=29)|warp｜现代化终端|https://www.warp.dev/|
+|[00:48](https://www.bilibili.com/video/av553093356?t=48)|redo｜开源命令行工具|https://github.com/barthr/redo|
+|[00:59](https://www.bilibili.com/video/av553093356?t=59)|MetricFlow｜数据仓库管理工具|https://transform.co/metricflow/|
+|[01:15](https://www.bilibili.com/video/av553093356?t=75)|Ruby 增加 WASM 支持|https://www.ruby-lang.org/en/news/2022/04/03/ruby-3-2-0-preview1-released|
+|[01:41](https://www.bilibili.com/video/av553093356?t=101)|Rome 发布 Rome Formatter｜对标 Prettier|https://rome.tools/blog/2022/04/05/rome-formatter-release|
+|[02:04](https://www.bilibili.com/video/av553093356?t=124)|一篇博客｜TypeScript 编译器工作原理|https://www.huy.rocks/everyday/04-01-2022-typescript-how-the-compiler-compiles|
+|[02:18](https://www.bilibili.com/video/av553093356?t=138)|一篇博客｜一些易被忽略的 HTML 属性|https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use|
 
 ## [视频链接](https://www.bilibili.com/video/av297873494)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
-|[00:09](https://www.bilibili.com/video/av297873494?t=9)|GitHub issues 打印机| |
-|[00:29](https://www.bilibili.com/video/av297873494?t=29)|Oh heck｜一个智能终端指令输入工具| |
-|[00:52](https://www.bilibili.com/video/av297873494?t=52)|dagger｜一个现代化的 CI/CD 工具包| |
-|[01:11](https://www.bilibili.com/video/av297873494?t=71)|React 发布18.0版本| |
-|[01:22](https://www.bilibili.com/video/av297873494?t=82)|Chrome Experiments 的银河系实验| |
-|[01:40](https://www.bilibili.com/video/av297873494?t=100)|arpchat｜用 ARP 协议实现的在线聊天工具| |
-|[02:03](https://www.bilibili.com/video/av297873494?t=123)|Calenday｜ 一个多人共享日历| |
-|[02:21](https://www.bilibili.com/video/av297873494?t=141)|WebAssembly 运行 Python| |
-|[02:49](https://www.bilibili.com/video/av297873494?t=169)|Blog Search｜技术类搜索引擎| |
+|[00:09](https://www.bilibili.com/video/av297873494?t=9)|GitHub issues 打印机|https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues|
+|[00:29](https://www.bilibili.com/video/av297873494?t=29)|Oh heck｜一个智能终端指令输入工具|https://oh-heck.dev/|
+|[00:52](https://www.bilibili.com/video/av297873494?t=52)|dagger｜一个现代化的 CI/CD 工具包|https://dagger.io/<br>https://dagger.io/blog/public-launch-announcement|
+|[01:11](https://www.bilibili.com/video/av297873494?t=71)|React 发布18.0版本|https://reactjs.org/blog/2022/03/29/react-v18.html|
+|[01:22](https://www.bilibili.com/video/av297873494?t=82)|Chrome Experiments 的银河系实验|https://stars.chromeexperiments.com/|
+|[01:40](https://www.bilibili.com/video/av297873494?t=100)|arpchat｜用 ARP 协议实现的在线聊天工具|https://github.com/kognise/arpchat|
+|[02:03](https://www.bilibili.com/video/av297873494?t=123)|Calenday｜ 一个多人共享日历|https://calenday.co/|
+|[02:21](https://www.bilibili.com/video/av297873494?t=141)|WebAssembly 运行 Python|https://2022.pycon.de/program/SBCNDY|
+|[02:49](https://www.bilibili.com/video/av297873494?t=169)|Blog Search｜技术类搜索引擎|https://blogsurf.io/|
 
 ## [视频链接](https://www.bilibili.com/video/av725137289)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
-|[00:08](https://www.bilibili.com/video/av725137289?t=8)|appwrite｜为 web、mobile 和 flutter 开发者提供的开源后端服务| |
-|[00:37](https://www.bilibili.com/video/av725137289?t=37)|Bionic Reading｜一个用高亮标注的阅读工具| |
-|[01:04](https://www.bilibili.com/video/av725137289?t=64)|diagrams.net ｜老牌绘图工具更新功能| |
-|[01:19](https://www.bilibili.com/video/av725137289?t=79)|Smort｜一个可编辑其它网站文章的工具| |
-|[01:49](https://www.bilibili.com/video/av725137289?t=109)|fzf｜命令行中通用的模糊查询工具| |
-|[01:57](https://www.bilibili.com/video/av725137289?t=117)|一个 node.js 的 Postgres 数据库客户端| |
-|[02:07](https://www.bilibili.com/video/av725137289?t=127)|mdn 推出 plus 订阅计划｜Mozilla 商业化新尝试| |
-|[02:45](https://www.bilibili.com/video/av725137289?t=165)|一篇题为 《Data Mesh 架构》的文章| |
+|[00:08](https://www.bilibili.com/video/av725137289?t=8)|appwrite｜为 web、mobile 和 flutter 开发者提供的开源后端服务|https://github.com/appwrite/appwrite|
+|[00:37](https://www.bilibili.com/video/av725137289?t=37)|Bionic Reading｜一个用高亮标注的阅读工具|https://bionic-reading.com/|
+|[01:04](https://www.bilibili.com/video/av725137289?t=64)|diagrams.net ｜老牌绘图工具更新功能|https://www.diagrams.net/|
+|[01:19](https://www.bilibili.com/video/av725137289?t=79)|Smort｜一个可编辑其它网站文章的工具|https://www.smort.io/|
+|[01:49](https://www.bilibili.com/video/av725137289?t=109)|fzf｜命令行中通用的模糊查询工具|https://github.com/junegunn/fzf|
+|[01:57](https://www.bilibili.com/video/av725137289?t=117)|一个 node.js 的 Postgres 数据库客户端|https://www.tangramvision.com/blog/hands-on-with-postgresql-authorization-part-2-row-level-security|
+|[02:07](https://www.bilibili.com/video/av725137289?t=127)|mdn 推出 plus 订阅计划｜Mozilla 商业化新尝试|https://hacks.mozilla.org/2022/03/introducing-mdn-plus-make-mdn-your-own/|
+|[02:45](https://www.bilibili.com/video/av725137289?t=165)|一篇题为 《Data Mesh 架构》的文章|https://www.datamesh-architecture.com/|
 
 ## [视频链接](https://www.bilibili.com/video/av682476244)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
-|[00:08](https://www.bilibili.com/video/av682476244?t=8)|文献管理工具 Zotero 发布 6.0 版本| |
-|[00:25](https://www.bilibili.com/video/av682476244?t=25)|Plasticity ｜ 用 web 开发的3D 艺术建模开源软件| |
-|[00:55](https://www.bilibili.com/video/av682476244?t=55)|Lapce ｜基于原生 GUI 和 Rust 编写的开源代码编辑器| |
-|[01:17](https://www.bilibili.com/video/av682476244?t=77)|Awesome TUIs｜ 收集提供终端用户界面项目清单| |
-|[01:36](https://www.bilibili.com/video/av682476244?t=96)|K9s ｜一个终端中 UI 强大的 K8s 客户端| |
-|[01:43](https://www.bilibili.com/video/av682476244?t=103)|Tiny renderer｜500 行代码学习 openGL｜附演示教程| |
-|[02:00](https://www.bilibili.com/video/av682476244?t=120)|GO 发布1.18版本支持泛型| |
-|[02:14](https://www.bilibili.com/video/av682476244?t=134)|CSS-Tricks 网站被 DigitalOcean 收购| |
-|[02:35](https://www.bilibili.com/video/av682476244?t=155)|Veloren ｜一个基于 Rust 开发的开源多人 RPG 游戏| |
+|[00:08](https://www.bilibili.com/video/av682476244?t=8)|文献管理工具 Zotero 发布 6.0 版本|https://www.zotero.org/blog/zotero-6/|
+|[00:25](https://www.bilibili.com/video/av682476244?t=25)|Plasticity ｜ 用 web 开发的3D 艺术建模开源软件|https://github.com/nkallen/plasticity|
+|[00:55](https://www.bilibili.com/video/av682476244?t=55)|Lapce ｜基于原生 GUI 和 Rust 编写的开源代码编辑器|https://lapce.dev/|
+|[01:17](https://www.bilibili.com/video/av682476244?t=77)|Awesome TUIs｜ 收集提供终端用户界面项目清单|https://github.com/rothgar/awesome-tuis|
+|[01:36](https://www.bilibili.com/video/av682476244?t=96)|K9s ｜一个终端中 UI 强大的 K8s 客户端|https://github.com/derailed/k9s|
+|[01:43](https://www.bilibili.com/video/av682476244?t=103)|Tiny renderer｜500 行代码学习 openGL｜附演示教程|https://jvns.ca/blog/2022/03/13/celebrate-tiny-learning-milestones/|
+|[02:00](https://www.bilibili.com/video/av682476244?t=120)|GO 发布1.18版本支持泛型|https://golang.google.cn/|
+|[02:14](https://www.bilibili.com/video/av682476244?t=134)|CSS-Tricks 网站被 DigitalOcean 收购|https://css-tricks.com/css-tricks-is-joining-digitalocean/|
+|[02:35](https://www.bilibili.com/video/av682476244?t=155)|Veloren ｜一个基于 Rust 开发的开源多人 RPG 游戏|https://www.youtube.com/watch?v=hCC1C5KIeUA|
 
 ## [视频链接](https://www.bilibili.com/video/av724739860)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
-|[00:08](https://www.bilibili.com/video/av724739860?t=8)|关于 TypeScript 的两条新闻| |
-|[00:21](https://www.bilibili.com/video/av724739860?t=21)|TypeScript 向 JS 提议增加类型系统| |
-|[00:40](https://www.bilibili.com/video/av724739860?t=40)|Stripe 将 JS 代码库从 Flow 迁移到 TypeScript| |
-|[01:17](https://www.bilibili.com/video/av724739860?t=77)|Godot ｜一个开源游戏引擎| |
-|[01:41](https://www.bilibili.com/video/av724739860?t=101)|苹果将发售 Mac Studio｜M1 芯片成为新杀手锏| |
-|[01:58](https://www.bilibili.com/video/av724739860?t=118)|关于数据库索引工作原理的解答| |
-|[02:24](https://www.bilibili.com/video/av724739860?t=144)|dasel ｜单一工具完成 JSON、TOML 等文件的读取和修改| |
-|[02:45](https://www.bilibili.com/video/av724739860?t=165)|“请停止使用 :latest 标签”｜一篇关于版本安全的文章| |
+|[00:08](https://www.bilibili.com/video/av724739860?t=8)|关于 TypeScript 的两条新闻||
+|[00:21](https://www.bilibili.com/video/av724739860?t=21)|TypeScript 向 JS 提议增加类型系统||
+|[00:40](https://www.bilibili.com/video/av724739860?t=40)|Stripe 将 JS 代码库从 Flow 迁移到 TypeScript||
+|[01:17](https://www.bilibili.com/video/av724739860?t=77)|Godot ｜一个开源游戏引擎|https://godotengine.org/|
+|[01:41](https://www.bilibili.com/video/av724739860?t=101)|苹果将发售 Mac Studio｜M1 芯片成为新杀手锏|https://www.apple.com/mac-studio/|
+|[01:58](https://www.bilibili.com/video/av724739860?t=118)|关于数据库索引工作原理的解答|https://stackoverflow.com/questions/1108/how-does-database-indexing-work|
+|[02:24](https://www.bilibili.com/video/av724739860?t=144)|dasel ｜单一工具完成 JSON、TOML 等文件的读取和修改|https://github.com/TomWright/dasel|
+|[02:45](https://www.bilibili.com/video/av724739860?t=165)|“请停止使用 :latest 标签”｜一篇关于版本安全的文章|https://platformers.dev/log/2022/latest-literally-kills-puppies/|
 
 ## [视频链接](https://www.bilibili.com/video/av809507046)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
-|[00:08](https://www.bilibili.com/video/av809507046?t=8)|Mozilla 的 MDN 文档全新上线| |
-|[00:41](https://www.bilibili.com/video/av809507046?t=41)|Mozilla 的3D虚拟空间产品| |
-|[01:01](https://www.bilibili.com/video/av809507046?t=61)|HOPPSCOTCH ｜一个开源网络请求发送工具| |
-|[01:19](https://www.bilibili.com/video/av809507046?t=79)|Streamlit ｜一个使用 Python 直接开发 web UI 的工具| |
-|[01:42](https://www.bilibili.com/video/av809507046?t=102)|Textframe ｜一个动画产品教程创建工具| |
-|[01:59](https://www.bilibili.com/video/av809507046?t=119)|SaaS 产品开源替代品大全| |
-|[02:30](https://www.bilibili.com/video/av809507046?t=150)|迷你掌上游戏机 playdate 开源了 SDK| |
-|[02:52](https://www.bilibili.com/video/av809507046?t=172)|轻松一刻时间｜小游戏| |
+|[00:08](https://www.bilibili.com/video/av809507046?t=8)|Mozilla 的 MDN 文档全新上线|https://developer.mozilla.org/zh-CN/|
+|[00:41](https://www.bilibili.com/video/av809507046?t=41)|Mozilla 的3D虚拟空间产品|https://hubs.mozilla.com/|
+|[01:01](https://www.bilibili.com/video/av809507046?t=61)|HOPPSCOTCH ｜一个开源网络请求发送工具|https://hoppscotch.io/|
+|[01:19](https://www.bilibili.com/video/av809507046?t=79)|Streamlit ｜一个使用 Python 直接开发 web UI 的工具|https://streamlit.io/|
+|[01:42](https://www.bilibili.com/video/av809507046?t=102)|Textframe ｜一个动画产品教程创建工具|https://textframe.app/|
+|[01:59](https://www.bilibili.com/video/av809507046?t=119)|SaaS 产品开源替代品大全|https://github.com/RunaCapital/awesome-oss-alternatives|
+|[02:30](https://www.bilibili.com/video/av809507046?t=150)|迷你掌上游戏机 playdate 开源了 SDK|https://play.date/dev/|
+|[02:52](https://www.bilibili.com/video/av809507046?t=172)|轻松一刻时间｜小游戏|https://www.lessmilk.com/almost-pong/|
 
 ## [视频链接](https://www.bilibili.com/video/av809272615)
 
