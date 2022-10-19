@@ -1837,15 +1837,69 @@
         "Supernotes｜笔记软件",
         "Sioyek｜论文专用 PDF 阅读器"
       ],
-      "links": []
+      "links": [
+        "",
+        "https://www.djangoproject.com/",
+        "https://postgrest.org/en/stable/",
+        "https://nhost.io/",
+        "https://www.airtable.com/",
+        "https://github.com/automerge/automerge",
+        "https://supernotes.app/",
+        "https://github.com/ahrm/sioyek"
+      ]
     }
   },
   {
     "aid": 894239914,
     "hn_items": {
-      "times": [],
-      "introduces": [],
-      "links": []
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 33
+        },
+        {
+          "minutes": 0,
+          "seconds": 52
+        },
+        {
+          "minutes": 1,
+          "seconds": 14
+        },
+        {
+          "minutes": 1,
+          "seconds": 50
+        },
+        {
+          "minutes": 2,
+          "seconds": 9
+        },
+        {
+          "minutes": 2,
+          "seconds": 31
+        }
+      ],
+      "introduces": [
+        "Mermaid | GitHub 的 Markdown 新功能",
+        "Arduboy | 8位迷你游戏机",
+        "Glitch | 一个 PaaS 平台",
+        "allotropia | 基于 WASM 在浏览器中运行 LibreOffice",
+        "Honeypot 制作的 K8s 纪录片",
+        "Hue.tools | 颜色处理工具",
+        "shortwave | 邮件工具"
+      ],
+      "links": [
+        "https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/",
+        "https://www.arduboy.com/",
+        "https://glitch.com/",
+        "https://www.allotropia.de/",
+        "https://www.youtube.com/watch?v=BE77h7dmoQU",
+        "https://hue.tools/",
+        "https://www.shortwave.com/blog/introducing-shortwave/"
+      ]
     }
   },
   {
@@ -1905,23 +1959,130 @@
         "《Top web hacking techniques of 2021》｜文章",
         "SHA256 算法可视化演示"
       ],
-      "links": []
+      "links": [
+        "https://www.files.gallery/",
+        "https://tally.so/",
+        "https://www.datawrapper.de/",
+        "https://www.onemodel.app/",
+        "https://blog.postman.com/postman-now-supports-grpc/",
+        "https://laravel-news.com/laravel-9-released",
+        "https://github.com/soheilpro/mailwind",
+        "https://blog.polyglot.network/backend.sql-+-frontend.js-love",
+        "",
+        "https://sha256algorithm.com/"
+      ]
     }
   },
   {
     "aid": 851363567,
     "hn_items": {
-      "times": [],
-      "introduces": [],
-      "links": []
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 8
+        },
+        {
+          "minutes": 0,
+          "seconds": 40
+        },
+        {
+          "minutes": 1,
+          "seconds": 3
+        },
+        {
+          "minutes": 1,
+          "seconds": 23
+        },
+        {
+          "minutes": 1,
+          "seconds": 45
+        } 
+      ],
+      "introduces": [
+        "Hibiki HTML -新的前端框架-没有脚手架，没有Webpack",
+        "Systemd by Example",
+        "Malloy – A Better SQL, from Looker",
+        "Rich Cli 由Python编写，可打印各种格式丰富的内容",
+        "《我是如何在AWS上发现数千个开放数据库的》"
+      ],
+      "links": [
+        "https://playground.hibikihtml.com/tutorial/",
+        "https://systemd-by-example.com/",
+        "https://github.com/looker-open-source/malloy",
+        "https://github.com/Textualize/rich-cli",
+        "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32"
+      ]
     }
   },
   {
     "aid": 808652802,
     "hn_items": {
-      "times": [],
-      "introduces": [],
-      "links": []
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 7
+        },
+        {
+          "minutes": 0,
+          "seconds": 31
+        },
+        {
+          "minutes": 0,
+          "seconds": 46
+        },
+        {
+          "minutes": 0,
+          "seconds": 59
+        },
+        {
+          "minutes": 1,
+          "seconds": 25
+        },
+        {
+          "minutes": 2,
+          "seconds": 3
+        },
+        {
+          "minutes": 2,
+          "seconds": 27
+        },
+        {
+          "minutes":2,
+          "seconds": 47
+        },
+        {
+          "minutes": 3,
+          "seconds": 19
+        },
+        {
+          "minutes": 3,
+          "seconds": 44
+        }
+      ],
+      "introduces": [
+        "Charm 用来开发命令行工具的框架",
+        "Nova 一个专门给Mac设计的代码编辑器",
+        "rnote 创建手绘风格的笔记软件",
+        "github action 使用示例",
+        "playwright web自动化框架",
+        "prql rust编写的现代化查询语言",
+        "Deskreen 屏幕共享工具",
+        "《为什么我们团队取消了微服务的计划》",
+        "《将SQLite存储在Cloudflare耐用对象中》",
+        "《Kubernetes如此复杂有两个原因》"
+      ],
+      "links": [
+        "https://charm.sh/",
+        "https://nova.app/",
+        "https://github.com/flxzt/rnote",
+        "https://www.actionsbyexample.com/",
+        "https://github.com/microsoft/playwright",
+        "https://github.com/prql/prql",
+        "https://deskreen.com/lang-zh_CN",
+        "https://steven-lemon182.medium.com/why-our-team-cancelled-our-move-to-microservices-8fd87898d952",
+        "https://ma.rkusa.st/store-sqlite-in-cloudflare-durable-objects",
+        "https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/"
+      ]
     }
   },
   {
@@ -1986,7 +2147,19 @@
         "curl ｜ 最近支持了 JSON",
         "轻松一刻｜弹珠撞击木块游戏"
       ],
-      "links": []
+      "links": [
+        "https://github.com/faker-js/faker",
+        "https://news.microsoft.com/2022/01/18/microsoft-to-acquire-activision-blizzard-to-bring-the-joy-and-community-of-gaming-to-everyone-across-every-device/",
+        "https://github.com/wonderworks-software/PyFlow",
+        "https://css-speedrun.netlify.app/",
+        "https://ciechanow.ski/gps/",
+        "https://lichess.org/",
+        "https://isgoogleanalyticsillegal.com/",
+        "https://www.amazon.science/latest-news/amazons-dynamodb-10-years-later",
+        "https://gchq.github.io/CyberChef/",
+        "https://curl.se/",
+        "https://wallsmash.com/"
+      ]
     }
   },
   {
@@ -2037,11 +2210,27 @@
         "Learn and Test DMARC 一个可视化工具",
         "BookStack 一个开源 wiki 工具",
         "Poly Haven 如何花不到400美金处理80TB数据和500万次页面访问的",
-        "Kogi 一个新型高级付费搜索引擎",
+        "Kagi 一个新型高级付费搜索引擎",
         "介绍两个 Cli 工具: dsq 和 fx",
         "轻松一刻时间｜介绍一个打发时间的小游戏"
       ],
-      "links": []
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/",
+        "https://browsix.org/",
+        [
+          "https://dagshub.com/blog/github-copilot-not-code/",
+          "https://github.com/features/copilot"
+        ],
+        "https://www.learndmarc.com/",
+        "https://www.bookstackapp.com/",
+        "https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/",
+        "https://kagi.com/",
+        [
+          "https://datastation.multiprocess.io/blog/2022-01-11-dsq.html",
+          "https://github.com/antonmedv/fx"
+        ],
+        "https://looptap.vasanthv.com/"
+      ]
     }
   },
   {
@@ -2111,23 +2300,192 @@
         "利用浏览器 web GL 实现的东京地铁实时可视化地图",
         "SpaceX Dragon 2 与国际空间站对接的模拟机"
       ],
-      "links": []
+      "links": [
+        "https://www.scanofthemonth.com/scans/game-boy-compendium",
+        "https://www.howtogeek.com/devops/how-to-run-your-own-dns-server-on-your-local-network/",
+        "https://www.zotero.org/",
+        "https://www.darlinghq.org/",
+        "https://coqui.ai/",
+        "https://github.com/seemoo-lab/opendrop",
+        "https://safing.io/",
+        "https://paperswelove.org/",
+        "https://www.duskborn.com/posts/2021-aoc-zig/",
+        "https://www.raycast.com/blog/no-code-reviews-by-default",
+        "",
+        "https://iss-sim.spacex.com/"
+      ]
     }
   },
   {
     "aid": 722854302,
     "hn_items": {
-      "times": [],
-      "introduces": [],
-      "links": []
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 8
+        },
+        {
+          "minutes": 0,
+          "seconds": 25
+        },
+        {
+          "minutes": 0,
+          "seconds": 49
+        },
+        {
+          "minutes": 1,
+          "seconds": 21
+        },
+        {
+          "minutes": 1,
+          "seconds": 38
+        },
+        {
+          "minutes": 1,
+          "seconds": 59
+        },
+        {
+          "minutes": 2,
+          "seconds": 26
+        },
+        {
+          "minutes": 2,
+          "seconds": 44
+        },
+        {
+          "minutes": 3,
+          "seconds": 1
+        },
+        {
+          "minutes": 3,
+          "seconds": 11
+        },
+        {
+          "minutes": 3,
+          "seconds": 37
+        },
+        {
+          "minutes": 4,
+          "seconds": 7
+        }
+      ],
+      "introduces": [
+        "波斯王子 一款为Mac开发的游戏",
+        "《一个HTML文件中的整个网站》",
+        "街头霸王2",
+        "emfy Emacs编辑器的配置项目",
+        "HTTP Toolkit",
+        "Exa - ls的现代替代品",
+        "Marktext -优雅的Markdown编辑器，适用于Linux, macOS, Windows",
+        "Tokio rust编写的开源异步库",
+        "Ruby 3.1",
+        "Python CheatSheet python 问题查询手册",
+        "《2021年的数据库:回顾的一年》",
+        "Miller -用于查询、塑造、重新格式化CSV、TSV和JSON中的数据的工具"
+      ],
+      "links": [
+        "",
+        "https://css-tricks.com/a-whole-website-in-a-single-html-file/",
+        "",
+        "https://github.com/susam/emfy",
+        "https://httptoolkit.tech/",
+        "https://the.exa.website/",
+        "https://github.com/marktext/marktext",
+        "https://tokio.rs/blog/2021-12-announcing-tokio-console",
+        "https://www.ruby-lang.org/en/news/2021/12/25/ruby-3-1-0-released/",
+        "https://gto76.github.io/python-cheatsheet/",
+        "https://ottertune.com/blog/2021-databases-retrospective/",
+        "https://miller.readthedocs.io/en/latest/"
+      ]
     }
   },
   {
     "aid": 465206549,
     "hn_items": {
-      "times": [],
-      "introduces": [],
-      "links": []
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 31
+        },
+        {
+          "minutes": 0,
+          "seconds": 45
+        },
+        {
+          "minutes": 1,
+          "seconds": 13
+        },
+        {
+          "minutes": 1,
+          "seconds": 33
+        },
+        {
+          "minutes": 1,
+          "seconds": 50
+        },
+        {
+          "minutes": 2,
+          "seconds": 10
+        },
+        {
+          "minutes": 2,
+          "seconds": 24
+        },
+        {
+          "minutes": 2,
+          "seconds": 43
+        },
+        {
+          "minutes": 2,
+          "seconds": 55
+        },
+        {
+          "minutes": 3,
+          "seconds": 7
+        },
+        {
+          "minutes": 3,
+          "seconds": 15
+        },
+        {
+          "minutes": 3,
+          "seconds": 30
+        }
+      ],
+      "introduces": [
+        "blender3.0 图形渲染工具",
+        "uBlacklist - 阻止特定的站点出现在谷歌的搜索结果中",
+        "Apache Guacamole 无客户端的远程桌面网端",
+        "Learn X in Y minutes",
+        "《语义搜索的自然语言处理》",
+        "Jam 自部署工具",
+        "Milk Video 通过上传的视频和音频生成声波图的工具",
+        "AlterClass -一个制作和销售编程课程的平台",
+        "Code Search 搜索代码工具",
+        "Lapce ｜基于原生 GUI 和 Rust 编写的开源代码编辑器",
+        "Rough.js -创建一个手绘的，粗略的图形外观的工具",
+        "Doodle CSS 手绘风格的主题css",
+        "Paper Website 从纸上建立一个网站界面"
+      ],
+      "links": [
+        "https://www.blender.org/download/releases/3-0/",
+        "https://github.com/iorate/uBlacklist",
+        "https://guacamole.apache.org/",
+        "https://learnxinyminutes.com/",
+        "https://www.pinecone.io/learn/nlp/",
+        "https://github.com/jam-systems/jam",
+        "https://app.milkvideo.com/",
+        "https://alterclass.io/",
+        "https://github.blog/2021-12-08-improving-github-code-search/",
+        "https://github.com/lapce/lapce",
+        "https://roughjs.com/",
+        "https://chr15m.github.io/DoodleCSS/",
+        "https://daily.tinyprojects.dev/paper_website"
+      ]
     }
   }
 ]
