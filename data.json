@@ -1996,7 +1996,7 @@
         {
           "minutes": 1,
           "seconds": 45
-        } 
+        }
       ],
       "introduces": [
         "Hibiki HTML -新的前端框架-没有脚手架，没有Webpack",
@@ -2047,7 +2047,7 @@
           "seconds": 27
         },
         {
-          "minutes":2,
+          "minutes": 2,
           "seconds": 47
         },
         {

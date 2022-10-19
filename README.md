@@ -408,98 +408,145 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
-|[00:09](https://www.bilibili.com/video/av809272615?t=9)|怎样实现一个最简单的 CRUD 应用？｜本期专题问答| |
-|[00:32](https://www.bilibili.com/video/av809272615?t=32)|Django｜CRUD 最佳工具/答案1| |
-|[00:49](https://www.bilibili.com/video/av809272615?t=49)|PostgREST｜CRUD 最佳工具/答案2| |
-|[01:19](https://www.bilibili.com/video/av809272615?t=79)|nHOST｜CRUD 最佳工具/答案3| |
-|[01:45](https://www.bilibili.com/video/av809272615?t=105)|Grist｜Airtable 的开源替代| |
-|[02:06](https://www.bilibili.com/video/av809272615?t=126)|Automerge｜JS 协同算法库| |
-|[02:34](https://www.bilibili.com/video/av809272615?t=154)|Supernotes｜笔记软件| |
-|[02:45](https://www.bilibili.com/video/av809272615?t=165)|Sioyek｜论文专用 PDF 阅读器| |
+|[00:09](https://www.bilibili.com/video/av809272615?t=9)|怎样实现一个最简单的 CRUD 应用？｜本期专题问答||
+|[00:32](https://www.bilibili.com/video/av809272615?t=32)|Django｜CRUD 最佳工具/答案1|https://www.djangoproject.com/|
+|[00:49](https://www.bilibili.com/video/av809272615?t=49)|PostgREST｜CRUD 最佳工具/答案2|https://postgrest.org/en/stable/|
+|[01:19](https://www.bilibili.com/video/av809272615?t=79)|nHOST｜CRUD 最佳工具/答案3|https://nhost.io/|
+|[01:45](https://www.bilibili.com/video/av809272615?t=105)|Grist｜Airtable 的开源替代|https://www.airtable.com/|
+|[02:06](https://www.bilibili.com/video/av809272615?t=126)|Automerge｜JS 协同算法库|https://github.com/automerge/automerge|
+|[02:34](https://www.bilibili.com/video/av809272615?t=154)|Supernotes｜笔记软件|https://supernotes.app/|
+|[02:45](https://www.bilibili.com/video/av809272615?t=165)|Sioyek｜论文专用 PDF 阅读器|https://github.com/ahrm/sioyek|
 
 ## [视频链接](https://www.bilibili.com/video/av894239914)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av894239914?t=9)|Mermaid | GitHub 的 Markdown 新功能|https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/|
+|[00:33](https://www.bilibili.com/video/av894239914?t=33)|Arduboy | 8位迷你游戏机|https://www.arduboy.com/|
+|[00:52](https://www.bilibili.com/video/av894239914?t=52)|Glitch | 一个 PaaS 平台|https://glitch.com/|
+|[01:14](https://www.bilibili.com/video/av894239914?t=74)|allotropia | 基于 WASM 在浏览器中运行 LibreOffice|https://www.allotropia.de/|
+|[01:50](https://www.bilibili.com/video/av894239914?t=110)|Honeypot 制作的 K8s 纪录片|https://www.youtube.com/watch?v=BE77h7dmoQU|
+|[02:09](https://www.bilibili.com/video/av894239914?t=129)|Hue.tools | 颜色处理工具|https://hue.tools/|
+|[02:31](https://www.bilibili.com/video/av894239914?t=151)|shortwave | 邮件工具|https://www.shortwave.com/blog/introducing-shortwave/|
 
 ## [视频链接](https://www.bilibili.com/video/av211446987)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
-|[00:09](https://www.bilibili.com/video/av211446987?t=9)|Files Gallery｜应用| |
-|[00:22](https://www.bilibili.com/video/av211446987?t=22)|Tally｜工具| |
-|[00:40](https://www.bilibili.com/video/av211446987?t=40)|Datawrapper｜工具| |
-|[01:04](https://www.bilibili.com/video/av211446987?t=64)|onemodel｜工具| |
-|[01:20](https://www.bilibili.com/video/av211446987?t=80)|Postman｜工具| |
-|[01:29](https://www.bilibili.com/video/av211446987?t=89)|Laravel 9.0 发布| |
-|[01:46](https://www.bilibili.com/video/av211446987?t=106)|Mailwind｜邮件模版| |
-|[02:05](https://www.bilibili.com/video/av211446987?t=125)|《 backend.sql + frontend.js = love》｜文章| |
-|[02:25](https://www.bilibili.com/video/av211446987?t=145)|《Top web hacking techniques of 2021》｜文章| |
-|[02:41](https://www.bilibili.com/video/av211446987?t=161)|SHA256 算法可视化演示| |
+|[00:09](https://www.bilibili.com/video/av211446987?t=9)|Files Gallery｜应用|https://www.files.gallery/|
+|[00:22](https://www.bilibili.com/video/av211446987?t=22)|Tally｜工具|https://tally.so/|
+|[00:40](https://www.bilibili.com/video/av211446987?t=40)|Datawrapper｜工具|https://www.datawrapper.de/|
+|[01:04](https://www.bilibili.com/video/av211446987?t=64)|onemodel｜工具|https://www.onemodel.app/|
+|[01:20](https://www.bilibili.com/video/av211446987?t=80)|Postman｜工具|https://blog.postman.com/postman-now-supports-grpc/|
+|[01:29](https://www.bilibili.com/video/av211446987?t=89)|Laravel 9.0 发布|https://laravel-news.com/laravel-9-released|
+|[01:46](https://www.bilibili.com/video/av211446987?t=106)|Mailwind｜邮件模版|https://github.com/soheilpro/mailwind|
+|[02:05](https://www.bilibili.com/video/av211446987?t=125)|《 backend.sql + frontend.js = love》｜文章|https://blog.polyglot.network/backend.sql-+-frontend.js-love|
+|[02:25](https://www.bilibili.com/video/av211446987?t=145)|《Top web hacking techniques of 2021》｜文章||
+|[02:41](https://www.bilibili.com/video/av211446987?t=161)|SHA256 算法可视化演示|https://sha256algorithm.com/|
 
 ## [视频链接](https://www.bilibili.com/video/av851363567)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
+|[00:08](https://www.bilibili.com/video/av851363567?t=8)|Hibiki HTML -新的前端框架-没有脚手架，没有Webpack|https://playground.hibikihtml.com/tutorial/|
+|[00:40](https://www.bilibili.com/video/av851363567?t=40)|Systemd by Example|https://systemd-by-example.com/|
+|[01:03](https://www.bilibili.com/video/av851363567?t=63)|Malloy – A Better SQL, from Looker|https://github.com/looker-open-source/malloy|
+|[01:23](https://www.bilibili.com/video/av851363567?t=83)|Rich Cli 由Python编写，可打印各种格式丰富的内容|https://github.com/Textualize/rich-cli|
+|[01:45](https://www.bilibili.com/video/av851363567?t=105)|《我是如何在AWS上发现数千个开放数据库的》|https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32|
 
 ## [视频链接](https://www.bilibili.com/video/av808652802)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
+|[00:07](https://www.bilibili.com/video/av808652802?t=7)|Charm 用来开发命令行工具的框架|https://charm.sh/|
+|[00:31](https://www.bilibili.com/video/av808652802?t=31)|Nova 一个专门给Mac设计的代码编辑器|https://nova.app/|
+|[00:46](https://www.bilibili.com/video/av808652802?t=46)|rnote 创建手绘风格的笔记软件|https://github.com/flxzt/rnote|
+|[00:59](https://www.bilibili.com/video/av808652802?t=59)|github action 使用示例|https://www.actionsbyexample.com/|
+|[01:25](https://www.bilibili.com/video/av808652802?t=85)|playwright web自动化框架|https://github.com/microsoft/playwright|
+|[02:03](https://www.bilibili.com/video/av808652802?t=123)|prql rust编写的现代化查询语言|https://github.com/prql/prql|
+|[02:27](https://www.bilibili.com/video/av808652802?t=147)|Deskreen 屏幕共享工具|https://deskreen.com/lang-zh_CN|
+|[02:47](https://www.bilibili.com/video/av808652802?t=167)|《为什么我们团队取消了微服务的计划》|https://steven-lemon182.medium.com/why-our-team-cancelled-our-move-to-microservices-8fd87898d952|
+|[03:19](https://www.bilibili.com/video/av808652802?t=199)|《将SQLite存储在Cloudflare耐用对象中》|https://ma.rkusa.st/store-sqlite-in-cloudflare-durable-objects|
+|[03:44](https://www.bilibili.com/video/av808652802?t=224)|《Kubernetes如此复杂有两个原因》|https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/|
 
 ## [视频链接](https://www.bilibili.com/video/av935758161)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
-|[00:08](https://www.bilibili.com/video/av935758161?t=8)|faker.js 删库事件新进展| |
-|[00:37](https://www.bilibili.com/video/av935758161?t=37)|暴雪被收购| |
-|[01:00](https://www.bilibili.com/video/av935758161?t=60)|PyFlow｜一个可视化编程环境| |
-|[01:14](https://www.bilibili.com/video/av935758161?t=74)|CSS 选择器练习题网站| |
-|[01:27](https://www.bilibili.com/video/av935758161?t=87)|GPS 工作原理详解| |
-|[01:47](https://www.bilibili.com/video/av935758161?t=107)|Lichess ｜ 一个国际象棋服务器的支出分析| |
-|[02:25](https://www.bilibili.com/video/av935758161?t=145)|谷歌分析在欧盟合法性及其替代品| |
-|[02:53](https://www.bilibili.com/video/av935758161?t=173)|AWS DynamoDB 十年回顾| |
-|[03:18](https://www.bilibili.com/video/av935758161?t=198)|CyberChef ｜ 一个数据格式转换工具| |
-|[03:32](https://www.bilibili.com/video/av935758161?t=212)|curl ｜ 最近支持了 JSON| |
-|[03:42](https://www.bilibili.com/video/av935758161?t=222)|轻松一刻｜弹珠撞击木块游戏| |
+|[00:08](https://www.bilibili.com/video/av935758161?t=8)|faker.js 删库事件新进展|https://github.com/faker-js/faker|
+|[00:37](https://www.bilibili.com/video/av935758161?t=37)|暴雪被收购|https://news.microsoft.com/2022/01/18/microsoft-to-acquire-activision-blizzard-to-bring-the-joy-and-community-of-gaming-to-everyone-across-every-device/|
+|[01:00](https://www.bilibili.com/video/av935758161?t=60)|PyFlow｜一个可视化编程环境|https://github.com/wonderworks-software/PyFlow|
+|[01:14](https://www.bilibili.com/video/av935758161?t=74)|CSS 选择器练习题网站|https://css-speedrun.netlify.app/|
+|[01:27](https://www.bilibili.com/video/av935758161?t=87)|GPS 工作原理详解|https://ciechanow.ski/gps/|
+|[01:47](https://www.bilibili.com/video/av935758161?t=107)|Lichess ｜ 一个国际象棋服务器的支出分析|https://lichess.org/|
+|[02:25](https://www.bilibili.com/video/av935758161?t=145)|谷歌分析在欧盟合法性及其替代品|https://isgoogleanalyticsillegal.com/|
+|[02:53](https://www.bilibili.com/video/av935758161?t=173)|AWS DynamoDB 十年回顾|https://www.amazon.science/latest-news/amazons-dynamodb-10-years-later|
+|[03:18](https://www.bilibili.com/video/av935758161?t=198)|CyberChef ｜ 一个数据格式转换工具|https://gchq.github.io/CyberChef/|
+|[03:32](https://www.bilibili.com/video/av935758161?t=212)|curl ｜ 最近支持了 JSON|https://curl.se/|
+|[03:42](https://www.bilibili.com/video/av935758161?t=222)|轻松一刻｜弹珠撞击木块游戏|https://wallsmash.com/|
 
 ## [视频链接](https://www.bilibili.com/video/av935663579)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
-|[00:07](https://www.bilibili.com/video/av935663579?t=7)|开源软件被植入恶意代码| |
-|[00:38](https://www.bilibili.com/video/av935663579?t=38)|Browsix 浏览器中实现 POSIX| |
-|[01:09](https://www.bilibili.com/video/av935663579?t=69)|GitHub Copilot| |
-|[01:29](https://www.bilibili.com/video/av935663579?t=89)|Learn and Test DMARC 一个可视化工具| |
-|[01:46](https://www.bilibili.com/video/av935663579?t=106)|BookStack 一个开源 wiki 工具| |
-|[02:06](https://www.bilibili.com/video/av935663579?t=126)|Poly Haven 如何花不到400美金处理80TB数据和500万次页面访问的| |
-|[03:33](https://www.bilibili.com/video/av935663579?t=213)|Kogi 一个新型高级付费搜索引擎| |
-|[04:07](https://www.bilibili.com/video/av935663579?t=247)|介绍两个 Cli 工具: dsq 和 fx| |
-|[04:38](https://www.bilibili.com/video/av935663579?t=278)|轻松一刻时间｜介绍一个打发时间的小游戏| |
+|[00:07](https://www.bilibili.com/video/av935663579?t=7)|开源软件被植入恶意代码|https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/|
+|[00:38](https://www.bilibili.com/video/av935663579?t=38)|Browsix 浏览器中实现 POSIX|https://browsix.org/|
+|[01:09](https://www.bilibili.com/video/av935663579?t=69)|GitHub Copilot|https://dagshub.com/blog/github-copilot-not-code/<br>https://github.com/features/copilot|
+|[01:29](https://www.bilibili.com/video/av935663579?t=89)|Learn and Test DMARC 一个可视化工具|https://www.learndmarc.com/|
+|[01:46](https://www.bilibili.com/video/av935663579?t=106)|BookStack 一个开源 wiki 工具|https://www.bookstackapp.com/|
+|[02:06](https://www.bilibili.com/video/av935663579?t=126)|Poly Haven 如何花不到400美金处理80TB数据和500万次页面访问的|https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/|
+|[03:33](https://www.bilibili.com/video/av935663579?t=213)|Kagi 一个新型高级付费搜索引擎|https://kagi.com/|
+|[04:07](https://www.bilibili.com/video/av935663579?t=247)|介绍两个 Cli 工具: dsq 和 fx|https://datastation.multiprocess.io/blog/2022-01-11-dsq.html<br>https://github.com/antonmedv/fx|
+|[04:38](https://www.bilibili.com/video/av935663579?t=278)|轻松一刻时间｜介绍一个打发时间的小游戏|https://looptap.vasanthv.com/|
 
 ## [视频链接](https://www.bilibili.com/video/av850617825)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
-|[00:09](https://www.bilibili.com/video/av850617825?t=9)|任天堂掌上游戏机发展史回顾| |
-|[01:10](https://www.bilibili.com/video/av850617825?t=70)|《为什么要运行自己的 DNS 服务器？》| |
-|[01:31](https://www.bilibili.com/video/av850617825?t=91)|Zotero，一个开源的经典文献管理工具| |
-|[01:57](https://www.bilibili.com/video/av850617825?t=117)|Darling，一个帮助你在 Linux 上运行 Mac 应用程序的工具| |
-|[02:16](https://www.bilibili.com/video/av850617825?t=136)|coqui，克隆你的声音说外语| |
-|[02:35](https://www.bilibili.com/video/av850617825?t=155)|OpenDrop, 一个开源版的 AirDrop| |
-|[02:53](https://www.bilibili.com/video/av850617825?t=173)|Portmaster，一个帮助你管理电脑网络的开源软件| |
-|[03:20](https://www.bilibili.com/video/av850617825?t=200)|Papers We Love，一个专门研读学术类计算机科学论文的开源社区| |
-|[03:42](https://www.bilibili.com/video/av850617825?t=222)|关于 Zig 这个新兴编程语言的分析| |
-|[04:14](https://www.bilibili.com/video/av850617825?t=254)|Raycast 团队信奉无需 code review 的理念| |
-|[04:50](https://www.bilibili.com/video/av850617825?t=290)|利用浏览器 web GL 实现的东京地铁实时可视化地图| |
-|[05:13](https://www.bilibili.com/video/av850617825?t=313)|SpaceX Dragon 2 与国际空间站对接的模拟机| |
+|[00:09](https://www.bilibili.com/video/av850617825?t=9)|任天堂掌上游戏机发展史回顾|https://www.scanofthemonth.com/scans/game-boy-compendium|
+|[01:10](https://www.bilibili.com/video/av850617825?t=70)|《为什么要运行自己的 DNS 服务器？》|https://www.howtogeek.com/devops/how-to-run-your-own-dns-server-on-your-local-network/|
+|[01:31](https://www.bilibili.com/video/av850617825?t=91)|Zotero，一个开源的经典文献管理工具|https://www.zotero.org/|
+|[01:57](https://www.bilibili.com/video/av850617825?t=117)|Darling，一个帮助你在 Linux 上运行 Mac 应用程序的工具|https://www.darlinghq.org/|
+|[02:16](https://www.bilibili.com/video/av850617825?t=136)|coqui，克隆你的声音说外语|https://coqui.ai/|
+|[02:35](https://www.bilibili.com/video/av850617825?t=155)|OpenDrop, 一个开源版的 AirDrop|https://github.com/seemoo-lab/opendrop|
+|[02:53](https://www.bilibili.com/video/av850617825?t=173)|Portmaster，一个帮助你管理电脑网络的开源软件|https://safing.io/|
+|[03:20](https://www.bilibili.com/video/av850617825?t=200)|Papers We Love，一个专门研读学术类计算机科学论文的开源社区|https://paperswelove.org/|
+|[03:42](https://www.bilibili.com/video/av850617825?t=222)|关于 Zig 这个新兴编程语言的分析|https://www.duskborn.com/posts/2021-aoc-zig/|
+|[04:14](https://www.bilibili.com/video/av850617825?t=254)|Raycast 团队信奉无需 code review 的理念|https://www.raycast.com/blog/no-code-reviews-by-default|
+|[04:50](https://www.bilibili.com/video/av850617825?t=290)|利用浏览器 web GL 实现的东京地铁实时可视化地图||
+|[05:13](https://www.bilibili.com/video/av850617825?t=313)|SpaceX Dragon 2 与国际空间站对接的模拟机|https://iss-sim.spacex.com/|
 
 ## [视频链接](https://www.bilibili.com/video/av722854302)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
+|[00:08](https://www.bilibili.com/video/av722854302?t=8)|波斯王子 一款为Mac开发的游戏||
+|[00:25](https://www.bilibili.com/video/av722854302?t=25)|《一个HTML文件中的整个网站》|https://css-tricks.com/a-whole-website-in-a-single-html-file/|
+|[00:49](https://www.bilibili.com/video/av722854302?t=49)|街头霸王2||
+|[01:21](https://www.bilibili.com/video/av722854302?t=81)|emfy Emacs编辑器的配置项目|https://github.com/susam/emfy|
+|[01:38](https://www.bilibili.com/video/av722854302?t=98)|HTTP Toolkit|https://httptoolkit.tech/|
+|[01:59](https://www.bilibili.com/video/av722854302?t=119)|Exa - ls的现代替代品|https://the.exa.website/|
+|[02:26](https://www.bilibili.com/video/av722854302?t=146)|Marktext -优雅的Markdown编辑器，适用于Linux, macOS, Windows|https://github.com/marktext/marktext|
+|[02:44](https://www.bilibili.com/video/av722854302?t=164)|Tokio rust编写的开源异步库|https://tokio.rs/blog/2021-12-announcing-tokio-console|
+|[03:01](https://www.bilibili.com/video/av722854302?t=181)|Ruby 3.1|https://www.ruby-lang.org/en/news/2021/12/25/ruby-3-1-0-released/|
+|[03:11](https://www.bilibili.com/video/av722854302?t=191)|Python CheatSheet python 问题查询手册|https://gto76.github.io/python-cheatsheet/|
+|[03:37](https://www.bilibili.com/video/av722854302?t=217)|《2021年的数据库:回顾的一年》|https://ottertune.com/blog/2021-databases-retrospective/|
+|[04:07](https://www.bilibili.com/video/av722854302?t=247)|Miller -用于查询、塑造、重新格式化CSV、TSV和JSON中的数据的工具|https://miller.readthedocs.io/en/latest/|
 
 ## [视频链接](https://www.bilibili.com/video/av465206549)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av465206549?t=9)|blender3.0 图形渲染工具|https://www.blender.org/download/releases/3-0/|
+|[00:31](https://www.bilibili.com/video/av465206549?t=31)|uBlacklist - 阻止特定的站点出现在谷歌的搜索结果中|https://github.com/iorate/uBlacklist|
+|[00:45](https://www.bilibili.com/video/av465206549?t=45)|Apache Guacamole 无客户端的远程桌面网端|https://guacamole.apache.org/|
+|[01:13](https://www.bilibili.com/video/av465206549?t=73)|Learn X in Y minutes|https://learnxinyminutes.com/|
+|[01:33](https://www.bilibili.com/video/av465206549?t=93)|《语义搜索的自然语言处理》|https://www.pinecone.io/learn/nlp/|
+|[01:50](https://www.bilibili.com/video/av465206549?t=110)|Jam 自部署工具|https://github.com/jam-systems/jam|
+|[02:10](https://www.bilibili.com/video/av465206549?t=130)|Milk Video 通过上传的视频和音频生成声波图的工具|https://app.milkvideo.com/|
+|[02:24](https://www.bilibili.com/video/av465206549?t=144)|AlterClass -一个制作和销售编程课程的平台|https://alterclass.io/|
+|[02:43](https://www.bilibili.com/video/av465206549?t=163)|Code Search 搜索代码工具|https://github.blog/2021-12-08-improving-github-code-search/|
+|[02:55](https://www.bilibili.com/video/av465206549?t=175)|Lapce ｜基于原生 GUI 和 Rust 编写的开源代码编辑器|https://github.com/lapce/lapce|
+|[03:07](https://www.bilibili.com/video/av465206549?t=187)|Rough.js -创建一个手绘的，粗略的图形外观的工具|https://roughjs.com/|
+|[03:15](https://www.bilibili.com/video/av465206549?t=195)|Doodle CSS 手绘风格的主题css|https://chr15m.github.io/DoodleCSS/|
+|[03:30](https://www.bilibili.com/video/av465206549?t=210)|Paper Website 从纸上建立一个网站界面|https://daily.tinyprojects.dev/paper_website|
