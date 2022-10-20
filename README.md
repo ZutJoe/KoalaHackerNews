@@ -421,13 +421,13 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
-|[00:09](https://www.bilibili.com/video/av894239914?t=9)|Mermaid | GitHub 的 Markdown 新功能|https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/|
-|[00:33](https://www.bilibili.com/video/av894239914?t=33)|Arduboy | 8位迷你游戏机|https://www.arduboy.com/|
-|[00:52](https://www.bilibili.com/video/av894239914?t=52)|Glitch | 一个 PaaS 平台|https://glitch.com/|
-|[01:14](https://www.bilibili.com/video/av894239914?t=74)|allotropia | 基于 WASM 在浏览器中运行 LibreOffice|https://www.allotropia.de/|
+|[00:09](https://www.bilibili.com/video/av894239914?t=9)|Mermaid ｜ GitHub 的 Markdown 新功能|https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/|
+|[00:33](https://www.bilibili.com/video/av894239914?t=33)|Arduboy ｜ 8位迷你游戏机|https://www.arduboy.com/|
+|[00:52](https://www.bilibili.com/video/av894239914?t=52)|Glitch ｜ 一个 PaaS 平台|https://glitch.com/|
+|[01:14](https://www.bilibili.com/video/av894239914?t=74)|allotropia ｜ 基于 WASM 在浏览器中运行 LibreOffice|https://www.allotropia.de/|
 |[01:50](https://www.bilibili.com/video/av894239914?t=110)|Honeypot 制作的 K8s 纪录片|https://www.youtube.com/watch?v=BE77h7dmoQU|
-|[02:09](https://www.bilibili.com/video/av894239914?t=129)|Hue.tools | 颜色处理工具|https://hue.tools/|
-|[02:31](https://www.bilibili.com/video/av894239914?t=151)|shortwave | 邮件工具|https://www.shortwave.com/blog/introducing-shortwave/|
+|[02:09](https://www.bilibili.com/video/av894239914?t=129)|Hue.tools ｜ 颜色处理工具|https://hue.tools/|
+|[02:31](https://www.bilibili.com/video/av894239914?t=151)|shortwave ｜ 邮件工具|https://www.shortwave.com/blog/introducing-shortwave/|
 
 ## [视频链接](https://www.bilibili.com/video/av211446987)
 

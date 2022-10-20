@@ -259,7 +259,7 @@ def generate_md_table(video_info: VideoInfo) -> list[str]:
             s = time.seconds
             time_str = f'[{m:02d}:{s:02d}]'  f'({video_url}?t={m*60 + s})'
 
-        intro_str = intro if intro else ' '
+        intro_str = intro.replace('|', '｜') if intro else ' '
 
         if link is None:
             link_str = ' '
