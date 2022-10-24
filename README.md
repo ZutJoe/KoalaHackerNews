@@ -2,6 +2,20 @@
 
 b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news 周报》[合集](https://space.bilibili.com/489667127/channel/collectiondetail?sid=249279)的内容总结 
 
+## [视频链接](https://www.bilibili.com/video/av816812753)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av816812753?t=9)|Tabby｜用 web 开发的现代化终端|https://github.com/Eugeny/tabby|
+|[00:41](https://www.bilibili.com/video/av816812753?t=41)|用 Github Page 部署 SQLite 数据库|https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/|
+|[01:15](https://www.bilibili.com/video/av816812753?t=75)|stlite｜Streamlit 的 serverless 版本|https://edit.share.stlite.net/|
+|[01:54](https://www.bilibili.com/video/av816812753?t=114)|TypeRunner｜ 高性能 TypeScript 编译器|https://github.com/marcj/TypeRunner|
+|[02:30](https://www.bilibili.com/video/av816812753?t=150)|Linen｜ Slack 替代品|https://github.com/Linen-dev/linen.dev|
+|[02:56](https://www.bilibili.com/video/av816812753?t=176)|Replit Mobile App｜ 手机编程 App|https://blog.replit.com/mobile-app|
+|[03:27](https://www.bilibili.com/video/av816812753?t=207)|Koala 频道观众贡献的2个 Hacker News 周报检索项目|https://github.com/ZutJoe/Koala_hacker_news|
+| | |https://tmmap.lipanpanx.com/public/others/Koala%E8%81%8A%E5%BC%80%E6%BA%90.html|
+| | |https://mmap.lipanpanx.com/public/others/Koala%E8%81%8A%E5%BC%80%E6%BA%90.html|
+
 ## [视频链接](https://www.bilibili.com/video/av261620356)
 
 |时间轴|简介|链接|

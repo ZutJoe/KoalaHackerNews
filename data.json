@@ -1,5 +1,60 @@
 [
   {
+    "aid": 816812753,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 41
+        },
+        {
+          "minutes": 1,
+          "seconds": 15
+        },
+        {
+          "minutes": 1,
+          "seconds": 54
+        },
+        {
+          "minutes": 2,
+          "seconds": 30
+        },
+        {
+          "minutes": 2,
+          "seconds": 56
+        },
+        {
+          "minutes": 3,
+          "seconds": 27
+        }
+      ],
+      "introduces": [
+        "Tabby｜用 web 开发的现代化终端",
+        "用 Github Page 部署 SQLite 数据库",
+        "stlite｜Streamlit 的 serverless 版本",
+        "TypeRunner｜ 高性能 TypeScript 编译器",
+        "Linen｜ Slack 替代品",
+        "Replit Mobile App｜ 手机编程 App",
+        "Koala 频道观众贡献的2个 Hacker News 周报检索项目"
+      ],
+      "links": [
+        "https://github.com/Eugeny/tabby",
+        "https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/",
+        "https://edit.share.stlite.net/",
+        "https://github.com/marcj/TypeRunner",
+        "https://github.com/Linen-dev/linen.dev",
+        "https://blog.replit.com/mobile-app",
+        "https://github.com/ZutJoe/Koala_hacker_news",
+        "https://tmmap.lipanpanx.com/public/others/Koala%E8%81%8A%E5%BC%80%E6%BA%90.html",
+        "https://mmap.lipanpanx.com/public/others/Koala%E8%81%8A%E5%BC%80%E6%BA%90.html"
+      ]
+    }
+  },
+  {
     "aid": 261620356,
     "hn_items": {
       "times": [
