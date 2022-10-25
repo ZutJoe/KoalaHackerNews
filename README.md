@@ -12,9 +12,7 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[01:54](https://www.bilibili.com/video/av816812753?t=114)|TypeRunner｜ 高性能 TypeScript 编译器|https://github.com/marcj/TypeRunner|
 |[02:30](https://www.bilibili.com/video/av816812753?t=150)|Linen｜ Slack 替代品|https://github.com/Linen-dev/linen.dev|
 |[02:56](https://www.bilibili.com/video/av816812753?t=176)|Replit Mobile App｜ 手机编程 App|https://blog.replit.com/mobile-app|
-|[03:27](https://www.bilibili.com/video/av816812753?t=207)|Koala 频道观众贡献的2个 Hacker News 周报检索项目|https://github.com/ZutJoe/Koala_hacker_news|
-| | |https://tmmap.lipanpanx.com/public/others/Koala%E8%81%8A%E5%BC%80%E6%BA%90.html|
-| | |https://mmap.lipanpanx.com/public/others/Koala%E8%81%8A%E5%BC%80%E6%BA%90.html|
+|[03:27](https://www.bilibili.com/video/av816812753?t=207)|Koala 频道观众贡献的2个 Hacker News 周报检索项目|https://github.com/ZutJoe/Koala_hacker_news<br>https://tmmap.lipanpanx.com/public/others/Koala%E8%81%8A%E5%BC%80%E6%BA%90.html<br>https://mmap.lipanpanx.com/public/others/Koala%E8%81%8A%E5%BC%80%E6%BA%90.html|
 
 ## [视频链接](https://www.bilibili.com/video/av261620356)
 

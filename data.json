@@ -48,9 +48,11 @@
         "https://github.com/marcj/TypeRunner",
         "https://github.com/Linen-dev/linen.dev",
         "https://blog.replit.com/mobile-app",
-        "https://github.com/ZutJoe/Koala_hacker_news",
-        "https://tmmap.lipanpanx.com/public/others/Koala%E8%81%8A%E5%BC%80%E6%BA%90.html",
-        "https://mmap.lipanpanx.com/public/others/Koala%E8%81%8A%E5%BC%80%E6%BA%90.html"
+        [
+          "https://github.com/ZutJoe/Koala_hacker_news",
+          "https://tmmap.lipanpanx.com/public/others/Koala%E8%81%8A%E5%BC%80%E6%BA%90.html",
+          "https://mmap.lipanpanx.com/public/others/Koala%E8%81%8A%E5%BC%80%E6%BA%90.html"
+        ]
       ]
     }
   },
