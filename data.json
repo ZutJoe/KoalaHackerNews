@@ -2,9 +2,54 @@
   {
     "aid": 732078145,
     "hn_items": {
-      "times": [],
-      "introduces": [],
-      "links": []
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 50
+        },
+        {
+          "minutes": 1,
+          "seconds": 4
+        },
+        {
+          "minutes": 1,
+          "seconds": 30
+        },
+        {
+          "minutes": 1,
+          "seconds": 51
+        },
+        {
+          "minutes": 2,
+          "seconds": 7
+        },
+        {
+          "minutes": 2,
+          "seconds": 33
+        }
+      ],
+      "introduces": [
+        "Vercel 推出 webpack 替代品",
+        "Python 发布新版本",
+        "轻量级搜索引擎 Sonic",
+        "Answer｜SegmentFault 开源的知识类库",
+        "openvim｜ 交互式的 Vim 教程",
+        "Bolt.css｜ HTML 的样式表",
+        "Starter Tab｜自定义主页工具"
+      ],
+      "links": [
+        "https://vercel.com/blog/turbopack",
+        "https://discuss.python.org/t/python-3-11-0-final-is-now-available/20291",
+        "https://github.com/valeriansaliou/sonic",
+        "https://answer.dev/",
+        "https://www.openvim.com/",
+        "https://boltcss.com/",
+        "https://startertab.com/"
+      ]
     }
   },
   {

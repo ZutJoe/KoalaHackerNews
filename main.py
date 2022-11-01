@@ -77,7 +77,10 @@ def get_top_comment(aid: int) -> str | None:
 
     top_comment_data = comment_data['data']['top']['upper']
     if top_comment_data is None:
-        return None
+        if comment_data['data']['replies'][0]['member']['mid'] == '489667127':
+            return comment_data['data']['replies'][0]['content']['message']
+        else:
+            return None
     else:
         return top_comment_data['content']['message']
 

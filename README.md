@@ -6,6 +6,13 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av732078145?t=9)|Vercel 推出 webpack 替代品|https://vercel.com/blog/turbopack|
+|[00:50](https://www.bilibili.com/video/av732078145?t=50)|Python 发布新版本|https://discuss.python.org/t/python-3-11-0-final-is-now-available/20291|
+|[01:04](https://www.bilibili.com/video/av732078145?t=64)|轻量级搜索引擎 Sonic|https://github.com/valeriansaliou/sonic|
+|[01:30](https://www.bilibili.com/video/av732078145?t=90)|Answer｜SegmentFault 开源的知识类库|https://answer.dev/|
+|[01:51](https://www.bilibili.com/video/av732078145?t=111)|openvim｜ 交互式的 Vim 教程|https://www.openvim.com/|
+|[02:07](https://www.bilibili.com/video/av732078145?t=127)|Bolt.css｜ HTML 的样式表|https://boltcss.com/|
+|[02:33](https://www.bilibili.com/video/av732078145?t=153)|Starter Tab｜自定义主页工具|https://startertab.com/|
 
 ## [视频链接](https://www.bilibili.com/video/av816812753)
 
