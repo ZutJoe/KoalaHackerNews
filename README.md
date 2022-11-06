@@ -2,6 +2,18 @@
 
 b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news 周报》[合集](https://space.bilibili.com/489667127/channel/collectiondetail?sid=249279)的内容总结 
 
+## [视频链接](https://www.bilibili.com/video/av774867810)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av774867810?t=9)|phlare｜GrafanaLabs推出持续性能分析平台Phlare|https://github.com/grafana/phlare|
+|[00:38](https://www.bilibili.com/video/av774867810?t=38)|PostgreSQL提供图查询能力插件ApacheAGE|https://age.apache.org/|
+|[00:56](https://www.bilibili.com/video/av774867810?t=56)|JC｜命令结果转JSON工具JC|https://github.com/kellyjonbrazil/jc|
+|[01:35](https://www.bilibili.com/video/av774867810?t=95)|shell中history命令全新实现(多设备共享历史命令)|https://github.com/ddworken/hishtory|
+|[01:56](https://www.bilibili.com/video/av774867810?t=116)|ffmpeg｜过滤器图形化工具|https://ffmpeg.guide/|
+|[02:14](https://www.bilibili.com/video/av774867810?t=134)|turbopack速度10倍于vite?尤雨溪发文反击|https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8|
+|[02:41](https://www.bilibili.com/video/av774867810?t=161)|Heroku免费替代品|https://github.com/Engagespot/heroku-free-alternatives|
+
 ## [视频链接](https://www.bilibili.com/video/av732078145)
 
 |时间轴|简介|链接|
