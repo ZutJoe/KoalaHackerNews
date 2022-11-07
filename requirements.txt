@@ -1,0 +1,2 @@
+requests=2.28.1
+dominate=2.7.0
