@@ -4,7 +4,10 @@ import sys
 import json
 import itertools
 import dataclasses
+import dominate
 from dataclasses import dataclass
+from dominate import tags
+from dominate.tags import *
 
 from typing import Iterator
 
@@ -296,9 +299,94 @@ def write_md(video_infos: list[VideoInfo]) -> None:
         f.write("".join(readme))
 
 
+def generate_html_table(video_info: VideoInfo) -> tags.div:
+    """
+    把解析之后的单个视频置顶评论转换成 html 表格形式
+    """
+    aid = video_info.aid
+    times = video_info.hn_items.times
+    introduces = video_info.hn_items.introduces
+    links = video_info.hn_items.links
+    video_url = f'https://www.bilibili.com/video/av{aid}'
+
+    divv: tags.div = div()
+    divv.add(h5(a('视频链接', href=f'{video_url}')))
+
+    tablee: tags.table = divv.add(table(cls='table table-hover text-center align-middle'))
+    trr = tr()
+    trr.add(th('时间轴', scope='col', cls='col-1'))
+    trr.add(th('简介', scope='col', cls='col-2'))
+    trr.add(th('链接', scope='col', cls='col-2'))
+    tablee.add(thead(trr)) 
+
+    time: VideoTime | None
+    intro: str | None
+    link: str | list[str] | None
+    with tablee.add(tbody()) as tbodyy:
+        for time, intro, link in itertools.zip_longest(times, introduces, links):
+            trr = tr()
+            td_time = td()
+            td_link = td()
+
+            if time is None:
+                td_time.add(a(''))
+            else:
+                m = time.minutes
+                s = time.seconds
+                td_time.add(a(f'{m:02d}:{s:02d}', href=f'{video_url}?t={m*60 + s}'))
+            
+            intro = intro.replace('|', '｜') if intro else ' '
+            td_intro = td(intro)
+
+            if link is None:
+                td_link.add(a(''))
+            elif isinstance(link, list):
+                for l in link:
+                    td_link.add(a(f'{l}', href=f'{l}'))
+            else:
+                td_link.add(a(f'{link}', href=f'{link}'))
+
+            trr.add(td_time)
+            trr.add(td_intro)
+            trr.add(td_link)
+            tbodyy.add(trr)
+
+    divv.add(br())
+    return divv
+
+
+def write_html(video_infos: list[VideoInfo]) -> None:
+    doc = dominate.document(title='Koala hacker news')
+    with doc.head:
+        meta(
+            charset='utf-8', 
+            name='viewport', 
+            content='width=device-width, initial-scale=1'
+        )
+        link(
+            href='https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css',
+            rel='stylesheet',
+            integrity='sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi',
+            crossorigin='anonymous'
+        )
+        style('a {text-decoration: none}')
+    
+    with doc:
+        with div(cls='shadow-sm p-3 mt-1 bg-body rounded mx-auto', style='width: 70%') as content:
+            h1('Koala hacker news')
+            br()
+    
+        for video_info in video_infos:
+            content.add(generate_html_table(video_info))
+    
+    with open('index.html', 'w', encoding='utf-8') as f:
+        f.write("".join(doc.render()))
+
+
 def main() -> None:
     video_infos = update_data_json()
     write_md(video_infos)
+    write_html(video_infos)
 
 
 if __name__ == '__main__':

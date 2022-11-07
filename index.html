@@ -1,60 +1,3951 @@
 <!DOCTYPE html>
 <html>
-
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-    <style>
-        a {
-            text-decoration: none;
-        }
-    </style>
-</head>
-<body>
-    <div class="shadow-sm p-3 mt-1 bg-body rounded mx-auto" style="width: 70%;">
-        <h1>Koala hacker news</h1>
-        <br/>
-        <div>
-            <h4>
-                <a href="https://www.bilibili.com/video/av774867810">视频链接</a>
-            </h4>
-
-            <table class="table table-hover text-center">
-                <thead>
-                    <tr>
-                        <th scope="col" class="col-1">时间轴</th>
-                        <th scope="col" class="col-2">简介</th>
-                        <th scope="col" class="col-2">链接</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td class="col-1">
-                            <a href="https://www.bilibili.com/video/av774867810?t=9">00:09</a>
-                        </td>
-                        <td class="col-2">phlare｜GrafanaLabs推出持续性能分析平台Phlare</td>
-                        <td class="col-2">
-                            <a href="https://github.com/grafana/phlare">https://github.com/grafana/phlare</a>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td class="col-1">
-                            <a href="https://www.bilibili.com/video/av774867810?t=38">00:38</a>
-                        </td>
-                        <td class="col-2">PostgreSQL提供图查询能力插件ApacheAGE</td>
-                        <td class="col-2">
-                            <a href="https://age.apache.org/">https://age.apache.org/</a>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
-        <br/>
-
+  <head>
+    <title>Koala hacker news</title>
+    <meta charset="utf-8" content="width=device-width, initial-scale=1" name="viewport">
+    <link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" rel="stylesheet">
+    <style>a {text-decoration: none}</style>
+  </head>
+  <body>
+    <div class="shadow-sm p-3 mt-1 bg-body rounded mx-auto" style="width: 70%">
+      <h1>Koala hacker news</h1><br>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av774867810">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av774867810?t=9">00:09</a>
+              </td>
+              <td>phlare｜GrafanaLabs推出持续性能分析平台Phlare</td>
+              <td>
+                <a href="https://github.com/grafana/phlare">https://github.com/grafana/phlare</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av774867810?t=38">00:38</a>
+              </td>
+              <td>PostgreSQL提供图查询能力插件ApacheAGE</td>
+              <td>
+                <a href="https://age.apache.org/">https://age.apache.org/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av774867810?t=56">00:56</a>
+              </td>
+              <td>JC｜命令结果转JSON工具JC</td>
+              <td>
+                <a href="https://github.com/kellyjonbrazil/jc">https://github.com/kellyjonbrazil/jc</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av774867810?t=95">01:35</a>
+              </td>
+              <td>shell中history命令全新实现(多设备共享历史命令)</td>
+              <td>
+                <a href="https://github.com/ddworken/hishtory">https://github.com/ddworken/hishtory</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av774867810?t=116">01:56</a>
+              </td>
+              <td>ffmpeg｜过滤器图形化工具</td>
+              <td>
+                <a href="https://ffmpeg.guide/">https://ffmpeg.guide/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av774867810?t=134">02:14</a>
+              </td>
+              <td>turbopack速度10倍于vite?尤雨溪发文反击</td>
+              <td>
+                <a href="https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8">https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av774867810?t=161">02:41</a>
+              </td>
+              <td>Heroku免费替代品</td>
+              <td>
+                <a href="https://github.com/Engagespot/heroku-free-alternatives">https://github.com/Engagespot/heroku-free-alternatives</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av732078145">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av732078145?t=9">00:09</a>
+              </td>
+              <td>Vercel 推出 webpack 替代品</td>
+              <td>
+                <a href="https://vercel.com/blog/turbopack">https://vercel.com/blog/turbopack</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av732078145?t=50">00:50</a>
+              </td>
+              <td>Python 发布新版本</td>
+              <td>
+                <a href="https://discuss.python.org/t/python-3-11-0-final-is-now-available/20291">https://discuss.python.org/t/python-3-11-0-final-is-now-available/20291</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av732078145?t=64">01:04</a>
+              </td>
+              <td>轻量级搜索引擎 Sonic</td>
+              <td>
+                <a href="https://github.com/valeriansaliou/sonic">https://github.com/valeriansaliou/sonic</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av732078145?t=90">01:30</a>
+              </td>
+              <td>Answer｜SegmentFault 开源的知识类库</td>
+              <td>
+                <a href="https://answer.dev/">https://answer.dev/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av732078145?t=111">01:51</a>
+              </td>
+              <td>openvim｜ 交互式的 Vim 教程</td>
+              <td>
+                <a href="https://www.openvim.com/">https://www.openvim.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av732078145?t=127">02:07</a>
+              </td>
+              <td>Bolt.css｜ HTML 的样式表</td>
+              <td>
+                <a href="https://boltcss.com/">https://boltcss.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av732078145?t=153">02:33</a>
+              </td>
+              <td>Starter Tab｜自定义主页工具</td>
+              <td>
+                <a href="https://startertab.com/">https://startertab.com/</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av816812753">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av816812753?t=9">00:09</a>
+              </td>
+              <td>Tabby｜用 web 开发的现代化终端</td>
+              <td>
+                <a href="https://github.com/Eugeny/tabby">https://github.com/Eugeny/tabby</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av816812753?t=41">00:41</a>
+              </td>
+              <td>用 Github Page 部署 SQLite 数据库</td>
+              <td>
+                <a href="https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/">https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av816812753?t=75">01:15</a>
+              </td>
+              <td>stlite｜Streamlit 的 serverless 版本</td>
+              <td>
+                <a href="https://edit.share.stlite.net/">https://edit.share.stlite.net/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av816812753?t=114">01:54</a>
+              </td>
+              <td>TypeRunner｜ 高性能 TypeScript 编译器</td>
+              <td>
+                <a href="https://github.com/marcj/TypeRunner">https://github.com/marcj/TypeRunner</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av816812753?t=150">02:30</a>
+              </td>
+              <td>Linen｜ Slack 替代品</td>
+              <td>
+                <a href="https://github.com/Linen-dev/linen.dev">https://github.com/Linen-dev/linen.dev</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av816812753?t=176">02:56</a>
+              </td>
+              <td>Replit Mobile App｜ 手机编程 App</td>
+              <td>
+                <a href="https://blog.replit.com/mobile-app">https://blog.replit.com/mobile-app</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av816812753?t=207">03:27</a>
+              </td>
+              <td>Koala 频道观众贡献的2个 Hacker News 周报检索项目</td>
+              <td>
+                <a href="https://github.com/ZutJoe/Koala_hacker_news">https://github.com/ZutJoe/Koala_hacker_news</a>
+                <a href="https://tmmap.lipanpanx.com/public/others/Koala%E8%81%8A%E5%BC%80%E6%BA%90.html">https://tmmap.lipanpanx.com/public/others/Koala%E8%81%8A%E5%BC%80%E6%BA%90.html</a>
+                <a href="https://mmap.lipanpanx.com/public/others/Koala%E8%81%8A%E5%BC%80%E6%BA%90.html">https://mmap.lipanpanx.com/public/others/Koala%E8%81%8A%E5%BC%80%E6%BA%90.html</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av261620356">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av261620356?t=10">00:10</a>
+              </td>
+              <td>Obsidian 发布 1.0</td>
+              <td>
+                <a href="https://obsidian.md/1.0">https://obsidian.md/1.0</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av261620356?t=28">00:28</a>
+              </td>
+              <td>NocoDB｜ Airtable 开源替代品</td>
+              <td>
+                <a href="https://github.com/nocodb/nocodb">https://github.com/nocodb/nocodb</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av261620356?t=47">00:47</a>
+              </td>
+              <td>通过代码编辑视频</td>
+              <td>
+                <a href="https://github.com/mifi">https://github.com/mifi</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av261620356?t=70">01:10</a>
+              </td>
+              <td>Satori｜ 从 HTML 生成 SVG</td>
+              <td>
+                <a href="https://github.com/vercel/satori">https://github.com/vercel/satori</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av261620356?t=97">01:37</a>
+              </td>
+              <td>aerc｜在命令行中编辑视频与收发邮件</td>
+              <td>
+                <a href="https://aerc-mail.org/">https://aerc-mail.org/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av261620356?t=114">01:54</a>
+              </td>
+              <td>Fleet｜Jet Brains 新一代 IDE</td>
+              <td>
+                <a href="https://www.jetbrains.com/fleet/">https://www.jetbrains.com/fleet/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av261620356?t=138">02:18</a>
+              </td>
+              <td>Go 语言设计讨论</td>
+              <td>
+                <a href="https://github.com/golang/go/discussions/56010">https://github.com/golang/go/discussions/56010</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av346450481">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av346450481?t=9">00:09</a>
+              </td>
+              <td>sharing｜将电脑中的文件通过二维码分享给手机</td>
+              <td>
+                <a href="https://github.com/parvardegr/sharing">https://github.com/parvardegr/sharing</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av346450481?t=31">00:31</a>
+              </td>
+              <td>Steampipe｜ 浏览云服务资产的交互式命令行工具</td>
+              <td>
+                <a href="https://steampipe.io/">https://steampipe.io/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av346450481?t=54">00:54</a>
+              </td>
+              <td>Horizon UI｜ 基于 Chakra UI 的管理后台模版</td>
+              <td>
+                <a href="https://horizon-ui.com/">https://horizon-ui.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av346450481?t=76">01:16</a>
+              </td>
+              <td>Postgres WASM｜ 开源 WASM 运行 PostgresSQL 方案</td>
+              <td>
+                <a href="https://supabase.com/blog/postgres-wasm">https://supabase.com/blog/postgres-wasm</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av346450481?t=110">01:50</a>
+              </td>
+              <td>v86｜ 通过 WebAssembly 运行 x86 兼容的虚拟机</td>
+              <td>
+                <a href="https://github.com/copy/v86">https://github.com/copy/v86</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av346450481?t=126">02:06</a>
+              </td>
+              <td>libSQL｜ SQLite 下游版本</td>
+              <td>
+                <a href="https://github.com/libsql/libsql">https://github.com/libsql/libsql</a>
+                <a href="https://itnext.io/sqlite-qemu-all-over-again-aedad19c9a1c">https://itnext.io/sqlite-qemu-all-over-again-aedad19c9a1c</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av346450481?t=158">02:38</a>
+              </td>
+              <td>TypeScript  10 years anniversary</td>
+              <td>
+                <a href="https://devblogs.microsoft.com/typescript/ten-years-of-typescript/">https://devblogs.microsoft.com/typescript/ten-years-of-typescript/</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av388741659">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av388741659?t=9">00:09</a>
+              </td>
+              <td>SigNoz｜开源的 APM 系统</td>
+              <td>
+                <a href="https://github.com/SigNoz/signoz">https://github.com/SigNoz/signoz</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av388741659?t=35">00:35</a>
+              </td>
+              <td>Wails｜使用 Go 和 Web 技术开发桌面端应用</td>
+              <td>
+                <a href="https://wails.io/">https://wails.io/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av388741659?t=58">00:58</a>
+              </td>
+              <td>CloudFlare 开源 serverless 运行时 workerd</td>
+              <td>
+                <a href="https://github.com/cloudflare/workerd">https://github.com/cloudflare/workerd</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av388741659?t=93">01:33</a>
+              </td>
+              <td>Qwik｜builder.io 开源的前端框架</td>
+              <td>
+                <a href="https://qwik.builder.io/">https://qwik.builder.io/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av388741659?t=122">02:02</a>
+              </td>
+              <td>pdfgrep｜命令行搜索工具</td>
+              <td>
+                <a href="https://pdfgrep.org/">https://pdfgrep.org/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av388741659?t=136">02:16</a>
+              </td>
+              <td>Liqe｜轻量级搜索引擎</td>
+              <td>
+                <a href="https://github.com/gajus/liqe">https://github.com/gajus/liqe</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av388741659?t=151">02:31</a>
+              </td>
+              <td>Google 计划关停云游戏服务 Stadia</td>
+              <td>
+                <a href="https://www.theverge.com/2022/9/29/23378713/google-stadia-shutting-down-game-streaming-january-2023">https://www.theverge.com/2022/9/29/23378713/google-stadia-shutting-down-game-streaming-january-2023</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av558499331">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av558499331?t=9">00:09</a>
+              </td>
+              <td>GitUI｜Git 终端 UI</td>
+              <td>
+                <a href="https://github.com/extrawurst/gitui">https://github.com/extrawurst/gitui</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av558499331?t=35">00:35</a>
+              </td>
+              <td>Dub｜开源短链接服务</td>
+              <td>
+                <a href="https://dub.sh/">https://dub.sh/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av558499331?t=58">00:58</a>
+              </td>
+              <td>WunderBase｜ serverless GraphQL 数据库</td>
+              <td>
+                <a href="https://github.com/wundergraph/wunderbase">https://github.com/wundergraph/wunderbase</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av558499331?t=77">01:17</a>
+              </td>
+              <td>Rocketry｜现代化的 Python 调度框架</td>
+              <td>
+                <a href="https://github.com/Miksus/rocketry">https://github.com/Miksus/rocketry</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av558499331?t=93">01:33</a>
+              </td>
+              <td>KREA｜AI 作画图库</td>
+              <td>
+                <a href="https://www.krea.ai/">https://www.krea.ai/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av558499331?t=115">01:55</a>
+              </td>
+              <td>Whisper｜ OpenAI 开源的语音识别系统</td>
+              <td>
+                <a href="https://openai.com/blog/whisper">https://openai.com/blog/whisper</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av558499331?t=135">02:15</a>
+              </td>
+              <td>fly.io 开源新项目 LiteFS</td>
+              <td>
+                <a href="https://fly.io/blog/introducing-litefs">https://fly.io/blog/introducing-litefs</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av558499331?t=171">02:51</a>
+              </td>
+              <td>Azure CTO Mark Russinovich 发推引发热议</td>
+              <td>
+                <a href="https://twitter.com/markrussinovich/status/1571995117233504257">https://twitter.com/markrussinovich/status/1571995117233504257</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av303210611">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av303210611?t=9">00:09</a>
+              </td>
+              <td>Figma 被收购引发在线设计工具新动向</td>
+              <td>
+                <a href="https://www.bloomberg.com/news/articles/2022-09-15/adobe-is-said-to-near-deal-to-buy-online-design-startup-figma">https://www.bloomberg.com/news/articles/2022-09-15/adobe-is-said-to-near-deal-to-buy-online-design-startup-figma</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av303210611?t=31">00:31</a>
+              </td>
+              <td>penpot｜开源设计工具因 Figma 变热</td>
+              <td>
+                <a href="https://penpot.app/">https://penpot.app/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av303210611?t=46">00:46</a>
+              </td>
+              <td>Theatre.js｜开源在线动效编辑器</td>
+              <td>
+                <a href="https://www.theatrejs.com/">https://www.theatrejs.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av303210611?t=68">01:08</a>
+              </td>
+              <td>Markdoc｜交互式 Markdown</td>
+              <td>
+                <a href="https://markdoc.dev/">https://markdoc.dev/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av303210611?t=85">01:25</a>
+              </td>
+              <td>Meta 将 PyTorch 捐赠给 Linux 基金会</td>
+              <td>
+                <a href="https://www.linuxfoundation.org/blog/blog/welcoming-pytorch-to-the-linux-foundation">https://www.linuxfoundation.org/blog/blog/welcoming-pytorch-to-the-linux-foundation</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av303210611?t=97">01:37</a>
+              </td>
+              <td>Meta 发布了网页内存泄漏检测工具 MemLab</td>
+              <td>
+                <a href="https://engineering.fb.com/2022/09/12/open-source/memlab/">https://engineering.fb.com/2022/09/12/open-source/memlab/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av303210611?t=119">01:59</a>
+              </td>
+              <td>SafeQL｜ 校验 SQL 的 ESLint 插件</td>
+              <td>
+                <a href="https://safeql.dev/">https://safeql.dev/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av303210611?t=134">02:14</a>
+              </td>
+              <td>Diffusion Bee｜在 M1 Mac 上运行 Stable Diffusion 的桌面端应用</td>
+              <td>
+                <a href="https://github.com/divamgupta/diffusionbee-stable-diffusion-ui">https://github.com/divamgupta/diffusionbee-stable-diffusion-ui</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av560499744">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av560499744?t=11">00:11</a>
+              </td>
+              <td>Difftastic｜结构化 diff 工具</td>
+              <td>
+                <a href="https://www.wilfred.me.uk/blog/2022/09/06/difftastic-the-fantastic-diff/">https://www.wilfred.me.uk/blog/2022/09/06/difftastic-the-fantastic-diff/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av560499744?t=46">00:46</a>
+              </td>
+              <td>ruff｜百倍快的 Python linter</td>
+              <td>
+                <a href="https://github.com/charliermarsh/ruff">https://github.com/charliermarsh/ruff</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av560499744?t=72">01:12</a>
+              </td>
+              <td>DataEase｜数据可视化分析工具</td>
+              <td>
+                <a href="https://github.com/dataease/dataease">https://github.com/dataease/dataease</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av560499744?t=96">01:36</a>
+              </td>
+              <td>MATHLIVE｜展示和编辑数学公式的 Web Component</td>
+              <td>
+                <a href="https://cortexjs.io/mathlive">https://cortexjs.io/mathlive</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av560499744?t=123">02:03</a>
+              </td>
+              <td>VSCheatsheet｜VS Code 快捷键合集</td>
+              <td>
+                <a href="https://www.vscheatsheet.com/">https://www.vscheatsheet.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av560499744?t=144">02:24</a>
+              </td>
+              <td>Modern for Hacker News｜ 美化 Hacker News 界面的浏览器插件</td>
+              <td>
+                <a href="https://www.modernhn.com/">https://www.modernhn.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av560499744?t=157">02:37</a>
+              </td>
+              <td>signals｜PREACT 状态管理新方案</td>
+              <td>
+                <a href="https://preactjs.com/blog/introducing-signals/">https://preactjs.com/blog/introducing-signals/</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av260156898">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av260156898?t=9">00:09</a>
+              </td>
+              <td>Devbox｜快速启动隔离开发环境</td>
+              <td>
+                <a href="https://github.com/jetpack-io/devbox">https://github.com/jetpack-io/devbox</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av260156898?t=38">00:38</a>
+              </td>
+              <td>绘图语言 D2</td>
+              <td>
+                <a href="https://d2-lang.com/tour/intro">https://d2-lang.com/tour/intro</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av260156898?t=52">00:52</a>
+              </td>
+              <td>YAO｜开发应用引擎</td>
+              <td>
+                <a href="https://yaoapps.com/">https://yaoapps.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av260156898?t=80">01:20</a>
+              </td>
+              <td>JSON Crack｜JSON 可视化工具</td>
+              <td>
+                <a href="https://jsoncrack.com/">https://jsoncrack.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av260156898?t=102">01:42</a>
+              </td>
+              <td>Motionity｜动效编辑器</td>
+              <td>
+                <a href="https://github.com/alyssaxuu/motionity">https://github.com/alyssaxuu/motionity</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av260156898?t=122">02:02</a>
+              </td>
+              <td>mvSQLite｜分布式 SQLite</td>
+              <td>
+                <a href="https://univalence.me/posts/mvsqlite">https://univalence.me/posts/mvsqlite</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av260156898?t=157">02:37</a>
+              </td>
+              <td>Heroku 即将停止免费额度</td>
+              <td>
+                <a href="https://dev.to/lorenzojkrl/bye-bye-heroku-2npi">https://dev.to/lorenzojkrl/bye-bye-heroku-2npi</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av260156898?t=181">03:01</a>
+              </td>
+              <td>GitHub 开发者关系副总裁回复移除 Trending</td>
+              <td>
+                <a href="https://github.com/community/community/discussions/31644">https://github.com/community/community/discussions/31644</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av217441979">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av217441979?t=9">00:09</a>
+              </td>
+              <td>｜野心勃勃的数据库 SurrealDB</td>
+              <td>
+                <a href="https://surrealdb.com/">https://surrealdb.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av217441979?t=38">00:38</a>
+              </td>
+              <td>Stable Diffusion｜开源的 AI 图片生成模型</td>
+              <td>
+                <a href="https://github.com/CompVis/stable-diffusion">https://github.com/CompVis/stable-diffusion</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av217441979?t=59">00:59</a>
+              </td>
+              <td>react-design-editor｜ Canva 的开源替代品</td>
+              <td>
+                <a href="https://github.com/layerhub-io/react-design-editor">https://github.com/layerhub-io/react-design-editor</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av217441979?t=84">01:24</a>
+              </td>
+              <td>Weylus｜将触屏设备变为触摸板</td>
+              <td>
+                <a href="https://github.com/H-M-H/Weylus">https://github.com/H-M-H/Weylus</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av217441979?t=103">01:43</a>
+              </td>
+              <td>eInk-VNC｜将 VMC 输出到墨水屏</td>
+              <td>
+                <a href="https://zmarshall.nl/static/eink-vnc.html">https://zmarshall.nl/static/eink-vnc.html</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av217441979?t=124">02:04</a>
+              </td>
+              <td>SQLite 并发读取性能详解</td>
+              <td>
+                <a href="https://fly.io/blog/sqlite-internals-wal">https://fly.io/blog/sqlite-internals-wal</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av217441979?t=146">02:26</a>
+              </td>
+              <td>80 岁计算机科学家仍在优化开源代码</td>
+              <td>
+                <a href="https://news.ycombinator.com/item?id=32534173">https://news.ycombinator.com/item?id=32534173</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av514731265">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av514731265?t=10">00:10</a>
+              </td>
+              <td>Numpad ｜一个新式文本编辑器</td>
+              <td>
+                <a href="https://numpad.io/">https://numpad.io/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av514731265?t=34">00:34</a>
+              </td>
+              <td>Erg｜与 Python 兼容的静态类型语言</td>
+              <td>
+                <a href="https://github.com/erg-lang/erg">https://github.com/erg-lang/erg</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av514731265?t=57">00:57</a>
+              </td>
+              <td>分布式文件系统 JuiceFS</td>
+              <td>
+                <a href="https://github.com/juicedata/juicefs">https://github.com/juicedata/juicefs</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av514731265?t=82">01:22</a>
+              </td>
+              <td>JiraCLI｜ 对 Jira 的命令行客户端</td>
+              <td>
+                <a href="https://github.com/ankitpokhrel/jira-cli">https://github.com/ankitpokhrel/jira-cli</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av514731265?t=93">01:33</a>
+              </td>
+              <td>Crunchy Data｜在浏览器中运行 Postgres</td>
+              <td>
+                <a href="https://www.crunchydata.com/blog/learn-postgres-at-the-playground">https://www.crunchydata.com/blog/learn-postgres-at-the-playground</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av514731265?t=113">01:53</a>
+              </td>
+              <td>JSON5 作者的一篇博客</td>
+              <td>
+                <a href="https://aseemk.substack.com/p/ignore-the-f-ing-haters-json5">https://aseemk.substack.com/p/ignore-the-f-ing-haters-json5</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av601882126">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av601882126?t=9">00:09</a>
+              </td>
+              <td>远程开发方案 Coder</td>
+              <td>
+                <a href="https://coder.com/">https://coder.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av601882126?t=34">00:34</a>
+              </td>
+              <td>高性能 virtual DOM</td>
+              <td>
+                <a href="https://millionjs.org/">https://millionjs.org/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av601882126?t=64">01:04</a>
+              </td>
+              <td>Astro 发布了 1.0 版本</td>
+              <td>
+                <a href="https://astro.build/blog/astro-1/">https://astro.build/blog/astro-1/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av601882126?t=88">01:28</a>
+              </td>
+              <td>Multy｜ 基于 Terraform 的跨云部署框架</td>
+              <td>
+                <a href="https://github.com/multycloud/multy">https://github.com/multycloud/multy</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av601882126?t=114">01:54</a>
+              </td>
+              <td>Rancher 创始团队运营新开源产品 Acorn</td>
+              <td>
+                <a href="https://acorn.io/">https://acorn.io/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av601882126?t=141">02:21</a>
+              </td>
+              <td>一篇介绍 Redis 技术细节的文章</td>
+              <td>
+                <a href="https://architecturenotes.co/redis/">https://architecturenotes.co/redis/</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av899145721">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av899145721?t=8">00:08</a>
+              </td>
+              <td>开源知识库软件能否替代 Notion</td>
+              <td>
+                <a href="https://github.com/toeverything/AFFiNE">https://github.com/toeverything/AFFiNE</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av899145721?t=35">00:35</a>
+              </td>
+              <td>Copilot 开源替代品</td>
+              <td>
+                <a href="https://github.com/moyix/fauxpilot">https://github.com/moyix/fauxpilot</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av899145721?t=52">00:52</a>
+              </td>
+              <td>逆向工程工具箱</td>
+              <td>
+                <a href="https://github.com/WerWolv/ImHex">https://github.com/WerWolv/ImHex</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av899145721?t=68">01:08</a>
+              </td>
+              <td>Emery｜效率工具</td>
+              <td>
+                <a href="https://emery.to/">https://emery.to/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av899145721?t=84">01:24</a>
+              </td>
+              <td>一篇介绍 eBPF 技术的文章</td>
+              <td>
+                <a href="https://www.groundcover.com/blog/what-is-ebpf">https://www.groundcover.com/blog/what-is-ebpf</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av899145721?t=110">01:50</a>
+              </td>
+              <td>用 DALL·E 2 生成 logo 图片的分享文章</td>
+              <td>
+                <a href="https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql/">https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql/</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av471440344">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av471440344?t=9">00:09</a>
+              </td>
+              <td>Blueboat｜多功能 serverless JS 运行时</td>
+              <td>
+                <a href="https://blueboat.io/">https://blueboat.io/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av471440344?t=32">00:32</a>
+              </td>
+              <td>languageTool ｜Grammarly 开源替代品</td>
+              <td>
+                <a href="https://languagetool.org/dev">https://languagetool.org/dev</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av471440344?t=68">01:08</a>
+              </td>
+              <td>Publii｜桌面端的 CMS 工具</td>
+              <td>
+                <a href="https://github.com/GetPublii/Publii">https://github.com/GetPublii/Publii</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av471440344?t=104">01:44</a>
+              </td>
+              <td>Virtink｜ K8s 轻量级虚拟化插件</td>
+              <td>
+                <a href="https://github.com/smartxworks/virtink">https://github.com/smartxworks/virtink</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av471440344?t=145">02:25</a>
+              </td>
+              <td>Skeleton｜ 全功能 Svelte UI 组件库</td>
+              <td>
+                <a href="https://skeleton.brainandbonesllc.com/">https://skeleton.brainandbonesllc.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av471440344?t=170">02:50</a>
+              </td>
+              <td>K8s 提出了 Gateway 网关 API</td>
+              <td>
+                <a href="https://www.armosec.io/blog/kubernetes-gateway-api">https://www.armosec.io/blog/kubernetes-gateway-api</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av856201719">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av856201719?t=11">00:11</a>
+              </td>
+              <td>Google 发布新编程语言 Carbon</td>
+              <td>
+                <a href="https://github.com/carbon-language/carbon-lang">https://github.com/carbon-language/carbon-lang</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av856201719?t=58">00:58</a>
+              </td>
+              <td>榫卯｜ Sunmao ｜低代码工具开发框架</td>
+              <td>
+                <a href="https://github.com/smartxworks/sunmao-ui">https://github.com/smartxworks/sunmao-ui</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av856201719?t=100">01:40</a>
+              </td>
+              <td>Comcast｜模拟弱网环境的工具</td>
+              <td>
+                <a href="https://github.com/tylertreat/comcast">https://github.com/tylertreat/comcast</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av856201719?t=156">02:36</a>
+              </td>
+              <td>Tweakpane｜ 一个调节参数的 JS 库</td>
+              <td>
+                <a href="https://cocopon.github.io/tweakpane/">https://cocopon.github.io/tweakpane/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av856201719?t=178">02:58</a>
+              </td>
+              <td>AI 系统 DALL·E 开放 Beta 测试</td>
+              <td>
+                <a href="https://openai.com/blog/dall-e-now-available-in-beta">https://openai.com/blog/dall-e-now-available-in-beta</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av856201719?t=201">03:21</a>
+              </td>
+              <td>一篇关于 Scratch 潜能的文章</td>
+              <td>
+                <a href="https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal">https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av898526676">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av898526676?t=12">00:12</a>
+              </td>
+              <td>Vite 发布3.0版本</td>
+              <td>
+                <a href="https://vitejs.dev/blog/announcing-vite3.html">https://vitejs.dev/blog/announcing-vite3.html</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av898526676?t=30">00:30</a>
+              </td>
+              <td>VictoriaMetrics｜Prometheus 的开源替代品</td>
+              <td>
+                <a href="https://victoriametrics.com/products/open-source/">https://victoriametrics.com/products/open-source/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av898526676?t=62">01:02</a>
+              </td>
+              <td>对 Bun 和 Node.js 对比实测</td>
+              <td>
+                <a href="https://techsparx.com/nodejs/bun/1st-trial.html">https://techsparx.com/nodejs/bun/1st-trial.html</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av898526676?t=109">01:49</a>
+              </td>
+              <td>Cleanupphotos｜修图工具</td>
+              <td>
+                <a href="https://cleanupphotos.com/">https://cleanupphotos.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av898526676?t=134">02:14</a>
+              </td>
+              <td>Vim 在线交互式学习平台</td>
+              <td>
+                <a href="https://www.vimified.com/">https://www.vimified.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av898526676?t=156">02:36</a>
+              </td>
+              <td>推荐《PostgreSQL 14 Internals》一书</td>
+              <td>
+                <a href="https://postgrespro.com/community/books/internals">https://postgrespro.com/community/books/internals</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av513340184">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av513340184?t=9">00:09</a>
+              </td>
+              <td>Bun｜高性能 JS 运行时</td>
+              <td>
+                <a href="https://bun.sh/">https://bun.sh/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av513340184?t=40">00:40</a>
+              </td>
+              <td>TAURI｜Electron 轻量级替代品</td>
+              <td>
+                <a href="https://tauri.app/">https://tauri.app/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av513340184?t=62">01:02</a>
+              </td>
+              <td>Felt｜在线地图编辑网站</td>
+              <td>
+                <a href="https://felt.com/">https://felt.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av513340184?t=79">01:19</a>
+              </td>
+              <td>PocketBase｜ 开源实时后端方案</td>
+              <td>
+                <a href="https://pocketbase.io/">https://pocketbase.io/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av513340184?t=104">01:44</a>
+              </td>
+              <td>fuite｜自动探测 Web 应用内存泄漏</td>
+              <td>
+                <a href="https://github.com/nolanlawson/fuite">https://github.com/nolanlawson/fuite</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av513340184?t=125">02:05</a>
+              </td>
+              <td>一篇关于 rsync 工作原理的文章</td>
+              <td>
+                <a href="https://michael.stapelberg.ch/posts/2022-07-02-rsync-how-does-it-work">https://michael.stapelberg.ch/posts/2022-07-02-rsync-how-does-it-work</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av770511400">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av770511400?t=10">00:10</a>
+              </td>
+              <td>Pyroscope｜性能持续分析工具</td>
+              <td>
+                <a href="https://pyroscope.io/">https://pyroscope.io/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av770511400?t=35">00:35</a>
+              </td>
+              <td>daisyUI｜前端组件库</td>
+              <td>
+                <a href="https://daisyui.com/">https://daisyui.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av770511400?t=55">00:55</a>
+              </td>
+              <td>《数据库必须知道的那些事》</td>
+              <td>
+                <a href="https://architecturenotes.co/things-you-should-know-about-databases">https://architecturenotes.co/things-you-should-know-about-databases</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av770511400?t=81">01:21</a>
+              </td>
+              <td>《浏览器是如何工作的》</td>
+              <td>
+                <a href="https://web.dev/howbrowserswork/">https://web.dev/howbrowserswork/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av770511400?t=109">01:49</a>
+              </td>
+              <td>Spark 与 K8s 集成新动向</td>
+              <td>
+                <a href="https://www.cncf.io/blog/2022/06/30/why-spark-chooses-volcano-as-built-in-batch-scheduler-on-kubernetes/">https://www.cncf.io/blog/2022/06/30/why-spark-chooses-volcano-as-built-in-batch-scheduler-on-kubernetes/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av770511400?t=135">02:15</a>
+              </td>
+              <td>Raindrop｜书签管理小工具</td>
+              <td>
+                <a href="https://raindrop.io/">https://raindrop.io/</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av427756499">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av427756499?t=9">00:09</a>
+              </td>
+              <td>Github AI 代码助手 Copilot 正式发布</td>
+              <td>
+                <a href="https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/">https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av427756499?t=46">00:46</a>
+              </td>
+              <td>Markwhen｜绘制时间轴的工具</td>
+              <td>
+                <a href="https://markwhen.com/">https://markwhen.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av427756499?t=61">01:01</a>
+              </td>
+              <td>Viddy｜现代的 watch 替代品</td>
+              <td>
+                <a href="https://github.com/sachaos/viddy">https://github.com/sachaos/viddy</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av427756499?t=81">01:21</a>
+              </td>
+              <td>Elastic UI｜Elastic 开源的前端 UI 组件库</td>
+              <td>
+                <a href="https://elastic.github.io/eui/#/">https://elastic.github.io/eui/#/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av427756499?t=109">01:49</a>
+              </td>
+              <td>Avo｜构建在 Ruby on Rails 方案之上的应用开发框架</td>
+              <td>
+                <a href="https://avohq.io/">https://avohq.io/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av427756499?t=143">02:23</a>
+              </td>
+              <td>Unclutter｜整理网页的浏览器插件</td>
+              <td>
+                <a href="https://unclutter.lindylearn.io/">https://unclutter.lindylearn.io/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av427756499?t=163">02:43</a>
+              </td>
+              <td>SQLite 发布 SQLite4 设计</td>
+              <td>
+                <a href="https://sqlite.org/src4/doc/trunk/www/design.wiki">https://sqlite.org/src4/doc/trunk/www/design.wiki</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av427756499?t=184">03:04</a>
+              </td>
+              <td>Deno 完成 A 轮融资</td>
+              <td>
+                <a href="https://deno.com/blog/series-a">https://deno.com/blog/series-a</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av257594368">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av257594368?t=9">00:09</a>
+              </td>
+              <td>FRESH｜Deno 原生 SSR Web 框架</td>
+              <td>
+                <a href="https://fresh.deno.dev/">https://fresh.deno.dev/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av257594368?t=34">00:34</a>
+              </td>
+              <td>Vitest｜基于 vite 的单元测试框架</td>
+              <td>
+                <a href="https://cn.vitest.dev/">https://cn.vitest.dev/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av257594368?t=55">00:55</a>
+              </td>
+              <td>Rulex｜新的正则表达式语言</td>
+              <td>
+                <a href="https://pomsky-lang.org/">https://pomsky-lang.org/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av257594368?t=74">01:14</a>
+              </td>
+              <td>Recut｜视频剪辑工具</td>
+              <td>
+                <a href="https://getrecut.com/">https://getrecut.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av257594368?t=91">01:31</a>
+              </td>
+              <td>moon｜构建工具</td>
+              <td>
+                <a href="https://moonrepo.dev/">https://moonrepo.dev/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av257594368?t=106">01:46</a>
+              </td>
+              <td>一个寻找项目灵感的网站</td>
+              <td>
+                <a href="https://mysideproject.rocks/">https://mysideproject.rocks/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av257594368?t=121">02:01</a>
+              </td>
+              <td>程序员社交新尝试</td>
+              <td>
+                <a href="https://connectdome.com/">https://connectdome.com/</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av727379202">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av727379202?t=9">00:09</a>
+              </td>
+              <td>Knight Lab｜用代码更好地讲故事</td>
+              <td>
+                <a href="https://knightlab.northwestern.edu/projects/">https://knightlab.northwestern.edu/projects/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av727379202?t=30">00:30</a>
+              </td>
+              <td>plasmo｜浏览器插件开发平台</td>
+              <td>
+                <a href="https://www.plasmo.com/">https://www.plasmo.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av727379202?t=49">00:49</a>
+              </td>
+              <td>Shotcut｜开源免费跨平台视频编辑器</td>
+              <td>
+                <a href="https://shotcut.org/">https://shotcut.org/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av727379202?t=66">01:06</a>
+              </td>
+              <td>DEEPKIT｜Typescript 高性能框架</td>
+              <td>
+                <a href="https://deepkit.io/">https://deepkit.io/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av727379202?t=84">01:24</a>
+              </td>
+              <td>opensourcealternative.to｜查找开源替代品的网站</td>
+              <td>
+                <a href="https://www.opensourcealternative.to/">https://www.opensourcealternative.to/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av727379202?t=102">01:42</a>
+              </td>
+              <td>untools｜一组帮助思考的工具和方法论</td>
+              <td>
+                <a href="https://untools.co/">https://untools.co/</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av812156413">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av812156413?t=9">00:09</a>
+              </td>
+              <td>Dragonfly｜一个25倍快的 Redis 竞品</td>
+              <td>
+                <a href="https://github.com/dragonflydb/dragonfly">https://github.com/dragonflydb/dragonfly</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av812156413?t=50">00:50</a>
+              </td>
+              <td>PlantUML｜快速编写 UML 图</td>
+              <td>
+                <a href="https://plantuml.com/">https://plantuml.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av812156413?t=72">01:12</a>
+              </td>
+              <td>Neon｜开源 serverless Postgres 方案</td>
+              <td>
+                <a href="https://neon.tech/">https://neon.tech/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av812156413?t=99">01:39</a>
+              </td>
+              <td>ROAPI｜数据聚合 API</td>
+              <td>
+                <a href="https://github.com/roapi/roapi">https://github.com/roapi/roapi</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av812156413?t=138">02:18</a>
+              </td>
+              <td>Tetra｜一个全栈框架</td>
+              <td>
+                <a href="https://www.tetraframework.com/">https://www.tetraframework.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av812156413?t=169">02:49</a>
+              </td>
+              <td>fd｜终端工具 Find 的替代品</td>
+              <td>
+                <a href="https://github.com/sharkdp/fd">https://github.com/sharkdp/fd</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av812156413?t=185">03:05</a>
+              </td>
+              <td>svelvet｜交互式关系图构建工具</td>
+              <td>
+                <a href="https://svelvet.io/docs/basic-usage/">https://svelvet.io/docs/basic-usage/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av812156413?t=202">03:22</a>
+              </td>
+              <td>ffmpeg buddy｜FFmpeg 命令生成工具</td>
+              <td>
+                <a href="https://evanhahn.github.io/ffmpeg-buddy/">https://evanhahn.github.io/ffmpeg-buddy/</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av639600552">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av639600552?t=9">00:09</a>
+              </td>
+              <td>PikaScript ｜ 超轻量级 Python 引擎</td>
+              <td>
+                <a href="https://github.com/pikasTech/pikascript">https://github.com/pikasTech/pikascript</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av639600552?t=26">00:26</a>
+              </td>
+              <td>bionic-reading 的快速阅读英文插件</td>
+              <td>
+                <a href="https://github.com/ansh/bionic-reading">https://github.com/ansh/bionic-reading</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av639600552?t=43">00:43</a>
+              </td>
+              <td>IndigoStack｜MacOS 平台上的本地开发环境</td>
+              <td>
+                <a href="https://indigostack.app/">https://indigostack.app/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av639600552?t=63">01:03</a>
+              </td>
+              <td>TypeScript 发布4.7版本</td>
+              <td>
+                <a href="https://devblogs.microsoft.com/typescript/announcing-typescript-4-7/">https://devblogs.microsoft.com/typescript/announcing-typescript-4-7/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av639600552?t=80">01:20</a>
+              </td>
+              <td>AnimatiSS｜一组 CSS 动画合集</td>
+              <td>
+                <a href="https://xsgames.co/animatiss">https://xsgames.co/animatiss</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av639600552?t=92">01:32</a>
+              </td>
+              <td>Arctype｜ SQL 数据库客户端</td>
+              <td>
+                <a href="https://arctype.com/">https://arctype.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av639600552?t=107">01:47</a>
+              </td>
+              <td>一个有趣的3D 植物生成工具</td>
+              <td>
+                <a href="https://plant.jim-fx.com/">https://plant.jim-fx.com/</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av214334199">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av214334199?t=9">00:09</a>
+              </td>
+              <td>Bud ｜ GO 的全栈 web 框架</td>
+              <td>
+                <a href="https://github.com/livebud/bud">https://github.com/livebud/bud</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av214334199?t=38">00:38</a>
+              </td>
+              <td>Aspect ｜ 可视化开发 React 组件</td>
+              <td>
+                <a href="https://aspect.app/">https://aspect.app/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av214334199?t=57">00:57</a>
+              </td>
+              <td>在 SQLite 中使用 JSON 和 virtual columns</td>
+              <td>
+                <a href="https://antonz.org/json-virtual-columns">https://antonz.org/json-virtual-columns</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av214334199?t=77">01:17</a>
+              </td>
+              <td>Sliderland｜一个极简风格的 JS 实验园地</td>
+              <td>
+                <a href="https://sliderland.blinry.org/">https://sliderland.blinry.org/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av214334199?t=99">01:39</a>
+              </td>
+              <td>LiveTerm｜开发终端风格网站</td>
+              <td>
+                <a href="https://liveterm.vercel.app/">https://liveterm.vercel.app/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av214334199?t=116">01:56</a>
+              </td>
+              <td>Datadog 介绍第三代事件存储库 Husky</td>
+              <td>
+                <a href="https://www.datadoghq.com/blog/engineering/introducing-husky">https://www.datadoghq.com/blog/engineering/introducing-husky</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av214334199?t=136">02:16</a>
+              </td>
+              <td>Quastor｜一个汇集大厂架构分析的专栏频道</td>
+              <td>
+                <a href="https://quastor.substack.com/">https://quastor.substack.com/</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av939044423">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av939044423?t=10">00:10</a>
+              </td>
+              <td>BoltDB 作者的博客｜如何在 fly.io 中使用 SQLite</td>
+              <td>
+                <a href="https://fly.io/blog/all-in-on-sqlite-litestream">https://fly.io/blog/all-in-on-sqlite-litestream</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av939044423?t=40">00:40</a>
+              </td>
+              <td>Litestream｜ Sqlite 实时复制工具</td>
+              <td>
+                <a href="https://github.com/benbjohnson/litestream">https://github.com/benbjohnson/litestream</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av939044423?t=49">00:49</a>
+              </td>
+              <td>Cloudflare 发布 D1</td>
+              <td>
+                <a href="https://blog.cloudflare.com/introducing-d1/">https://blog.cloudflare.com/introducing-d1/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av939044423?t=81">01:21</a>
+              </td>
+              <td>rqlite｜ 与 D1 相似的开源分布式数据库</td>
+              <td>
+                <a href="https://github.com/rqlite/rqlite">https://github.com/rqlite/rqlite</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av939044423?t=93">01:33</a>
+              </td>
+              <td>CaskDB｜一个 kv 存储引擎的教学工具</td>
+              <td>
+                <a href="https://github.com/avinassh/py-caskdb">https://github.com/avinassh/py-caskdb</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av939044423?t=114">01:54</a>
+              </td>
+              <td>CubeDesk｜魔方提速工具</td>
+              <td>
+                <a href="https://www.cubedesk.io/home">https://www.cubedesk.io/home</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av939044423?t=136">02:16</a>
+              </td>
+              <td>DFlex ｜一个适配所有 JS 框架的可拖拽的工具库</td>
+              <td>
+                <a href="https://www.dflex.dev/">https://www.dflex.dev/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av939044423?t=150">02:30</a>
+              </td>
+              <td>一篇 JS 性能分析指南的文章</td>
+              <td>
+                <a href="https://blog.atomrc.dev/p/js-performance-profiling/">https://blog.atomrc.dev/p/js-performance-profiling/</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av596334116">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av596334116?t=9">00:09</a>
+              </td>
+              <td>Anaconda 发布 PyScript｜浏览器中运行 Python</td>
+              <td>
+                <a href="https://www.anaconda.com/blog/pyscript-python-in-the-browser">https://www.anaconda.com/blog/pyscript-python-in-the-browser</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av596334116?t=37">00:37</a>
+              </td>
+              <td>JSONHERO｜JSON 可视化工具</td>
+              <td>
+                <a href="https://jsonhero.io/j/JZw4Wx9Mgj6r/tree">https://jsonhero.io/j/JZw4Wx9Mgj6r/tree</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av596334116?t=52">00:52</a>
+              </td>
+              <td>Spacedrive｜本地和云端同在的文件管理器</td>
+              <td>
+                <a href="https://www.spacedrive.app/">https://www.spacedrive.app/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av596334116?t=70">01:10</a>
+              </td>
+              <td>Bash-Oneliner｜一个事例仓库</td>
+              <td>
+                <a href="https://github.com/onceupon/Bash-Oneliner">https://github.com/onceupon/Bash-Oneliner</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av596334116?t=83">01:23</a>
+              </td>
+              <td>Fig｜ 与 Warp 类似的终端</td>
+              <td>
+                <a href="https://fig.io/">https://fig.io/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av596334116?t=99">01:39</a>
+              </td>
+              <td>nosleep｜避免电脑休眠的网页</td>
+              <td>
+                <a href="https://nosleep.page/">https://nosleep.page/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av596334116?t=120">02:00</a>
+              </td>
+              <td>一篇关于 Golang 的文章</td>
+              <td>
+                <a href="https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang">https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av596334116?t=141">02:21</a>
+              </td>
+              <td>移植到 web 上的《塞尔达传说》</td>
+              <td>
+                <a href="https://hoten.cc/blog/porting-zelda-classic-to-the-web">https://hoten.cc/blog/porting-zelda-classic-to-the-web</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av511210837">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av511210837?t=9">00:09</a>
+              </td>
+              <td>Clinic.js｜ Node.js 性能分析工具</td>
+              <td>
+                <a href="https://clinicjs.org/">https://clinicjs.org/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av511210837?t=25">00:25</a>
+              </td>
+              <td>magic-trace｜Jane Street 开源的进程监控工具</td>
+              <td>
+                <a href="https://github.com/janestreet/magic-trace">https://github.com/janestreet/magic-trace</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av511210837?t=49">00:49</a>
+              </td>
+              <td>memray｜Bloomberg 开源的 Python 性能分析工具</td>
+              <td>
+                <a href="https://github.com/bloomberg/memray">https://github.com/bloomberg/memray</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av511210837?t=72">01:12</a>
+              </td>
+              <td>《learn GO with Tests》｜练习 GO 的工具书</td>
+              <td>
+                <a href="https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/hello-world">https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/hello-world</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av511210837?t=91">01:31</a>
+              </td>
+              <td>Edge Function｜Netlify 新推出的 PaaS 平台</td>
+              <td>
+                <a href="https://www.netlify.com/blog/announcing-serverless-compute-with-edge-functions">https://www.netlify.com/blog/announcing-serverless-compute-with-edge-functions</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av511210837?t=116">01:56</a>
+              </td>
+              <td>workmode｜远程工作助手</td>
+              <td>
+                <a href="https://workmode.co/">https://workmode.co/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av511210837?t=145">02:25</a>
+              </td>
+              <td>pixy｜飞行相机</td>
+              <td>
+                <a href="https://pixy.com/">https://pixy.com/</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av595895504">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av595895504?t=8">00:08</a>
+              </td>
+              <td>一个有用网站的合集</td>
+              <td>
+                <a href="https://www.insanelyusefulwebsites.com/">https://www.insanelyusefulwebsites.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av595895504?t=24">00:24</a>
+              </td>
+              <td>一个开源的 web 文本编辑器</td>
+              <td>
+                <a href="https://lexical.dev/">https://lexical.dev/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av595895504?t=44">00:44</a>
+              </td>
+              <td>一个开源的分布式数据库</td>
+              <td>
+                <a href="https://ydb.tech/">https://ydb.tech/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av595895504?t=71">01:11</a>
+              </td>
+              <td>OpenRefine｜开源数据清洗工具</td>
+              <td>
+                <a href="https://openrefine.org/">https://openrefine.org/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av595895504?t=91">01:31</a>
+              </td>
+              <td>Node.js 发布18版本</td>
+              <td>
+                <a href="https://nodejs.org/en/">https://nodejs.org/en/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av595895504?t=107">01:47</a>
+              </td>
+              <td>GO 发表介绍泛型的文章</td>
+              <td>
+                <a href="https://go.dev/blog/when-generics">https://go.dev/blog/when-generics</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av595895504?t=123">02:03</a>
+              </td>
+              <td>一个单手键盘</td>
+              <td>
+                <a href="https://tipykeyboard.com/en/home/">https://tipykeyboard.com/en/home/</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av553253895">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av553253895?t=9">00:09</a>
+              </td>
+              <td>现代 CLI 大全</td>
+              <td>
+                <a href="https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/">https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av553253895?t=35">00:35</a>
+              </td>
+              <td>bore｜基于 Rust 的隧道工具</td>
+              <td>
+                <a href="https://github.com/ekzhang/bore">https://github.com/ekzhang/bore</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av553253895?t=53">00:53</a>
+              </td>
+              <td>WeekToDo｜本地计划管理工具</td>
+              <td>
+                <a href="https://weektodo.me/">https://weektodo.me/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av553253895?t=69">01:09</a>
+              </td>
+              <td>Zas｜专注于 GO 和 Rust 的编辑器</td>
+              <td>
+                <a href="https://www.zeditor.app/">https://www.zeditor.app/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av553253895?t=84">01:24</a>
+              </td>
+              <td>Pinry｜Pinterest 的开源替代品</td>
+              <td>
+                <a href="https://docs.getpinry.com/">https://docs.getpinry.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av553253895?t=105">01:45</a>
+              </td>
+              <td>｜Deno 推出 FaaS 服务</td>
+              <td>
+                <a href="https://deno.com/blog/a-whole-website-in-a-single-js-file">https://deno.com/blog/a-whole-website-in-a-single-js-file</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av553253895?t=133">02:13</a>
+              </td>
+              <td>EIGHT COLORS ｜一个小游戏</td>
+              <td>
+                <a href="https://eightcolors.net/">https://eightcolors.net/</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av553093356">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av553093356?t=11">00:11</a>
+              </td>
+              <td>Coolify｜自部署 PaaS</td>
+              <td>
+                <a href="https://coolify.io/">https://coolify.io/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av553093356?t=29">00:29</a>
+              </td>
+              <td>warp｜现代化终端</td>
+              <td>
+                <a href="https://www.warp.dev/">https://www.warp.dev/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av553093356?t=48">00:48</a>
+              </td>
+              <td>redo｜开源命令行工具</td>
+              <td>
+                <a href="https://github.com/barthr/redo">https://github.com/barthr/redo</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av553093356?t=59">00:59</a>
+              </td>
+              <td>MetricFlow｜数据仓库管理工具</td>
+              <td>
+                <a href="https://transform.co/metricflow/">https://transform.co/metricflow/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av553093356?t=75">01:15</a>
+              </td>
+              <td>Ruby 增加 WASM 支持</td>
+              <td>
+                <a href="https://www.ruby-lang.org/en/news/2022/04/03/ruby-3-2-0-preview1-released">https://www.ruby-lang.org/en/news/2022/04/03/ruby-3-2-0-preview1-released</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av553093356?t=101">01:41</a>
+              </td>
+              <td>Rome 发布 Rome Formatter｜对标 Prettier</td>
+              <td>
+                <a href="https://rome.tools/blog/2022/04/05/rome-formatter-release">https://rome.tools/blog/2022/04/05/rome-formatter-release</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av553093356?t=124">02:04</a>
+              </td>
+              <td>一篇博客｜TypeScript 编译器工作原理</td>
+              <td>
+                <a href="https://www.huy.rocks/everyday/04-01-2022-typescript-how-the-compiler-compiles">https://www.huy.rocks/everyday/04-01-2022-typescript-how-the-compiler-compiles</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av553093356?t=138">02:18</a>
+              </td>
+              <td>一篇博客｜一些易被忽略的 HTML 属性</td>
+              <td>
+                <a href="https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use">https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av297873494">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av297873494?t=9">00:09</a>
+              </td>
+              <td>GitHub issues 打印机</td>
+              <td>
+                <a href="https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues">https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av297873494?t=29">00:29</a>
+              </td>
+              <td>Oh heck｜一个智能终端指令输入工具</td>
+              <td>
+                <a href="https://oh-heck.dev/">https://oh-heck.dev/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av297873494?t=52">00:52</a>
+              </td>
+              <td>dagger｜一个现代化的 CI/CD 工具包</td>
+              <td>
+                <a href="https://dagger.io/">https://dagger.io/</a>
+                <a href="https://dagger.io/blog/public-launch-announcement">https://dagger.io/blog/public-launch-announcement</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av297873494?t=71">01:11</a>
+              </td>
+              <td>React 发布18.0版本</td>
+              <td>
+                <a href="https://reactjs.org/blog/2022/03/29/react-v18.html">https://reactjs.org/blog/2022/03/29/react-v18.html</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av297873494?t=82">01:22</a>
+              </td>
+              <td>Chrome Experiments 的银河系实验</td>
+              <td>
+                <a href="https://stars.chromeexperiments.com/">https://stars.chromeexperiments.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av297873494?t=100">01:40</a>
+              </td>
+              <td>arpchat｜用 ARP 协议实现的在线聊天工具</td>
+              <td>
+                <a href="https://github.com/kognise/arpchat">https://github.com/kognise/arpchat</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av297873494?t=123">02:03</a>
+              </td>
+              <td>Calenday｜ 一个多人共享日历</td>
+              <td>
+                <a href="https://calenday.co/">https://calenday.co/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av297873494?t=141">02:21</a>
+              </td>
+              <td>WebAssembly 运行 Python</td>
+              <td>
+                <a href="https://2022.pycon.de/program/SBCNDY">https://2022.pycon.de/program/SBCNDY</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av297873494?t=169">02:49</a>
+              </td>
+              <td>Blog Search｜技术类搜索引擎</td>
+              <td>
+                <a href="https://blogsurf.io/">https://blogsurf.io/</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av725137289">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av725137289?t=8">00:08</a>
+              </td>
+              <td>appwrite｜为 web、mobile 和 flutter 开发者提供的开源后端服务</td>
+              <td>
+                <a href="https://github.com/appwrite/appwrite">https://github.com/appwrite/appwrite</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av725137289?t=37">00:37</a>
+              </td>
+              <td>Bionic Reading｜一个用高亮标注的阅读工具</td>
+              <td>
+                <a href="https://bionic-reading.com/">https://bionic-reading.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av725137289?t=64">01:04</a>
+              </td>
+              <td>diagrams.net ｜老牌绘图工具更新功能</td>
+              <td>
+                <a href="https://www.diagrams.net/">https://www.diagrams.net/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av725137289?t=79">01:19</a>
+              </td>
+              <td>Smort｜一个可编辑其它网站文章的工具</td>
+              <td>
+                <a href="https://www.smort.io/">https://www.smort.io/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av725137289?t=109">01:49</a>
+              </td>
+              <td>fzf｜命令行中通用的模糊查询工具</td>
+              <td>
+                <a href="https://github.com/junegunn/fzf">https://github.com/junegunn/fzf</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av725137289?t=117">01:57</a>
+              </td>
+              <td>一个 node.js 的 Postgres 数据库客户端</td>
+              <td>
+                <a href="https://www.tangramvision.com/blog/hands-on-with-postgresql-authorization-part-2-row-level-security">https://www.tangramvision.com/blog/hands-on-with-postgresql-authorization-part-2-row-level-security</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av725137289?t=127">02:07</a>
+              </td>
+              <td>mdn 推出 plus 订阅计划｜Mozilla 商业化新尝试</td>
+              <td>
+                <a href="https://hacks.mozilla.org/2022/03/introducing-mdn-plus-make-mdn-your-own/">https://hacks.mozilla.org/2022/03/introducing-mdn-plus-make-mdn-your-own/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av725137289?t=165">02:45</a>
+              </td>
+              <td>一篇题为 《Data Mesh 架构》的文章</td>
+              <td>
+                <a href="https://www.datamesh-architecture.com/">https://www.datamesh-architecture.com/</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av682476244">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av682476244?t=8">00:08</a>
+              </td>
+              <td>文献管理工具 Zotero 发布 6.0 版本</td>
+              <td>
+                <a href="https://www.zotero.org/blog/zotero-6/">https://www.zotero.org/blog/zotero-6/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av682476244?t=25">00:25</a>
+              </td>
+              <td>Plasticity ｜ 用 web 开发的3D 艺术建模开源软件</td>
+              <td>
+                <a href="https://github.com/nkallen/plasticity">https://github.com/nkallen/plasticity</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av682476244?t=55">00:55</a>
+              </td>
+              <td>Lapce ｜基于原生 GUI 和 Rust 编写的开源代码编辑器</td>
+              <td>
+                <a href="https://lapce.dev/">https://lapce.dev/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av682476244?t=77">01:17</a>
+              </td>
+              <td>Awesome TUIs｜ 收集提供终端用户界面项目清单</td>
+              <td>
+                <a href="https://github.com/rothgar/awesome-tuis">https://github.com/rothgar/awesome-tuis</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av682476244?t=96">01:36</a>
+              </td>
+              <td>K9s ｜一个终端中 UI 强大的 K8s 客户端</td>
+              <td>
+                <a href="https://github.com/derailed/k9s">https://github.com/derailed/k9s</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av682476244?t=103">01:43</a>
+              </td>
+              <td>Tiny renderer｜500 行代码学习 openGL｜附演示教程</td>
+              <td>
+                <a href="https://jvns.ca/blog/2022/03/13/celebrate-tiny-learning-milestones/">https://jvns.ca/blog/2022/03/13/celebrate-tiny-learning-milestones/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av682476244?t=120">02:00</a>
+              </td>
+              <td>GO 发布1.18版本支持泛型</td>
+              <td>
+                <a href="https://golang.google.cn/">https://golang.google.cn/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av682476244?t=134">02:14</a>
+              </td>
+              <td>CSS-Tricks 网站被 DigitalOcean 收购</td>
+              <td>
+                <a href="https://css-tricks.com/css-tricks-is-joining-digitalocean/">https://css-tricks.com/css-tricks-is-joining-digitalocean/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av682476244?t=155">02:35</a>
+              </td>
+              <td>Veloren ｜一个基于 Rust 开发的开源多人 RPG 游戏</td>
+              <td>
+                <a href="https://www.youtube.com/watch?v=hCC1C5KIeUA">https://www.youtube.com/watch?v=hCC1C5KIeUA</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av724739860">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av724739860?t=8">00:08</a>
+              </td>
+              <td>关于 TypeScript 的两条新闻</td>
+              <td>
+                <a href=""></a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av724739860?t=21">00:21</a>
+              </td>
+              <td>TypeScript 向 JS 提议增加类型系统</td>
+              <td>
+                <a href=""></a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av724739860?t=40">00:40</a>
+              </td>
+              <td>Stripe 将 JS 代码库从 Flow 迁移到 TypeScript</td>
+              <td>
+                <a href=""></a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av724739860?t=77">01:17</a>
+              </td>
+              <td>Godot ｜一个开源游戏引擎</td>
+              <td>
+                <a href="https://godotengine.org/">https://godotengine.org/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av724739860?t=101">01:41</a>
+              </td>
+              <td>苹果将发售 Mac Studio｜M1 芯片成为新杀手锏</td>
+              <td>
+                <a href="https://www.apple.com/mac-studio/">https://www.apple.com/mac-studio/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av724739860?t=118">01:58</a>
+              </td>
+              <td>关于数据库索引工作原理的解答</td>
+              <td>
+                <a href="https://stackoverflow.com/questions/1108/how-does-database-indexing-work">https://stackoverflow.com/questions/1108/how-does-database-indexing-work</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av724739860?t=144">02:24</a>
+              </td>
+              <td>dasel ｜单一工具完成 JSON、TOML 等文件的读取和修改</td>
+              <td>
+                <a href="https://github.com/TomWright/dasel">https://github.com/TomWright/dasel</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av724739860?t=165">02:45</a>
+              </td>
+              <td>“请停止使用 :latest 标签”｜一篇关于版本安全的文章</td>
+              <td>
+                <a href="https://platformers.dev/log/2022/latest-literally-kills-puppies/">https://platformers.dev/log/2022/latest-literally-kills-puppies/</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av809507046">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av809507046?t=8">00:08</a>
+              </td>
+              <td>Mozilla 的 MDN 文档全新上线</td>
+              <td>
+                <a href="https://developer.mozilla.org/zh-CN/">https://developer.mozilla.org/zh-CN/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av809507046?t=41">00:41</a>
+              </td>
+              <td>Mozilla 的3D虚拟空间产品</td>
+              <td>
+                <a href="https://hubs.mozilla.com/">https://hubs.mozilla.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av809507046?t=61">01:01</a>
+              </td>
+              <td>HOPPSCOTCH ｜一个开源网络请求发送工具</td>
+              <td>
+                <a href="https://hoppscotch.io/">https://hoppscotch.io/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av809507046?t=79">01:19</a>
+              </td>
+              <td>Streamlit ｜一个使用 Python 直接开发 web UI 的工具</td>
+              <td>
+                <a href="https://streamlit.io/">https://streamlit.io/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av809507046?t=102">01:42</a>
+              </td>
+              <td>Textframe ｜一个动画产品教程创建工具</td>
+              <td>
+                <a href="https://textframe.app/">https://textframe.app/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av809507046?t=119">01:59</a>
+              </td>
+              <td>SaaS 产品开源替代品大全</td>
+              <td>
+                <a href="https://github.com/RunaCapital/awesome-oss-alternatives">https://github.com/RunaCapital/awesome-oss-alternatives</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av809507046?t=150">02:30</a>
+              </td>
+              <td>迷你掌上游戏机 playdate 开源了 SDK</td>
+              <td>
+                <a href="https://play.date/dev/">https://play.date/dev/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av809507046?t=172">02:52</a>
+              </td>
+              <td>轻松一刻时间｜小游戏</td>
+              <td>
+                <a href="https://www.lessmilk.com/almost-pong/">https://www.lessmilk.com/almost-pong/</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av809272615">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av809272615?t=9">00:09</a>
+              </td>
+              <td>怎样实现一个最简单的 CRUD 应用？｜本期专题问答</td>
+              <td>
+                <a href=""></a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av809272615?t=32">00:32</a>
+              </td>
+              <td>Django｜CRUD 最佳工具/答案1</td>
+              <td>
+                <a href="https://www.djangoproject.com/">https://www.djangoproject.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av809272615?t=49">00:49</a>
+              </td>
+              <td>PostgREST｜CRUD 最佳工具/答案2</td>
+              <td>
+                <a href="https://postgrest.org/en/stable/">https://postgrest.org/en/stable/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av809272615?t=79">01:19</a>
+              </td>
+              <td>nHOST｜CRUD 最佳工具/答案3</td>
+              <td>
+                <a href="https://nhost.io/">https://nhost.io/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av809272615?t=105">01:45</a>
+              </td>
+              <td>Grist｜Airtable 的开源替代</td>
+              <td>
+                <a href="https://www.airtable.com/">https://www.airtable.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av809272615?t=126">02:06</a>
+              </td>
+              <td>Automerge｜JS 协同算法库</td>
+              <td>
+                <a href="https://github.com/automerge/automerge">https://github.com/automerge/automerge</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av809272615?t=154">02:34</a>
+              </td>
+              <td>Supernotes｜笔记软件</td>
+              <td>
+                <a href="https://supernotes.app/">https://supernotes.app/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av809272615?t=165">02:45</a>
+              </td>
+              <td>Sioyek｜论文专用 PDF 阅读器</td>
+              <td>
+                <a href="https://github.com/ahrm/sioyek">https://github.com/ahrm/sioyek</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av894239914">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av894239914?t=9">00:09</a>
+              </td>
+              <td>Mermaid ｜ GitHub 的 Markdown 新功能</td>
+              <td>
+                <a href="https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/">https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av894239914?t=33">00:33</a>
+              </td>
+              <td>Arduboy ｜ 8位迷你游戏机</td>
+              <td>
+                <a href="https://www.arduboy.com/">https://www.arduboy.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av894239914?t=52">00:52</a>
+              </td>
+              <td>Glitch ｜ 一个 PaaS 平台</td>
+              <td>
+                <a href="https://glitch.com/">https://glitch.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av894239914?t=74">01:14</a>
+              </td>
+              <td>allotropia ｜ 基于 WASM 在浏览器中运行 LibreOffice</td>
+              <td>
+                <a href="https://www.allotropia.de/">https://www.allotropia.de/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av894239914?t=110">01:50</a>
+              </td>
+              <td>Honeypot 制作的 K8s 纪录片</td>
+              <td>
+                <a href="https://www.youtube.com/watch?v=BE77h7dmoQU">https://www.youtube.com/watch?v=BE77h7dmoQU</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av894239914?t=129">02:09</a>
+              </td>
+              <td>Hue.tools ｜ 颜色处理工具</td>
+              <td>
+                <a href="https://hue.tools/">https://hue.tools/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av894239914?t=151">02:31</a>
+              </td>
+              <td>shortwave ｜ 邮件工具</td>
+              <td>
+                <a href="https://www.shortwave.com/blog/introducing-shortwave/">https://www.shortwave.com/blog/introducing-shortwave/</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av211446987">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av211446987?t=9">00:09</a>
+              </td>
+              <td>Files Gallery｜应用</td>
+              <td>
+                <a href="https://www.files.gallery/">https://www.files.gallery/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av211446987?t=22">00:22</a>
+              </td>
+              <td>Tally｜工具</td>
+              <td>
+                <a href="https://tally.so/">https://tally.so/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av211446987?t=40">00:40</a>
+              </td>
+              <td>Datawrapper｜工具</td>
+              <td>
+                <a href="https://www.datawrapper.de/">https://www.datawrapper.de/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av211446987?t=64">01:04</a>
+              </td>
+              <td>onemodel｜工具</td>
+              <td>
+                <a href="https://www.onemodel.app/">https://www.onemodel.app/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av211446987?t=80">01:20</a>
+              </td>
+              <td>Postman｜工具</td>
+              <td>
+                <a href="https://blog.postman.com/postman-now-supports-grpc/">https://blog.postman.com/postman-now-supports-grpc/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av211446987?t=89">01:29</a>
+              </td>
+              <td>Laravel 9.0 发布</td>
+              <td>
+                <a href="https://laravel-news.com/laravel-9-released">https://laravel-news.com/laravel-9-released</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av211446987?t=106">01:46</a>
+              </td>
+              <td>Mailwind｜邮件模版</td>
+              <td>
+                <a href="https://github.com/soheilpro/mailwind">https://github.com/soheilpro/mailwind</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av211446987?t=125">02:05</a>
+              </td>
+              <td>《 backend.sql + frontend.js = love》｜文章</td>
+              <td>
+                <a href="https://blog.polyglot.network/backend.sql-+-frontend.js-love">https://blog.polyglot.network/backend.sql-+-frontend.js-love</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av211446987?t=145">02:25</a>
+              </td>
+              <td>《Top web hacking techniques of 2021》｜文章</td>
+              <td>
+                <a href=""></a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av211446987?t=161">02:41</a>
+              </td>
+              <td>SHA256 算法可视化演示</td>
+              <td>
+                <a href="https://sha256algorithm.com/">https://sha256algorithm.com/</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av851363567">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av851363567?t=8">00:08</a>
+              </td>
+              <td>Hibiki HTML -新的前端框架-没有脚手架，没有Webpack</td>
+              <td>
+                <a href="https://playground.hibikihtml.com/tutorial/">https://playground.hibikihtml.com/tutorial/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av851363567?t=40">00:40</a>
+              </td>
+              <td>Systemd by Example</td>
+              <td>
+                <a href="https://systemd-by-example.com/">https://systemd-by-example.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av851363567?t=63">01:03</a>
+              </td>
+              <td>Malloy – A Better SQL, from Looker</td>
+              <td>
+                <a href="https://github.com/looker-open-source/malloy">https://github.com/looker-open-source/malloy</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av851363567?t=83">01:23</a>
+              </td>
+              <td>Rich Cli 由Python编写，可打印各种格式丰富的内容</td>
+              <td>
+                <a href="https://github.com/Textualize/rich-cli">https://github.com/Textualize/rich-cli</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av851363567?t=105">01:45</a>
+              </td>
+              <td>《我是如何在AWS上发现数千个开放数据库的》</td>
+              <td>
+                <a href="https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32">https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av808652802">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av808652802?t=7">00:07</a>
+              </td>
+              <td>Charm 用来开发命令行工具的框架</td>
+              <td>
+                <a href="https://charm.sh/">https://charm.sh/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av808652802?t=31">00:31</a>
+              </td>
+              <td>Nova 一个专门给Mac设计的代码编辑器</td>
+              <td>
+                <a href="https://nova.app/">https://nova.app/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av808652802?t=46">00:46</a>
+              </td>
+              <td>rnote 创建手绘风格的笔记软件</td>
+              <td>
+                <a href="https://github.com/flxzt/rnote">https://github.com/flxzt/rnote</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av808652802?t=59">00:59</a>
+              </td>
+              <td>github action 使用示例</td>
+              <td>
+                <a href="https://www.actionsbyexample.com/">https://www.actionsbyexample.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av808652802?t=85">01:25</a>
+              </td>
+              <td>playwright web自动化框架</td>
+              <td>
+                <a href="https://github.com/microsoft/playwright">https://github.com/microsoft/playwright</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av808652802?t=123">02:03</a>
+              </td>
+              <td>prql rust编写的现代化查询语言</td>
+              <td>
+                <a href="https://github.com/prql/prql">https://github.com/prql/prql</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av808652802?t=147">02:27</a>
+              </td>
+              <td>Deskreen 屏幕共享工具</td>
+              <td>
+                <a href="https://deskreen.com/lang-zh_CN">https://deskreen.com/lang-zh_CN</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av808652802?t=167">02:47</a>
+              </td>
+              <td>《为什么我们团队取消了微服务的计划》</td>
+              <td>
+                <a href="https://steven-lemon182.medium.com/why-our-team-cancelled-our-move-to-microservices-8fd87898d952">https://steven-lemon182.medium.com/why-our-team-cancelled-our-move-to-microservices-8fd87898d952</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av808652802?t=199">03:19</a>
+              </td>
+              <td>《将SQLite存储在Cloudflare耐用对象中》</td>
+              <td>
+                <a href="https://ma.rkusa.st/store-sqlite-in-cloudflare-durable-objects">https://ma.rkusa.st/store-sqlite-in-cloudflare-durable-objects</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av808652802?t=224">03:44</a>
+              </td>
+              <td>《Kubernetes如此复杂有两个原因》</td>
+              <td>
+                <a href="https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/">https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av935758161">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av935758161?t=8">00:08</a>
+              </td>
+              <td>faker.js 删库事件新进展</td>
+              <td>
+                <a href="https://github.com/faker-js/faker">https://github.com/faker-js/faker</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av935758161?t=37">00:37</a>
+              </td>
+              <td>暴雪被收购</td>
+              <td>
+                <a href="https://news.microsoft.com/2022/01/18/microsoft-to-acquire-activision-blizzard-to-bring-the-joy-and-community-of-gaming-to-everyone-across-every-device/">https://news.microsoft.com/2022/01/18/microsoft-to-acquire-activision-blizzard-to-bring-the-joy-and-community-of-gaming-to-everyone-across-every-device/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av935758161?t=60">01:00</a>
+              </td>
+              <td>PyFlow｜一个可视化编程环境</td>
+              <td>
+                <a href="https://github.com/wonderworks-software/PyFlow">https://github.com/wonderworks-software/PyFlow</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av935758161?t=74">01:14</a>
+              </td>
+              <td>CSS 选择器练习题网站</td>
+              <td>
+                <a href="https://css-speedrun.netlify.app/">https://css-speedrun.netlify.app/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av935758161?t=87">01:27</a>
+              </td>
+              <td>GPS 工作原理详解</td>
+              <td>
+                <a href="https://ciechanow.ski/gps/">https://ciechanow.ski/gps/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av935758161?t=107">01:47</a>
+              </td>
+              <td>Lichess ｜ 一个国际象棋服务器的支出分析</td>
+              <td>
+                <a href="https://lichess.org/">https://lichess.org/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av935758161?t=145">02:25</a>
+              </td>
+              <td>谷歌分析在欧盟合法性及其替代品</td>
+              <td>
+                <a href="https://isgoogleanalyticsillegal.com/">https://isgoogleanalyticsillegal.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av935758161?t=173">02:53</a>
+              </td>
+              <td>AWS DynamoDB 十年回顾</td>
+              <td>
+                <a href="https://www.amazon.science/latest-news/amazons-dynamodb-10-years-later">https://www.amazon.science/latest-news/amazons-dynamodb-10-years-later</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av935758161?t=198">03:18</a>
+              </td>
+              <td>CyberChef ｜ 一个数据格式转换工具</td>
+              <td>
+                <a href="https://gchq.github.io/CyberChef/">https://gchq.github.io/CyberChef/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av935758161?t=212">03:32</a>
+              </td>
+              <td>curl ｜ 最近支持了 JSON</td>
+              <td>
+                <a href="https://curl.se/">https://curl.se/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av935758161?t=222">03:42</a>
+              </td>
+              <td>轻松一刻｜弹珠撞击木块游戏</td>
+              <td>
+                <a href="https://wallsmash.com/">https://wallsmash.com/</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av935663579">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av935663579?t=7">00:07</a>
+              </td>
+              <td>开源软件被植入恶意代码</td>
+              <td>
+                <a href="https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/">https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av935663579?t=38">00:38</a>
+              </td>
+              <td>Browsix 浏览器中实现 POSIX</td>
+              <td>
+                <a href="https://browsix.org/">https://browsix.org/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av935663579?t=69">01:09</a>
+              </td>
+              <td>GitHub Copilot</td>
+              <td>
+                <a href="https://dagshub.com/blog/github-copilot-not-code/">https://dagshub.com/blog/github-copilot-not-code/</a>
+                <a href="https://github.com/features/copilot">https://github.com/features/copilot</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av935663579?t=89">01:29</a>
+              </td>
+              <td>Learn and Test DMARC 一个可视化工具</td>
+              <td>
+                <a href="https://www.learndmarc.com/">https://www.learndmarc.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av935663579?t=106">01:46</a>
+              </td>
+              <td>BookStack 一个开源 wiki 工具</td>
+              <td>
+                <a href="https://www.bookstackapp.com/">https://www.bookstackapp.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av935663579?t=126">02:06</a>
+              </td>
+              <td>Poly Haven 如何花不到400美金处理80TB数据和500万次页面访问的</td>
+              <td>
+                <a href="https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/">https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av935663579?t=213">03:33</a>
+              </td>
+              <td>Kagi 一个新型高级付费搜索引擎</td>
+              <td>
+                <a href="https://kagi.com/">https://kagi.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av935663579?t=247">04:07</a>
+              </td>
+              <td>介绍两个 Cli 工具: dsq 和 fx</td>
+              <td>
+                <a href="https://datastation.multiprocess.io/blog/2022-01-11-dsq.html">https://datastation.multiprocess.io/blog/2022-01-11-dsq.html</a>
+                <a href="https://github.com/antonmedv/fx">https://github.com/antonmedv/fx</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av935663579?t=278">04:38</a>
+              </td>
+              <td>轻松一刻时间｜介绍一个打发时间的小游戏</td>
+              <td>
+                <a href="https://looptap.vasanthv.com/">https://looptap.vasanthv.com/</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av850617825">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av850617825?t=9">00:09</a>
+              </td>
+              <td>任天堂掌上游戏机发展史回顾</td>
+              <td>
+                <a href="https://www.scanofthemonth.com/scans/game-boy-compendium">https://www.scanofthemonth.com/scans/game-boy-compendium</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av850617825?t=70">01:10</a>
+              </td>
+              <td>《为什么要运行自己的 DNS 服务器？》</td>
+              <td>
+                <a href="https://www.howtogeek.com/devops/how-to-run-your-own-dns-server-on-your-local-network/">https://www.howtogeek.com/devops/how-to-run-your-own-dns-server-on-your-local-network/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av850617825?t=91">01:31</a>
+              </td>
+              <td>Zotero，一个开源的经典文献管理工具</td>
+              <td>
+                <a href="https://www.zotero.org/">https://www.zotero.org/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av850617825?t=117">01:57</a>
+              </td>
+              <td>Darling，一个帮助你在 Linux 上运行 Mac 应用程序的工具</td>
+              <td>
+                <a href="https://www.darlinghq.org/">https://www.darlinghq.org/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av850617825?t=136">02:16</a>
+              </td>
+              <td>coqui，克隆你的声音说外语</td>
+              <td>
+                <a href="https://coqui.ai/">https://coqui.ai/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av850617825?t=155">02:35</a>
+              </td>
+              <td>OpenDrop, 一个开源版的 AirDrop</td>
+              <td>
+                <a href="https://github.com/seemoo-lab/opendrop">https://github.com/seemoo-lab/opendrop</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av850617825?t=173">02:53</a>
+              </td>
+              <td>Portmaster，一个帮助你管理电脑网络的开源软件</td>
+              <td>
+                <a href="https://safing.io/">https://safing.io/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av850617825?t=200">03:20</a>
+              </td>
+              <td>Papers We Love，一个专门研读学术类计算机科学论文的开源社区</td>
+              <td>
+                <a href="https://paperswelove.org/">https://paperswelove.org/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av850617825?t=222">03:42</a>
+              </td>
+              <td>关于 Zig 这个新兴编程语言的分析</td>
+              <td>
+                <a href="https://www.duskborn.com/posts/2021-aoc-zig/">https://www.duskborn.com/posts/2021-aoc-zig/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av850617825?t=254">04:14</a>
+              </td>
+              <td>Raycast 团队信奉无需 code review 的理念</td>
+              <td>
+                <a href="https://www.raycast.com/blog/no-code-reviews-by-default">https://www.raycast.com/blog/no-code-reviews-by-default</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av850617825?t=290">04:50</a>
+              </td>
+              <td>利用浏览器 web GL 实现的东京地铁实时可视化地图</td>
+              <td>
+                <a href=""></a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av850617825?t=313">05:13</a>
+              </td>
+              <td>SpaceX Dragon 2 与国际空间站对接的模拟机</td>
+              <td>
+                <a href="https://iss-sim.spacex.com/">https://iss-sim.spacex.com/</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av722854302">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av722854302?t=8">00:08</a>
+              </td>
+              <td>波斯王子 一款为Mac开发的游戏</td>
+              <td>
+                <a href=""></a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av722854302?t=25">00:25</a>
+              </td>
+              <td>《一个HTML文件中的整个网站》</td>
+              <td>
+                <a href="https://css-tricks.com/a-whole-website-in-a-single-html-file/">https://css-tricks.com/a-whole-website-in-a-single-html-file/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av722854302?t=49">00:49</a>
+              </td>
+              <td>街头霸王2</td>
+              <td>
+                <a href=""></a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av722854302?t=81">01:21</a>
+              </td>
+              <td>emfy Emacs编辑器的配置项目</td>
+              <td>
+                <a href="https://github.com/susam/emfy">https://github.com/susam/emfy</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av722854302?t=98">01:38</a>
+              </td>
+              <td>HTTP Toolkit</td>
+              <td>
+                <a href="https://httptoolkit.tech/">https://httptoolkit.tech/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av722854302?t=119">01:59</a>
+              </td>
+              <td>Exa - ls的现代替代品</td>
+              <td>
+                <a href="https://the.exa.website/">https://the.exa.website/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av722854302?t=146">02:26</a>
+              </td>
+              <td>Marktext -优雅的Markdown编辑器，适用于Linux, macOS, Windows</td>
+              <td>
+                <a href="https://github.com/marktext/marktext">https://github.com/marktext/marktext</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av722854302?t=164">02:44</a>
+              </td>
+              <td>Tokio rust编写的开源异步库</td>
+              <td>
+                <a href="https://tokio.rs/blog/2021-12-announcing-tokio-console">https://tokio.rs/blog/2021-12-announcing-tokio-console</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av722854302?t=181">03:01</a>
+              </td>
+              <td>Ruby 3.1</td>
+              <td>
+                <a href="https://www.ruby-lang.org/en/news/2021/12/25/ruby-3-1-0-released/">https://www.ruby-lang.org/en/news/2021/12/25/ruby-3-1-0-released/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av722854302?t=191">03:11</a>
+              </td>
+              <td>Python CheatSheet python 问题查询手册</td>
+              <td>
+                <a href="https://gto76.github.io/python-cheatsheet/">https://gto76.github.io/python-cheatsheet/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av722854302?t=217">03:37</a>
+              </td>
+              <td>《2021年的数据库:回顾的一年》</td>
+              <td>
+                <a href="https://ottertune.com/blog/2021-databases-retrospective/">https://ottertune.com/blog/2021-databases-retrospective/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av722854302?t=247">04:07</a>
+              </td>
+              <td>Miller -用于查询、塑造、重新格式化CSV、TSV和JSON中的数据的工具</td>
+              <td>
+                <a href="https://miller.readthedocs.io/en/latest/">https://miller.readthedocs.io/en/latest/</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av465206549">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av465206549?t=9">00:09</a>
+              </td>
+              <td>blender3.0 图形渲染工具</td>
+              <td>
+                <a href="https://www.blender.org/download/releases/3-0/">https://www.blender.org/download/releases/3-0/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av465206549?t=31">00:31</a>
+              </td>
+              <td>uBlacklist - 阻止特定的站点出现在谷歌的搜索结果中</td>
+              <td>
+                <a href="https://github.com/iorate/uBlacklist">https://github.com/iorate/uBlacklist</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av465206549?t=45">00:45</a>
+              </td>
+              <td>Apache Guacamole 无客户端的远程桌面网端</td>
+              <td>
+                <a href="https://guacamole.apache.org/">https://guacamole.apache.org/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av465206549?t=73">01:13</a>
+              </td>
+              <td>Learn X in Y minutes</td>
+              <td>
+                <a href="https://learnxinyminutes.com/">https://learnxinyminutes.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av465206549?t=93">01:33</a>
+              </td>
+              <td>《语义搜索的自然语言处理》</td>
+              <td>
+                <a href="https://www.pinecone.io/learn/nlp/">https://www.pinecone.io/learn/nlp/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av465206549?t=110">01:50</a>
+              </td>
+              <td>Jam 自部署工具</td>
+              <td>
+                <a href="https://github.com/jam-systems/jam">https://github.com/jam-systems/jam</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av465206549?t=130">02:10</a>
+              </td>
+              <td>Milk Video 通过上传的视频和音频生成声波图的工具</td>
+              <td>
+                <a href="https://app.milkvideo.com/">https://app.milkvideo.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av465206549?t=144">02:24</a>
+              </td>
+              <td>AlterClass -一个制作和销售编程课程的平台</td>
+              <td>
+                <a href="https://alterclass.io/">https://alterclass.io/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av465206549?t=163">02:43</a>
+              </td>
+              <td>Code Search 搜索代码工具</td>
+              <td>
+                <a href="https://github.blog/2021-12-08-improving-github-code-search/">https://github.blog/2021-12-08-improving-github-code-search/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av465206549?t=175">02:55</a>
+              </td>
+              <td>Lapce ｜基于原生 GUI 和 Rust 编写的开源代码编辑器</td>
+              <td>
+                <a href="https://github.com/lapce/lapce">https://github.com/lapce/lapce</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av465206549?t=187">03:07</a>
+              </td>
+              <td>Rough.js -创建一个手绘的，粗略的图形外观的工具</td>
+              <td>
+                <a href="https://roughjs.com/">https://roughjs.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av465206549?t=195">03:15</a>
+              </td>
+              <td>Doodle CSS 手绘风格的主题css</td>
+              <td>
+                <a href="https://chr15m.github.io/DoodleCSS/">https://chr15m.github.io/DoodleCSS/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av465206549?t=210">03:30</a>
+              </td>
+              <td>Paper Website 从纸上建立一个网站界面</td>
+              <td>
+                <a href="https://daily.tinyprojects.dev/paper_website">https://daily.tinyprojects.dev/paper_website</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
     </div>
-
-</body>
-
+  </body>
 </html>
