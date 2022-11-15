@@ -4,15 +4,15 @@ import sys
 import json
 import itertools
 import dataclasses
-import dominate
 from dataclasses import dataclass
-from dominate import tags
-from dominate.tags import *
 
 from typing import Iterator
 
 import requests
+import dominate
 
+from dominate import tags
+from dominate.tags import *
 
 os.environ["NO_PROXY"] = "bilibili.com"
 
