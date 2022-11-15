@@ -11,7 +11,7 @@ if(temp==1){
     widget.style.border= '2px solid rgb(11, 243, 81)';
     body.style.backgroundColor= 'rgb(7, 7, 29)';
     body.style.color = 'white';
-    content.className = 'shadow-sm p-3 mt-1 bg-dark rounded mx-auto'
+    content.className = 'shadow p-3 mt-1 bg-dark rounded mx-auto'
     for (let i = 0; i < tables.length; i ++) {
         tables[i].className = 'table table-dark table-hover text-center align-middle'
     }
@@ -21,7 +21,7 @@ if(temp==1){
     widget.style.border= '2px solid black';
     body.style.backgroundColor= 'white';
     body.style.color = 'black';
-    content.className = 'shadow-sm p-3 mt-1 bg-body rounded mx-auto'
+    content.className = 'shadow p-3 mt-1 bg-body rounded mx-auto'
     for (let i = 0; i < tables.length; i ++) {
         tables[i].className = 'table table-hover text-center align-middle'
     }

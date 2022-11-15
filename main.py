@@ -378,7 +378,7 @@ def write_html(video_infos: list[VideoInfo]) -> None:
         with div(cls='widget') as divv:
             divv.add(div(cls='light', id='choice'))
             
-        with div(cls='shadow-sm p-3 mt-1 bg-body rounded mx-auto', id='content', style='width: 70%') as content:
+        with div(cls='shadow p-3 mt-1 bg-body rounded mx-auto', id='content', style='width: 70%') as content:
             content.add(h1('Koala hacker news', style='text-align: center; margin-bottom: 50px;'))
     
             for video_info in video_infos:
