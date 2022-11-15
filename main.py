@@ -371,7 +371,7 @@ def write_html(video_infos: list[VideoInfo]) -> None:
         )
         style('a {text-decoration: none}')
     
-    doc.body['cls'] = 'bg-light'
+    doc.body['class'] = 'bg-light'
     with doc:
         with div(cls='shadow p-3 mt-1 rounded mx-auto bg-light', style='width: 70%') as content:
             h1('Koala hacker news')
