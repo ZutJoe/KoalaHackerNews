@@ -1,5 +1,58 @@
 [
   {
+    "aid": 262544844,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 35
+        },
+        {
+          "minutes": 0,
+          "seconds": 55
+        },
+        {
+          "minutes": 1,
+          "seconds": 22
+        },
+        {
+          "minutes": 1,
+          "seconds": 45
+        },
+        {
+          "minutes": 2,
+          "seconds": 8
+        },
+        {
+          "minutes": 2,
+          "seconds": 30
+        }
+      ],
+      "introduces": [
+        "Github Next｜ GitHub 下一代功能",
+        "podman desktop｜可视化容器与 K8s 管理工具",
+        "Docker 支持 Webassembly",
+        "Rome 发布第一个稳定版本 Rome v10",
+        "Blessed｜Rust 教程",
+        "Pickcode｜新式代码教学工具",
+        ".Net 发布了新版本 .Net7"
+      ],
+      "links": [
+        "https://blocks.githubnext.com/",
+        "https://podman-desktop.io/",
+        "https://www.docker.com/blog/docker-wasm-technical-preview/",
+        "https://rome.tools/blog/2022/11/08/rome-10/",
+        "https://blessed.rs/crates",
+        "https://app.pickcode.io/course/hoc-ad-libs-chatbot",
+        "https://devblogs.microsoft.com/dotnet/announcing-dotnet-7/"
+      ]
+    }
+  },
+  {
     "aid": 774867810,
     "hn_items": {
       "times": [
