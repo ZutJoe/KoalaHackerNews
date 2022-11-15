@@ -2,6 +2,18 @@
 
 b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news 周报》[合集](https://space.bilibili.com/489667127/channel/collectiondetail?sid=249279)的内容总结 
 
+## [视频链接](https://www.bilibili.com/video/av262544844)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av262544844?t=9)|Github Next｜ GitHub 下一代功能|https://blocks.githubnext.com/|
+|[00:35](https://www.bilibili.com/video/av262544844?t=35)|podman desktop｜可视化容器与 K8s 管理工具|https://podman-desktop.io/|
+|[00:55](https://www.bilibili.com/video/av262544844?t=55)|Docker 支持 Webassembly|https://www.docker.com/blog/docker-wasm-technical-preview/|
+|[01:22](https://www.bilibili.com/video/av262544844?t=82)|Rome 发布第一个稳定版本 Rome v10|https://rome.tools/blog/2022/11/08/rome-10/|
+|[01:45](https://www.bilibili.com/video/av262544844?t=105)|Blessed｜Rust 教程|https://blessed.rs/crates|
+|[02:08](https://www.bilibili.com/video/av262544844?t=128)|Pickcode｜新式代码教学工具|https://app.pickcode.io/course/hoc-ad-libs-chatbot|
+|[02:30](https://www.bilibili.com/video/av262544844?t=150)|.Net 发布了新版本 .Net7|https://devblogs.microsoft.com/dotnet/announcing-dotnet-7/|
+
 ## [视频链接](https://www.bilibili.com/video/av774867810)
 
 |时间轴|简介|链接|

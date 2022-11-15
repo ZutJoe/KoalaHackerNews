@@ -4,11 +4,93 @@
     <title>Koala hacker news</title>
     <meta charset="utf-8" content="width=device-width, initial-scale=1" name="viewport">
     <link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" rel="stylesheet">
-    <style>a {text-decoration: none}</style>
+    <link href="index.css" rel="stylesheet">
   </head>
-  <body>
-    <div class="shadow-sm p-3 mt-1 bg-body rounded mx-auto" style="width: 70%">
-      <h1>Koala hacker news</h1><br>
+  <body id="body">
+    <div class="widget">
+      <div class="light" id="choice"></div>
+    </div>
+    <div class="shadow-sm p-3 mt-1 bg-body rounded mx-auto" id="content" style="width: 70%">
+      <h1 style="text-align: center; margin-bottom: 50px;">Koala hacker news</h1>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av262544844">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av262544844?t=9">00:09</a>
+              </td>
+              <td>Github Next｜ GitHub 下一代功能</td>
+              <td>
+                <a href="https://blocks.githubnext.com/">https://blocks.githubnext.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av262544844?t=35">00:35</a>
+              </td>
+              <td>podman desktop｜可视化容器与 K8s 管理工具</td>
+              <td>
+                <a href="https://podman-desktop.io/">https://podman-desktop.io/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av262544844?t=55">00:55</a>
+              </td>
+              <td>Docker 支持 Webassembly</td>
+              <td>
+                <a href="https://www.docker.com/blog/docker-wasm-technical-preview/">https://www.docker.com/blog/docker-wasm-technical-preview/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av262544844?t=82">01:22</a>
+              </td>
+              <td>Rome 发布第一个稳定版本 Rome v10</td>
+              <td>
+                <a href="https://rome.tools/blog/2022/11/08/rome-10/">https://rome.tools/blog/2022/11/08/rome-10/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av262544844?t=105">01:45</a>
+              </td>
+              <td>Blessed｜Rust 教程</td>
+              <td>
+                <a href="https://blessed.rs/crates">https://blessed.rs/crates</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av262544844?t=128">02:08</a>
+              </td>
+              <td>Pickcode｜新式代码教学工具</td>
+              <td>
+                <a href="https://app.pickcode.io/course/hoc-ad-libs-chatbot">https://app.pickcode.io/course/hoc-ad-libs-chatbot</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av262544844?t=150">02:30</a>
+              </td>
+              <td>.Net 发布了新版本 .Net7</td>
+              <td>
+                <a href="https://devblogs.microsoft.com/dotnet/announcing-dotnet-7/">https://devblogs.microsoft.com/dotnet/announcing-dotnet-7/</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
       <div>
         <h5>
           <a href="https://www.bilibili.com/video/av774867810">视频链接</a>
@@ -3947,5 +4029,6 @@
         </table><br>
       </div>
     </div>
+    <script src="index.js" type="text/javascript"></script>
   </body>
 </html>
