@@ -369,17 +369,23 @@ def write_html(video_infos: list[VideoInfo]) -> None:
             integrity='sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi',
             crossorigin='anonymous'
         )
-        style('a {text-decoration: none}')
-    
-    doc.body['class'] = 'bg-light'
+        link(
+            rel='stylesheet',
+            href='index.css'
+        )
+
     with doc:
-        with div(cls='shadow p-3 mt-1 rounded mx-auto bg-light', style='width: 70%') as content:
-            h1('Koala hacker news')
-            br()
+        with div(cls='widget') as divv:
+            divv.add(div(cls='light', id='choice'))
+            
+        with div(cls='shadow p-3 mt-1 bg-body rounded mx-auto', id='content', style='width: 70%') as content:
+            content.add(h1('Koala hacker news', style='text-align: center; margin-bottom: 50px;'))
     
-        for video_info in video_infos:
-            content.add(generate_html_table(video_info))
-    
+            for video_info in video_infos:
+                content.add(generate_html_table(video_info))
+
+    doc.body['id'] = 'body'
+    doc.add(script(type='text/javascript', src='index.js'))
     with open('index.html', 'w', encoding='utf-8') as f:
         f.write("".join(doc.render()))
 
