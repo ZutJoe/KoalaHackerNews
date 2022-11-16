@@ -9,7 +9,8 @@ from dataclasses import dataclass
 from typing import Iterator
 
 import requests
-from dominate import tags
+import dominate
+
 from dominate.tags import div, h5, a, table, tr, th, thead, tbody, td, a, td, br, meta, link, h1, script
 
 os.environ["NO_PROXY"] = "bilibili.com"
@@ -297,7 +298,7 @@ def write_md(video_infos: list[VideoInfo]) -> None:
         f.write("".join(readme))
 
 
-def generate_html_table(video_info: VideoInfo) -> tags.div:
+def generate_html_table(video_info: VideoInfo) -> div:
     """
     把解析之后的单个视频置顶评论转换成 html 表格形式
     """
@@ -307,10 +308,10 @@ def generate_html_table(video_info: VideoInfo) -> tags.div:
     links = video_info.hn_items.links
     video_url = f'https://www.bilibili.com/video/av{aid}'
 
-    divv: tags.div = div()
+    divv: div = div()
     divv.add(h5(a('视频链接', href=f'{video_url}')))
 
-    tablee: tags.table = divv.add(table(cls='table table-hover text-center align-middle'))
+    tablee: table = divv.add(table(cls='table table-hover text-center align-middle'))
     trr = tr()
     trr.add(th('时间轴', scope='col', cls='col-1'))
     trr.add(th('简介', scope='col', cls='col-2'))
