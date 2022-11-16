@@ -7,7 +7,7 @@ import dataclasses
 import dominate
 from dataclasses import dataclass
 from dominate import tags
-from dominate.tags import *
+from dominate.tags import div, h5, a, table, tr, th, thead, tbody, td, a, td, br, meta, link, h1, script
 
 from typing import Iterator
 
