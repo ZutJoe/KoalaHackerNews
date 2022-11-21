@@ -2,6 +2,17 @@
 
 b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news 周报》[合集](https://space.bilibili.com/489667127/channel/collectiondetail?sid=249279)的内容总结 
 
+## [视频链接](https://www.bilibili.com/video/av902826595)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:10](https://www.bilibili.com/video/av902826595?t=10)|Redpanda｜与 Kafka PAI 兼容的流式数据平台|https://redpanda.com/|
+|[00:39](https://www.bilibili.com/video/av902826595?t=39)|Autocut｜通过字幕剪切视频的工具|https://github.com/mli/autocut|
+|[01:03](https://www.bilibili.com/video/av902826595?t=63)|Sapling｜Meta 大规模代码管理方案|https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable|
+|[01:28](https://www.bilibili.com/video/av902826595?t=88)|Greptime｜分布式时序数据库|https://github.com/GreptimeTeam/greptimedb|
+|[02:01](https://www.bilibili.com/video/av902826595?t=121)|COZO｜事务型关系嵌入式数据库|https://github.com/cozodb/cozo|
+|[02:25](https://www.bilibili.com/video/av902826595?t=145)|Mathics｜Mathematica 开源替代品|https://mathics.org/|
+
 ## [视频链接](https://www.bilibili.com/video/av262544844)
 
 |时间轴|简介|链接|

@@ -1,5 +1,52 @@
 [
   {
+    "aid": 902826595,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 10
+        },
+        {
+          "minutes": 0,
+          "seconds": 39
+        },
+        {
+          "minutes": 1,
+          "seconds": 3
+        },
+        {
+          "minutes": 1,
+          "seconds": 28
+        },
+        {
+          "minutes": 2,
+          "seconds": 1
+        },
+        {
+          "minutes": 2,
+          "seconds": 25
+        }
+      ],
+      "introduces": [
+        "Redpanda｜与 Kafka PAI 兼容的流式数据平台",
+        "Autocut｜通过字幕剪切视频的工具",
+        "Sapling｜Meta 大规模代码管理方案",
+        "Greptime｜分布式时序数据库",
+        "COZO｜事务型关系嵌入式数据库",
+        "Mathics｜Mathematica 开源替代品"
+      ],
+      "links": [
+        "https://redpanda.com/",
+        "https://github.com/mli/autocut",
+        "https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable",
+        "https://github.com/GreptimeTeam/greptimedb",
+        "https://github.com/cozodb/cozo",
+        "https://mathics.org/"
+      ]
+    }
+  },
+  {
     "aid": 262544844,
     "hn_items": {
       "times": [
