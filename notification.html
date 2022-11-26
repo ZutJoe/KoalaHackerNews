@@ -1,178 +1,205 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Koala hacker news</title>
-    <meta charset="utf-8" content="width=device-width, initial-scale=1" name="viewport">
-    <link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" rel="stylesheet">
-    <link rel="stylesheet" href="index.css">
-  </head>
-  <body id="body">
-    <div class="widget" >
-      <div class="light" id="choice"></div>
-    </div>
-    <div class="shadow-sm p-3 mt-1 bg-body rounded mx-auto" id="content" style="width: 70%">
-      <h1 style="text-align: center; margin-bottom: 50px;">Koala hacker news</h1>
-      <!-- <br> -->
-      <div>
-        <h5>
-          <a href="https://www.bilibili.com/video/av774867810">视频链接</a>
-        </h5>
-        <table class="table table-hover text-center align-middle" id="table">
-          <thead>
-            <tr>
-              <th class="col-1" scope="col">时间轴</th>
-              <th class="col-2" scope="col">简介</th>
-              <th class="col-2" scope="col">链接</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>
-                <a href="https://www.bilibili.com/video/av774867810?t=9">00:09</a>
-              </td>
-              <td>phlare｜GrafanaLabs推出持续性能分析平台Phlare</td>
-              <td>
-                <a href="https://github.com/grafana/phlare">https://github.com/grafana/phlare</a>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <a href="https://www.bilibili.com/video/av774867810?t=38">00:38</a>
-              </td>
-              <td>PostgreSQL提供图查询能力插件ApacheAGE</td>
-              <td>
-                <a href="https://age.apache.org/">https://age.apache.org/</a>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <a href="https://www.bilibili.com/video/av774867810?t=56">00:56</a>
-              </td>
-              <td>JC｜命令结果转JSON工具JC</td>
-              <td>
-                <a href="https://github.com/kellyjonbrazil/jc">https://github.com/kellyjonbrazil/jc</a>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <a href="https://www.bilibili.com/video/av774867810?t=95">01:35</a>
-              </td>
-              <td>shell中history命令全新实现(多设备共享历史命令)</td>
-              <td>
-                <a href="https://github.com/ddworken/hishtory">https://github.com/ddworken/hishtory</a>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <a href="https://www.bilibili.com/video/av774867810?t=116">01:56</a>
-              </td>
-              <td>ffmpeg｜过滤器图形化工具</td>
-              <td>
-                <a href="https://ffmpeg.guide/">https://ffmpeg.guide/</a>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <a href="https://www.bilibili.com/video/av774867810?t=134">02:14</a>
-              </td>
-              <td>turbopack速度10倍于vite?尤雨溪发文反击</td>
-              <td>
-                <a href="https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8">https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8</a>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <a href="https://www.bilibili.com/video/av774867810?t=161">02:41</a>
-              </td>
-              <td>Heroku免费替代品</td>
-              <td>
-                <a href="https://github.com/Engagespot/heroku-free-alternatives">https://github.com/Engagespot/heroku-free-alternatives</a>
-              </td>
-            </tr>
-          </tbody>
-        </table><br>
-      </div>
-      <div>
-        <h5>
-          <a href="https://www.bilibili.com/video/av774867810">视频链接</a>
-        </h5>
-        <table class="table table-hover text-center align-middle" id="table">
-          <thead>
-            <tr>
-              <th class="col-1" scope="col">时间轴</th>
-              <th class="col-2" scope="col">简介</th>
-              <th class="col-2" scope="col">链接</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>
-                <a href="https://www.bilibili.com/video/av774867810?t=9">00:09</a>
-              </td>
-              <td>phlare｜GrafanaLabs推出持续性能分析平台Phlare</td>
-              <td>
-                <a href="https://github.com/grafana/phlare">https://github.com/grafana/phlare</a>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <a href="https://www.bilibili.com/video/av774867810?t=38">00:38</a>
-              </td>
-              <td>PostgreSQL提供图查询能力插件ApacheAGE</td>
-              <td>
-                <a href="https://age.apache.org/">https://age.apache.org/</a>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <a href="https://www.bilibili.com/video/av774867810?t=56">00:56</a>
-              </td>
-              <td>JC｜命令结果转JSON工具JC</td>
-              <td>
-                <a href="https://github.com/kellyjonbrazil/jc">https://github.com/kellyjonbrazil/jc</a>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <a href="https://www.bilibili.com/video/av774867810?t=95">01:35</a>
-              </td>
-              <td>shell中history命令全新实现(多设备共享历史命令)</td>
-              <td>
-                <a href="https://github.com/ddworken/hishtory">https://github.com/ddworken/hishtory</a>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <a href="https://www.bilibili.com/video/av774867810?t=116">01:56</a>
-              </td>
-              <td>ffmpeg｜过滤器图形化工具</td>
-              <td>
-                <a href="https://ffmpeg.guide/">https://ffmpeg.guide/</a>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <a href="https://www.bilibili.com/video/av774867810?t=134">02:14</a>
-              </td>
-              <td>turbopack速度10倍于vite?尤雨溪发文反击</td>
-              <td>
-                <a href="https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8">https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8</a>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <a href="https://www.bilibili.com/video/av774867810?t=161">02:41</a>
-              </td>
-              <td>Heroku免费替代品</td>
-              <td>
-                <a href="https://github.com/Engagespot/heroku-free-alternatives">https://github.com/Engagespot/heroku-free-alternatives</a>
-              </td>
-            </tr>
-          </tbody>
-        </table><br>
-      </div>
-    </div>
 
-    <script type="text/javascript" src="index.js"></script>
-  </body>
+<head>
+  <title>Koala hacker news</title>
+  <meta charset="utf-8" content="width=device-width, initial-scale=1" name="viewport">
+  <link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"
+    integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" rel="stylesheet">
+  <link rel="stylesheet" href="index.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3" />
+  <script>
+    var ALGOLIA_INSIGHTS_SRC = "https://cdn.jsdelivr.net/npm/search-insights@2.2.1";
+    !function(e,a,t,n,s,i,c){e.AlgoliaAnalyticsObject=s,e[s]=e[s]||function(){
+    (e[s].queue=e[s].queue||[]).push(arguments)},i=a.createElement(t),c=a.getElementsByTagName(t)[0],
+    i.async=1,i.src=n,c.parentNode.insertBefore(i,c)
+    }(window,document,"script",ALGOLIA_INSIGHTS_SRC,"aa");
+
+    aa('init', {
+      appId: 'WDAJNKS3QQ',
+      apiKey: 'b09e16fe7d2c25524997c82d657a3ec3',
+    })
+    aa('set-user-token', 'user-token-1')
+  </script>
+
+</head>
+
+<body id="body">
+  <div class="widget">
+    <div class="light" id="choice"></div>
+  </div>
+
+  <div class="shadow-sm p-3 mt-1 bg-body rounded mx-auto" id="content" style="width: 70%">
+    <h1 style="text-align: center;">Koala hacker news</h1>
+    <div style="margin-bottom: 30px;" id="docsearch"></div>
+    <!-- <br> -->
+    <div>
+      <h5>
+        <a href="https://www.bilibili.com/video/av774867810">视频链接</a>
+      </h5>
+      <table class="table table-hover text-center align-middle" id="table">
+        <thead>
+          <tr>
+            <th class="col-1" scope="col">时间轴</th>
+            <th class="col-2" scope="col">简介</th>
+            <th class="col-2" scope="col">链接</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <a href="https://www.bilibili.com/video/av774867810?t=9">00:09</a>
+            </td>
+            <td>phlare｜GrafanaLabs推出持续性能分析平台Phlare</td>
+            <td>
+              <a href="https://github.com/grafana/phlare">https://github.com/grafana/phlare</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href="https://www.bilibili.com/video/av774867810?t=38">00:38</a>
+            </td>
+            <td>PostgreSQL提供图查询能力插件ApacheAGE</td>
+            <td>
+              <a href="https://age.apache.org/">https://age.apache.org/</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href="https://www.bilibili.com/video/av774867810?t=56">00:56</a>
+            </td>
+            <td>JC｜命令结果转JSON工具JC</td>
+            <td>
+              <a href="https://github.com/kellyjonbrazil/jc">https://github.com/kellyjonbrazil/jc</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href="https://www.bilibili.com/video/av774867810?t=95">01:35</a>
+            </td>
+            <td>shell中history命令全新实现(多设备共享历史命令)</td>
+            <td>
+              <a href="https://github.com/ddworken/hishtory">https://github.com/ddworken/hishtory</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href="https://www.bilibili.com/video/av774867810?t=116">01:56</a>
+            </td>
+            <td>ffmpeg｜过滤器图形化工具</td>
+            <td>
+              <a href="https://ffmpeg.guide/">https://ffmpeg.guide/</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href="https://www.bilibili.com/video/av774867810?t=134">02:14</a>
+            </td>
+            <td>turbopack速度10倍于vite?尤雨溪发文反击</td>
+            <td>
+              <a
+                href="https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8">https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href="https://www.bilibili.com/video/av774867810?t=161">02:41</a>
+            </td>
+            <td>Heroku免费替代品</td>
+            <td>
+              <a
+                href="https://github.com/Engagespot/heroku-free-alternatives">https://github.com/Engagespot/heroku-free-alternatives</a>
+            </td>
+          </tr>
+        </tbody>
+      </table><br>
+    </div>
+    <div>
+      <h5>
+        <a href="https://www.bilibili.com/video/av774867810">视频链接</a>
+      </h5>
+      <table class="table table-hover text-center align-middle" id="table">
+        <thead>
+          <tr>
+            <th class="col-1" scope="col">时间轴</th>
+            <th class="col-2" scope="col">简介</th>
+            <th class="col-2" scope="col">链接</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <a href="https://www.bilibili.com/video/av774867810?t=9">00:09</a>
+            </td>
+            <td>phlare｜GrafanaLabs推出持续性能分析平台Phlare</td>
+            <td>
+              <a href="https://github.com/grafana/phlare">https://github.com/grafana/phlare</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href="https://www.bilibili.com/video/av774867810?t=38">00:38</a>
+            </td>
+            <td>PostgreSQL提供图查询能力插件ApacheAGE</td>
+            <td>
+              <a href="https://age.apache.org/">https://age.apache.org/</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href="https://www.bilibili.com/video/av774867810?t=56">00:56</a>
+            </td>
+            <td>JC｜命令结果转JSON工具JC</td>
+            <td>
+              <a href="https://github.com/kellyjonbrazil/jc">https://github.com/kellyjonbrazil/jc</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href="https://www.bilibili.com/video/av774867810?t=95">01:35</a>
+            </td>
+            <td>shell中history命令全新实现(多设备共享历史命令)</td>
+            <td>
+              <a href="https://github.com/ddworken/hishtory">https://github.com/ddworken/hishtory</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href="https://www.bilibili.com/video/av774867810?t=116">01:56</a>
+            </td>
+            <td>ffmpeg｜过滤器图形化工具</td>
+            <td>
+              <a href="https://ffmpeg.guide/">https://ffmpeg.guide/</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href="https://www.bilibili.com/video/av774867810?t=134">02:14</a>
+            </td>
+            <td>turbopack速度10倍于vite?尤雨溪发文反击</td>
+            <td>
+              <a
+                href="https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8">https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href="https://www.bilibili.com/video/av774867810?t=161">02:41</a>
+            </td>
+            <td>Heroku免费替代品</td>
+            <td>
+              <a
+                href="https://github.com/Engagespot/heroku-free-alternatives">https://github.com/Engagespot/heroku-free-alternatives</a>
+            </td>
+          </tr>
+        </tbody>
+      </table><br>
+    </div>
+  </div>
+
+  <script type="text/javascript" src="index.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@docsearch/js@3"></script>
+  <script src="search.js"></script>
+</body>
+
 </html>
