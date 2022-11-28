@@ -2,7 +2,7 @@
 
 b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news 周报》[合集](https://space.bilibili.com/489667127/channel/collectiondetail?sid=249279)的内容总结 
 
-## [视频链接](https://www.bilibili.com/video/av690620840)
+## [[Hacker News 周报] Stable Diffusion AI 作画 V2；开源数据可视化平台；命令行的艺术](https://www.bilibili.com/video/av690620840)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
@@ -14,7 +14,7 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[01:58](https://www.bilibili.com/video/av690620840?t=118)|《命令行的艺术》项目|https://github.com/jlevy/the-art-of-command-line|
 |[02:20](https://www.bilibili.com/video/av690620840?t=140)|Diátaxis｜帮助创作技术文档的写作框架|https://diataxis.fr/|
 
-## [视频链接](https://www.bilibili.com/video/av902826595)
+## [[Hacker News 周报] Mathematica 开源替代品；数据库领域多个新项目；Meta 大规模代码管理方案](https://www.bilibili.com/video/av902826595)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
@@ -25,7 +25,7 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[02:01](https://www.bilibili.com/video/av902826595?t=121)|COZO｜事务型关系嵌入式数据库|https://github.com/cozodb/cozo|
 |[02:25](https://www.bilibili.com/video/av902826595?t=145)|Mathics｜Mathematica 开源替代品|https://mathics.org/|
 
-## [视频链接](https://www.bilibili.com/video/av262544844)
+## [[Hacker News 周报] GitHub 下一代功能；Docker 支持 Webassembly；新式代码教学工具](https://www.bilibili.com/video/av262544844)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
@@ -37,7 +37,7 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[02:08](https://www.bilibili.com/video/av262544844?t=128)|Pickcode｜新式代码教学工具|https://app.pickcode.io/course/hoc-ad-libs-chatbot|
 |[02:30](https://www.bilibili.com/video/av262544844?t=150)|.Net 发布了新版本 .Net7|https://devblogs.microsoft.com/dotnet/announcing-dotnet-7/|
 
-## [视频链接](https://www.bilibili.com/video/av774867810)
+## [[Hacker News 周报] Grafana Labs 新产品；Vite 与 Turbopack 性能对比；Heroku 替代方案](https://www.bilibili.com/video/av774867810)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
@@ -49,7 +49,7 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[02:14](https://www.bilibili.com/video/av774867810?t=134)|turbopack速度10倍于vite?尤雨溪发文反击|https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8|
 |[02:41](https://www.bilibili.com/video/av774867810?t=161)|Heroku免费替代品|https://github.com/Engagespot/heroku-free-alternatives|
 
-## [视频链接](https://www.bilibili.com/video/av732078145)
+## [[Hacker News 周报] Vercel 推出 Webpack 替代品；Python 发布新版；轻量级搜索引擎 Sonic](https://www.bilibili.com/video/av732078145)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
@@ -61,7 +61,7 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[02:07](https://www.bilibili.com/video/av732078145?t=127)|Bolt.css｜ HTML 的样式表|https://boltcss.com/|
 |[02:33](https://www.bilibili.com/video/av732078145?t=153)|Starter Tab｜自定义主页工具|https://startertab.com/|
 
-## [视频链接](https://www.bilibili.com/video/av816812753)
+## [[Hacker News 周报] 手机编程 App；WebAssembly 应用；高性能 TypeScript 编译器](https://www.bilibili.com/video/av816812753)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
@@ -73,7 +73,7 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[02:56](https://www.bilibili.com/video/av816812753?t=176)|Replit Mobile App｜ 手机编程 App|https://blog.replit.com/mobile-app|
 |[03:27](https://www.bilibili.com/video/av816812753?t=207)|Koala 频道观众贡献的2个 Hacker News 周报检索项目|https://github.com/ZutJoe/Koala_hacker_news<br>https://tmmap.lipanpanx.com/public/others/Koala%E8%81%8A%E5%BC%80%E6%BA%90.html<br>https://mmap.lipanpanx.com/public/others/Koala%E8%81%8A%E5%BC%80%E6%BA%90.html|
 
-## [视频链接](https://www.bilibili.com/video/av261620356)
+## [[Hacker News 周报] Obsidian 发布 1.0；命令行中编辑视频与收发邮件；Jet Brains 新一代 IDE 公测](https://www.bilibili.com/video/av261620356)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
@@ -85,7 +85,7 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[01:54](https://www.bilibili.com/video/av261620356?t=114)|Fleet｜Jet Brains 新一代 IDE|https://www.jetbrains.com/fleet/|
 |[02:18](https://www.bilibili.com/video/av261620356?t=138)|Go 语言设计讨论|https://github.com/golang/go/discussions/56010|
 
-## [视频链接](https://www.bilibili.com/video/av346450481)
+## [[Hacker News 周报] 通过二维码分享电脑中任意文件；开源 WASM 运行 PostgresSQL 方案；社区尝试维护 SQLite 下游版本](https://www.bilibili.com/video/av346450481)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
@@ -97,7 +97,7 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[02:06](https://www.bilibili.com/video/av346450481?t=126)|libSQL｜ SQLite 下游版本|https://github.com/libsql/libsql<br>https://itnext.io/sqlite-qemu-all-over-again-aedad19c9a1c|
 |[02:38](https://www.bilibili.com/video/av346450481?t=158)|TypeScript  10 years anniversary|https://devblogs.microsoft.com/typescript/ten-years-of-typescript/|
 
-## [视频链接](https://www.bilibili.com/video/av388741659)
+## [[Hacker News 周报] CloudFlare 开源 serverless 运行时 workerd；开源 APM 系统；使用 Go 和 Web 技术开发](https://www.bilibili.com/video/av388741659)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
@@ -109,7 +109,7 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[02:16](https://www.bilibili.com/video/av388741659?t=136)|Liqe｜轻量级搜索引擎|https://github.com/gajus/liqe|
 |[02:31](https://www.bilibili.com/video/av388741659?t=151)|Google 计划关停云游戏服务 Stadia|https://www.theverge.com/2022/9/29/23378713/google-stadia-shutting-down-game-streaming-january-2023|
 
-## [视频链接](https://www.bilibili.com/video/av558499331)
+## [[Hacker News 周报] Git 终端 UI；开源短链接服务；AI 作画图库](https://www.bilibili.com/video/av558499331)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
@@ -122,7 +122,7 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[02:15](https://www.bilibili.com/video/av558499331?t=135)|fly.io 开源新项目 LiteFS|https://fly.io/blog/introducing-litefs|
 |[02:51](https://www.bilibili.com/video/av558499331?t=171)|Azure CTO Mark Russinovich 发推引发热议|https://twitter.com/markrussinovich/status/1571995117233504257|
 
-## [视频链接](https://www.bilibili.com/video/av303210611)
+## [[Hacker News 周报] 在线设计工具新动向；交互式 Markdown；Mac 中体验 AI 作画](https://www.bilibili.com/video/av303210611)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
@@ -135,7 +135,7 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[01:59](https://www.bilibili.com/video/av303210611?t=119)|SafeQL｜ 校验 SQL 的 ESLint 插件|https://safeql.dev/|
 |[02:14](https://www.bilibili.com/video/av303210611?t=134)|Diffusion Bee｜在 M1 Mac 上运行 Stable Diffusion 的桌面端应用|https://github.com/divamgupta/diffusionbee-stable-diffusion-ui|
 
-## [视频链接](https://www.bilibili.com/video/av560499744)
+## [[Hacker News 周报] 结构化 diff 工具；百倍快的 Python linter；PREACT 状态管理新方案 signals](https://www.bilibili.com/video/av560499744)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
@@ -147,7 +147,7 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[02:24](https://www.bilibili.com/video/av560499744?t=144)|Modern for Hacker News｜ 美化 Hacker News 界面的浏览器插件|https://www.modernhn.com/|
 |[02:37](https://www.bilibili.com/video/av560499744?t=157)|signals｜PREACT 状态管理新方案|https://preactjs.com/blog/introducing-signals/|
 
-## [视频链接](https://www.bilibili.com/video/av260156898)
+## [[Hacker News 周报] 快速启动隔离开发环境；JSON 可视化工具；Heroku 即将停止免费额度](https://www.bilibili.com/video/av260156898)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
@@ -160,7 +160,7 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[02:37](https://www.bilibili.com/video/av260156898?t=157)|Heroku 即将停止免费额度|https://dev.to/lorenzojkrl/bye-bye-heroku-2npi|
 |[03:01](https://www.bilibili.com/video/av260156898?t=181)|GitHub 开发者关系副总裁回复移除 Trending|https://github.com/community/community/discussions/31644|
 
-## [视频链接](https://www.bilibili.com/video/av217441979)
+## [[Hacker News 周报] 野心勃勃的数据库 SurrealDB；80 岁计算机科学家仍在优化开源代码；将触屏设备变为触摸板](https://www.bilibili.com/video/av217441979)
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
