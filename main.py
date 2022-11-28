@@ -6,7 +6,7 @@ import itertools
 import dataclasses
 from dataclasses import dataclass
 
-from typing import Iterator
+from typing import Iterator, Union, Dict
 
 import requests
 import dominate
@@ -63,7 +63,7 @@ def get_aids() -> Iterator[int]:
             yield aid
 
 
-def get_top_comment(aid: int) -> str | None:
+def get_top_comment(aid: int) -> Union[str, None]:
     """
     获取视频的置顶评论，如果没有置顶评论则返回 None
     """
@@ -101,7 +101,7 @@ class VideoTime:
 class HackerNewsItems:
     times: list[VideoTime]
     introduces: list[str]
-    links: list[str | list[str]]
+    links: list[Union[str, list[str]]]
 
     @classmethod
     def from_dict(cls, d: dict) -> 'HackerNewsItems':
@@ -131,13 +131,41 @@ def _parse_time_and_intro(
     introduces.append(intro.replace("|", "｜"))
 
 
-def parse_top_comment(message: str | None) -> HackerNewsItems:
+def get_video_title(aids: list[int]) -> dict:
+
+    """
+    通过前一期推荐视频的关联匹配现在一期的视频信息
+
+    retruns {
+        "aid": "<title>",
+        ...
+    },
+    """
+    recommend_url = f"http://api.bilibili.cn/author_recommend"
+    params = {
+        'aid': aids[-1]
+    }
+    response = requests.get(url=recommend_url, params=params, timeout=10)
+    response.raise_for_status()
+    video_data = response.json()
+    video_title = {}
+    for j in aids:
+        for i in video_data["list"]:
+            if i["aid"] == j:
+                video_title[i['aid']] = i['title']
+                break
+            else:
+                video_title[j] = "视频链接"
+
+    return video_title
+
+def parse_top_comment(message: Union[str, None]) -> HackerNewsItems:
     """
     解析置顶评论，获得每个条目的时间轴、简介、以及链接
     """
     times: list[VideoTime] = []
     introduces: list[str] = []
-    links: list[str | list[str]] = []
+    links: list[Union[str, list[str]]] = []
 
     if message is None:
         message = ""
@@ -182,7 +210,7 @@ def parse_top_comment(message: str | None) -> HackerNewsItems:
     return HackerNewsItems(times, introduces, links)
 
 
-@dataclass(kw_only=True)
+@dataclass()
 class VideoInfo:
     aid: int
     hn_items: HackerNewsItems
@@ -249,17 +277,20 @@ def generate_md_table(video_info: VideoInfo) -> list[str]:
 
     readme: list[str] = []
 
+    list_aids = list(get_aids())
+    video_title = get_video_title(list_aids)
+
     readme.append(
         '\n'
-        f'## [视频链接]({video_url})\n'
+        f'## [{video_title.get(aid)}]({video_url})\n'
         '\n'
         '|时间轴|简介|链接|\n'
         '|:--:|:--:|:--:|\n'
     )
 
-    time: VideoTime | None
-    intro: str | None
-    link: str | list[str] | None
+    time: Union[VideoTime, None]
+    intro: Union[str, None]
+    link: Union[str, list[str], None]
     for time, intro, link in itertools.zip_longest(times, introduces, links):
         if time is None:
             time_str = ' '
@@ -319,9 +350,9 @@ def generate_html_table(video_info: VideoInfo) -> tags.div:
     trr.add(th('链接', scope='col', cls='col-2'))
     tablee.add(thead(trr)) 
 
-    time: VideoTime | None
-    intro: str | None
-    link: str | list[str] | None
+    time: Union[VideoTime, None]
+    intro: Union[str, None]
+    link: Union[str, list[str], None]
     with tablee.add(tbody()) as tbodyy:
         for time, intro, link in itertools.zip_longest(times, introduces, links):
             trr = tr()

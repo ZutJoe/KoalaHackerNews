@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "koala-hacker-news"
+version = "0.1.0"
+description = "Koala hacker news 周报内容 每周二0点左右自动更新"
+authors = ["Your Name <you@example.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "koala_hacker_news"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+requests = "^2.28.1"
+dominate = "^2.7.0"
+more-itertools = "^9.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
