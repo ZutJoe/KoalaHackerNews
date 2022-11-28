@@ -1,5 +1,58 @@
 [
   {
+    "aid": 690620840,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 27
+        },
+        {
+          "minutes": 0,
+          "seconds": 51
+        },
+        {
+          "minutes": 1,
+          "seconds": 10
+        },
+        {
+          "minutes": 1,
+          "seconds": 39
+        },
+        {
+          "minutes": 1,
+          "seconds": 58
+        },
+        {
+          "minutes": 2,
+          "seconds": 20
+        }
+      ],
+      "introduces": [
+        "Script Kit｜面向开发者的自动化工具，",
+        "D2｜开源声明式绘图语言",
+        "Superset｜开源数据可视化平台",
+        "Stable Diffusion 发布2.0版本",
+        "蚂蚁 UI 组件库 Ant Design 发布 V5 版本",
+        "《命令行的艺术》项目",
+        "Diátaxis｜帮助创作技术文档的写作框架"
+      ],
+      "links": [
+        "https://www.scriptkit.com/",
+        "https://d2lang.com/",
+        "https://superset.apache.org/",
+        "https://stability.ai/blog/stable-diffusion-v2-release",
+        "https://github.com/ant-design/ant-design/issues/38671",
+        "https://github.com/jlevy/the-art-of-command-line",
+        "https://diataxis.fr/"
+      ]
+    }
+  },
+  {
     "aid": 902826595,
     "hn_items": {
       "times": [

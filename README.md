@@ -2,6 +2,18 @@
 
 b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news 周报》[合集](https://space.bilibili.com/489667127/channel/collectiondetail?sid=249279)的内容总结 
 
+## [视频链接](https://www.bilibili.com/video/av690620840)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av690620840?t=9)|Script Kit｜面向开发者的自动化工具，|https://www.scriptkit.com/|
+|[00:27](https://www.bilibili.com/video/av690620840?t=27)|D2｜开源声明式绘图语言|https://d2lang.com/|
+|[00:51](https://www.bilibili.com/video/av690620840?t=51)|Superset｜开源数据可视化平台|https://superset.apache.org/|
+|[01:10](https://www.bilibili.com/video/av690620840?t=70)|Stable Diffusion 发布2.0版本|https://stability.ai/blog/stable-diffusion-v2-release|
+|[01:39](https://www.bilibili.com/video/av690620840?t=99)|蚂蚁 UI 组件库 Ant Design 发布 V5 版本|https://github.com/ant-design/ant-design/issues/38671|
+|[01:58](https://www.bilibili.com/video/av690620840?t=118)|《命令行的艺术》项目|https://github.com/jlevy/the-art-of-command-line|
+|[02:20](https://www.bilibili.com/video/av690620840?t=140)|Diátaxis｜帮助创作技术文档的写作框架|https://diataxis.fr/|
+
 ## [视频链接](https://www.bilibili.com/video/av902826595)
 
 |时间轴|简介|链接|
