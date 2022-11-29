@@ -34,9 +34,9 @@ HEADERS = {
 
 def get_aids() -> Iterator[int]:
     """
-    获取视频合集内视频的av号
+    获取视频合集内视频的 av 号
 
-    :return: 合集内每个视频的av号
+    :return: 合集内每个视频的 av 号
     """
     for page_num in itertools.count(1):
         params = {
@@ -136,8 +136,8 @@ def get_video_title(aids: list[int]) -> dict:
     """
     通过前一期推荐视频的关联匹配现在一期的视频信息
 
-    retruns {
-        "aid": "<title>",
+    return {
+        "<aid>": "<title>",
         ...
     },
     """
@@ -149,13 +149,13 @@ def get_video_title(aids: list[int]) -> dict:
     response.raise_for_status()
     video_data = response.json()
     video_title = {}
-    for j in aids:
+    for aid in aids:
         for i in video_data["list"]:
-            if i["aid"] == j:
+            if i["aid"] == aid:
                 video_title[i['aid']] = i['title']
                 break
             else:
-                video_title[j] = "视频链接"
+                video_title[aid] = "[Hacker News 周报]"
 
     return video_title
 
@@ -284,7 +284,7 @@ def generate_md_table(video_info: VideoInfo) -> list[str]:
         '\n'
         f'## [{video_title.get(aid)}]({video_url})\n'
         '\n'
-        '|时间轴|简介|链接|\n'
+        '|时间轴 | 简介 | 链接|\n'
         '|:--:|:--:|:--:|\n'
     )
 
@@ -318,7 +318,7 @@ def write_md(video_infos: list[VideoInfo]) -> None:
     readme.append(
         '# Koala_hacker_news \n'
         '\n'
-        'b站up主[Koala聊开源](https://space.bilibili.com/489667127)'
+        'b 站 up 主 [Koala 聊开源](https://space.bilibili.com/489667127)'
         '的《hacker news 周报》[合集]'
         '(https://space.bilibili.com/489667127/channel/collectiondetail?sid=249279)'
         '的内容总结 \n'
