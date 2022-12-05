@@ -1,5 +1,58 @@
 [
   {
+    "aid": 903386514,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 39
+        },
+        {
+          "minutes": 1,
+          "seconds": 3
+        },
+        {
+          "minutes": 1,
+          "seconds": 28
+        },
+        {
+          "minutes": 1,
+          "seconds": 50
+        },
+        {
+          "minutes": 2,
+          "seconds": 9
+        },
+        {
+          "minutes": 2,
+          "seconds": 25
+        }
+      ],
+      "introduces": [
+        "OpenAI 开放 ChatGPT 模型",
+        "Google 推出安全编程语言 Rune",
+        "Kubeshark｜k8s 流量观测工具",
+        "cheat.sh｜技术小抄集合",
+        "go-coffeeshop｜GO 的微服务示例",
+        "NLP 在线课程",
+        "《Sql for Devs》｜数据库详解电子书"
+      ],
+      "links": [
+        "https://openai.com/blog/chatgpt/",
+        "https://github.com/google/rune",
+        "https://github.com/kubeshark/kubeshark",
+        "https://github.com/chubin/cheat.sh",
+        "https://github.com/thangchung/go-coffeeshop",
+        "https://www.nlpdemystified.org/",
+        "https://sqlfordevs.com/ebook"
+      ]
+    }
+  },
+  {
     "aid": 690620840,
     "hn_items": {
       "times": [

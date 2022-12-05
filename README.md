@@ -2,6 +2,18 @@
 
 b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news 周报》[合集](https://space.bilibili.com/489667127/channel/collectiondetail?sid=249279)的内容总结 
 
+## [视频链接](https://www.bilibili.com/video/av903386514)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av903386514?t=9)|OpenAI 开放 ChatGPT 模型|https://openai.com/blog/chatgpt/|
+|[00:39](https://www.bilibili.com/video/av903386514?t=39)|Google 推出安全编程语言 Rune|https://github.com/google/rune|
+|[01:03](https://www.bilibili.com/video/av903386514?t=63)|Kubeshark｜k8s 流量观测工具|https://github.com/kubeshark/kubeshark|
+|[01:28](https://www.bilibili.com/video/av903386514?t=88)|cheat.sh｜技术小抄集合|https://github.com/chubin/cheat.sh|
+|[01:50](https://www.bilibili.com/video/av903386514?t=110)|go-coffeeshop｜GO 的微服务示例|https://github.com/thangchung/go-coffeeshop|
+|[02:09](https://www.bilibili.com/video/av903386514?t=129)|NLP 在线课程|https://www.nlpdemystified.org/|
+|[02:25](https://www.bilibili.com/video/av903386514?t=145)|《Sql for Devs》｜数据库详解电子书|https://sqlfordevs.com/ebook|
+
 ## [视频链接](https://www.bilibili.com/video/av690620840)
 
 |时间轴|简介|链接|
