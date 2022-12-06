@@ -4,24 +4,9 @@
 <head>
   <title>Koala hacker news</title>
   <meta charset="utf-8" content="width=device-width, initial-scale=1" name="viewport">
-  <link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"
-    integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" rel="stylesheet">
+  <link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="index.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3" />
-  <script>
-    var ALGOLIA_INSIGHTS_SRC = "https://cdn.jsdelivr.net/npm/search-insights@2.2.1";
-    !function(e,a,t,n,s,i,c){e.AlgoliaAnalyticsObject=s,e[s]=e[s]||function(){
-    (e[s].queue=e[s].queue||[]).push(arguments)},i=a.createElement(t),c=a.getElementsByTagName(t)[0],
-    i.async=1,i.src=n,c.parentNode.insertBefore(i,c)
-    }(window,document,"script",ALGOLIA_INSIGHTS_SRC,"aa");
-
-    aa('init', {
-      appId: 'WDAJNKS3QQ',
-      apiKey: 'b09e16fe7d2c25524997c82d657a3ec3',
-    })
-    aa('set-user-token', 'user-token-1')
-  </script>
-
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3"/></pre></li> -->
 </head>
 
 <body id="body">
@@ -31,7 +16,36 @@
 
   <div class="shadow-sm p-3 mt-1 bg-body rounded mx-auto" id="content" style="width: 70%">
     <h1 style="text-align: center;">Koala hacker news</h1>
-    <div style="margin-bottom: 30px;" id="docsearch"></div>
+
+    <div class="input-group mb-3" style="width: 50%;" >
+      <span class="input-group-text" id="inputGroup-sizing-default">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+          <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
+        </svg>
+      </span>
+      <input id="search_input" type="text" placeholder="Search" class="form-control" onfocus="show_modal()">
+    </div>
+
+    <div class="modal fade" id="search_modal">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h1 class="modal-title fs-5" id="search_modal">Search</h1>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <div class="input-group mb-3" >
+              <span class="input-group-text" id="inputGroup-sizing-default">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+                  <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
+                </svg>
+              </span>
+              <input id="search_input" type="text" placeholder="Search" class="form-control">
+            </div> 
+          </div>
+        </div>
+      </div>
+    </div>
     <!-- <br> -->
     <div>
       <h5>
@@ -197,9 +211,10 @@
     </div>
   </div>
 
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
   <script type="text/javascript" src="index.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@docsearch/js@3"></script>
-  <script src="search.js"></script>
+  <!-- <script src="https://cdn.jsdelivr.net/npm/@docsearch/js@3"></script>
+  <script src="search.js" ></script> -->
 </body>
 
 </html>
