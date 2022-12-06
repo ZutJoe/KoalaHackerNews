@@ -1,5 +1,158 @@
 [
   {
+    "aid": 903386514,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 39
+        },
+        {
+          "minutes": 1,
+          "seconds": 3
+        },
+        {
+          "minutes": 1,
+          "seconds": 28
+        },
+        {
+          "minutes": 1,
+          "seconds": 50
+        },
+        {
+          "minutes": 2,
+          "seconds": 9
+        },
+        {
+          "minutes": 2,
+          "seconds": 25
+        }
+      ],
+      "introduces": [
+        "OpenAI 开放 ChatGPT 模型",
+        "Google 推出安全编程语言 Rune",
+        "Kubeshark｜k8s 流量观测工具",
+        "cheat.sh｜技术小抄集合",
+        "go-coffeeshop｜GO 的微服务示例",
+        "NLP 在线课程",
+        "《Sql for Devs》｜数据库详解电子书"
+      ],
+      "links": [
+        "https://openai.com/blog/chatgpt/",
+        "https://github.com/google/rune",
+        "https://github.com/kubeshark/kubeshark",
+        "https://github.com/chubin/cheat.sh",
+        "https://github.com/thangchung/go-coffeeshop",
+        "https://www.nlpdemystified.org/",
+        "https://sqlfordevs.com/ebook"
+      ]
+    }
+  },
+  {
+    "aid": 690620840,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 27
+        },
+        {
+          "minutes": 0,
+          "seconds": 51
+        },
+        {
+          "minutes": 1,
+          "seconds": 10
+        },
+        {
+          "minutes": 1,
+          "seconds": 39
+        },
+        {
+          "minutes": 1,
+          "seconds": 58
+        },
+        {
+          "minutes": 2,
+          "seconds": 20
+        }
+      ],
+      "introduces": [
+        "Script Kit｜面向开发者的自动化工具，",
+        "D2｜开源声明式绘图语言",
+        "Superset｜开源数据可视化平台",
+        "Stable Diffusion 发布2.0版本",
+        "蚂蚁 UI 组件库 Ant Design 发布 V5 版本",
+        "《命令行的艺术》项目",
+        "Diátaxis｜帮助创作技术文档的写作框架"
+      ],
+      "links": [
+        "https://www.scriptkit.com/",
+        "https://d2lang.com/",
+        "https://superset.apache.org/",
+        "https://stability.ai/blog/stable-diffusion-v2-release",
+        "https://github.com/ant-design/ant-design/issues/38671",
+        "https://github.com/jlevy/the-art-of-command-line",
+        "https://diataxis.fr/"
+      ]
+    }
+  },
+  {
+    "aid": 902826595,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 10
+        },
+        {
+          "minutes": 0,
+          "seconds": 39
+        },
+        {
+          "minutes": 1,
+          "seconds": 3
+        },
+        {
+          "minutes": 1,
+          "seconds": 28
+        },
+        {
+          "minutes": 2,
+          "seconds": 1
+        },
+        {
+          "minutes": 2,
+          "seconds": 25
+        }
+      ],
+      "introduces": [
+        "Redpanda｜与 Kafka PAI 兼容的流式数据平台",
+        "Autocut｜通过字幕剪切视频的工具",
+        "Sapling｜Meta 大规模代码管理方案",
+        "Greptime｜分布式时序数据库",
+        "COZO｜事务型关系嵌入式数据库",
+        "Mathics｜Mathematica 开源替代品"
+      ],
+      "links": [
+        "https://redpanda.com/",
+        "https://github.com/mli/autocut",
+        "https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable",
+        "https://github.com/GreptimeTeam/greptimedb",
+        "https://github.com/cozodb/cozo",
+        "https://mathics.org/"
+      ]
+    }
+  },
+  {
     "aid": 262544844,
     "hn_items": {
       "times": [
