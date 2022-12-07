@@ -2,8 +2,8 @@ let arrs = ['a', 'aa', 'bbbb', 'aaaa', 'cccc', 'dddd', 'aavv', '你好', '你']
 
 let search_input = document.getElementById('fact_search_input')
 
-function createUlNode () {
-    const node = document.createElement('ul')
+function createDivNode () {
+    const node = document.createElement('div')
     node.className = 'list-group'
     node.id = 'search_result'
 
@@ -11,9 +11,10 @@ function createUlNode () {
     modal_body.appendChild(node)
 }
 
-function createLiNode (content) {
-    const node = document.createElement("li")
-    node.className = 'list-group-item'
+function createANode (content) {
+    const node = document.createElement("a")
+    node.className = 'list-group-item list-group-item-action'
+    node.href = '#'
     const textnode = document.createTextNode(content)
     node.appendChild(textnode)
     search_result.appendChild(node)
@@ -27,18 +28,15 @@ search_input.addEventListener('input', (e) => {
     }
 
     clear()
-    createUlNode()
+    createDivNode()
     for (let i = 0; i < arrs.length; i++) {
         if (arrs[i].indexOf(search_input.value) !== -1) {
-            createLiNode(arrs[i])
+            createANode(arrs[i])
         }
     }
 })
 
 function clear() {
-    // for (let i = 0; i < search_result.childNodes.length; i++) {
-    //     search_result.removeChild(search_result.childNodes[i]);
-    // }
     let search_result = document.getElementById('search_result')
     if (search_result !== null) {
         search_result.remove()
