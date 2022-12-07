@@ -16,7 +16,8 @@ widget.addEventListener('click', () => {
         for (let i = 0; i < tables.length; i++) {
             tables[i].className = 'table table-dark table-hover text-center align-middle'
         }
-    } else {
+    } 
+    else {
         choice.className = 'light';
         temp = 1;
         widget.style.border = '2px solid black';
@@ -39,13 +40,13 @@ function show_modal() {
     )
     search_modal.show()
     let search_input = document.getElementById('fact_search_input')
-    let search_result = document.getElementById('search_result')
-    search_modal_el.addEventListener('shown.bs.modal', e => {
+    search_modal_el.addEventListener('shown.bs.modal', () => {
         search_input.focus()
     })
 
-    search_modal_el.addEventListener('hidden.bs.modal', e => {
+    search_modal_el.addEventListener('hidden.bs.modal', () => {
         search_input.value = ''
+        let search_result = document.getElementById('search_result')
         if (search_result !== null) {
             search_result.remove()
         }
