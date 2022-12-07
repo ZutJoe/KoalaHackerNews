@@ -30,11 +30,24 @@ widget.addEventListener('click', () => {
 })
 
 function show_modal() {
-    let search_modal = new bootstrap.Modal(document.getElementById('search_modal'), {
-            keyboard: true,
-            focus: true,
-            backdrop: true,
-        }
+    const search_modal_el = document.getElementById('search_modal')
+    let search_modal = new bootstrap.Modal(search_modal_el, {
+        keyboard: true,
+        focus: true,
+        backdrop: true,
+    }
     )
     search_modal.show()
+    let search_input = document.getElementById('fact_search_input')
+    let search_result = document.getElementById('search_result')
+    search_modal_el.addEventListener('shown.bs.modal', e => {
+        search_input.focus()
+    })
+
+    search_modal_el.addEventListener('hidden.bs.modal', e => {
+        search_input.value = ''
+        if (search_result !== null) {
+            search_result.remove()
+        }
+    })
 }

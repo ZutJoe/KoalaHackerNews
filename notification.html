@@ -10,211 +10,222 @@
 </head>
 
 <body id="body">
-  <div class="widget">
-    <div class="light" id="choice"></div>
-  </div>
 
-  <div class="shadow-sm p-3 mt-1 bg-body rounded mx-auto" id="content" style="width: 70%">
-    <h1 style="text-align: center;">Koala hacker news</h1>
+  <div style="height: 100px; width: 100%">
+    <div class="shadow-sm p-3 mt-1 bg-body rounded mx-auto" id="content" style="width: 70%">
+      <h1 style="text-align: center;">Koala hacker news</h1>
 
-    <div class="input-group mb-3" style="width: 50%;" >
-      <span class="input-group-text" id="inputGroup-sizing-default">
-        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
-          <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
-        </svg>
-      </span>
-      <input id="search_input" type="text" placeholder="Search" class="form-control" onfocus="show_modal()">
-    </div>
+      <div style="height: 60px; width: 100%">
+        <div class="input-group mb-3" style="width: 50%; float: left;" >
+          <span class="input-group-text" id="inputGroup-sizing-default">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+              <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
+            </svg>
+          </span>
+          <input id="search_input" type="text" placeholder="Search" class="form-control" onfocus="show_modal()">
+        </div>
 
-    <div class="modal fade" id="search_modal">
-      <div class="modal-dialog">
-        <div class="modal-content">
-          <div class="modal-header">
-            <h1 class="modal-title fs-5" id="search_modal">Search</h1>
-            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-          </div>
-          <div class="modal-body">
-            <div class="input-group mb-3" >
-              <span class="input-group-text" id="inputGroup-sizing-default">
-                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
-                  <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
-                </svg>
-              </span>
-              <input id="search_input" type="text" placeholder="Search" class="form-control">
-            </div> 
+        <div class="widget">
+          <div class="light" id="choice"></div>
+        </div>
+      </div>
+
+      <div class="modal fade" id="search_modal">
+        <div class="modal-dialog modal-lg">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h1 class="modal-title fs-5">Search</h1>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body" id="modal-body">
+              <div class="input-group mb-3" >
+                <span class="input-group-text" id="inputGroup-sizing-default">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+                    <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
+                  </svg>
+                </span>
+                <input id="fact_search_input" type="text" placeholder="Search" class="form-control">
+              </div> 
+
+              <ul class="list-group" id="search_result">
+              </ul>
+
+            </div>
           </div>
         </div>
       </div>
+      <!-- <br> -->
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av774867810">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle" id="table">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av774867810?t=9">00:09</a>
+              </td>
+              <td>phlare｜GrafanaLabs推出持续性能分析平台Phlare</td>
+              <td>
+                <a href="https://github.com/grafana/phlare">https://github.com/grafana/phlare</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av774867810?t=38">00:38</a>
+              </td>
+              <td>PostgreSQL提供图查询能力插件ApacheAGE</td>
+              <td>
+                <a href="https://age.apache.org/">https://age.apache.org/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av774867810?t=56">00:56</a>
+              </td>
+              <td>JC｜命令结果转JSON工具JC</td>
+              <td>
+                <a href="https://github.com/kellyjonbrazil/jc">https://github.com/kellyjonbrazil/jc</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av774867810?t=95">01:35</a>
+              </td>
+              <td>shell中history命令全新实现(多设备共享历史命令)</td>
+              <td>
+                <a href="https://github.com/ddworken/hishtory">https://github.com/ddworken/hishtory</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av774867810?t=116">01:56</a>
+              </td>
+              <td>ffmpeg｜过滤器图形化工具</td>
+              <td>
+                <a href="https://ffmpeg.guide/">https://ffmpeg.guide/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av774867810?t=134">02:14</a>
+              </td>
+              <td>turbopack速度10倍于vite?尤雨溪发文反击</td>
+              <td>
+                <a
+                  href="https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8">https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av774867810?t=161">02:41</a>
+              </td>
+              <td>Heroku免费替代品</td>
+              <td>
+                <a
+                  href="https://github.com/Engagespot/heroku-free-alternatives">https://github.com/Engagespot/heroku-free-alternatives</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av774867810">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle" id="table">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av774867810?t=9">00:09</a>
+              </td>
+              <td>phlare｜GrafanaLabs推出持续性能分析平台Phlare</td>
+              <td>
+                <a href="https://github.com/grafana/phlare">https://github.com/grafana/phlare</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av774867810?t=38">00:38</a>
+              </td>
+              <td>PostgreSQL提供图查询能力插件ApacheAGE</td>
+              <td>
+                <a href="https://age.apache.org/">https://age.apache.org/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av774867810?t=56">00:56</a>
+              </td>
+              <td>JC｜命令结果转JSON工具JC</td>
+              <td>
+                <a href="https://github.com/kellyjonbrazil/jc">https://github.com/kellyjonbrazil/jc</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av774867810?t=95">01:35</a>
+              </td>
+              <td>shell中history命令全新实现(多设备共享历史命令)</td>
+              <td>
+                <a href="https://github.com/ddworken/hishtory">https://github.com/ddworken/hishtory</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av774867810?t=116">01:56</a>
+              </td>
+              <td>ffmpeg｜过滤器图形化工具</td>
+              <td>
+                <a href="https://ffmpeg.guide/">https://ffmpeg.guide/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av774867810?t=134">02:14</a>
+              </td>
+              <td>turbopack速度10倍于vite?尤雨溪发文反击</td>
+              <td>
+                <a
+                  href="https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8">https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av774867810?t=161">02:41</a>
+              </td>
+              <td>Heroku免费替代品</td>
+              <td>
+                <a
+                  href="https://github.com/Engagespot/heroku-free-alternatives">https://github.com/Engagespot/heroku-free-alternatives</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
     </div>
-    <!-- <br> -->
-    <div>
-      <h5>
-        <a href="https://www.bilibili.com/video/av774867810">视频链接</a>
-      </h5>
-      <table class="table table-hover text-center align-middle" id="table">
-        <thead>
-          <tr>
-            <th class="col-1" scope="col">时间轴</th>
-            <th class="col-2" scope="col">简介</th>
-            <th class="col-2" scope="col">链接</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>
-              <a href="https://www.bilibili.com/video/av774867810?t=9">00:09</a>
-            </td>
-            <td>phlare｜GrafanaLabs推出持续性能分析平台Phlare</td>
-            <td>
-              <a href="https://github.com/grafana/phlare">https://github.com/grafana/phlare</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <a href="https://www.bilibili.com/video/av774867810?t=38">00:38</a>
-            </td>
-            <td>PostgreSQL提供图查询能力插件ApacheAGE</td>
-            <td>
-              <a href="https://age.apache.org/">https://age.apache.org/</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <a href="https://www.bilibili.com/video/av774867810?t=56">00:56</a>
-            </td>
-            <td>JC｜命令结果转JSON工具JC</td>
-            <td>
-              <a href="https://github.com/kellyjonbrazil/jc">https://github.com/kellyjonbrazil/jc</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <a href="https://www.bilibili.com/video/av774867810?t=95">01:35</a>
-            </td>
-            <td>shell中history命令全新实现(多设备共享历史命令)</td>
-            <td>
-              <a href="https://github.com/ddworken/hishtory">https://github.com/ddworken/hishtory</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <a href="https://www.bilibili.com/video/av774867810?t=116">01:56</a>
-            </td>
-            <td>ffmpeg｜过滤器图形化工具</td>
-            <td>
-              <a href="https://ffmpeg.guide/">https://ffmpeg.guide/</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <a href="https://www.bilibili.com/video/av774867810?t=134">02:14</a>
-            </td>
-            <td>turbopack速度10倍于vite?尤雨溪发文反击</td>
-            <td>
-              <a
-                href="https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8">https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <a href="https://www.bilibili.com/video/av774867810?t=161">02:41</a>
-            </td>
-            <td>Heroku免费替代品</td>
-            <td>
-              <a
-                href="https://github.com/Engagespot/heroku-free-alternatives">https://github.com/Engagespot/heroku-free-alternatives</a>
-            </td>
-          </tr>
-        </tbody>
-      </table><br>
-    </div>
-    <div>
-      <h5>
-        <a href="https://www.bilibili.com/video/av774867810">视频链接</a>
-      </h5>
-      <table class="table table-hover text-center align-middle" id="table">
-        <thead>
-          <tr>
-            <th class="col-1" scope="col">时间轴</th>
-            <th class="col-2" scope="col">简介</th>
-            <th class="col-2" scope="col">链接</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>
-              <a href="https://www.bilibili.com/video/av774867810?t=9">00:09</a>
-            </td>
-            <td>phlare｜GrafanaLabs推出持续性能分析平台Phlare</td>
-            <td>
-              <a href="https://github.com/grafana/phlare">https://github.com/grafana/phlare</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <a href="https://www.bilibili.com/video/av774867810?t=38">00:38</a>
-            </td>
-            <td>PostgreSQL提供图查询能力插件ApacheAGE</td>
-            <td>
-              <a href="https://age.apache.org/">https://age.apache.org/</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <a href="https://www.bilibili.com/video/av774867810?t=56">00:56</a>
-            </td>
-            <td>JC｜命令结果转JSON工具JC</td>
-            <td>
-              <a href="https://github.com/kellyjonbrazil/jc">https://github.com/kellyjonbrazil/jc</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <a href="https://www.bilibili.com/video/av774867810?t=95">01:35</a>
-            </td>
-            <td>shell中history命令全新实现(多设备共享历史命令)</td>
-            <td>
-              <a href="https://github.com/ddworken/hishtory">https://github.com/ddworken/hishtory</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <a href="https://www.bilibili.com/video/av774867810?t=116">01:56</a>
-            </td>
-            <td>ffmpeg｜过滤器图形化工具</td>
-            <td>
-              <a href="https://ffmpeg.guide/">https://ffmpeg.guide/</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <a href="https://www.bilibili.com/video/av774867810?t=134">02:14</a>
-            </td>
-            <td>turbopack速度10倍于vite?尤雨溪发文反击</td>
-            <td>
-              <a
-                href="https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8">https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <a href="https://www.bilibili.com/video/av774867810?t=161">02:41</a>
-            </td>
-            <td>Heroku免费替代品</td>
-            <td>
-              <a
-                href="https://github.com/Engagespot/heroku-free-alternatives">https://github.com/Engagespot/heroku-free-alternatives</a>
-            </td>
-          </tr>
-        </tbody>
-      </table><br>
-    </div>
+
   </div>
+
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
   <script type="text/javascript" src="index.js"></script>
-  <!-- <script src="https://cdn.jsdelivr.net/npm/@docsearch/js@3"></script>
-  <script src="search.js" ></script> -->
+  <!-- <script src="https://cdn.jsdelivr.net/npm/@docsearch/js@3"></script> -->
+  <script src="search.js" ></script>
 </body>
 
 </html>
