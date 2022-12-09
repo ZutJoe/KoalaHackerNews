@@ -21,6 +21,7 @@ body{
     border-radius: 20px;
     cursor: pointer;
     transition: all 3s;
+    float: right;
 }
 .light{  
     position: absolute;

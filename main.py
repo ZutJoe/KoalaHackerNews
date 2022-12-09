@@ -11,8 +11,8 @@ from typing import Iterator
 import requests
 import dominate
 
-from dominate import tags
-from dominate.tags import *
+from dominate.tags import div, h5, a, table, tr, th, thead, tbody, td, a, td, br, meta, link, h1, script, input_, span, button
+from dominate.svg import svg, path
 
 os.environ["NO_PROXY"] = "bilibili.com"
 
@@ -299,7 +299,7 @@ def write_md(video_infos: list[VideoInfo]) -> None:
         f.write("".join(readme))
 
 
-def generate_html_table(video_info: VideoInfo) -> tags.div:
+def generate_html_table(video_info: VideoInfo) -> div:
     """
     把解析之后的单个视频置顶评论转换成 html 表格形式
     """
@@ -309,10 +309,10 @@ def generate_html_table(video_info: VideoInfo) -> tags.div:
     links = video_info.hn_items.links
     video_url = f'https://www.bilibili.com/video/av{aid}'
 
-    divv: tags.div = div()
-    divv.add(h5(a('视频链接', href=f'{video_url}')))
+    divv: div = div()
+    divv.add(h5(a('视频链接', href=f'{video_url}', id=aid)))
 
-    tablee: tags.table = divv.add(table(cls='table table-hover text-center align-middle'))
+    tablee: table = divv.add(table(cls='table table-hover text-center align-middle'))
     trr = tr()
     trr.add(th('时间轴', scope='col', cls='col-1'))
     trr.add(th('简介', scope='col', cls='col-2'))
@@ -373,6 +373,9 @@ def write_html(video_infos: list[VideoInfo]) -> None:
             rel='stylesheet',
             href='index.css'
         )
+        script(
+            src='load.js'
+        )
 
     with doc:
         with div(cls='widget') as divv:
@@ -380,17 +383,51 @@ def write_html(video_infos: list[VideoInfo]) -> None:
             
         with div(cls='shadow p-3 mt-1 bg-body rounded mx-auto', id='content', style='width: 70%') as content:
             content.add(h1('Koala hacker news', style='text-align: center; margin-bottom: 50px;'))
-    
+
+            content += div(
+                        span(
+                            svg(
+                                path(
+                                    d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"), 
+                                xmlns="http://www.w3.org/2000/svg", width="16", height="16", fill="currentColor", cls="bi bi-search", viewBox="0 0 16 16"), 
+                            cls='input-group-text'),
+                        input_(id="search_input", type="text", placeholder="Search", cls="form-control", onfocus="show_modal()"),
+                        cls='input-group mb-3')
+            content += div(
+                        div(
+                            div(
+                                div(
+                                    h1('Search', cls="modal-title fs-5"),
+                                    button(type="button", cls="btn-close", data_bs_dismiss="modal"),
+                                    cls="modal-header"),
+                                div(
+                                    div(
+                                        span(
+                                            svg(
+                                                path(d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"),
+                                                xmlns="http://www.w3.org/2000/svg", width="16", height="16", fill="currentColor", cls="bi bi-search", viewBox="0 0 16 16"),
+                                            cls="input-group-text", id="inputGroup-sizing-default"),
+                                        input_(id="fact_search_input", type="text", placeholder="Search", cls="form-control"),
+                                        cls="input-group mb-3"),
+                                    div(cls="list-group", id="search_result"),
+                                    cls="modal-body", id="modal-body"),
+                                cls="modal-content"),
+                            cls="modal-dialog modal-lg"),
+                        cls="modal fade", id="search_modal")
+
             for video_info in video_infos:
                 content.add(generate_html_table(video_info))
 
     doc.body['id'] = 'body'
+    doc.add(script(src='https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js'))
     doc.add(script(type='text/javascript', src='index.js'))
+    doc.add(script(type='text/javascript', src='search.js'))
     with open('index.html', 'w', encoding='utf-8') as f:
         f.write("".join(doc.render()))
 
 
 def main() -> None:
+    # video_infos = load_data_json()
     video_infos = update_data_json()
     write_md(video_infos)
     write_html(video_infos)
