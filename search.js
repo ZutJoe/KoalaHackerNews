@@ -38,8 +38,7 @@ function searchAndCreateResultEl (msg) {
     for (let i = 0; i < data_arr.length; i++) {
         let introduces = data_arr[i].introduces
         for (let j = 0; j < introduces.length; j ++) {
-            
-            if (introduces[j].indexOf(msg) !== -1) {
+            if (introduces[j].toLowerCase().indexOf(msg) !== -1) {
                 createANode(data_arr[i].aid, introduces[j])
             }
         }
