@@ -285,12 +285,15 @@ def generate_md_table(video_info: VideoInfo) -> list[str]:
 def write_md(video_infos: list[VideoInfo]) -> None:
     readme: list[str] = []
     readme.append(
-        '# Koala_hacker_news \n'
-        '\n'
-        'b站up主[Koala聊开源](https://space.bilibili.com/489667127)'
-        '的《hacker news 周报》[合集]'
-        '(https://space.bilibili.com/489667127/channel/collectiondetail?sid=249279)'
-        '的内容总结 \n'
+'''
+# Koala_hacker_news 
+b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news 周报》[合集](https://space.bilibili.com/489667127/channel/collectiondetail?sid=249279)的内容总结
+
+推荐使用网页版 https://zutjoe.github.io/Koala_hacker_news/
+网页版新增功能：
+1. 添加黑白切换功能（右上角的控件）
+2. 搜索功能（快速定位到相关表格）
+'''
     )
     for video_info in video_infos:
         readme.extend(generate_md_table(video_info))
