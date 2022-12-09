@@ -289,9 +289,7 @@ def write_md(video_infos: list[VideoInfo]) -> None:
 # Koala_hacker_news 
 b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news 周报》[合集](https://space.bilibili.com/489667127/channel/collectiondetail?sid=249279)的内容总结
 
-推荐使用[网页版](https://zutjoe.github.io/Koala_hacker_news/)
-
-网页版新增功能：
+推荐使用[网页版](https://zutjoe.github.io/Koala_hacker_news/)：
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 '''
@@ -375,10 +373,10 @@ def write_html(video_infos: list[VideoInfo]) -> None:
         )
         link(
             rel='stylesheet',
-            href='index.css'
+            href='css/index.css'
         )
         script(
-            src='load.js'
+            src='js/load.js'
         )
 
     with doc:
@@ -424,8 +422,7 @@ def write_html(video_infos: list[VideoInfo]) -> None:
 
     doc.body['id'] = 'body'
     doc.add(script(src='https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js'))
-    doc.add(script(type='text/javascript', src='index.js'))
-    doc.add(script(type='text/javascript', src='search.js'))
+    doc.add(script(type='text/javascript', src='js/index.js'))
     with open('index.html', 'w', encoding='utf-8') as f:
         f.write("".join(doc.render()))
 
