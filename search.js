@@ -1,7 +1,7 @@
 let search_input = document.getElementById('fact_search_input')
 
 function createDivNode () {
-    const node = document.createElement('div')
+    let node = document.createElement('div')
     node.className = 'list-group'
     node.id = 'search_result'
     let modal_body = document.getElementById('modal-body')
@@ -9,18 +9,17 @@ function createDivNode () {
 }
 
 function createANode (aid, content) {
-    const node = document.createElement("a")
+    let node = document.createElement("a")
     node.className = 'list-group-item list-group-item-action'
     node.id = '#' + aid
     node.href = '#' + aid
-    const textnode = document.createTextNode(content)
+    let textnode = document.createTextNode(content)
     node.appendChild(textnode)
     search_result.appendChild(node)
 
-    node.onclick = () => {
-        let search_modal = document.getElementById('search_modal')
-        search_modal.modal('hide')
-    }
+    node.addEventListener("click", () => {
+        search_modal.hide()
+    })
 }
 
 search_input.addEventListener('input', (e) => {
