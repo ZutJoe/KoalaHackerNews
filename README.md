@@ -6,6 +6,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av563747625)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av563747625?t=9)|Pynecone｜Python 全栈 Web 开发方案| |
+|[00:41](https://www.bilibili.com/video/av563747625?t=41)|daedalOS｜浏览器中运行桌面环境| |
+|[01:02](https://www.bilibili.com/video/av563747625?t=62)|Uptime Kuma｜轻量级网站监控方案| |
+|[01:28](https://www.bilibili.com/video/av563747625?t=88)|Codux｜可视化 React 组件 IDE| |
+|[01:57](https://www.bilibili.com/video/av563747625?t=117)|Vite 发布 4.0 大版本| |
+|[02:31](https://www.bilibili.com/video/av563747625?t=151)|Blockbench｜创建 low-poly 视觉风格的3D 模型编辑器| |
+
 ## [视频链接](https://www.bilibili.com/video/av903386514)
 
 |时间轴|简介|链接|
