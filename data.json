@@ -36,7 +36,14 @@
         "Vite 发布 4.0 大版本",
         "Blockbench｜创建 low-poly 视觉风格的3D 模型编辑器"
       ],
-      "links": []
+      "links": [
+        "https://github.com/pynecone-io/pynecone",
+        "https://github.com/DustinBrett/daedalOS",
+        "https://github.com/louislam/uptime-kuma",
+        "https://www.codux.com/",
+        "https://vitejs.dev/blog/announcing-vite4.html",
+        "https://github.com/JannisX11/blockbench"
+      ]
     }
   },
   {
