@@ -1,5 +1,61 @@
 [
   {
+    "aid": 306398153,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 11
+        },
+        {
+          "minutes": 0,
+          "seconds": 38
+        },
+        {
+          "minutes": 0,
+          "seconds": 58
+        },
+        {
+          "minutes": 1,
+          "seconds": 16
+        },
+        {
+          "minutes": 1,
+          "seconds": 39
+        },
+        {
+          "minutes": 2,
+          "seconds": 4
+        },
+        {
+          "minutes": 2,
+          "seconds": 24
+        }
+      ],
+      "introduces": [
+        "Codon｜高性能 Python 编译器",
+        "CLI Exercises｜Linux 文本处理技巧",
+        "关于 ChatGPT 是如何工作的讨论和解读",
+        "Reader｜集多种信息源于一体的阅读工具",
+        "在命令行中渲染 Markdown",
+        "一篇关于Query Planner 工作方式的博客",
+        "类似 Wordle 的中文字谜小游戏"
+      ],
+      "links": [
+        "https://github.com/exaloop/codon",
+        "https://github.com/learnbyexample/TUI-apps/tree/main/CLI-Exercises",
+        [
+          "https://news.ycombinator.com/item?id=33939805",
+          "https://openai.com/blog/chatgpt/"
+        ],
+        "https://readwise.io/read",
+        "https://github.com/charmbracelet/glow",
+        "https://planetscale.com/blog/what-is-a-query-planner",
+        "https://hanzi.gg/"
+      ]
+    }
+  },
+  {
     "aid": 563747625,
     "hn_items": {
       "times": [

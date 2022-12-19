@@ -6,6 +6,18 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av306398153)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:11](https://www.bilibili.com/video/av306398153?t=11)|Codon｜高性能 Python 编译器|https://github.com/exaloop/codon|
+|[00:38](https://www.bilibili.com/video/av306398153?t=38)|CLI Exercises｜Linux 文本处理技巧|https://github.com/learnbyexample/TUI-apps/tree/main/CLI-Exercises|
+|[00:58](https://www.bilibili.com/video/av306398153?t=58)|关于 ChatGPT 是如何工作的讨论和解读|https://news.ycombinator.com/item?id=33939805<br>https://openai.com/blog/chatgpt/|
+|[01:16](https://www.bilibili.com/video/av306398153?t=76)|Reader｜集多种信息源于一体的阅读工具|https://readwise.io/read|
+|[01:39](https://www.bilibili.com/video/av306398153?t=99)|在命令行中渲染 Markdown|https://github.com/charmbracelet/glow|
+|[02:04](https://www.bilibili.com/video/av306398153?t=124)|一篇关于Query Planner 工作方式的博客|https://planetscale.com/blog/what-is-a-query-planner|
+|[02:24](https://www.bilibili.com/video/av306398153?t=144)|类似 Wordle 的中文字谜小游戏|https://hanzi.gg/|
+
 ## [视频链接](https://www.bilibili.com/video/av563747625)
 
 |时间轴|简介|链接|
