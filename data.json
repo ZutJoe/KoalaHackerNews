@@ -1,5 +1,52 @@
 [
   {
+    "aid": 776719511,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 11
+        },
+        {
+          "minutes": 0,
+          "seconds": 35
+        },
+        {
+          "minutes": 0,
+          "seconds": 59
+        },
+        {
+          "minutes": 1,
+          "seconds": 23
+        },
+        {
+          "minutes": 1,
+          "seconds": 56
+        },
+        {
+          "minutes": 2,
+          "seconds": 21
+        }
+      ],
+      "introduces": [
+        "Obsidian Canvas 发布",
+        "Jitsi｜开源免费的视频会议服务",
+        "Infisical ｜安全地传递密钥等隐私数据的工具",
+        "一周末复刻赛伯朋克中的语音识别",
+        "Winglang ｜面向云计算的开发语言",
+        "一篇文章介绍如何在 1 毫秒内搜索37 GB 文本的文章"
+      ],
+      "links": [
+        "https://obsidian.md/canvas",
+        "https://jitsi.org/",
+        "https://github.com/Infisical/infisical",
+        "https://github.com/elanmart/cbp-translate",
+        "https://www.winglang.io/",
+        "https://death.andgravity.com/pwned"
+      ]
+    }
+  },
+  {
     "aid": 306398153,
     "hn_items": {
       "times": [

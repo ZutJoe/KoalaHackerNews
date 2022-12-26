@@ -6,6 +6,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av776719511)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:11](https://www.bilibili.com/video/av776719511?t=11)|Obsidian Canvas 发布|https://obsidian.md/canvas|
+|[00:35](https://www.bilibili.com/video/av776719511?t=35)|Jitsi｜开源免费的视频会议服务|https://jitsi.org/|
+|[00:59](https://www.bilibili.com/video/av776719511?t=59)|Infisical ｜安全地传递密钥等隐私数据的工具|https://github.com/Infisical/infisical|
+|[01:23](https://www.bilibili.com/video/av776719511?t=83)|一周末复刻赛伯朋克中的语音识别|https://github.com/elanmart/cbp-translate|
+|[01:56](https://www.bilibili.com/video/av776719511?t=116)|Winglang ｜面向云计算的开发语言|https://www.winglang.io/|
+|[02:21](https://www.bilibili.com/video/av776719511?t=141)|一篇文章介绍如何在 1 毫秒内搜索37 GB 文本的文章|https://death.andgravity.com/pwned|
+
 ## [视频链接](https://www.bilibili.com/video/av306398153)
 
 |时间轴|简介|链接|
