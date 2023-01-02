@@ -1,5 +1,47 @@
 [
   {
+    "aid": 522059106,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 11
+        },
+        {
+          "minutes": 0,
+          "seconds": 35
+        },
+        {
+          "minutes": 0,
+          "seconds": 59
+        },
+        {
+          "minutes": 1,
+          "seconds": 23
+        },
+        {
+          "minutes": 1,
+          "seconds": 56
+        }
+      ],
+      "introduces": [
+        "APITable｜新开源的 Airtable 替代品",
+        "CDN Up and Running｜从零学习开发 CDN",
+        "Comprehensive Rust｜Google 内部 Rust 教程",
+        "OSV-Scanner｜查找代码依赖中的安全漏洞",
+        "Hubble｜Github star 管理工具"
+      ],
+      "links": [
+        "https://github.com/apitable/apitable",
+        "https://github.com/leandromoreira/cdn-up-and-running",
+        "https://github.com/google/comprehensive-rust",
+        "https://github.com/google/osv-scanner",
+        "https://hubble.monsterx.xyz/",
+        "https://fauna.com/blog/comparison-of-serverless-databases"
+      ]
+    }
+  },
+  {
     "aid": 776719511,
     "hn_items": {
       "times": [

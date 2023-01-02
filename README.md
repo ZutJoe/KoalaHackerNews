@@ -6,6 +6,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av522059106)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:11](https://www.bilibili.com/video/av522059106?t=11)|APITable｜新开源的 Airtable 替代品|https://github.com/apitable/apitable|
+|[00:35](https://www.bilibili.com/video/av522059106?t=35)|CDN Up and Running｜从零学习开发 CDN|https://github.com/leandromoreira/cdn-up-and-running|
+|[00:59](https://www.bilibili.com/video/av522059106?t=59)|Comprehensive Rust｜Google 内部 Rust 教程|https://github.com/google/comprehensive-rust|
+|[01:23](https://www.bilibili.com/video/av522059106?t=83)|OSV-Scanner｜查找代码依赖中的安全漏洞|https://github.com/google/osv-scanner|
+|[01:56](https://www.bilibili.com/video/av522059106?t=116)|Hubble｜Github star 管理工具|https://hubble.monsterx.xyz/|
+| | |https://fauna.com/blog/comparison-of-serverless-databases|
+
 ## [视频链接](https://www.bilibili.com/video/av776719511)
 
 |时间轴|简介|链接|
