@@ -9,19 +9,23 @@
         },
         {
           "minutes": 0,
-          "seconds": 35
-        },
-        {
-          "minutes": 0,
-          "seconds": 59
+          "seconds": 40
         },
         {
           "minutes": 1,
-          "seconds": 23
+          "seconds": 13
         },
         {
           "minutes": 1,
-          "seconds": 56
+          "seconds": 41
+        },
+        {
+          "minutes": 2,
+          "seconds": 9
+        },
+        {
+          "minutes": 2,
+          "seconds": 29
         }
       ],
       "introduces": [
@@ -29,7 +33,8 @@
         "CDN Up and Running｜从零学习开发 CDN",
         "Comprehensive Rust｜Google 内部 Rust 教程",
         "OSV-Scanner｜查找代码依赖中的安全漏洞",
-        "Hubble｜Github star 管理工具"
+        "Hubble｜Github star 管理工具",
+        "一篇 serverless 数据库对比的博客"
       ],
       "links": [
         "https://github.com/apitable/apitable",
