@@ -1,5 +1,47 @@
 [
   {
+    "aid": 392417581,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 51
+        },
+        {
+          "minutes": 1,
+          "seconds": 25
+        },
+        {
+          "minutes": 1,
+          "seconds": 52
+        },
+        {
+          "minutes": 2,
+          "seconds": 48
+        }
+      ],
+      "introduces": [
+        "clickhouse 发布数据分析工具 clickhouse-local",
+        "ov｜ 一个通用终端分页器",
+        "Vim online editor｜使用 WebAssembly 运行 Vim",
+        "使用 HTTP/3 连接 MySQL",
+        "polars｜ 高性能 Rust DataFrame 库"
+      ],
+      "links": [
+        "https://clickhouse.com/blog/extracting-converting-querying-local-files-with-sql-clickhouse-local",
+        "https://github.com/noborus/ov",
+        "https://www.vimonlineeditor.com/",
+        "https://planetscale.com/blog/faster-mysql-with-http3",
+        "https://github.com/pola-rs/polars",
+        "https://uiverse.io/"
+      ]
+    }
+  },
+  {
     "aid": 522059106,
     "hn_items": {
       "times": [

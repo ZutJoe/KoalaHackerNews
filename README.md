@@ -6,6 +6,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av392417581)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av392417581?t=9)|clickhouse 发布数据分析工具 clickhouse-local|https://clickhouse.com/blog/extracting-converting-querying-local-files-with-sql-clickhouse-local|
+|[00:51](https://www.bilibili.com/video/av392417581?t=51)|ov｜ 一个通用终端分页器|https://github.com/noborus/ov|
+|[01:25](https://www.bilibili.com/video/av392417581?t=85)|Vim online editor｜使用 WebAssembly 运行 Vim|https://www.vimonlineeditor.com/|
+|[01:52](https://www.bilibili.com/video/av392417581?t=112)|使用 HTTP/3 连接 MySQL|https://planetscale.com/blog/faster-mysql-with-http3|
+|[02:48](https://www.bilibili.com/video/av392417581?t=168)|polars｜ 高性能 Rust DataFrame 库|https://github.com/pola-rs/polars|
+| | |https://uiverse.io/|
+
 ## [视频链接](https://www.bilibili.com/video/av522059106)
 
 |时间轴|简介|链接|
