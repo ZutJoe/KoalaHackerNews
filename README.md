@@ -15,7 +15,7 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[01:25](https://www.bilibili.com/video/av392417581?t=85)|Vim online editor｜使用 WebAssembly 运行 Vim|https://www.vimonlineeditor.com/|
 |[01:52](https://www.bilibili.com/video/av392417581?t=112)|使用 HTTP/3 连接 MySQL|https://planetscale.com/blog/faster-mysql-with-http3|
 |[02:48](https://www.bilibili.com/video/av392417581?t=168)|polars｜ 高性能 Rust DataFrame 库|https://github.com/pola-rs/polars|
-| | |https://uiverse.io/|
+|[03:29](https://www.bilibili.com/video/av392417581?t=209)|uiverse｜UI 组件库|https://uiverse.io/|
 
 ## [视频链接](https://www.bilibili.com/video/av522059106)
 

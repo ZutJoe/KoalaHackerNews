@@ -154,7 +154,7 @@ def parse_top_comment(message: str | None) -> HackerNewsItems:
             state = '时间轴'
 
         if state == '时间轴':
-            matches = list(re.finditer(r'(\d{1,}):(\d{2})', line, re.ASCII))
+            matches = list(re.finditer(r'(\d{1,}):\s*(\d{2})', line, re.ASCII))
             if len(matches) > 0:
                 _parse_time_and_intro(line, matches, times, introduces)
                 continue

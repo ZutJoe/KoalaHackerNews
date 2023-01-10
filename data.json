@@ -22,6 +22,10 @@
         {
           "minutes": 2,
           "seconds": 48
+        },
+        {
+          "minutes": 3,
+          "seconds": 29
         }
       ],
       "introduces": [
@@ -29,7 +33,8 @@
         "ov｜ 一个通用终端分页器",
         "Vim online editor｜使用 WebAssembly 运行 Vim",
         "使用 HTTP/3 连接 MySQL",
-        "polars｜ 高性能 Rust DataFrame 库"
+        "polars｜ 高性能 Rust DataFrame 库",
+        "uiverse｜UI 组件库"
       ],
       "links": [
         "https://clickhouse.com/blog/extracting-converting-querying-local-files-with-sql-clickhouse-local",
