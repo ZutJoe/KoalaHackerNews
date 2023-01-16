@@ -1,5 +1,55 @@
 [
   {
+    "aid": 607779129,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 10
+        },
+        {
+          "minutes": 0,
+          "seconds": 43
+        },
+        {
+          "minutes": 1,
+          "seconds": 13
+        },
+        {
+          "minutes": 1,
+          "seconds": 37
+        },
+        {
+          "minutes": 2,
+          "seconds": 8
+        },
+        {
+          "minutes": 2,
+          "seconds": 33
+        }
+      ],
+      "introduces": [
+        "val.town｜简单有趣的 serverless 平台",
+        "CDC File Transfer｜ Google 开源文件同步工具",
+        "just｜ 使用 Rust 开发的命令行工具",
+        "Rath｜自动化数据探索工具",
+        "pinggy｜将本地的服务对公网提供访问工具",
+        "State of JS 发布年度开发者问卷结果"
+      ],
+      "links": [
+        "https://www.val.town/",
+        "https://github.com/google/cdc-file-transfer",
+        "https://github.com/casey/just",
+        [
+          "https://github.com/Kanaries/rath",
+          "https://github.com/Kanaries/graphic-walker",
+          "https://pinggy.io/"
+        ],
+        "https://2022.stateofjs.com/"
+      ]
+    }
+  },
+  {
     "aid": 392417581,
     "hn_items": {
       "times": [
