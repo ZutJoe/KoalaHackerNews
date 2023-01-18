@@ -13,9 +13,9 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[00:10](https://www.bilibili.com/video/av607779129?t=10)|val.town｜简单有趣的 serverless 平台|https://www.val.town/|
 |[00:43](https://www.bilibili.com/video/av607779129?t=43)|CDC File Transfer｜ Google 开源文件同步工具|https://github.com/google/cdc-file-transfer|
 |[01:13](https://www.bilibili.com/video/av607779129?t=73)|just｜ 使用 Rust 开发的命令行工具|https://github.com/casey/just|
-|[01:37](https://www.bilibili.com/video/av607779129?t=97)|Rath｜自动化数据探索工具|https://github.com/Kanaries/rath<br>https://github.com/Kanaries/graphic-walker<br>https://pinggy.io/|
-|[02:08](https://www.bilibili.com/video/av607779129?t=128)|pinggy｜将本地的服务对公网提供访问工具|https://2022.stateofjs.com/|
-|[02:33](https://www.bilibili.com/video/av607779129?t=153)|State of JS 发布年度开发者问卷结果| |
+|[01:37](https://www.bilibili.com/video/av607779129?t=97)|Rath｜自动化数据探索工具|https://github.com/Kanaries/rath<br>https://github.com/Kanaries/graphic-walker|
+|[02:08](https://www.bilibili.com/video/av607779129?t=128)|pinggy｜将本地的服务对公网提供访问工具|https://pinggy.io/|
+|[02:33](https://www.bilibili.com/video/av607779129?t=153)|State of JS 发布年度开发者问卷结果|https://2022.stateofjs.com/|
 
 ## [视频链接](https://www.bilibili.com/video/av392417581)
 
