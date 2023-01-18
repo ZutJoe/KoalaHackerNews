@@ -42,9 +42,9 @@
         "https://github.com/casey/just",
         [
           "https://github.com/Kanaries/rath",
-          "https://github.com/Kanaries/graphic-walker",
-          "https://pinggy.io/"
+          "https://github.com/Kanaries/graphic-walker"
         ],
+        "https://pinggy.io/",
         "https://2022.stateofjs.com/"
       ]
     }
