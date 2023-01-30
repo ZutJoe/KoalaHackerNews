@@ -1,5 +1,105 @@
 [
   {
+    "aid": 223440610,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 10
+        },
+        {
+          "minutes": 0,
+          "seconds": 49
+        },
+        {
+          "minutes": 1,
+          "seconds": 18
+        },
+        {
+          "minutes": 1,
+          "seconds": 51
+        },
+        {
+          "minutes": 2,
+          "seconds": 22
+        },
+        {
+          "minutes": 3,
+          "seconds": 2
+        }
+      ],
+      "introduces": [
+        "一组可复用的 UI 组件",
+        "WebTTY｜基于 WebRTC 分享终端会话",
+        "bob｜面向微服务场景的打包工具",
+        "Automatisch｜自动化工作流工具",
+        "libSQL 博客介绍通过网络访问 SQLite",
+        "轻松一刻时间：小游戏 Summer Afternoon"
+      ],
+      "links": [
+        "https://github.com/shadcn/ui",
+        "https://github.com/maxmcd/webtty",
+        "https://bob.build/",
+        "https://automatisch.io/",
+        "https://blog.chiselstrike.com/sqlite-based-databases-on-the-postgres-protocol-yes-we-can-358e61171d65",
+        "https://summer-afternoon.vlucendo.com/"
+      ]
+    }
+  },
+  {
+    "aid": 693361650,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 43
+        },
+        {
+          "minutes": 1,
+          "seconds": 20
+        },
+        {
+          "minutes": 1,
+          "seconds": 42
+        },
+        {
+          "minutes": 2,
+          "seconds": 10
+        },
+        {
+          "minutes": 2,
+          "seconds": 36
+        },
+        {
+          "minutes": 2,
+          "seconds": 53
+        }
+      ],
+      "introduces": [
+        "Temporal｜持久化工作流平台",
+        "AirByte｜数据 ETL 工具",
+        "Rough Notation｜",
+        "barba.js｜页面间动效库",
+        "Vento｜可纠错的录屏工具",
+        "Cal.com｜日程管理工具",
+        "2小时开发 GPT 模型"
+      ],
+      "links": [
+        "https://temporal.io/",
+        "https://airbyte.com/",
+        "https://roughnotation.com/",
+        "https://barba.js.org/",
+        "https://vento.so/",
+        "https://cal.com/",
+        "https://www.youtube.com/watch?v=kCc8FmEb1nY"
+      ]
+    }
+  },
+  {
     "aid": 607779129,
     "hn_items": {
       "times": [

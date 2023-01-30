@@ -6,6 +6,29 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av223440610)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:10](https://www.bilibili.com/video/av223440610?t=10)|一组可复用的 UI 组件|https://github.com/shadcn/ui|
+|[00:49](https://www.bilibili.com/video/av223440610?t=49)|WebTTY｜基于 WebRTC 分享终端会话|https://github.com/maxmcd/webtty|
+|[01:18](https://www.bilibili.com/video/av223440610?t=78)|bob｜面向微服务场景的打包工具|https://bob.build/|
+|[01:51](https://www.bilibili.com/video/av223440610?t=111)|Automatisch｜自动化工作流工具|https://automatisch.io/|
+|[02:22](https://www.bilibili.com/video/av223440610?t=142)|libSQL 博客介绍通过网络访问 SQLite|https://blog.chiselstrike.com/sqlite-based-databases-on-the-postgres-protocol-yes-we-can-358e61171d65|
+|[03:02](https://www.bilibili.com/video/av223440610?t=182)|轻松一刻时间：小游戏 Summer Afternoon|https://summer-afternoon.vlucendo.com/|
+
+## [视频链接](https://www.bilibili.com/video/av693361650)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av693361650?t=9)|Temporal｜持久化工作流平台|https://temporal.io/|
+|[00:43](https://www.bilibili.com/video/av693361650?t=43)|AirByte｜数据 ETL 工具|https://airbyte.com/|
+|[01:20](https://www.bilibili.com/video/av693361650?t=80)|Rough Notation｜|https://roughnotation.com/|
+|[01:42](https://www.bilibili.com/video/av693361650?t=102)|barba.js｜页面间动效库|https://barba.js.org/|
+|[02:10](https://www.bilibili.com/video/av693361650?t=130)|Vento｜可纠错的录屏工具|https://vento.so/|
+|[02:36](https://www.bilibili.com/video/av693361650?t=156)|Cal.com｜日程管理工具|https://cal.com/|
+|[02:53](https://www.bilibili.com/video/av693361650?t=173)|2小时开发 GPT 模型|https://www.youtube.com/watch?v=kCc8FmEb1nY|
+
 ## [视频链接](https://www.bilibili.com/video/av607779129)
 
 |时间轴|简介|链接|
