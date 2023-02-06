@@ -1,5 +1,45 @@
 [
   {
+    "aid": 393866597,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 41
+        },
+        {
+          "minutes": 1,
+          "seconds": 13
+        },
+        {
+          "minutes": 1,
+          "seconds": 52
+        },
+        {
+          "minutes": 2,
+          "seconds": 7
+        },
+        {
+          "minutes": 2,
+          "seconds": 31
+        }
+      ],
+      "introduces": [
+        "CRDT 协同算法库 Automerge 发布 2.0 版本",
+        "Carbonyl｜终端中运行浏览器",
+        "Netlify 收购 Gatsby",
+        "Same Energy｜视觉搜索引擎",
+        "DIY 空气质量检测仪",
+        "Hashicorp 开源文档管理系统 Hermes"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 223440610,
     "hn_items": {
       "times": [

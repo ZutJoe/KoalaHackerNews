@@ -6,6 +6,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av393866597)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av393866597?t=9)|CRDT 协同算法库 Automerge 发布 2.0 版本| |
+|[00:41](https://www.bilibili.com/video/av393866597?t=41)|Carbonyl｜终端中运行浏览器| |
+|[01:13](https://www.bilibili.com/video/av393866597?t=73)|Netlify 收购 Gatsby| |
+|[01:52](https://www.bilibili.com/video/av393866597?t=112)|Same Energy｜视觉搜索引擎| |
+|[02:07](https://www.bilibili.com/video/av393866597?t=127)|DIY 空气质量检测仪| |
+|[02:31](https://www.bilibili.com/video/av393866597?t=151)|Hashicorp 开源文档管理系统 Hermes| |
+
 ## [视频链接](https://www.bilibili.com/video/av223440610)
 
 |时间轴|简介|链接|
