@@ -10,12 +10,12 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
-|[00:09](https://www.bilibili.com/video/av393866597?t=9)|CRDT 协同算法库 Automerge 发布 2.0 版本| |
-|[00:41](https://www.bilibili.com/video/av393866597?t=41)|Carbonyl｜终端中运行浏览器| |
-|[01:13](https://www.bilibili.com/video/av393866597?t=73)|Netlify 收购 Gatsby| |
-|[01:52](https://www.bilibili.com/video/av393866597?t=112)|Same Energy｜视觉搜索引擎| |
-|[02:07](https://www.bilibili.com/video/av393866597?t=127)|DIY 空气质量检测仪| |
-|[02:31](https://www.bilibili.com/video/av393866597?t=151)|Hashicorp 开源文档管理系统 Hermes| |
+|[00:09](https://www.bilibili.com/video/av393866597?t=9)|CRDT 协同算法库 Automerge 发布 2.0 版本|https://automerge.org/blog/automerge-2|
+|[00:41](https://www.bilibili.com/video/av393866597?t=41)|Carbonyl｜终端中运行浏览器|https://fathy.fr/carbonyl|
+|[01:13](https://www.bilibili.com/video/av393866597?t=73)|Netlify 收购 Gatsby|https://www.netlify.com/press/netlify-acquires-gatsby-inc-to-accelerate-adoption-of-composable-web-architectures/#main|
+|[01:52](https://www.bilibili.com/video/av393866597?t=112)|Same Energy｜视觉搜索引擎|https://same.energy/search?i=xmCt|
+|[02:07](https://www.bilibili.com/video/av393866597?t=127)|DIY 空气质量检测仪|https://www.airgradient.com/open-airgradient/instructions/diy-pro-v37/|
+|[02:31](https://www.bilibili.com/video/av393866597?t=151)|Hashicorp 开源文档管理系统 Hermes|https://www.hashicorp.com/blog/introducing-hermes-an-open-source-document-management-system|
 
 ## [视频链接](https://www.bilibili.com/video/av223440610)
 
