@@ -6,6 +6,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av609553518)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av609553518?t=9)|Alist｜一个开源的文件管理程序|https://alist.nn.ci/|
+|[00:31](https://www.bilibili.com/video/av609553518?t=31)|Helm Dashboard｜可视化应用管理工具|https://github.com/komodorio/helm-dashboard|
+|[00:51](https://www.bilibili.com/video/av609553518?t=51)|Rerun｜ 记录计算机视觉执行过程的 SDK|https://www.rerun.io/|
+|[01:12](https://www.bilibili.com/video/av609553518?t=72)|Sloth｜ Mac GUI 应用|https://github.com/sveinbjornt/Sloth|
+|[01:35](https://www.bilibili.com/video/av609553518?t=95)|Bright ｜代码片段展示工具|https://bright.codehike.org/|
+|[02:04](https://www.bilibili.com/video/av609553518?t=124)|著名作者讲解 xxxxxxx工作原理|https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/|
+
 ## [视频链接](https://www.bilibili.com/video/av393866597)
 
 |时间轴|简介|链接|

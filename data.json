@@ -1,5 +1,52 @@
 [
   {
+    "aid": 609553518,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 31
+        },
+        {
+          "minutes": 0,
+          "seconds": 51
+        },
+        {
+          "minutes": 1,
+          "seconds": 12
+        },
+        {
+          "minutes": 1,
+          "seconds": 35
+        },
+        {
+          "minutes": 2,
+          "seconds": 4
+        }
+      ],
+      "introduces": [
+        "Alist｜一个开源的文件管理程序",
+        "Helm Dashboard｜可视化应用管理工具",
+        "Rerun｜ 记录计算机视觉执行过程的 SDK",
+        "Sloth｜ Mac GUI 应用",
+        "Bright ｜代码片段展示工具",
+        "著名作者讲解 xxxxxxx工作原理"
+      ],
+      "links": [
+        "https://alist.nn.ci/",
+        "https://github.com/komodorio/helm-dashboard",
+        "https://www.rerun.io/",
+        "https://github.com/sveinbjornt/Sloth",
+        "https://bright.codehike.org/",
+        "https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/"
+      ]
+    }
+  },
+  {
     "aid": 393866597,
     "hn_items": {
       "times": [

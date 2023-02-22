@@ -428,8 +428,8 @@ def write_html(video_infos: list[VideoInfo]) -> None:
 
 
 def main() -> None:
-    video_infos = load_data_json()
-    # video_infos = update_data_json()
+    # video_infos = load_data_json()
+    video_infos = update_data_json()
     write_md(video_infos)
     write_html(video_infos)
 
