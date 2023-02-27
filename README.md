@@ -6,6 +6,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av652536608)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:10](https://www.bilibili.com/video/av652536608?t=10)|Noya｜新一代设计工具|https://www.noya.io/|
+|[00:40](https://www.bilibili.com/video/av652536608?t=40)|Highlight｜开源 Web 应用监控方案|https://www.highlight.io/|
+|[01:01](https://www.bilibili.com/video/av652536608?t=61)|Faro｜ Grafana 开源的 Web 前端可观测性工具|https://grafana.com/oss/faro/|
+|[01:23](https://www.bilibili.com/video/av652536608?t=83)|Laudspeaker｜开源的客户旅程自动化平台|https://laudspeaker.com/|
+|[01:43](https://www.bilibili.com/video/av652536608?t=103)|Infinite Storage Glitch｜将视频网站变为免费网盘|https://github.com/DvorakDwarf/Infinite-Storage-Glitch|
+|[02:10](https://www.bilibili.com/video/av652536608?t=130)|AI Commits｜自动生成 commit message 工具|https://github.com/Nutlope/aicommits|
+
 ## [视频链接](https://www.bilibili.com/video/av609553518)
 
 |时间轴|简介|链接|
@@ -16,6 +27,19 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[01:12](https://www.bilibili.com/video/av609553518?t=72)|Sloth｜ Mac GUI 应用|https://github.com/sveinbjornt/Sloth|
 |[01:35](https://www.bilibili.com/video/av609553518?t=95)|Bright ｜代码片段展示工具|https://bright.codehike.org/|
 |[02:04](https://www.bilibili.com/video/av609553518?t=124)|著名作者讲解 xxxxxxx工作原理|https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/|
+
+## [视频链接](https://www.bilibili.com/video/av651723868)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av651723868?t=9)|Nango｜开箱即用 OAuth 解决方案|https://www.nango.dev/|
+|[00:32](https://www.bilibili.com/video/av651723868?t=32)|yq｜多种文件格式解析器|https://github.com/mikefarah/yq|
+|[00:53](https://www.bilibili.com/video/av651723868?t=53)|PhotoPrism｜一款照片管理程序|https://www.photoprism.app/|
+|[01:14](https://www.bilibili.com/video/av651723868?t=74)|grep app｜ 一个代码搜索平台|https://grep.app/|
+|[01:32](https://www.bilibili.com/video/av651723868?t=92)|enrolla｜开源 feature flag 管理平台|https://www.enrolla.io/|
+|[01:52](https://www.bilibili.com/video/av651723868?t=112)|Notion 风格的富文本编辑器|https://github.com/YousefED/BlockNote|
+|[02:13](https://www.bilibili.com/video/av651723868?t=133)|Universal Summarizer｜搜索引擎 Kagi 推出新技术|https://labs.kagi.com/ai/sum|
+|[02:37](https://www.bilibili.com/video/av651723868?t=157)|React.JS 纪录片|https://www.youtube.com/watch?v=8pDqJVdNa44|
 
 ## [视频链接](https://www.bilibili.com/video/av393866597)
 

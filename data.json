@@ -1,5 +1,52 @@
 [
   {
+    "aid": 652536608,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 10
+        },
+        {
+          "minutes": 0,
+          "seconds": 40
+        },
+        {
+          "minutes": 1,
+          "seconds": 1
+        },
+        {
+          "minutes": 1,
+          "seconds": 23
+        },
+        {
+          "minutes": 1,
+          "seconds": 43
+        },
+        {
+          "minutes": 2,
+          "seconds": 10
+        }
+      ],
+      "introduces": [
+        "Noya｜新一代设计工具",
+        "Highlight｜开源 Web 应用监控方案",
+        "Faro｜ Grafana 开源的 Web 前端可观测性工具",
+        "Laudspeaker｜开源的客户旅程自动化平台",
+        "Infinite Storage Glitch｜将视频网站变为免费网盘",
+        "AI Commits｜自动生成 commit message 工具"
+      ],
+      "links": [
+        "https://www.noya.io/",
+        "https://www.highlight.io/",
+        "https://grafana.com/oss/faro/",
+        "https://laudspeaker.com/",
+        "https://github.com/DvorakDwarf/Infinite-Storage-Glitch",
+        "https://github.com/Nutlope/aicommits"
+      ]
+    }
+  },
+  {
     "aid": 609553518,
     "hn_items": {
       "times": [
@@ -43,6 +90,65 @@
         "https://github.com/sveinbjornt/Sloth",
         "https://bright.codehike.org/",
         "https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/"
+      ]
+    }
+  },
+  {
+    "aid": 651723868,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 32
+        },
+        {
+          "minutes": 0,
+          "seconds": 53
+        },
+        {
+          "minutes": 1,
+          "seconds": 14
+        },
+        {
+          "minutes": 1,
+          "seconds": 32
+        },
+        {
+          "minutes": 1,
+          "seconds": 52
+        },
+        {
+          "minutes": 2,
+          "seconds": 13
+        },
+        {
+          "minutes": 2,
+          "seconds": 37
+        }
+      ],
+      "introduces": [
+        "Nango｜开箱即用 OAuth 解决方案",
+        "yq｜多种文件格式解析器",
+        "PhotoPrism｜一款照片管理程序",
+        "grep app｜ 一个代码搜索平台",
+        "enrolla｜开源 feature flag 管理平台",
+        "Notion 风格的富文本编辑器",
+        "Universal Summarizer｜搜索引擎 Kagi 推出新技术",
+        "React.JS 纪录片"
+      ],
+      "links": [
+        "https://www.nango.dev/",
+        "https://github.com/mikefarah/yq",
+        "https://www.photoprism.app/",
+        "https://grep.app/",
+        "https://www.enrolla.io/",
+        "https://github.com/YousefED/BlockNote",
+        "https://labs.kagi.com/ai/sum",
+        "https://www.youtube.com/watch?v=8pDqJVdNa44"
       ]
     }
   },
