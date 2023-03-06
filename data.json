@@ -1,5 +1,52 @@
 [
   {
+    "aid": 525565712,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 10
+        },
+        {
+          "minutes": 0,
+          "seconds": 44
+        },
+        {
+          "minutes": 1,
+          "seconds": 16
+        },
+        {
+          "minutes": 1,
+          "seconds": 38
+        },
+        {
+          "minutes": 2,
+          "seconds": 4
+        },
+        {
+          "minutes": 2,
+          "seconds": 24
+        }
+      ],
+      "introduces": [
+        "Google 发布新编程框架 Service Weaver",
+        "Remult｜快速 CRUD 框架",
+        "Typescript 发布 5.0 候选版本",
+        "ChatGPT 官方 API 出炉",
+        "Mathesar｜ 开源 Postgres 数据库 GUI 管理工具",
+        "Unfolder｜将3D 模型生成折纸零件图纸的工具"
+      ],
+      "links": [
+        "https://opensource.googleblog.com/2023/03/introducing-service-weaver-framework-for-writing-distributed-applications.html",
+        "https://github.com/remult/remult",
+        "https://devblogs.microsoft.com/typescript/announcing-typescript-5-0-rc/",
+        "https://openai.com/blog/introducing-chatgpt-and-whisper-apis",
+        "https://github.com/centerofci/mathesar",
+        "https://www.unfolder.app/"
+      ]
+    }
+  },
+  {
     "aid": 652536608,
     "hn_items": {
       "times": [

@@ -6,6 +6,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av525565712)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:10](https://www.bilibili.com/video/av525565712?t=10)|Google 发布新编程框架 Service Weaver|https://opensource.googleblog.com/2023/03/introducing-service-weaver-framework-for-writing-distributed-applications.html|
+|[00:44](https://www.bilibili.com/video/av525565712?t=44)|Remult｜快速 CRUD 框架|https://github.com/remult/remult|
+|[01:16](https://www.bilibili.com/video/av525565712?t=76)|Typescript 发布 5.0 候选版本|https://devblogs.microsoft.com/typescript/announcing-typescript-5-0-rc/|
+|[01:38](https://www.bilibili.com/video/av525565712?t=98)|ChatGPT 官方 API 出炉|https://openai.com/blog/introducing-chatgpt-and-whisper-apis|
+|[02:04](https://www.bilibili.com/video/av525565712?t=124)|Mathesar｜ 开源 Postgres 数据库 GUI 管理工具|https://github.com/centerofci/mathesar|
+|[02:24](https://www.bilibili.com/video/av525565712?t=144)|Unfolder｜将3D 模型生成折纸零件图纸的工具|https://www.unfolder.app/|
+
 ## [视频链接](https://www.bilibili.com/video/av652536608)
 
 |时间轴|简介|链接|
