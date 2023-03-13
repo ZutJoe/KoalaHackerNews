@@ -6,6 +6,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av568373000)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:10](https://www.bilibili.com/video/av568373000?t=10)|FormKit｜Vue 全功能表单框架|https://formkit.com/|
+|[00:31](https://www.bilibili.com/video/av568373000?t=31)|PgTyped｜从 SQL 语句中推断 Typescript 类型|https://github.com/adelsz/pgtyped|
+|[00:57](https://www.bilibili.com/video/av568373000?t=57)|Flux｜软件定义键盘|https://fluxkeyboard.com/|
+|[01:20](https://www.bilibili.com/video/av568373000?t=80)|lightdash｜轻量级的 BI 工具|https://github.com/lightdash/lightdash|
+|[01:36](https://www.bilibili.com/video/av568373000?t=96)|OpenDAL｜开源通用数据接入层|https://github.com/datafuselabs/opendal|
+|[01:55](https://www.bilibili.com/video/av568373000?t=115)|ZincSearch｜ElasticSearch 的轻量级替代品|https://github.com/zinclabs/zincsearch|
+
 ## [视频链接](https://www.bilibili.com/video/av525565712)
 
 |时间轴|简介|链接|

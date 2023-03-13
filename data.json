@@ -1,5 +1,52 @@
 [
   {
+    "aid": 568373000,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 10
+        },
+        {
+          "minutes": 0,
+          "seconds": 31
+        },
+        {
+          "minutes": 0,
+          "seconds": 57
+        },
+        {
+          "minutes": 1,
+          "seconds": 20
+        },
+        {
+          "minutes": 1,
+          "seconds": 36
+        },
+        {
+          "minutes": 1,
+          "seconds": 55
+        }
+      ],
+      "introduces": [
+        "FormKit｜Vue 全功能表单框架",
+        "PgTyped｜从 SQL 语句中推断 Typescript 类型",
+        "Flux｜软件定义键盘",
+        "lightdash｜轻量级的 BI 工具",
+        "OpenDAL｜开源通用数据接入层",
+        "ZincSearch｜ElasticSearch 的轻量级替代品"
+      ],
+      "links": [
+        "https://formkit.com/",
+        "https://github.com/adelsz/pgtyped",
+        "https://fluxkeyboard.com/",
+        "https://github.com/lightdash/lightdash",
+        "https://github.com/datafuselabs/opendal",
+        "https://github.com/zinclabs/zincsearch"
+      ]
+    }
+  },
+  {
     "aid": 525565712,
     "hn_items": {
       "times": [
