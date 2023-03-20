@@ -1,5 +1,67 @@
 [
   {
+    "aid": 611243164,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 43
+        },
+        {
+          "minutes": 1,
+          "seconds": 9
+        },
+        {
+          "minutes": 1,
+          "seconds": 35
+        },
+        {
+          "minutes": 1,
+          "seconds": 55
+        },
+        {
+          "minutes": 2,
+          "seconds": 16
+        },
+        {
+          "minutes": 2,
+          "seconds": 41
+        },
+        {
+          "minutes": 2,
+          "seconds": 57
+        }
+      ],
+      "introduces": [
+        "GPT-4 发布",
+        "Transformer.js｜在浏览器中运行 Transformer 模型",
+        "FlameScope｜Netflix 开源的性能可视化分析工具",
+        "Miller｜命令行重度使用者的瑞士军刀",
+        "Scale｜Wasm 跨语言运行时",
+        "代码编辑器 Zed 进入 Beta 阶段",
+        "tremor｜开发概览类视图的 React UI 库",
+        "React 新官网上线"
+      ],
+      "links": [
+        "https://openai.com/research/gpt-4",
+        "https://xenova.github.io/transformers.js/",
+        [
+          "https://github.com/Netflix/flamescope",
+          "https://blog.felixge.de/flamescope-for-go/",
+          "https://github.com/johnkerl/miller"
+        ],
+        "https://scale.sh/",
+        "https://zed.dev/",
+        "https://www.tremor.so/",
+        "https://react.dev/"
+      ]
+    }
+  },
+  {
     "aid": 568373000,
     "hn_items": {
       "times": [
