@@ -12,12 +12,12 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |:--:|:--:|:--:|
 |[00:09](https://www.bilibili.com/video/av611243164?t=9)|GPT-4 发布|https://openai.com/research/gpt-4|
 |[00:43](https://www.bilibili.com/video/av611243164?t=43)|Transformer.js｜在浏览器中运行 Transformer 模型|https://xenova.github.io/transformers.js/|
-|[01:09](https://www.bilibili.com/video/av611243164?t=69)|FlameScope｜Netflix 开源的性能可视化分析工具|https://github.com/Netflix/flamescope<br>https://blog.felixge.de/flamescope-for-go/<br>https://github.com/johnkerl/miller|
-|[01:35](https://www.bilibili.com/video/av611243164?t=95)|Miller｜命令行重度使用者的瑞士军刀|https://scale.sh/|
-|[01:55](https://www.bilibili.com/video/av611243164?t=115)|Scale｜Wasm 跨语言运行时|https://zed.dev/|
-|[02:16](https://www.bilibili.com/video/av611243164?t=136)|代码编辑器 Zed 进入 Beta 阶段|https://www.tremor.so/|
-|[02:41](https://www.bilibili.com/video/av611243164?t=161)|tremor｜开发概览类视图的 React UI 库|https://react.dev/|
-|[02:57](https://www.bilibili.com/video/av611243164?t=177)|React 新官网上线| |
+|[01:09](https://www.bilibili.com/video/av611243164?t=69)|FlameScope｜Netflix 开源的性能可视化分析工具|https://github.com/Netflix/flamescope<br>https://blog.felixge.de/flamescope-for-go/|
+|[01:35](https://www.bilibili.com/video/av611243164?t=95)|Miller｜命令行重度使用者的瑞士军刀|https://github.com/johnkerl/miller|
+|[01:55](https://www.bilibili.com/video/av611243164?t=115)|Scale｜Wasm 跨语言运行时|https://scale.sh/|
+|[02:16](https://www.bilibili.com/video/av611243164?t=136)|代码编辑器 Zed 进入 Beta 阶段|https://zed.dev/|
+|[02:41](https://www.bilibili.com/video/av611243164?t=161)|tremor｜开发概览类视图的 React UI 库|https://www.tremor.so/|
+|[02:57](https://www.bilibili.com/video/av611243164?t=177)|React 新官网上线|https://react.dev/|
 
 ## [视频链接](https://www.bilibili.com/video/av568373000)
 

@@ -51,9 +51,9 @@
         "https://xenova.github.io/transformers.js/",
         [
           "https://github.com/Netflix/flamescope",
-          "https://blog.felixge.de/flamescope-for-go/",
-          "https://github.com/johnkerl/miller"
+          "https://blog.felixge.de/flamescope-for-go/"
         ],
+        "https://github.com/johnkerl/miller",
         "https://scale.sh/",
         "https://zed.dev/",
         "https://www.tremor.so/",
