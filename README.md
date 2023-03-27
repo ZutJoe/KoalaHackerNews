@@ -6,6 +6,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av866597183)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av866597183?t=9)|ChatGPT 发布插件能力|https://openai.com/blog/chatgpt-plugins|
+|[00:43](https://www.bilibili.com/video/av866597183?t=43)|Adobe 推出 AI 创意工具|https://www.adobe.com/sensei/generative-ai/firefly.html|
+|[01:12](https://www.bilibili.com/video/av866597183?t=72)|DataPane｜数据科学家和分析师的平台|https://datapane.com/|
+|[01:34](https://www.bilibili.com/video/av866597183?t=94)|pg_activity｜交互式命令行工具|https://github.com/dalibo/pg_activity|
+|[01:59](https://www.bilibili.com/video/av866597183?t=119)|PlayWright 推出新的 UI 模式|https://github.com/microsoft/playwright/releases/tag/v1.32.0|
+|[02:22](https://www.bilibili.com/video/av866597183?t=142)|Typst｜功能强大使用便捷的排版系统|https://github.com/typst/typst|
+
 ## [视频链接](https://www.bilibili.com/video/av611243164)
 
 |时间轴|简介|链接|

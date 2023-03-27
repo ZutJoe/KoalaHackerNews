@@ -1,5 +1,52 @@
 [
   {
+    "aid": 866597183,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 43
+        },
+        {
+          "minutes": 1,
+          "seconds": 12
+        },
+        {
+          "minutes": 1,
+          "seconds": 34
+        },
+        {
+          "minutes": 1,
+          "seconds": 59
+        },
+        {
+          "minutes": 2,
+          "seconds": 22
+        }
+      ],
+      "introduces": [
+        "ChatGPT 发布插件能力",
+        "Adobe 推出 AI 创意工具",
+        "DataPane｜数据科学家和分析师的平台",
+        "pg_activity｜交互式命令行工具",
+        "PlayWright 推出新的 UI 模式",
+        "Typst｜功能强大使用便捷的排版系统"
+      ],
+      "links": [
+        "https://openai.com/blog/chatgpt-plugins",
+        "https://www.adobe.com/sensei/generative-ai/firefly.html",
+        "https://datapane.com/",
+        "https://github.com/dalibo/pg_activity",
+        "https://github.com/microsoft/playwright/releases/tag/v1.32.0",
+        "https://github.com/typst/typst"
+      ]
+    }
+  },
+  {
     "aid": 611243164,
     "hn_items": {
       "times": [
