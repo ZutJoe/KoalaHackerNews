@@ -1,5 +1,52 @@
 [
   {
+    "aid": 354428596,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 39
+        },
+        {
+          "minutes": 1,
+          "seconds": 9
+        },
+        {
+          "minutes": 1,
+          "seconds": 37
+        },
+        {
+          "minutes": 2,
+          "seconds": 8
+        },
+        {
+          "minutes": 2,
+          "seconds": 29
+        }
+      ],
+      "introduces": [
+        "Cursor｜在编辑器中和 AI 结对编程",
+        "SwissTable｜高性能 Go 哈希表",
+        "Sidekick｜训练自己的数据 AI 模型",
+        "Convoy｜聚焦 Webhook Gateway 的服务端中间件",
+        "Notesnook｜专注于隐私和易用性的笔记软件",
+        "React 团队介绍 React Lab 研究进展"
+      ],
+      "links": [
+        "https://github.com/getcursor/cursor",
+        "https://www.dolthub.com/blog/2023-03-28-swiss-map/",
+        "https://www.getsidekick.ai/",
+        "https://getconvoy.io/",
+        "https://github.com/streetwriters/notesnook",
+        "https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023"
+      ]
+    }
+  },
+  {
     "aid": 866597183,
     "hn_items": {
       "times": [

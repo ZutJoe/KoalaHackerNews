@@ -6,6 +6,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av354428596)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av354428596?t=9)|Cursor｜在编辑器中和 AI 结对编程|https://github.com/getcursor/cursor|
+|[00:39](https://www.bilibili.com/video/av354428596?t=39)|SwissTable｜高性能 Go 哈希表|https://www.dolthub.com/blog/2023-03-28-swiss-map/|
+|[01:09](https://www.bilibili.com/video/av354428596?t=69)|Sidekick｜训练自己的数据 AI 模型|https://www.getsidekick.ai/|
+|[01:37](https://www.bilibili.com/video/av354428596?t=97)|Convoy｜聚焦 Webhook Gateway 的服务端中间件|https://getconvoy.io/|
+|[02:08](https://www.bilibili.com/video/av354428596?t=128)|Notesnook｜专注于隐私和易用性的笔记软件|https://github.com/streetwriters/notesnook|
+|[02:29](https://www.bilibili.com/video/av354428596?t=149)|React 团队介绍 React Lab 研究进展|https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023|
+
 ## [视频链接](https://www.bilibili.com/video/av866597183)
 
 |时间轴|简介|链接|
