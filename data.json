@@ -1,5 +1,52 @@
 [
   {
+    "aid": 484672088,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 10
+        },
+        {
+          "minutes": 0,
+          "seconds": 41
+        },
+        {
+          "minutes": 1,
+          "seconds": 6
+        },
+        {
+          "minutes": 1,
+          "seconds": 38
+        },
+        {
+          "minutes": 2,
+          "seconds": 0
+        },
+        {
+          "minutes": 2,
+          "seconds": 23
+        }
+      ],
+      "introduces": [
+        "Meta 发布图像识别新模型",
+        "Twitter 开源推荐算法",
+        "Arroyo｜Rust 编写流式计算引擎",
+        "openplayground｜Github CEO 发起的 AI playground 项目",
+        "Quadratic｜一个有创意的数据工具",
+        "Midjourney 与 Adobe Firefly 对比引发对版权关注"
+      ],
+      "links": [
+        "https://github.com/facebookresearch/segment-anything",
+        "https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm",
+        "https://github.com/ArroyoSystems/arroyo",
+        "https://github.com/nat/openplayground",
+        "https://www.quadratichq.com/",
+        "https://twitter.com/DrJimFan/status/1642921475849203712"
+      ]
+    }
+  },
+  {
     "aid": 354428596,
     "hn_items": {
       "times": [

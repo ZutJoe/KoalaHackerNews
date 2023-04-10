@@ -6,6 +6,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av484672088)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:10](https://www.bilibili.com/video/av484672088?t=10)|Meta 发布图像识别新模型|https://github.com/facebookresearch/segment-anything|
+|[00:41](https://www.bilibili.com/video/av484672088?t=41)|Twitter 开源推荐算法|https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm|
+|[01:06](https://www.bilibili.com/video/av484672088?t=66)|Arroyo｜Rust 编写流式计算引擎|https://github.com/ArroyoSystems/arroyo|
+|[01:38](https://www.bilibili.com/video/av484672088?t=98)|openplayground｜Github CEO 发起的 AI playground 项目|https://github.com/nat/openplayground|
+|[02:00](https://www.bilibili.com/video/av484672088?t=120)|Quadratic｜一个有创意的数据工具|https://www.quadratichq.com/|
+|[02:23](https://www.bilibili.com/video/av484672088?t=143)|Midjourney 与 Adobe Firefly 对比引发对版权关注|https://twitter.com/DrJimFan/status/1642921475849203712|
+
 ## [视频链接](https://www.bilibili.com/video/av354428596)
 
 |时间轴|简介|链接|
