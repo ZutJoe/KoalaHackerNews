@@ -6,6 +6,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av227523967)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:10](https://www.bilibili.com/video/av227523967?t=10)|Phind｜面向开发者的 AI 搜索引擎|https://www.phind.com/|
+|[00:38](https://www.bilibili.com/video/av227523967?t=38)|Sniffnet｜跨平台网络监测工具|https://github.com/GyulyVGC/sniffnet|
+|[01:05](https://www.bilibili.com/video/av227523967?t=65)|Code Hike｜交互式代码文档|https://github.com/code-hike/codehike|
+|[01:27](https://www.bilibili.com/video/av227523967?t=87)|Auto-GPT｜ 让 AI 产出提示语|https://github.com/Significant-Gravitas/Auto-GPT|
+|[02:02](https://www.bilibili.com/video/av227523967?t=122)|FUTUREPEDIA｜ AI 工具目录|https://www.futurepedia.io/|
+|[02:26](https://www.bilibili.com/video/av227523967?t=146)|有趣的人体键盘|https://github.com/everythingishacked/Semaphore|
+
 ## [视频链接](https://www.bilibili.com/video/av484672088)
 
 |时间轴|简介|链接|

@@ -1,5 +1,52 @@
 [
   {
+    "aid": 227523967,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 10
+        },
+        {
+          "minutes": 0,
+          "seconds": 38
+        },
+        {
+          "minutes": 1,
+          "seconds": 5
+        },
+        {
+          "minutes": 1,
+          "seconds": 27
+        },
+        {
+          "minutes": 2,
+          "seconds": 2
+        },
+        {
+          "minutes": 2,
+          "seconds": 26
+        }
+      ],
+      "introduces": [
+        "Phind｜面向开发者的 AI 搜索引擎",
+        "Sniffnet｜跨平台网络监测工具",
+        "Code Hike｜交互式代码文档",
+        "Auto-GPT｜ 让 AI 产出提示语",
+        "FUTUREPEDIA｜ AI 工具目录",
+        "有趣的人体键盘"
+      ],
+      "links": [
+        "https://www.phind.com/",
+        "https://github.com/GyulyVGC/sniffnet",
+        "https://github.com/code-hike/codehike",
+        "https://github.com/Significant-Gravitas/Auto-GPT",
+        "https://www.futurepedia.io/",
+        "https://github.com/everythingishacked/Semaphore"
+      ]
+    }
+  },
+  {
     "aid": 484672088,
     "hn_items": {
       "times": [
