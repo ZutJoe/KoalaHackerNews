@@ -1,5 +1,52 @@
 [
   {
+    "aid": 825312999,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 36
+        },
+        {
+          "minutes": 1,
+          "seconds": 9
+        },
+        {
+          "minutes": 1,
+          "seconds": 33
+        },
+        {
+          "minutes": 2,
+          "seconds": 2
+        },
+        {
+          "minutes": 2,
+          "seconds": 34
+        }
+      ],
+      "introduces": [
+        "Evidence｜轻量灵活的 BI 工具",
+        "Uptrace｜ 一个开源的 APM 服务",
+        "Supavisor｜高性能数据库连接池",
+        "Edge Runtime｜开源函数服务框架",
+        "SQL Chat｜AI 数据库查询工具",
+        "一篇介绍负载均衡基本概念和实现方法的博客"
+      ],
+      "links": [
+        "https://evidence.dev/",
+        "https://github.com/uptrace/uptrace",
+        "https://github.com/supabase/supavisor",
+        "https://supabase.com/blog/edge-runtime-self-hosted-deno-functions",
+        "https://www.sqlchat.ai/",
+        "https://samwho.dev/load-balancing"
+      ]
+    }
+  },
+  {
     "aid": 227523967,
     "hn_items": {
       "times": [

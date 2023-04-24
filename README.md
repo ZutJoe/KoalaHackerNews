@@ -6,6 +6,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av825312999)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av825312999?t=9)|Evidence｜轻量灵活的 BI 工具|https://evidence.dev/|
+|[00:36](https://www.bilibili.com/video/av825312999?t=36)|Uptrace｜ 一个开源的 APM 服务|https://github.com/uptrace/uptrace|
+|[01:09](https://www.bilibili.com/video/av825312999?t=69)|Supavisor｜高性能数据库连接池|https://github.com/supabase/supavisor|
+|[01:33](https://www.bilibili.com/video/av825312999?t=93)|Edge Runtime｜开源函数服务框架|https://supabase.com/blog/edge-runtime-self-hosted-deno-functions|
+|[02:02](https://www.bilibili.com/video/av825312999?t=122)|SQL Chat｜AI 数据库查询工具|https://www.sqlchat.ai/|
+|[02:34](https://www.bilibili.com/video/av825312999?t=154)|一篇介绍负载均衡基本概念和实现方法的博客|https://samwho.dev/load-balancing|
+
 ## [视频链接](https://www.bilibili.com/video/av227523967)
 
 |时间轴|简介|链接|
