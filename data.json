@@ -1,5 +1,52 @@
 [
   {
+    "aid": 313106255,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 44
+        },
+        {
+          "minutes": 1,
+          "seconds": 10
+        },
+        {
+          "minutes": 1,
+          "seconds": 48
+        },
+        {
+          "minutes": 2,
+          "seconds": 13
+        },
+        {
+          "minutes": 2,
+          "seconds": 46
+        }
+      ],
+      "introduces": [
+        "Encore｜端到端后端开发平台",
+        "Databerry｜无代码训练自己的 ChatGPT 机器人",
+        "Babylon.JS 6.0 发布超强物理引擎",
+        "Linen｜将 Slack 和 Discord 对话转换为 Web 页",
+        "Bullet Train｜为 SaaS 开发者提供开箱即用开发框架",
+        "一篇关于 PostgreSQL 的博客"
+      ],
+      "links": [
+        "https://encore.dev/",
+        "https://www.databerry.ai/",
+        "https://babylonjs.medium.com/announcing-babylon-js-6-0-dcb5f1662e3a",
+        "https://www.linen.dev/",
+        "https://bullettrain.co/",
+        "https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql"
+      ]
+    }
+  },
+  {
     "aid": 825312999,
     "hn_items": {
       "times": [

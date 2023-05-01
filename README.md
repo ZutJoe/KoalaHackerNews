@@ -6,6 +6,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av313106255)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av313106255?t=9)|Encore｜端到端后端开发平台|https://encore.dev/|
+|[00:44](https://www.bilibili.com/video/av313106255?t=44)|Databerry｜无代码训练自己的 ChatGPT 机器人|https://www.databerry.ai/|
+|[01:10](https://www.bilibili.com/video/av313106255?t=70)|Babylon.JS 6.0 发布超强物理引擎|https://babylonjs.medium.com/announcing-babylon-js-6-0-dcb5f1662e3a|
+|[01:48](https://www.bilibili.com/video/av313106255?t=108)|Linen｜将 Slack 和 Discord 对话转换为 Web 页|https://www.linen.dev/|
+|[02:13](https://www.bilibili.com/video/av313106255?t=133)|Bullet Train｜为 SaaS 开发者提供开箱即用开发框架|https://bullettrain.co/|
+|[02:46](https://www.bilibili.com/video/av313106255?t=166)|一篇关于 PostgreSQL 的博客|https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql|
+
 ## [视频链接](https://www.bilibili.com/video/av825312999)
 
 |时间轴|简介|链接|
