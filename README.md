@@ -6,6 +6,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av783301696)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av783301696?t=9)|Mojo｜面向 AI 的编程语言|https://www.modular.com/mojo|
+|[00:51](https://www.bilibili.com/video/av783301696?t=51)|Replit 发布大语言模型 replit-code-v1-3b|https://www.latent.space/p/reza-shabani#details<br>https://huggingface.co/spaces/replit/replit-code-v1-3b-demo|
+|[01:15](https://www.bilibili.com/video/av783301696?t=75)|Fakespot｜Mozilla 收购新动向|https://www.fakespot.com/|
+|[01:52](https://www.bilibili.com/video/av783301696?t=112)|lagon｜基于 V8 的开源 serverless 平台|https://lagon.app/|
+|[02:39](https://www.bilibili.com/video/av783301696?t=159)|Qwik 发布 v1.0 版本|https://www.builder.io/blog/qwik-v1|
+|[03:07](https://www.bilibili.com/video/av783301696?t=187)|Frogmouth｜开源命令行 Markdown 浏览器|https://github.com/Textualize/frogmouth|
+
 ## [视频链接](https://www.bilibili.com/video/av313106255)
 
 |时间轴|简介|链接|

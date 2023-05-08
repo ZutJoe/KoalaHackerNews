@@ -1,5 +1,55 @@
 [
   {
+    "aid": 783301696,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 51
+        },
+        {
+          "minutes": 1,
+          "seconds": 15
+        },
+        {
+          "minutes": 1,
+          "seconds": 52
+        },
+        {
+          "minutes": 2,
+          "seconds": 39
+        },
+        {
+          "minutes": 3,
+          "seconds": 7
+        }
+      ],
+      "introduces": [
+        "Mojo｜面向 AI 的编程语言",
+        "Replit 发布大语言模型 replit-code-v1-3b",
+        "Fakespot｜Mozilla 收购新动向",
+        "lagon｜基于 V8 的开源 serverless 平台",
+        "Qwik 发布 v1.0 版本",
+        "Frogmouth｜开源命令行 Markdown 浏览器"
+      ],
+      "links": [
+        "https://www.modular.com/mojo",
+        [
+          "https://www.latent.space/p/reza-shabani#details",
+          "https://huggingface.co/spaces/replit/replit-code-v1-3b-demo"
+        ],
+        "https://www.fakespot.com/",
+        "https://lagon.app/",
+        "https://www.builder.io/blog/qwik-v1",
+        "https://github.com/Textualize/frogmouth"
+      ]
+    }
+  },
+  {
     "aid": 313106255,
     "hn_items": {
       "times": [
