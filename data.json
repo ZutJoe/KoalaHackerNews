@@ -1,5 +1,55 @@
 [
   {
+    "aid": 826197972,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 49
+        },
+        {
+          "minutes": 1,
+          "seconds": 24
+        },
+        {
+          "minutes": 1,
+          "seconds": 58
+        },
+        {
+          "minutes": 2,
+          "seconds": 25
+        },
+        {
+          "minutes": 2,
+          "seconds": 50
+        }
+      ],
+      "introduces": [
+        "Claude｜支持十万 token 的 AI 对话模型",
+        "Dolt｜包含版本控制功能的 SQL 数据库",
+        "Qdrant｜基于 Rust 的向量数据库",
+        "Syncthing｜文件持续同步工具",
+        "Fir｜ 为 Go 开发者设计的 Web UI 开发框架",
+        "Tamagui｜React Native 优化编译器"
+      ],
+      "links": [
+        "https://www.anthropic.com/index/100k-context-windows",
+        "https://www.dolthub.com/blog/2023-05-05-dolt-1-dot-0/",
+        [
+          "https://github.com/qdrant/qdrant",
+          "https://www.pinecone.io/learn/vector-database",
+          "https://github.com/syncthing/syncthing"
+        ],
+        "https://livefir.fly.dev/",
+        "https://tamagui.dev/blog/version-one"
+      ]
+    }
+  },
+  {
     "aid": 783301696,
     "hn_items": {
       "times": [
