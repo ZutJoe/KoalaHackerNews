@@ -12,10 +12,10 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |:--:|:--:|:--:|
 |[00:09](https://www.bilibili.com/video/av826197972?t=9)|Claude｜支持十万 token 的 AI 对话模型|https://www.anthropic.com/index/100k-context-windows|
 |[00:49](https://www.bilibili.com/video/av826197972?t=49)|Dolt｜包含版本控制功能的 SQL 数据库|https://www.dolthub.com/blog/2023-05-05-dolt-1-dot-0/|
-|[01:24](https://www.bilibili.com/video/av826197972?t=84)|Qdrant｜基于 Rust 的向量数据库|https://github.com/qdrant/qdrant<br>https://www.pinecone.io/learn/vector-database<br>https://github.com/syncthing/syncthing|
-|[01:58](https://www.bilibili.com/video/av826197972?t=118)|Syncthing｜文件持续同步工具|https://livefir.fly.dev/|
-|[02:25](https://www.bilibili.com/video/av826197972?t=145)|Fir｜ 为 Go 开发者设计的 Web UI 开发框架|https://tamagui.dev/blog/version-one|
-|[02:50](https://www.bilibili.com/video/av826197972?t=170)|Tamagui｜React Native 优化编译器| |
+|[01:24](https://www.bilibili.com/video/av826197972?t=84)|Qdrant｜基于 Rust 的向量数据库|https://github.com/qdrant/qdrant<br>https://www.pinecone.io/learn/vector-database|
+|[01:58](https://www.bilibili.com/video/av826197972?t=118)|Syncthing｜文件持续同步工具|https://github.com/syncthing/syncthing|
+|[02:25](https://www.bilibili.com/video/av826197972?t=145)|Fir｜ 为 Go 开发者设计的 Web UI 开发框架|https://livefir.fly.dev/|
+|[02:50](https://www.bilibili.com/video/av826197972?t=170)|Tamagui｜React Native 优化编译器|https://tamagui.dev/blog/version-one|
 
 ## [视频链接](https://www.bilibili.com/video/av783301696)
 

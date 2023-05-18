@@ -41,9 +41,9 @@
         "https://www.dolthub.com/blog/2023-05-05-dolt-1-dot-0/",
         [
           "https://github.com/qdrant/qdrant",
-          "https://www.pinecone.io/learn/vector-database",
-          "https://github.com/syncthing/syncthing"
+          "https://www.pinecone.io/learn/vector-database"
         ],
+        "https://github.com/syncthing/syncthing",
         "https://livefir.fly.dev/",
         "https://tamagui.dev/blog/version-one"
       ]
