@@ -1,5 +1,52 @@
 [
   {
+    "aid": 953920150,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 42
+        },
+        {
+          "minutes": 1,
+          "seconds": 13
+        },
+        {
+          "minutes": 1,
+          "seconds": 33
+        },
+        {
+          "minutes": 2,
+          "seconds": 11
+        },
+        {
+          "minutes": 2,
+          "seconds": 43
+        }
+      ],
+      "introduces": [
+        "Windmill｜低代码 + serverless = ?",
+        "Supabase 为文档/集成与 ChatGPT 类似的问答搜索体验",
+        "Bytebase 发布了 2.0 版本",
+        "Bun /本周发布新版本 v0.6",
+        "pprof｜WebAssembly 性能分析工具",
+        "AI 一周概述"
+      ],
+      "links": [
+        "https://github.com/windmill-labs/windmill",
+        "https://supabase.com/blog/openai-embeddings-postgres-vector",
+        "https://www.bytebase.com/blog/bytebase-2-0/",
+        "https://bun.sh/blog/bun-bundler",
+        "https://blog.stealthrocket.tech/performance-in-the-spotlight-webassembly-profiling-for-everyone/",
+        "https://twitter.com/rowancheung/status/1659650892071616512"
+      ]
+    }
+  },
+  {
     "aid": 826197972,
     "hn_items": {
       "times": [

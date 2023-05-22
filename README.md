@@ -6,6 +6,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av953920150)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av953920150?t=9)|Windmill｜低代码 + serverless = ?|https://github.com/windmill-labs/windmill|
+|[00:42](https://www.bilibili.com/video/av953920150?t=42)|Supabase 为文档/集成与 ChatGPT 类似的问答搜索体验|https://supabase.com/blog/openai-embeddings-postgres-vector|
+|[01:13](https://www.bilibili.com/video/av953920150?t=73)|Bytebase 发布了 2.0 版本|https://www.bytebase.com/blog/bytebase-2-0/|
+|[01:33](https://www.bilibili.com/video/av953920150?t=93)|Bun /本周发布新版本 v0.6|https://bun.sh/blog/bun-bundler|
+|[02:11](https://www.bilibili.com/video/av953920150?t=131)|pprof｜WebAssembly 性能分析工具|https://blog.stealthrocket.tech/performance-in-the-spotlight-webassembly-profiling-for-everyone/|
+|[02:43](https://www.bilibili.com/video/av953920150?t=163)|AI 一周概述|https://twitter.com/rowancheung/status/1659650892071616512|
+
 ## [视频链接](https://www.bilibili.com/video/av826197972)
 
 |时间轴|简介|链接|
