@@ -6,6 +6,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av741704043)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av741704043?t=9)|DeviceScript｜微软开源 IoT 设备开发框架| |
+|[00:41](https://www.bilibili.com/video/av741704043?t=41)|ls-lint｜基于 Go 的文件目录与文件名 lint 工具| |
+|[01:04](https://www.bilibili.com/video/av741704043?t=64)|DB-GPT｜SQLChat 的开源替代品| |
+|[01:34](https://www.bilibili.com/video/av741704043?t=94)|progress｜查看 Linux 命令执行进度| |
+|[02:02](https://www.bilibili.com/video/av741704043?t=122)|Paypal 开源数据库 JunoDB 并发表介绍博客| |
+|[02:23](https://www.bilibili.com/video/av741704043?t=143)|本周 AI 小结| |
+
 ## [视频链接](https://www.bilibili.com/video/av953920150)
 
 |时间轴|简介|链接|

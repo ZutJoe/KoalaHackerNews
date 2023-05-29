@@ -1,5 +1,45 @@
 [
   {
+    "aid": 741704043,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 41
+        },
+        {
+          "minutes": 1,
+          "seconds": 4
+        },
+        {
+          "minutes": 1,
+          "seconds": 34
+        },
+        {
+          "minutes": 2,
+          "seconds": 2
+        },
+        {
+          "minutes": 2,
+          "seconds": 23
+        }
+      ],
+      "introduces": [
+        "DeviceScript｜微软开源 IoT 设备开发框架",
+        "ls-lint｜基于 Go 的文件目录与文件名 lint 工具",
+        "DB-GPT｜SQLChat 的开源替代品",
+        "progress｜查看 Linux 命令执行进度",
+        "Paypal 开源数据库 JunoDB 并发表介绍博客",
+        "本周 AI 小结"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 953920150,
     "hn_items": {
       "times": [
