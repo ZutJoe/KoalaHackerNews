@@ -36,7 +36,17 @@
         "Paypal 开源数据库 JunoDB 并发表介绍博客",
         "本周 AI 小结"
       ],
-      "links": []
+      "links": [
+        "https://microsoft.github.io/devicescript/",
+        "https://github.com/loeffel-io/ls-lint",
+        "https://github.com/csunny/DB-GPT",
+        "https://github.com/Xfennec/progress ",
+        [
+          "https://medium.com/paypal-tech/unlocking-the-power-of-junodb-paypals-key-value-store-goes-open-source-ee85f935bdc1",
+          "https://github.com/paypal/junodb "
+        ],
+        "https://twitter.com/rowancheung/status/1661356887651020802"
+      ]
     }
   },
   {
