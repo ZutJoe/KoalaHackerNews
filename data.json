@@ -1,5 +1,60 @@
 [
   {
+    "aid": 741985027,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 42
+        },
+        {
+          "minutes": 1,
+          "seconds": 16
+        },
+        {
+          "minutes": 1,
+          "seconds": 49
+        },
+        {
+          "minutes": 2,
+          "seconds": 23
+        },
+        {
+          "minutes": 2,
+          "seconds": 42
+        }
+      ],
+      "introduces": [
+        "Lance｜面向机器学习设计的列式数据结构",
+        "Trogan｜Textualize 社区的新项目",
+        "Plane｜ 开源 Jira 替代品",
+        "CSS Pro｜CSS 编辑解决方案",
+        "Logicboard｜ 一个在线编程工具",
+        "AI 小结"
+      ],
+      "links": [
+        "https://github.com/lancedb/lance",
+        "https://github.com/Textualize/trogon",
+        "https://github.com/makeplane/plane",
+        "https://csspro.com/",
+        [
+          "https://logicboard.com/demo",
+          "https://logicboard.com/demo/:replay"
+        ],
+        "https://www.tii.ae/news/uaes-falcon-40b-now-royalty-free",
+        [
+          "https://technomancers.ai/japan-goes-all-in-copyright-doesnt-apply-to-ai-training",
+          "https://www.theverge.com/2023/5/30/23742123/nvidia-stock-ai-gpu-1-trillion-market-cap-price-value"
+        ],
+        "https://www.opera.com/zh-cn/one"
+      ]
+    }
+  },
+  {
     "aid": 741704043,
     "hn_items": {
       "times": [
