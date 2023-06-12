@@ -15,9 +15,7 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[01:16](https://www.bilibili.com/video/av741985027?t=76)|Plane｜ 开源 Jira 替代品|https://github.com/makeplane/plane|
 |[01:49](https://www.bilibili.com/video/av741985027?t=109)|CSS Pro｜CSS 编辑解决方案|https://csspro.com/|
 |[02:23](https://www.bilibili.com/video/av741985027?t=143)|Logicboard｜ 一个在线编程工具|https://logicboard.com/demo<br>https://logicboard.com/demo/:replay|
-|[02:42](https://www.bilibili.com/video/av741985027?t=162)|AI 小结|https://www.tii.ae/news/uaes-falcon-40b-now-royalty-free|
-| | |https://technomancers.ai/japan-goes-all-in-copyright-doesnt-apply-to-ai-training<br>https://www.theverge.com/2023/5/30/23742123/nvidia-stock-ai-gpu-1-trillion-market-cap-price-value|
-| | |https://www.opera.com/zh-cn/one|
+|[02:42](https://www.bilibili.com/video/av741985027?t=162)|AI 小结|https://www.tii.ae/news/uaes-falcon-40b-now-royalty-free<br>https://technomancers.ai/japan-goes-all-in-copyright-doesnt-apply-to-ai-training<br>https://www.theverge.com/2023/5/30/23742123/nvidia-stock-ai-gpu-1-trillion-market-cap-price-value<br>https://www.opera.com/zh-cn/one|
 
 ## [视频链接](https://www.bilibili.com/video/av741704043)
 

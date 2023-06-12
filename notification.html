@@ -1,62 +1,64 @@
 <!DOCTYPE html>
 <html>
-
-<head>
-  <title>Koala hacker news</title>
-  <meta charset="utf-8" content="width=device-width, initial-scale=1" name="viewport">
-  <link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="index.css">
-  <script src="load.js"></script>
-  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3"/></pre></li> -->
-</head>
-
-<body id="body">
-  <div class="widget">
-    <div class="light" id="choice"></div>
-  </div>
-  <div style="height: 100px; width: 100%">
-    <div class="shadow-sm p-3 mt-1 bg-body rounded mx-auto" id="content" style="width: 70%">
-      <h1 style="text-align: center;">Koala hacker news</h1>
-
-      <div class="input-group mb-3" >
+  <head>
+    <title>Koala hacker news</title>
+    <meta charset="utf-8" content="width=device-width, initial-scale=1" name="viewport">
+    <link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" rel="stylesheet">
+    <link href="css/index.css" rel="stylesheet">
+    <script src="js/load.js"></script>
+  </head>
+  <body id="body">
+    <a id="top"></a>
+    <div class="widget">
+      <div class="light" id="choice"></div>
+    </div>
+    <div class="shadow p-3 mt-1 bg-body rounded mx-auto" id="content" style="width: 70%">
+      <h1 style="text-align: center; margin-bottom: 50px;">Koala hacker news</h1>
+      <div class="input-group mb-3">
         <span class="input-group-text">
-          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
-            <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
+          <svg class="bi bi-search" fill="currentColor" height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+            <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"></path>
           </svg>
         </span>
-        <input id="search_input" type="text" placeholder="Search" class="form-control" onfocus="show_modal()">
+        <input class="form-control" id="search_input" onfocus="show_modal()" placeholder="Search" type="text">
       </div>
-
       <div class="modal fade" id="search_modal">
         <div class="modal-dialog modal-lg">
           <div class="modal-content">
             <div class="modal-header">
               <h1 class="modal-title fs-5">Search</h1>
-              <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+              <button class="btn-close" data-bs-dismiss="modal" type="button"></button>
             </div>
             <div class="modal-body" id="modal-body">
-              <div class="input-group mb-3" >
+              <div class="input-group mb-3">
                 <span class="input-group-text" id="inputGroup-sizing-default">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
-                    <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
+                  <svg class="bi bi-search" fill="currentColor" height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"></path>
                   </svg>
                 </span>
-                <input id="fact_search_input" type="text" placeholder="Search" class="form-control">
-              </div> 
-
-              <div class="list-group" id="search_result">
+                <input class="form-control" id="fact_search_input" placeholder="Search" type="text">
               </div>
-
+              <div class="list-group" id="search_result"></div>
             </div>
           </div>
         </div>
       </div>
-      <!-- <br> -->
+      <!-- <div style="position: fixed; bottom: 20px; right: 50px; cursor: pointer; width: 100px; height: 100px; background-color: #000;">
+        <a href="#top">
+          <i class="bi bi-arrow-up-square-fill"></i>
+        </a> 
+      </div> -->
+      <!-- <div style="position: fixed; bottom: 50px; right: 50px;">
+        <a href="#top" class="bi bi-arrow-up-square-fill" style="height: 100px; width: 100px;">
+          1
+          <span class="bi bi-arrow-up-square-fill"></span>返回顶部 
+        </a>
+      </div> -->
       <div>
         <h5>
-          <a href="https://www.bilibili.com/video/av774867810" id="774867810">视频链接</a>
+          <a href="https://www.bilibili.com/video/av903386514" id="903386514">视频链接</a>
         </h5>
-        <table class="table table-hover text-center align-middle" id="table">
+        <table class="table table-hover text-center align-middle">
           <thead>
             <tr>
               <th class="col-1" scope="col">时间轴</th>
@@ -67,67 +69,65 @@
           <tbody>
             <tr>
               <td>
-                <a href="https://www.bilibili.com/video/av774867810?t=9">00:09</a>
+                <a href="https://www.bilibili.com/video/av903386514?t=9">00:09</a>
               </td>
-              <td>phlare｜GrafanaLabs推出持续性能分析平台Phlare</td>
+              <td>OpenAI 开放 ChatGPT 模型</td>
               <td>
-                <a href="https://github.com/grafana/phlare">https://github.com/grafana/phlare</a>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <a href="https://www.bilibili.com/video/av774867810?t=38">00:38</a>
-              </td>
-              <td>PostgreSQL提供图查询能力插件ApacheAGE</td>
-              <td>
-                <a href="https://age.apache.org/">https://age.apache.org/</a>
+                <a href="https://openai.com/blog/chatgpt/">https://openai.com/blog/chatgpt/</a>
               </td>
             </tr>
             <tr>
               <td>
-                <a href="https://www.bilibili.com/video/av774867810?t=56">00:56</a>
+                <a href="https://www.bilibili.com/video/av903386514?t=39">00:39</a>
               </td>
-              <td>JC｜命令结果转JSON工具JC</td>
+              <td>Google 推出安全编程语言 Rune</td>
               <td>
-                <a href="https://github.com/kellyjonbrazil/jc">https://github.com/kellyjonbrazil/jc</a>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <a href="https://www.bilibili.com/video/av774867810?t=95">01:35</a>
-              </td>
-              <td>shell中history命令全新实现(多设备共享历史命令)</td>
-              <td>
-                <a href="https://github.com/ddworken/hishtory">https://github.com/ddworken/hishtory</a>
+                <a href="https://github.com/google/rune">https://github.com/google/rune</a>
               </td>
             </tr>
             <tr>
               <td>
-                <a href="https://www.bilibili.com/video/av774867810?t=116">01:56</a>
+                <a href="https://www.bilibili.com/video/av903386514?t=63">01:03</a>
               </td>
-              <td>ffmpeg｜过滤器图形化工具</td>
+              <td>Kubeshark｜k8s 流量观测工具</td>
               <td>
-                <a href="https://ffmpeg.guide/">https://ffmpeg.guide/</a>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <a href="https://www.bilibili.com/video/av774867810?t=134">02:14</a>
-              </td>
-              <td>turbopack速度10倍于vite?尤雨溪发文反击</td>
-              <td>
-                <a
-                  href="https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8">https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8</a>
+                <a href="https://github.com/kubeshark/kubeshark">https://github.com/kubeshark/kubeshark</a>
               </td>
             </tr>
             <tr>
               <td>
-                <a href="https://www.bilibili.com/video/av774867810?t=161">02:41</a>
+                <a href="https://www.bilibili.com/video/av903386514?t=88">01:28</a>
               </td>
-              <td>Heroku免费替代品</td>
+              <td>cheat.sh｜技术小抄集合</td>
               <td>
-                <a
-                  href="https://github.com/Engagespot/heroku-free-alternatives">https://github.com/Engagespot/heroku-free-alternatives</a>
+                <a href="https://github.com/chubin/cheat.sh">https://github.com/chubin/cheat.sh</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av903386514?t=110">01:50</a>
+              </td>
+              <td>go-coffeeshop｜GO 的微服务示例</td>
+              <td>
+                <a href="https://github.com/thangchung/go-coffeeshop">https://github.com/thangchung/go-coffeeshop</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av903386514?t=129">02:09</a>
+              </td>
+              <td>NLP 在线课程</td>
+              <td>
+                <a href="https://www.nlpdemystified.org/">https://www.nlpdemystified.org/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av903386514?t=145">02:25</a>
+              </td>
+              <td>《Sql for Devs》｜数据库详解电子书</td>
+              <td>
+                <a href="https://sqlfordevs.com/ebook">https://sqlfordevs.com/ebook</a>
               </td>
             </tr>
           </tbody>
@@ -135,9 +135,9 @@
       </div>
       <div>
         <h5>
-          <a href="https://www.bilibili.com/video/av774867810">视频链接</a>
+          <a href="https://www.bilibili.com/video/av690620840" id="690620840">视频链接</a>
         </h5>
-        <table class="table table-hover text-center align-middle" id="table">
+        <table class="table table-hover text-center align-middle">
           <thead>
             <tr>
               <th class="col-1" scope="col">时间轴</th>
@@ -148,81 +148,151 @@
           <tbody>
             <tr>
               <td>
-                <a href="https://www.bilibili.com/video/av774867810?t=9">00:09</a>
+                <a href="https://www.bilibili.com/video/av690620840?t=9">00:09</a>
               </td>
-              <td>phlare｜GrafanaLabs推出持续性能分析平台Phlare</td>
+              <td>Script Kit｜面向开发者的自动化工具，</td>
               <td>
-                <a href="https://github.com/grafana/phlare">https://github.com/grafana/phlare</a>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <a href="https://www.bilibili.com/video/av774867810?t=38">00:38</a>
-              </td>
-              <td>PostgreSQL提供图查询能力插件ApacheAGE</td>
-              <td>
-                <a href="https://age.apache.org/">https://age.apache.org/</a>
+                <a href="https://www.scriptkit.com/">https://www.scriptkit.com/</a>
               </td>
             </tr>
             <tr>
               <td>
-                <a href="https://www.bilibili.com/video/av774867810?t=56">00:56</a>
+                <a href="https://www.bilibili.com/video/av690620840?t=27">00:27</a>
               </td>
-              <td>JC｜命令结果转JSON工具JC</td>
+              <td>D2｜开源声明式绘图语言</td>
               <td>
-                <a href="https://github.com/kellyjonbrazil/jc">https://github.com/kellyjonbrazil/jc</a>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <a href="https://www.bilibili.com/video/av774867810?t=95">01:35</a>
-              </td>
-              <td>shell中history命令全新实现(多设备共享历史命令)</td>
-              <td>
-                <a href="https://github.com/ddworken/hishtory">https://github.com/ddworken/hishtory</a>
+                <a href="https://d2lang.com/">https://d2lang.com/</a>
               </td>
             </tr>
             <tr>
               <td>
-                <a href="https://www.bilibili.com/video/av774867810?t=116">01:56</a>
+                <a href="https://www.bilibili.com/video/av690620840?t=51">00:51</a>
               </td>
-              <td>ffmpeg｜过滤器图形化工具</td>
+              <td>Superset｜开源数据可视化平台</td>
               <td>
-                <a href="https://ffmpeg.guide/">https://ffmpeg.guide/</a>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <a href="https://www.bilibili.com/video/av774867810?t=134">02:14</a>
-              </td>
-              <td>turbopack速度10倍于vite?尤雨溪发文反击</td>
-              <td>
-                <a
-                  href="https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8">https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8</a>
+                <a href="https://superset.apache.org/">https://superset.apache.org/</a>
               </td>
             </tr>
             <tr>
               <td>
-                <a href="https://www.bilibili.com/video/av774867810?t=161">02:41</a>
+                <a href="https://www.bilibili.com/video/av690620840?t=70">01:10</a>
               </td>
-              <td>Heroku免费替代品</td>
+              <td>Stable Diffusion 发布2.0版本</td>
               <td>
-                <a
-                  href="https://github.com/Engagespot/heroku-free-alternatives">https://github.com/Engagespot/heroku-free-alternatives</a>
+                <a href="https://stability.ai/blog/stable-diffusion-v2-release">https://stability.ai/blog/stable-diffusion-v2-release</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av690620840?t=99">01:39</a>
+              </td>
+              <td>蚂蚁 UI 组件库 Ant Design 发布 V5 版本</td>
+              <td>
+                <a href="https://github.com/ant-design/ant-design/issues/38671">https://github.com/ant-design/ant-design/issues/38671</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av690620840?t=118">01:58</a>
+              </td>
+              <td>《命令行的艺术》项目</td>
+              <td>
+                <a href="https://github.com/jlevy/the-art-of-command-line">https://github.com/jlevy/the-art-of-command-line</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av690620840?t=140">02:20</a>
+              </td>
+              <td>Diátaxis｜帮助创作技术文档的写作框架</td>
+              <td>
+                <a href="https://diataxis.fr/">https://diataxis.fr/</a>
+              </td>
+            </tr>
+          </tbody>
+        </table><br>
+      </div>
+      <div>
+        <h5>
+          <a href="https://www.bilibili.com/video/av690620840" id="690620840">视频链接</a>
+        </h5>
+        <table class="table table-hover text-center align-middle">
+          <thead>
+            <tr>
+              <th class="col-1" scope="col">时间轴</th>
+              <th class="col-2" scope="col">简介</th>
+              <th class="col-2" scope="col">链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av690620840?t=9">00:09</a>
+              </td>
+              <td>Script Kit｜面向开发者的自动化工具，</td>
+              <td>
+                <a href="https://www.scriptkit.com/">https://www.scriptkit.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av690620840?t=27">00:27</a>
+              </td>
+              <td>D2｜开源声明式绘图语言</td>
+              <td>
+                <a href="https://d2lang.com/">https://d2lang.com/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av690620840?t=51">00:51</a>
+              </td>
+              <td>Superset｜开源数据可视化平台</td>
+              <td>
+                <a href="https://superset.apache.org/">https://superset.apache.org/</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av690620840?t=70">01:10</a>
+              </td>
+              <td>Stable Diffusion 发布2.0版本</td>
+              <td>
+                <a href="https://stability.ai/blog/stable-diffusion-v2-release">https://stability.ai/blog/stable-diffusion-v2-release</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av690620840?t=99">01:39</a>
+              </td>
+              <td>蚂蚁 UI 组件库 Ant Design 发布 V5 版本</td>
+              <td>
+                <a href="https://github.com/ant-design/ant-design/issues/38671">https://github.com/ant-design/ant-design/issues/38671</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av690620840?t=118">01:58</a>
+              </td>
+              <td>《命令行的艺术》项目</td>
+              <td>
+                <a href="https://github.com/jlevy/the-art-of-command-line">https://github.com/jlevy/the-art-of-command-line</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.bilibili.com/video/av690620840?t=140">02:20</a>
+              </td>
+              <td>Diátaxis｜帮助创作技术文档的写作框架</td>
+              <td>
+                <a href="https://diataxis.fr/">https://diataxis.fr/</a>
               </td>
             </tr>
           </tbody>
         </table><br>
       </div>
     </div>
-
-  </div>
-
-
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
-  <script type="text/javascript" src="index.js"></script>
-  <!-- <script src="https://cdn.jsdelivr.net/npm/@docsearch/js@3"></script> -->
-  <script src="search.js" ></script>
-</body>
-
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="js/index.js" type="text/javascript"></script>
+  </body>
 </html>
