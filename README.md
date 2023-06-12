@@ -6,6 +6,20 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av402219859)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av402219859?t=9)|Mercury｜Jupyter notebook 快速变为 web app|https://runmercury.com/|
+|[00:39](https://www.bilibili.com/video/av402219859?t=39)|Autocomplete｜Algolia 开源前端 UI 组件|https://github.com/algolia/autocomplete|
+|[01:00](https://www.bilibili.com/video/av402219859?t=60)|polywasm｜前 Figma CTO、esbuild 发起者开源的新研究项目|https://github.com/evanw/polywasm|
+|[01:33](https://www.bilibili.com/video/av402219859?t=93)|Dufs｜ 一个轻量级文件服务器|https://github.com/sigoden/dufs|
+|[01:56](https://www.bilibili.com/video/av402219859?t=116)|Apple 发布头显设备 Apple Vision Pro|https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro|
+|[02:12](https://www.bilibili.com/video/av402219859?t=132)|一周 AI 小结|https://platform.openai.com/docs/guides/gpt-best-practices/strategy-provide-reference-text|
+| | |https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms|
+| | |https://supabase.com/vector|
+| | |https://maketafi.com/ai|
+
 ## [视频链接](https://www.bilibili.com/video/av741985027)
 
 |时间轴|简介|链接|

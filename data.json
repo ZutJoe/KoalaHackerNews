@@ -1,5 +1,55 @@
 [
   {
+    "aid": 402219859,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 39
+        },
+        {
+          "minutes": 1,
+          "seconds": 0
+        },
+        {
+          "minutes": 1,
+          "seconds": 33
+        },
+        {
+          "minutes": 1,
+          "seconds": 56
+        },
+        {
+          "minutes": 2,
+          "seconds": 12
+        }
+      ],
+      "introduces": [
+        "Mercury｜Jupyter notebook 快速变为 web app",
+        "Autocomplete｜Algolia 开源前端 UI 组件",
+        "polywasm｜前 Figma CTO、esbuild 发起者开源的新研究项目",
+        "Dufs｜ 一个轻量级文件服务器",
+        "Apple 发布头显设备 Apple Vision Pro",
+        "一周 AI 小结"
+      ],
+      "links": [
+        "https://runmercury.com/",
+        "https://github.com/algolia/autocomplete",
+        "https://github.com/evanw/polywasm",
+        "https://github.com/sigoden/dufs",
+        "https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro",
+        "https://platform.openai.com/docs/guides/gpt-best-practices/strategy-provide-reference-text",
+        "https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms",
+        "https://supabase.com/vector",
+        "https://maketafi.com/ai"
+      ]
+    }
+  },
+  {
     "aid": 741985027,
     "hn_items": {
       "times": [
