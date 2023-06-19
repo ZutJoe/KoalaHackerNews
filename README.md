@@ -6,6 +6,20 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av487482397)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:10](https://www.bilibili.com/video/av487482397?t=10)|OpenObserve｜轻量级可观测性工具|https://github.com/openobserve/openobserve|
+|[00:43](https://www.bilibili.com/video/av487482397?t=43)|Arroyo｜云原生流处理引擎|https://www.arroyo.dev/|
+|[01:14](https://www.bilibili.com/video/av487482397?t=74)|Kera｜基于 Web 的桌面端扩展框架|https://desktop.kerahq.com/|
+|[01:34](https://www.bilibili.com/video/av487482397?t=94)|SeaweedFS｜分布式文件系统|https://github.com/seaweedfs/seaweedfs|
+|[02:03](https://www.bilibili.com/video/av487482397?t=123)|codespelunker｜命令行代码搜索工具|https://github.com/boyter/cs|
+|[02:24](https://www.bilibili.com/video/av487482397?t=144)|本周 AI 小结|https://github.com/ggerganov/llama.cpp/pull/1827|
+| | |https://techcrunch.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator|
+| | |https://github.com/baichuan-inc/baichuan-7B|
+| | |https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier|
+
 ## [视频链接](https://www.bilibili.com/video/av402219859)
 
 |时间轴|简介|链接|

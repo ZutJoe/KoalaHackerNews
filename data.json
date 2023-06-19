@@ -1,5 +1,55 @@
 [
   {
+    "aid": 487482397,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 10
+        },
+        {
+          "minutes": 0,
+          "seconds": 43
+        },
+        {
+          "minutes": 1,
+          "seconds": 14
+        },
+        {
+          "minutes": 1,
+          "seconds": 34
+        },
+        {
+          "minutes": 2,
+          "seconds": 3
+        },
+        {
+          "minutes": 2,
+          "seconds": 24
+        }
+      ],
+      "introduces": [
+        "OpenObserve｜轻量级可观测性工具",
+        "Arroyo｜云原生流处理引擎",
+        "Kera｜基于 Web 的桌面端扩展框架",
+        "SeaweedFS｜分布式文件系统",
+        "codespelunker｜命令行代码搜索工具",
+        "本周 AI 小结"
+      ],
+      "links": [
+        "https://github.com/openobserve/openobserve",
+        "https://www.arroyo.dev/",
+        "https://desktop.kerahq.com/",
+        "https://github.com/seaweedfs/seaweedfs",
+        "https://github.com/boyter/cs",
+        "https://github.com/ggerganov/llama.cpp/pull/1827",
+        "https://techcrunch.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator",
+        "https://github.com/baichuan-inc/baichuan-7B",
+        "https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier"
+      ]
+    }
+  },
+  {
     "aid": 402219859,
     "hn_items": {
       "times": [
