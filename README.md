@@ -6,6 +6,19 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av402729235)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:10](https://www.bilibili.com/video/av402729235?t=10)|DevPod｜开源 codespaces 替代品|https://devpod.sh/|
+|[00:37](https://www.bilibili.com/video/av402729235?t=37)|Sketch Systems｜UI 原型工具创新|https://sketch.systems/|
+|[01:06](https://www.bilibili.com/video/av402729235?t=66)|GoAWK｜Go 的 AWK 语言解释器|https://benhoyt.com/writings/goawk/|
+|[01:24](https://www.bilibili.com/video/av402729235?t=84)|Selecto.js｜一个区域选择的 UI 组件|https://daybrush.com/selecto/<br>https://github.com/daybrush|
+|[01:49](https://www.bilibili.com/video/av402729235?t=109)|Svelte 发布了 v4 版本|https://svelte.dev/blog/svelte-4|
+|[02:11](https://www.bilibili.com/video/av402729235?t=131)|本周 AI 小结|https://vercel.com/blog/introducing-the-vercel-ai-sdk|
+| | |https://github.com/steven-tey/novel|
+| | |https://github.com/bentoml/OpenLLM|
+
 ## [视频链接](https://www.bilibili.com/video/av487482397)
 
 |时间轴|简介|链接|

@@ -1,5 +1,57 @@
 [
   {
+    "aid": 402729235,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 10
+        },
+        {
+          "minutes": 0,
+          "seconds": 37
+        },
+        {
+          "minutes": 1,
+          "seconds": 6
+        },
+        {
+          "minutes": 1,
+          "seconds": 24
+        },
+        {
+          "minutes": 1,
+          "seconds": 49
+        },
+        {
+          "minutes": 2,
+          "seconds": 11
+        }
+      ],
+      "introduces": [
+        "DevPod｜开源 codespaces 替代品",
+        "Sketch Systems｜UI 原型工具创新",
+        "GoAWK｜Go 的 AWK 语言解释器",
+        "Selecto.js｜一个区域选择的 UI 组件",
+        "Svelte 发布了 v4 版本",
+        "本周 AI 小结"
+      ],
+      "links": [
+        "https://devpod.sh/",
+        "https://sketch.systems/",
+        "https://benhoyt.com/writings/goawk/",
+        [
+          "https://daybrush.com/selecto/",
+          "https://github.com/daybrush"
+        ],
+        "https://svelte.dev/blog/svelte-4",
+        "https://vercel.com/blog/introducing-the-vercel-ai-sdk",
+        "https://github.com/steven-tey/novel",
+        "https://github.com/bentoml/OpenLLM"
+      ]
+    }
+  },
+  {
     "aid": 487482397,
     "hn_items": {
       "times": [
