@@ -1,5 +1,54 @@
 [
   {
+    "aid": 912910501,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 49
+        },
+        {
+          "minutes": 1,
+          "seconds": 32
+        },
+        {
+          "minutes": 2,
+          "seconds": 5
+        },
+        {
+          "minutes": 2,
+          "seconds": 29
+        },
+        {
+          "minutes": 2,
+          "seconds": 47
+        }
+      ],
+      "introduces": [
+        "Tabserve｜ 一个反向代理工具",
+        "ReadySet｜轻量级数据库缓存",
+        "Refine｜更好的 React 开发框架",
+        "1-Panel｜开源 Linux 服务器运维管理面板",
+        "在 Go 程序中实现插件系统",
+        "本周 AI 小结"
+      ],
+      "links": [
+        "https://tabserve.dev/",
+        "https://github.com/readysettech/readyset",
+        "https://github.com/refinedev/refine",
+        "https://github.com/1Panel-dev/1Panel",
+        "https://www.youtube.com/watch?v=pRT36VqpljA",
+        "https://about.sourcegraph.com/cody",
+        "https://github.com/ChaoningZhang/MobileSAM",
+        "https://github.com/imgly/background-removal-js"
+      ]
+    }
+  },
+  {
     "aid": 402729235,
     "hn_items": {
       "times": [
