@@ -1,5 +1,58 @@
 [
   {
+    "aid": 573242140,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 10
+        },
+        {
+          "minutes": 0,
+          "seconds": 34
+        },
+        {
+          "minutes": 1,
+          "seconds": 6
+        },
+        {
+          "minutes": 1,
+          "seconds": 32
+        },
+        {
+          "minutes": 2,
+          "seconds": 0
+        },
+        {
+          "minutes": 2,
+          "seconds": 11
+        }
+      ],
+      "introduces": [
+        "Watermill｜Go 的事件驱动开发框架",
+        "BlockSuite｜通用协同编辑器",
+        "Columnar｜高性能列式存储引擎",
+        "Kine｜使用 SQL 数据库运行 k8s",
+        "基于 Three.js 的 3D 解密小游戏",
+        "一周 AI 小结"
+      ],
+      "links": [
+        "https://github.com/ThreeDotsLabs/watermill",
+        "https://blocksuite.affine.pro/",
+        "https://github.com/kelindar/column",
+        "https://github.com/k3s-io/kine",
+        "https://www.thomasfriday.com/cuboid/",
+        [
+          "https://twitter.com/OpenAI/status/1677029947544838144",
+          "https://twitter.com/OpenAI/status/1676072388436594688",
+          "https://twitter.com/openai/status/1677015057316872192"
+        ],
+        "https://wccftech.com/inflection-ai-develops-supercomputer-equipped-with-22000-nvidia-h100-ai-gpus",
+        "https://github.com/AntonOsika/gpt-engineer"
+      ]
+    }
+  },
+  {
     "aid": 912910501,
     "hn_items": {
       "times": [

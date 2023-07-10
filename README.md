@@ -6,6 +6,19 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av573242140)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:10](https://www.bilibili.com/video/av573242140?t=10)|Watermill｜Go 的事件驱动开发框架|https://github.com/ThreeDotsLabs/watermill|
+|[00:34](https://www.bilibili.com/video/av573242140?t=34)|BlockSuite｜通用协同编辑器|https://blocksuite.affine.pro/|
+|[01:06](https://www.bilibili.com/video/av573242140?t=66)|Columnar｜高性能列式存储引擎|https://github.com/kelindar/column|
+|[01:32](https://www.bilibili.com/video/av573242140?t=92)|Kine｜使用 SQL 数据库运行 k8s|https://github.com/k3s-io/kine|
+|[02:00](https://www.bilibili.com/video/av573242140?t=120)|基于 Three.js 的 3D 解密小游戏|https://www.thomasfriday.com/cuboid/|
+|[02:11](https://www.bilibili.com/video/av573242140?t=131)|一周 AI 小结|https://twitter.com/OpenAI/status/1677029947544838144<br>https://twitter.com/OpenAI/status/1676072388436594688<br>https://twitter.com/openai/status/1677015057316872192|
+| | |https://wccftech.com/inflection-ai-develops-supercomputer-equipped-with-22000-nvidia-h100-ai-gpus|
+| | |https://github.com/AntonOsika/gpt-engineer|
+
 ## [视频链接](https://www.bilibili.com/video/av912910501)
 
 |时间轴|简介|链接|
