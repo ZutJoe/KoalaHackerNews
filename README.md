@@ -6,6 +6,21 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av913407064)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av913407064?t=9)|Vizzu｜开源的数据可视化动画库|https://lib.vizzuhq.com/<br>https://lib.vizzuhq.com/latest/showcases/|
+|[00:33](https://www.bilibili.com/video/av913407064?t=33)|Workout｜开源健身小程序|https://workout.lol/|
+|[00:59](https://www.bilibili.com/video/av913407064?t=59)|Immich｜基于 Flutter 的在线相册应用|https://github.com/immich-app/immich|
+|[01:23](https://www.bilibili.com/video/av913407064?t=83)|OpenCost｜K8s 成本测量工具|https://www.opencost.io/|
+|[01:45](https://www.bilibili.com/video/av913407064?t=105)|Digger｜Terraform Cloud 的开源替代品|https://digger.dev/|
+|[02:12](https://www.bilibili.com/video/av913407064?t=132)|一周 AI 小结|https://www.anthropic.com/index/claude-2|
+| | |https://stability.ai/blog/clipdrop-launches-stable-doodle|
+| | |https://www.foxbusiness.com/technology/google-ceo-sounds-alarm-ai-deepfake-videos-can-cause-lot-harm|
+| | |https://www.wired.co.uk/article/mission-impossible-dead-reckoning-ai-villain|
+| | |https://x.ai/|
+
 ## [视频链接](https://www.bilibili.com/video/av573242140)
 
 |时间轴|简介|链接|

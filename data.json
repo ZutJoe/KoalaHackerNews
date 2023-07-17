@@ -1,5 +1,59 @@
 [
   {
+    "aid": 913407064,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 33
+        },
+        {
+          "minutes": 0,
+          "seconds": 59
+        },
+        {
+          "minutes": 1,
+          "seconds": 23
+        },
+        {
+          "minutes": 1,
+          "seconds": 45
+        },
+        {
+          "minutes": 2,
+          "seconds": 12
+        }
+      ],
+      "introduces": [
+        "Vizzu｜开源的数据可视化动画库",
+        "Workout｜开源健身小程序",
+        "Immich｜基于 Flutter 的在线相册应用",
+        "OpenCost｜K8s 成本测量工具",
+        "Digger｜Terraform Cloud 的开源替代品",
+        "一周 AI 小结"
+      ],
+      "links": [
+        [
+          "https://lib.vizzuhq.com/",
+          "https://lib.vizzuhq.com/latest/showcases/"
+        ],
+        "https://workout.lol/",
+        "https://github.com/immich-app/immich",
+        "https://www.opencost.io/",
+        "https://digger.dev/",
+        "https://www.anthropic.com/index/claude-2",
+        "https://stability.ai/blog/clipdrop-launches-stable-doodle",
+        "https://www.foxbusiness.com/technology/google-ceo-sounds-alarm-ai-deepfake-videos-can-cause-lot-harm",
+        "https://www.wired.co.uk/article/mission-impossible-dead-reckoning-ai-villain",
+        "https://x.ai/"
+      ]
+    }
+  },
+  {
     "aid": 573242140,
     "hn_items": {
       "times": [
