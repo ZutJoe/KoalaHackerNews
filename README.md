@@ -6,6 +6,20 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av956331314)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av956331314?t=9)|TUI Grid｜ 一个功能强大的数据表格库|https://ui.toast.com/tui-grid|
+|[00:35](https://www.bilibili.com/video/av956331314?t=35)|Eruda｜浏览器调试工具模拟器|https://github.com/liriliri/eruda|
+|[00:56](https://www.bilibili.com/video/av956331314?t=56)|Docuseal｜电子签名 DocuSign 的开源替代品|https://github.com/docusealco/docuseal|
+|[01:23](https://www.bilibili.com/video/av956331314?t=83)|Wordpress 发布 Wordpress Playground|https://wordpress.github.io/wordpress-playground/|
+|[01:54](https://www.bilibili.com/video/av956331314?t=114)|OrioleDB｜ 新的 PostgreSQL 存储引擎|https://www.orioledata.com/blog/no-more-vacuum-in-postgresql/|
+|[02:26](https://www.bilibili.com/video/av956331314?t=146)|一周 AI 小结|https://ai.meta.com/llama/|
+| | |https://openai.com/blog/custom-instructions-for-chatgpt|
+| | |https://arxiv.org/pdf/2307.09009.pdf|
+| | |https://microsoft.github.io/TypeChat/blog/introducing-typechat/|
+
 ## [视频链接](https://www.bilibili.com/video/av913407064)
 
 |时间轴|简介|链接|

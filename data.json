@@ -1,5 +1,55 @@
 [
   {
+    "aid": 956331314,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 35
+        },
+        {
+          "minutes": 0,
+          "seconds": 56
+        },
+        {
+          "minutes": 1,
+          "seconds": 23
+        },
+        {
+          "minutes": 1,
+          "seconds": 54
+        },
+        {
+          "minutes": 2,
+          "seconds": 26
+        }
+      ],
+      "introduces": [
+        "TUI Grid｜ 一个功能强大的数据表格库",
+        "Eruda｜浏览器调试工具模拟器",
+        "Docuseal｜电子签名 DocuSign 的开源替代品",
+        "Wordpress 发布 Wordpress Playground",
+        "OrioleDB｜ 新的 PostgreSQL 存储引擎",
+        "一周 AI 小结"
+      ],
+      "links": [
+        "https://ui.toast.com/tui-grid",
+        "https://github.com/liriliri/eruda",
+        "https://github.com/docusealco/docuseal",
+        "https://wordpress.github.io/wordpress-playground/",
+        "https://www.orioledata.com/blog/no-more-vacuum-in-postgresql/",
+        "https://ai.meta.com/llama/",
+        "https://openai.com/blog/custom-instructions-for-chatgpt",
+        "https://arxiv.org/pdf/2307.09009.pdf",
+        "https://microsoft.github.io/TypeChat/blog/introducing-typechat/"
+      ]
+    }
+  },
+  {
     "aid": 913407064,
     "hn_items": {
       "times": [
