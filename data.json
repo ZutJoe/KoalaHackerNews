@@ -1,5 +1,57 @@
 [
   {
+    "aid": 446594335,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 36
+        },
+        {
+          "minutes": 1,
+          "seconds": 6
+        },
+        {
+          "minutes": 1,
+          "seconds": 40
+        },
+        {
+          "minutes": 2,
+          "seconds": 10
+        },
+        {
+          "minutes": 2,
+          "seconds": 38
+        }
+      ],
+      "introduces": [
+        "Vegeta｜ HTTP API 性能测试工具",
+        "PgCat｜PostgreSQL 连接池管理器",
+        "Hono｜面向边缘场景设计的 Web 框架",
+        "Risor｜用于 Go 项目的的嵌入式脚本语言",
+        "Croner｜基于 JavaScript 编写的定时编排工具",
+        "一周 AI 小结"
+      ],
+      "links": [
+        "https://github.com/tsenart/vegeta",
+        "https://github.com/postgresml/pgcat",
+        "https://hono.dev/",
+        "https://risor.io/",
+        "https://github.com/Hexagon/croner",
+        [
+          "https://stability.ai/blog/stable-diffusion-sdxl-1-announcement",
+          "https://stability.ai/blog/stable-beluga-large-instruction-fine-tuned-models"
+        ],
+        "https://github.com/continuedev/continue。",
+        "https://the-decoder.com/ai-researcher-geoffrey-hinton-thinks-ai-has-or-will-have-emotions"
+      ]
+    }
+  },
+  {
     "aid": 956331314,
     "hn_items": {
       "times": [

@@ -6,6 +6,19 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av446594335)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av446594335?t=9)|Vegeta｜ HTTP API 性能测试工具|https://github.com/tsenart/vegeta|
+|[00:36](https://www.bilibili.com/video/av446594335?t=36)|PgCat｜PostgreSQL 连接池管理器|https://github.com/postgresml/pgcat|
+|[01:06](https://www.bilibili.com/video/av446594335?t=66)|Hono｜面向边缘场景设计的 Web 框架|https://hono.dev/|
+|[01:40](https://www.bilibili.com/video/av446594335?t=100)|Risor｜用于 Go 项目的的嵌入式脚本语言|https://risor.io/|
+|[02:10](https://www.bilibili.com/video/av446594335?t=130)|Croner｜基于 JavaScript 编写的定时编排工具|https://github.com/Hexagon/croner|
+|[02:38](https://www.bilibili.com/video/av446594335?t=158)|一周 AI 小结|https://stability.ai/blog/stable-diffusion-sdxl-1-announcement<br>https://stability.ai/blog/stable-beluga-large-instruction-fine-tuned-models|
+| | |https://github.com/continuedev/continue。|
+| | |https://the-decoder.com/ai-researcher-geoffrey-hinton-thinks-ai-has-or-will-have-emotions|
+
 ## [视频链接](https://www.bilibili.com/video/av956331314)
 
 |时间轴|简介|链接|
