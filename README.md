@@ -6,6 +6,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av999399370)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av999399370?t=9)|Bloomberg 开源高性能消息队列 BlazingMQ| |
+|[00:37](https://www.bilibili.com/video/av999399370?t=37)|开源列式数据库 Hydra 发布 1.0 版本| |
+|[01:22](https://www.bilibili.com/video/av999399370?t=82)|PythonMonkey｜实现 Python 与 JavaScript 的互操作性| |
+|[01:44](https://www.bilibili.com/video/av999399370?t=104)|gonew｜Go 语言新工具| |
+|[02:13](https://www.bilibili.com/video/av999399370?t=133)|一篇介绍内存泄漏的文章？| |
+|[02:54](https://www.bilibili.com/video/av999399370?t=174)|一周 AI 小结| |
+
 ## [视频链接](https://www.bilibili.com/video/av446594335)
 
 |时间轴|简介|链接|
