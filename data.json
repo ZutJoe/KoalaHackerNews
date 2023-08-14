@@ -1,5 +1,57 @@
 [
   {
+    "aid": 957239753,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 10
+        },
+        {
+          "minutes": 0,
+          "seconds": 58
+        },
+        {
+          "minutes": 1,
+          "seconds": 28
+        },
+        {
+          "minutes": 2,
+          "seconds": 10
+        },
+        {
+          "minutes": 2,
+          "seconds": 48
+        },
+        {
+          "minutes": 3,
+          "seconds": 23
+        },
+        {
+          "minutes": 4,
+          "seconds": 3
+        }
+      ],
+      "introduces": [
+        "deno_python｜Deno 中调用 Python 模块",
+        "Postgres Language Server｜为 Postgres 数据库提供语言服务协议支持",
+        "Pigsty｜开源 RDS 替代方案",
+        "Applite｜ Mac 应用管理工具",
+        "Dioxus｜Rust 编写的跨平台 GUI 框架",
+        "katana｜ Go 编写的内容抓取框架",
+        "缅怀 Vim 之父"
+      ],
+      "links": [
+        "https://github.com/denosaurs/deno_python",
+        "https://github.com/supabase/postgres_lsp",
+        "https://github.com/Vonng/pigsty",
+        "https://github.com/milanvarady/applite",
+        "https://github.com/DioxusLabs/dioxus",
+        "https://github.com/projectdiscovery/katana"
+      ]
+    }
+  },
+  {
     "aid": 999399370,
     "hn_items": {
       "times": [

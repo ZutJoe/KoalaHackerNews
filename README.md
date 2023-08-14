@@ -6,6 +6,18 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av957239753)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:10](https://www.bilibili.com/video/av957239753?t=10)|deno_python｜Deno 中调用 Python 模块|https://github.com/denosaurs/deno_python|
+|[00:58](https://www.bilibili.com/video/av957239753?t=58)|Postgres Language Server｜为 Postgres 数据库提供语言服务协议支持|https://github.com/supabase/postgres_lsp|
+|[01:28](https://www.bilibili.com/video/av957239753?t=88)|Pigsty｜开源 RDS 替代方案|https://github.com/Vonng/pigsty|
+|[02:10](https://www.bilibili.com/video/av957239753?t=130)|Applite｜ Mac 应用管理工具|https://github.com/milanvarady/applite|
+|[02:48](https://www.bilibili.com/video/av957239753?t=168)|Dioxus｜Rust 编写的跨平台 GUI 框架|https://github.com/DioxusLabs/dioxus|
+|[03:23](https://www.bilibili.com/video/av957239753?t=203)|katana｜ Go 编写的内容抓取框架|https://github.com/projectdiscovery/katana|
+|[04:03](https://www.bilibili.com/video/av957239753?t=243)|缅怀 Vim 之父| |
+
 ## [视频链接](https://www.bilibili.com/video/av999399370)
 
 |时间轴|简介|链接|
