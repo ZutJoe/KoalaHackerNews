@@ -1,5 +1,52 @@
 [
   {
+    "aid": 574943888,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 32
+        },
+        {
+          "minutes": 1,
+          "seconds": 5
+        },
+        {
+          "minutes": 1,
+          "seconds": 34
+        },
+        {
+          "minutes": 2,
+          "seconds": 0
+        },
+        {
+          "minutes": 2,
+          "seconds": 33
+        }
+      ],
+      "introduces": [
+        "LottieLab｜ 协同 Lottie 动画创作工具",
+        "servicer｜ 轻量级 systemd 服务管理工具",
+        "gRPCurl｜和 gRPC 服务器进行交互的 CLI 工具",
+        "Opendream｜像使用 Photoshop 一样使用 Diffusion AI",
+        "Retake｜PostgreSQL 向量数据库解决方案",
+        "Logto｜Auth0 的开源替代品"
+      ],
+      "links": [
+        "https://www.lottielab.com/",
+        "https://servicer.dev/",
+        "https://github.com/fullstorydev/grpcurl",
+        "https://github.com/varunshenoy/opendream",
+        "https://www.getretake.com/",
+        "https://github.com/logto-io/logto"
+      ]
+    }
+  },
+  {
     "aid": 957239753,
     "hn_items": {
       "times": [

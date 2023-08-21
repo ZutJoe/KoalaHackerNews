@@ -6,6 +6,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av574943888)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av574943888?t=9)|LottieLab｜ 协同 Lottie 动画创作工具|https://www.lottielab.com/|
+|[00:32](https://www.bilibili.com/video/av574943888?t=32)|servicer｜ 轻量级 systemd 服务管理工具|https://servicer.dev/|
+|[01:05](https://www.bilibili.com/video/av574943888?t=65)|gRPCurl｜和 gRPC 服务器进行交互的 CLI 工具|https://github.com/fullstorydev/grpcurl|
+|[01:34](https://www.bilibili.com/video/av574943888?t=94)|Opendream｜像使用 Photoshop 一样使用 Diffusion AI|https://github.com/varunshenoy/opendream|
+|[02:00](https://www.bilibili.com/video/av574943888?t=120)|Retake｜PostgreSQL 向量数据库解决方案|https://www.getretake.com/|
+|[02:33](https://www.bilibili.com/video/av574943888?t=153)|Logto｜Auth0 的开源替代品|https://github.com/logto-io/logto|
+
 ## [视频链接](https://www.bilibili.com/video/av957239753)
 
 |时间轴|简介|链接|
