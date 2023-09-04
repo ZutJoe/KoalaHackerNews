@@ -1,5 +1,64 @@
 [
   {
+    "aid": 363004766,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 49
+        },
+        {
+          "minutes": 1,
+          "seconds": 31
+        },
+        {
+          "minutes": 2,
+          "seconds": 4
+        },
+        {
+          "minutes": 2,
+          "seconds": 40
+        },
+        {
+          "minutes": 3,
+          "seconds": 15
+        },
+        {
+          "minutes": 3,
+          "seconds": 56
+        },
+        {
+          "minutes": 4,
+          "seconds": 20
+        }
+      ],
+      "introduces": [
+        "Lightning CSS｜CSS 解析转换打包压缩工具",
+        "SQLedge｜基于 PostgreSQL 逻辑复制的边缘计算数据库",
+        "Compress｜将打字工作量减少一半的工具",
+        "n8n｜开源工作流自动化工具",
+        "dataherald｜结构化数据查询引擎",
+        "在 Excel 中使用 Python",
+        "Meta 发布了 Code Llama",
+        "OpenAI 开放 GPT-3.5 Turbo 模型微调功能"
+      ],
+      "links": [
+        "https://lightningcss.dev/",
+        "https://github.com/zknill/sqledge",
+        "https://github.com/eschluntz/compress",
+        "https://n8n.io/",
+        "https://github.com/Dataherald/dataherald",
+        "https://www.theverge.com/2023/8/22/23841167/microsoft-excel-python-integration-support",
+        "https://about.fb.com/news/2023/08/code-llama-ai-for-coding/",
+        "https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates"
+      ]
+    }
+  },
+  {
     "aid": 574943888,
     "hn_items": {
       "times": [

@@ -6,6 +6,19 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av363004766)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av363004766?t=9)|Lightning CSS｜CSS 解析转换打包压缩工具|https://lightningcss.dev/|
+|[00:49](https://www.bilibili.com/video/av363004766?t=49)|SQLedge｜基于 PostgreSQL 逻辑复制的边缘计算数据库|https://github.com/zknill/sqledge|
+|[01:31](https://www.bilibili.com/video/av363004766?t=91)|Compress｜将打字工作量减少一半的工具|https://github.com/eschluntz/compress|
+|[02:04](https://www.bilibili.com/video/av363004766?t=124)|n8n｜开源工作流自动化工具|https://n8n.io/|
+|[02:40](https://www.bilibili.com/video/av363004766?t=160)|dataherald｜结构化数据查询引擎|https://github.com/Dataherald/dataherald|
+|[03:15](https://www.bilibili.com/video/av363004766?t=195)|在 Excel 中使用 Python|https://www.theverge.com/2023/8/22/23841167/microsoft-excel-python-integration-support|
+|[03:56](https://www.bilibili.com/video/av363004766?t=236)|Meta 发布了 Code Llama|https://about.fb.com/news/2023/08/code-llama-ai-for-coding/|
+|[04:20](https://www.bilibili.com/video/av363004766?t=260)|OpenAI 开放 GPT-3.5 Turbo 模型微调功能|https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates|
+
 ## [视频链接](https://www.bilibili.com/video/av574943888)
 
 |时间轴|简介|链接|
