@@ -1,5 +1,64 @@
 [
   {
+    "aid": 958340126,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 42
+        },
+        {
+          "minutes": 1,
+          "seconds": 11
+        },
+        {
+          "minutes": 1,
+          "seconds": 46
+        },
+        {
+          "minutes": 2,
+          "seconds": 19
+        },
+        {
+          "minutes": 2,
+          "seconds": 48
+        },
+        {
+          "minutes": 3,
+          "seconds": 14
+        },
+        {
+          "minutes": 3,
+          "seconds": 48
+        }
+      ],
+      "introduces": [
+        "Open Interpreter｜本地 AI 助手",
+        "chartbrew｜ 开源数据可视化 Web 应用",
+        "RecipeUI 团队开发提升 API 开发体验的同名工具",
+        "Keep｜告警管理与自动化平台",
+        "Ddosify｜开源可观测性项目",
+        "textual 发布实验性项目 textual-web",
+        "Web 框架 Astro 发布了 3.0 版本",
+        "Watlings｜用来学习 WebAssembly 的项目"
+      ],
+      "links": [
+        "https://github.com/KillianLucas/open-interpreter",
+        "https://github.com/chartbrew/chartbrew",
+        "https://github.com/RecipeUI/RecipeUI",
+        "https://github.com/keephq/keep",
+        "https://github.com/ddosify/alaz",
+        "https://github.com/Textualize/textual-web",
+        "https://astro.build/blog/astro-3/",
+        "https://github.com/EmNudge/watlings"
+      ]
+    }
+  },
+  {
     "aid": 363004766,
     "hn_items": {
       "times": [

@@ -6,6 +6,19 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av958340126)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av958340126?t=9)|Open Interpreter｜本地 AI 助手|https://github.com/KillianLucas/open-interpreter|
+|[00:42](https://www.bilibili.com/video/av958340126?t=42)|chartbrew｜ 开源数据可视化 Web 应用|https://github.com/chartbrew/chartbrew|
+|[01:11](https://www.bilibili.com/video/av958340126?t=71)|RecipeUI 团队开发提升 API 开发体验的同名工具|https://github.com/RecipeUI/RecipeUI|
+|[01:46](https://www.bilibili.com/video/av958340126?t=106)|Keep｜告警管理与自动化平台|https://github.com/keephq/keep|
+|[02:19](https://www.bilibili.com/video/av958340126?t=139)|Ddosify｜开源可观测性项目|https://github.com/ddosify/alaz|
+|[02:48](https://www.bilibili.com/video/av958340126?t=168)|textual 发布实验性项目 textual-web|https://github.com/Textualize/textual-web|
+|[03:14](https://www.bilibili.com/video/av958340126?t=194)|Web 框架 Astro 发布了 3.0 版本|https://astro.build/blog/astro-3/|
+|[03:48](https://www.bilibili.com/video/av958340126?t=228)|Watlings｜用来学习 WebAssembly 的项目|https://github.com/EmNudge/watlings|
+
 ## [视频链接](https://www.bilibili.com/video/av363004766)
 
 |时间轴|简介|链接|
