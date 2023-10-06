@@ -429,7 +429,18 @@
         "一篇介绍内存泄漏的文章？",
         "一周 AI 小结"
       ],
-      "links": []
+      "links": [
+        "https://bloomberg.github.io/blazingmq/",
+        "https://www.hydra.so/",
+        "https://medium.com/@willkantorpringle/pythonmonkey-javascript-wasm-interop-in-python-using-spidermonkey-bindings-4a8efce2e598",
+        "https://go.dev/blog/gonew",
+        "https://v8.dev/blog/speeding-up-v8-heap-snapshots",
+        [
+          "https://about.fb.com/news/2023/08/audiocraft-generative-ai-for-music-and-audio",
+          "https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/",
+          "https://www.prettypolly.app/"
+        ]
+      ]
     }
   },
   {
@@ -477,10 +488,10 @@
         "https://github.com/Hexagon/croner",
         [
           "https://stability.ai/blog/stable-diffusion-sdxl-1-announcement",
-          "https://stability.ai/blog/stable-beluga-large-instruction-fine-tuned-models"
-        ],
-        "https://github.com/continuedev/continue。",
-        "https://the-decoder.com/ai-researcher-geoffrey-hinton-thinks-ai-has-or-will-have-emotions"
+          "https://stability.ai/blog/stable-beluga-large-instruction-fine-tuned-models",
+          "https://github.com/continuedev/continue",
+          "https://the-decoder.com/ai-researcher-geoffrey-hinton-thinks-ai-has-or-will-have-emotions"
+        ]
       ]
     }
   },
@@ -527,10 +538,12 @@
         "https://github.com/docusealco/docuseal",
         "https://wordpress.github.io/wordpress-playground/",
         "https://www.orioledata.com/blog/no-more-vacuum-in-postgresql/",
-        "https://ai.meta.com/llama/",
-        "https://openai.com/blog/custom-instructions-for-chatgpt",
-        "https://arxiv.org/pdf/2307.09009.pdf",
-        "https://microsoft.github.io/TypeChat/blog/introducing-typechat/"
+        [
+          "https://ai.meta.com/llama/",
+          "https://openai.com/blog/custom-instructions-for-chatgpt",
+          "https://arxiv.org/pdf/2307.09009.pdf",
+          "https://microsoft.github.io/TypeChat/blog/introducing-typechat/"
+        ]
       ]
     }
   },
@@ -580,11 +593,13 @@
         "https://github.com/immich-app/immich",
         "https://www.opencost.io/",
         "https://digger.dev/",
-        "https://www.anthropic.com/index/claude-2",
-        "https://stability.ai/blog/clipdrop-launches-stable-doodle",
-        "https://www.foxbusiness.com/technology/google-ceo-sounds-alarm-ai-deepfake-videos-can-cause-lot-harm",
-        "https://www.wired.co.uk/article/mission-impossible-dead-reckoning-ai-villain",
-        "https://x.ai/"
+        [
+          "https://www.anthropic.com/index/claude-2",
+          "https://stability.ai/blog/clipdrop-launches-stable-doodle",
+          "https://www.foxbusiness.com/technology/google-ceo-sounds-alarm-ai-deepfake-videos-can-cause-lot-harm",
+          "https://www.wired.co.uk/article/mission-impossible-dead-reckoning-ai-villain",
+          "https://x.ai/"
+        ]
       ]
     }
   },
@@ -634,10 +649,10 @@
         [
           "https://twitter.com/OpenAI/status/1677029947544838144",
           "https://twitter.com/OpenAI/status/1676072388436594688",
-          "https://twitter.com/openai/status/1677015057316872192"
-        ],
-        "https://wccftech.com/inflection-ai-develops-supercomputer-equipped-with-22000-nvidia-h100-ai-gpus",
-        "https://github.com/AntonOsika/gpt-engineer"
+          "https://twitter.com/openai/status/1677015057316872192",
+          "https://wccftech.com/inflection-ai-develops-supercomputer-equipped-with-22000-nvidia-h100-ai-gpus",
+          "https://github.com/AntonOsika/gpt-engineer"
+        ]
       ]
     }
   },
@@ -684,9 +699,11 @@
         "https://github.com/refinedev/refine",
         "https://github.com/1Panel-dev/1Panel",
         "https://www.youtube.com/watch?v=pRT36VqpljA",
-        "https://about.sourcegraph.com/cody",
-        "https://github.com/ChaoningZhang/MobileSAM",
-        "https://github.com/imgly/background-removal-js"
+        [
+          "https://about.sourcegraph.com/cody",
+          "https://github.com/ChaoningZhang/MobileSAM",
+          "https://github.com/imgly/background-removal-js"
+        ]
       ]
     }
   },
@@ -736,9 +753,11 @@
           "https://github.com/daybrush"
         ],
         "https://svelte.dev/blog/svelte-4",
-        "https://vercel.com/blog/introducing-the-vercel-ai-sdk",
-        "https://github.com/steven-tey/novel",
-        "https://github.com/bentoml/OpenLLM"
+        [
+          "https://vercel.com/blog/introducing-the-vercel-ai-sdk",
+          "https://github.com/steven-tey/novel",
+          "https://github.com/bentoml/OpenLLM"
+        ]
       ]
     }
   },
@@ -785,10 +804,12 @@
         "https://desktop.kerahq.com/",
         "https://github.com/seaweedfs/seaweedfs",
         "https://github.com/boyter/cs",
-        "https://github.com/ggerganov/llama.cpp/pull/1827",
-        "https://techcrunch.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator",
-        "https://github.com/baichuan-inc/baichuan-7B",
-        "https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier"
+        [
+          "https://github.com/ggerganov/llama.cpp/pull/1827",
+          "https://techcrunch.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator",
+          "https://github.com/baichuan-inc/baichuan-7B",
+          "https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier"
+        ]
       ]
     }
   },
@@ -835,10 +856,12 @@
         "https://github.com/evanw/polywasm",
         "https://github.com/sigoden/dufs",
         "https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro",
-        "https://platform.openai.com/docs/guides/gpt-best-practices/strategy-provide-reference-text",
-        "https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms",
-        "https://supabase.com/vector",
-        "https://maketafi.com/ai"
+        [
+          "https://platform.openai.com/docs/guides/gpt-best-practices/strategy-provide-reference-text",
+          "https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms",
+          "https://supabase.com/vector",
+          "https://maketafi.com/ai"
+        ]
       ]
     }
   },

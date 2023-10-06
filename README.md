@@ -98,12 +98,12 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
-|[00:09](https://www.bilibili.com/video/av999399370?t=9)|Bloomberg 开源高性能消息队列 BlazingMQ| |
-|[00:37](https://www.bilibili.com/video/av999399370?t=37)|开源列式数据库 Hydra 发布 1.0 版本| |
-|[01:22](https://www.bilibili.com/video/av999399370?t=82)|PythonMonkey｜实现 Python 与 JavaScript 的互操作性| |
-|[01:44](https://www.bilibili.com/video/av999399370?t=104)|gonew｜Go 语言新工具| |
-|[02:13](https://www.bilibili.com/video/av999399370?t=133)|一篇介绍内存泄漏的文章？| |
-|[02:54](https://www.bilibili.com/video/av999399370?t=174)|一周 AI 小结| |
+|[00:09](https://www.bilibili.com/video/av999399370?t=9)|Bloomberg 开源高性能消息队列 BlazingMQ|https://bloomberg.github.io/blazingmq/|
+|[00:37](https://www.bilibili.com/video/av999399370?t=37)|开源列式数据库 Hydra 发布 1.0 版本|https://www.hydra.so/|
+|[01:22](https://www.bilibili.com/video/av999399370?t=82)|PythonMonkey｜实现 Python 与 JavaScript 的互操作性|https://medium.com/@willkantorpringle/pythonmonkey-javascript-wasm-interop-in-python-using-spidermonkey-bindings-4a8efce2e598|
+|[01:44](https://www.bilibili.com/video/av999399370?t=104)|gonew｜Go 语言新工具|https://go.dev/blog/gonew|
+|[02:13](https://www.bilibili.com/video/av999399370?t=133)|一篇介绍内存泄漏的文章？|https://v8.dev/blog/speeding-up-v8-heap-snapshots|
+|[02:54](https://www.bilibili.com/video/av999399370?t=174)|一周 AI 小结|https://about.fb.com/news/2023/08/audiocraft-generative-ai-for-music-and-audio<br>https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/<br>https://www.prettypolly.app/|
 
 ## [视频链接](https://www.bilibili.com/video/av446594335)
 
@@ -114,9 +114,7 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[01:06](https://www.bilibili.com/video/av446594335?t=66)|Hono｜面向边缘场景设计的 Web 框架|https://hono.dev/|
 |[01:40](https://www.bilibili.com/video/av446594335?t=100)|Risor｜用于 Go 项目的的嵌入式脚本语言|https://risor.io/|
 |[02:10](https://www.bilibili.com/video/av446594335?t=130)|Croner｜基于 JavaScript 编写的定时编排工具|https://github.com/Hexagon/croner|
-|[02:38](https://www.bilibili.com/video/av446594335?t=158)|一周 AI 小结|https://stability.ai/blog/stable-diffusion-sdxl-1-announcement<br>https://stability.ai/blog/stable-beluga-large-instruction-fine-tuned-models|
-| | |https://github.com/continuedev/continue。|
-| | |https://the-decoder.com/ai-researcher-geoffrey-hinton-thinks-ai-has-or-will-have-emotions|
+|[02:38](https://www.bilibili.com/video/av446594335?t=158)|一周 AI 小结|https://stability.ai/blog/stable-diffusion-sdxl-1-announcement<br>https://stability.ai/blog/stable-beluga-large-instruction-fine-tuned-models<br>https://github.com/continuedev/continue<br>https://the-decoder.com/ai-researcher-geoffrey-hinton-thinks-ai-has-or-will-have-emotions|
 
 ## [视频链接](https://www.bilibili.com/video/av956331314)
 
@@ -127,10 +125,7 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[00:56](https://www.bilibili.com/video/av956331314?t=56)|Docuseal｜电子签名 DocuSign 的开源替代品|https://github.com/docusealco/docuseal|
 |[01:23](https://www.bilibili.com/video/av956331314?t=83)|Wordpress 发布 Wordpress Playground|https://wordpress.github.io/wordpress-playground/|
 |[01:54](https://www.bilibili.com/video/av956331314?t=114)|OrioleDB｜ 新的 PostgreSQL 存储引擎|https://www.orioledata.com/blog/no-more-vacuum-in-postgresql/|
-|[02:26](https://www.bilibili.com/video/av956331314?t=146)|一周 AI 小结|https://ai.meta.com/llama/|
-| | |https://openai.com/blog/custom-instructions-for-chatgpt|
-| | |https://arxiv.org/pdf/2307.09009.pdf|
-| | |https://microsoft.github.io/TypeChat/blog/introducing-typechat/|
+|[02:26](https://www.bilibili.com/video/av956331314?t=146)|一周 AI 小结|https://ai.meta.com/llama/<br>https://openai.com/blog/custom-instructions-for-chatgpt<br>https://arxiv.org/pdf/2307.09009.pdf<br>https://microsoft.github.io/TypeChat/blog/introducing-typechat/|
 
 ## [视频链接](https://www.bilibili.com/video/av913407064)
 
@@ -141,11 +136,7 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[00:59](https://www.bilibili.com/video/av913407064?t=59)|Immich｜基于 Flutter 的在线相册应用|https://github.com/immich-app/immich|
 |[01:23](https://www.bilibili.com/video/av913407064?t=83)|OpenCost｜K8s 成本测量工具|https://www.opencost.io/|
 |[01:45](https://www.bilibili.com/video/av913407064?t=105)|Digger｜Terraform Cloud 的开源替代品|https://digger.dev/|
-|[02:12](https://www.bilibili.com/video/av913407064?t=132)|一周 AI 小结|https://www.anthropic.com/index/claude-2|
-| | |https://stability.ai/blog/clipdrop-launches-stable-doodle|
-| | |https://www.foxbusiness.com/technology/google-ceo-sounds-alarm-ai-deepfake-videos-can-cause-lot-harm|
-| | |https://www.wired.co.uk/article/mission-impossible-dead-reckoning-ai-villain|
-| | |https://x.ai/|
+|[02:12](https://www.bilibili.com/video/av913407064?t=132)|一周 AI 小结|https://www.anthropic.com/index/claude-2<br>https://stability.ai/blog/clipdrop-launches-stable-doodle<br>https://www.foxbusiness.com/technology/google-ceo-sounds-alarm-ai-deepfake-videos-can-cause-lot-harm<br>https://www.wired.co.uk/article/mission-impossible-dead-reckoning-ai-villain<br>https://x.ai/|
 
 ## [视频链接](https://www.bilibili.com/video/av573242140)
 
@@ -156,9 +147,7 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[01:06](https://www.bilibili.com/video/av573242140?t=66)|Columnar｜高性能列式存储引擎|https://github.com/kelindar/column|
 |[01:32](https://www.bilibili.com/video/av573242140?t=92)|Kine｜使用 SQL 数据库运行 k8s|https://github.com/k3s-io/kine|
 |[02:00](https://www.bilibili.com/video/av573242140?t=120)|基于 Three.js 的 3D 解密小游戏|https://www.thomasfriday.com/cuboid/|
-|[02:11](https://www.bilibili.com/video/av573242140?t=131)|一周 AI 小结|https://twitter.com/OpenAI/status/1677029947544838144<br>https://twitter.com/OpenAI/status/1676072388436594688<br>https://twitter.com/openai/status/1677015057316872192|
-| | |https://wccftech.com/inflection-ai-develops-supercomputer-equipped-with-22000-nvidia-h100-ai-gpus|
-| | |https://github.com/AntonOsika/gpt-engineer|
+|[02:11](https://www.bilibili.com/video/av573242140?t=131)|一周 AI 小结|https://twitter.com/OpenAI/status/1677029947544838144<br>https://twitter.com/OpenAI/status/1676072388436594688<br>https://twitter.com/openai/status/1677015057316872192<br>https://wccftech.com/inflection-ai-develops-supercomputer-equipped-with-22000-nvidia-h100-ai-gpus<br>https://github.com/AntonOsika/gpt-engineer|
 
 ## [视频链接](https://www.bilibili.com/video/av912910501)
 
@@ -169,9 +158,7 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[01:32](https://www.bilibili.com/video/av912910501?t=92)|Refine｜更好的 React 开发框架|https://github.com/refinedev/refine|
 |[02:05](https://www.bilibili.com/video/av912910501?t=125)|1-Panel｜开源 Linux 服务器运维管理面板|https://github.com/1Panel-dev/1Panel|
 |[02:29](https://www.bilibili.com/video/av912910501?t=149)|在 Go 程序中实现插件系统|https://www.youtube.com/watch?v=pRT36VqpljA|
-|[02:47](https://www.bilibili.com/video/av912910501?t=167)|本周 AI 小结|https://about.sourcegraph.com/cody|
-| | |https://github.com/ChaoningZhang/MobileSAM|
-| | |https://github.com/imgly/background-removal-js|
+|[02:47](https://www.bilibili.com/video/av912910501?t=167)|本周 AI 小结|https://about.sourcegraph.com/cody<br>https://github.com/ChaoningZhang/MobileSAM<br>https://github.com/imgly/background-removal-js|
 
 ## [视频链接](https://www.bilibili.com/video/av402729235)
 
@@ -182,9 +169,7 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[01:06](https://www.bilibili.com/video/av402729235?t=66)|GoAWK｜Go 的 AWK 语言解释器|https://benhoyt.com/writings/goawk/|
 |[01:24](https://www.bilibili.com/video/av402729235?t=84)|Selecto.js｜一个区域选择的 UI 组件|https://daybrush.com/selecto/<br>https://github.com/daybrush|
 |[01:49](https://www.bilibili.com/video/av402729235?t=109)|Svelte 发布了 v4 版本|https://svelte.dev/blog/svelte-4|
-|[02:11](https://www.bilibili.com/video/av402729235?t=131)|本周 AI 小结|https://vercel.com/blog/introducing-the-vercel-ai-sdk|
-| | |https://github.com/steven-tey/novel|
-| | |https://github.com/bentoml/OpenLLM|
+|[02:11](https://www.bilibili.com/video/av402729235?t=131)|本周 AI 小结|https://vercel.com/blog/introducing-the-vercel-ai-sdk<br>https://github.com/steven-tey/novel<br>https://github.com/bentoml/OpenLLM|
 
 ## [视频链接](https://www.bilibili.com/video/av487482397)
 
@@ -195,10 +180,7 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[01:14](https://www.bilibili.com/video/av487482397?t=74)|Kera｜基于 Web 的桌面端扩展框架|https://desktop.kerahq.com/|
 |[01:34](https://www.bilibili.com/video/av487482397?t=94)|SeaweedFS｜分布式文件系统|https://github.com/seaweedfs/seaweedfs|
 |[02:03](https://www.bilibili.com/video/av487482397?t=123)|codespelunker｜命令行代码搜索工具|https://github.com/boyter/cs|
-|[02:24](https://www.bilibili.com/video/av487482397?t=144)|本周 AI 小结|https://github.com/ggerganov/llama.cpp/pull/1827|
-| | |https://techcrunch.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator|
-| | |https://github.com/baichuan-inc/baichuan-7B|
-| | |https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier|
+|[02:24](https://www.bilibili.com/video/av487482397?t=144)|本周 AI 小结|https://github.com/ggerganov/llama.cpp/pull/1827<br>https://techcrunch.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator<br>https://github.com/baichuan-inc/baichuan-7B<br>https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier|
 
 ## [视频链接](https://www.bilibili.com/video/av402219859)
 
@@ -209,10 +191,7 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[01:00](https://www.bilibili.com/video/av402219859?t=60)|polywasm｜前 Figma CTO、esbuild 发起者开源的新研究项目|https://github.com/evanw/polywasm|
 |[01:33](https://www.bilibili.com/video/av402219859?t=93)|Dufs｜ 一个轻量级文件服务器|https://github.com/sigoden/dufs|
 |[01:56](https://www.bilibili.com/video/av402219859?t=116)|Apple 发布头显设备 Apple Vision Pro|https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro|
-|[02:12](https://www.bilibili.com/video/av402219859?t=132)|一周 AI 小结|https://platform.openai.com/docs/guides/gpt-best-practices/strategy-provide-reference-text|
-| | |https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms|
-| | |https://supabase.com/vector|
-| | |https://maketafi.com/ai|
+|[02:12](https://www.bilibili.com/video/av402219859?t=132)|一周 AI 小结|https://platform.openai.com/docs/guides/gpt-best-practices/strategy-provide-reference-text<br>https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms<br>https://supabase.com/vector<br>https://maketafi.com/ai|
 
 ## [视频链接](https://www.bilibili.com/video/av741985027)
 
