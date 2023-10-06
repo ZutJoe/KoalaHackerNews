@@ -1,5 +1,181 @@
 [
   {
+    "aid": 916616420,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 10
+        },
+        {
+          "minutes": 0,
+          "seconds": 41
+        },
+        {
+          "minutes": 1,
+          "seconds": 1
+        },
+        {
+          "minutes": 1,
+          "seconds": 31
+        },
+        {
+          "minutes": 2,
+          "seconds": 7
+        },
+        {
+          "minutes": 2,
+          "seconds": 36
+        },
+        {
+          "minutes": 2,
+          "seconds": 58
+        }
+      ],
+      "introduces": [
+        "Yandex 开源 BI 项目 DataLens",
+        "vizro｜创建模块化数据可视化应用程序的工具包",
+        "Driver.js｜在 Web 上实现产品向导等功能的工具库",
+        "Drizzle ORM｜面向 serverless 的 ORM",
+        "DevToys｜开发者的瑞士军刀",
+        "Adobe 正式将 Photoshop 搬到了 Web 平台上",
+        "《Koala 聊开源》频道开启直播栏目"
+      ],
+      "links": [
+        "https://github.com/datalens-tech/datalens",
+        "https://github.com/mckinsey/vizro",
+        "https://driverjs.com/",
+        "https://orm.drizzle.team/",
+        "https://devtoys.app/",
+        "https://photoshop.adobe.com/discover"
+      ]
+    }
+  },
+  {
+    "aid": 533867070,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 38
+        },
+        {
+          "minutes": 1,
+          "seconds": 9
+        },
+        {
+          "minutes": 1,
+          "seconds": 34
+        },
+        {
+          "minutes": 2,
+          "seconds": 3
+        },
+        {
+          "minutes": 2,
+          "seconds": 27
+        },
+        {
+          "minutes": 2,
+          "seconds": 50
+        },
+        {
+          "minutes": 3,
+          "seconds": 14
+        },
+        {
+          "minutes": 3,
+          "seconds": 43
+        }
+      ],
+      "introduces": [
+        "HyperDX｜Datadog 开源替代品",
+        "ElectricSQL｜构建本地优先应用的数据库同步工具",
+        "rapidpages｜Vercel v0 的开源实现",
+        "fly.io 开源服务发现工具 Corrosion",
+        "Gitness｜开源的代码托管与 CI/CD 流水线引擎",
+        "最新发布的 TypeScript 纪录片",
+        "OpenAI 发布 Dalle.E 3",
+        "SeaGOAT｜基于向量数据库构建的本地代码搜索工具",
+        "OpenAI 展示 fine tuning 功能的 UI 管理能力"
+      ],
+      "links": [
+        "https://github.com/hyperdxio/hyperdx",
+        "https://electric-sql.com/",
+        "https://github.com/rapidpages/rapidpages",
+        "https://github.com/superfly/corrosion",
+        "https://gitness.com/",
+        "https://www.youtube.com/watch?v=U6s2pdxebSo",
+        "https://openai.com/dall-e-3",
+        "https://github.com/kantord/SeaGOAT",
+        "https://twitter.com/OfficialLoganK/status/1704181284036300970"
+      ]
+    }
+  },
+  {
+    "aid": 831001154,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 42
+        },
+        {
+          "minutes": 1,
+          "seconds": 11
+        },
+        {
+          "minutes": 1,
+          "seconds": 46
+        },
+        {
+          "minutes": 2,
+          "seconds": 19
+        },
+        {
+          "minutes": 2,
+          "seconds": 48
+        },
+        {
+          "minutes": 3,
+          "seconds": 14
+        },
+        {
+          "minutes": 3,
+          "seconds": 48
+        }
+      ],
+      "introduces": [
+        "Expo｜react-native 开发工具链",
+        "kr8s｜高质量的 Python K8s 客户端",
+        "Unit｜ Nginx 开发的 Web 应用服务器",
+        "tldraw｜精致灵活的开源白板工具",
+        "starry night｜开源代码语法高亮库",
+        "PostgreSQL 发布了 16 版本",
+        "Trickle｜一款基于 AI 的图片信息管理软件",
+        "Vercel 发布 AI 功能 v0.dev"
+      ],
+      "links": [
+        "https://expo.dev/",
+        "https://github.com/kr8s-org/kr8s",
+        "https://github.com/nginx/unit/",
+        "https://github.com/tldraw/tldraw",
+        "https://github.com/wooorm/starry-night",
+        "https://www.postgresql.org/about/news/postgresql-16-released-2715",
+        "https://www.trickle.so/",
+        "https://twitter.com/vercel/status/1702351846445080953"
+      ]
+    }
+  },
+  {
     "aid": 958340126,
     "hn_items": {
       "times": [

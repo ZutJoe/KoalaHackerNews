@@ -6,6 +6,45 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av916616420)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:10](https://www.bilibili.com/video/av916616420?t=10)|Yandex 开源 BI 项目 DataLens|https://github.com/datalens-tech/datalens|
+|[00:41](https://www.bilibili.com/video/av916616420?t=41)|vizro｜创建模块化数据可视化应用程序的工具包|https://github.com/mckinsey/vizro|
+|[01:01](https://www.bilibili.com/video/av916616420?t=61)|Driver.js｜在 Web 上实现产品向导等功能的工具库|https://driverjs.com/|
+|[01:31](https://www.bilibili.com/video/av916616420?t=91)|Drizzle ORM｜面向 serverless 的 ORM|https://orm.drizzle.team/|
+|[02:07](https://www.bilibili.com/video/av916616420?t=127)|DevToys｜开发者的瑞士军刀|https://devtoys.app/|
+|[02:36](https://www.bilibili.com/video/av916616420?t=156)|Adobe 正式将 Photoshop 搬到了 Web 平台上|https://photoshop.adobe.com/discover|
+|[02:58](https://www.bilibili.com/video/av916616420?t=178)|《Koala 聊开源》频道开启直播栏目| |
+
+## [视频链接](https://www.bilibili.com/video/av533867070)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av533867070?t=9)|HyperDX｜Datadog 开源替代品|https://github.com/hyperdxio/hyperdx|
+|[00:38](https://www.bilibili.com/video/av533867070?t=38)|ElectricSQL｜构建本地优先应用的数据库同步工具|https://electric-sql.com/|
+|[01:09](https://www.bilibili.com/video/av533867070?t=69)|rapidpages｜Vercel v0 的开源实现|https://github.com/rapidpages/rapidpages|
+|[01:34](https://www.bilibili.com/video/av533867070?t=94)|fly.io 开源服务发现工具 Corrosion|https://github.com/superfly/corrosion|
+|[02:03](https://www.bilibili.com/video/av533867070?t=123)|Gitness｜开源的代码托管与 CI/CD 流水线引擎|https://gitness.com/|
+|[02:27](https://www.bilibili.com/video/av533867070?t=147)|最新发布的 TypeScript 纪录片|https://www.youtube.com/watch?v=U6s2pdxebSo|
+|[02:50](https://www.bilibili.com/video/av533867070?t=170)|OpenAI 发布 Dalle.E 3|https://openai.com/dall-e-3|
+|[03:14](https://www.bilibili.com/video/av533867070?t=194)|SeaGOAT｜基于向量数据库构建的本地代码搜索工具|https://github.com/kantord/SeaGOAT|
+|[03:43](https://www.bilibili.com/video/av533867070?t=223)|OpenAI 展示 fine tuning 功能的 UI 管理能力|https://twitter.com/OfficialLoganK/status/1704181284036300970|
+
+## [视频链接](https://www.bilibili.com/video/av831001154)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av831001154?t=9)|Expo｜react-native 开发工具链|https://expo.dev/|
+|[00:42](https://www.bilibili.com/video/av831001154?t=42)|kr8s｜高质量的 Python K8s 客户端|https://github.com/kr8s-org/kr8s|
+|[01:11](https://www.bilibili.com/video/av831001154?t=71)|Unit｜ Nginx 开发的 Web 应用服务器|https://github.com/nginx/unit/|
+|[01:46](https://www.bilibili.com/video/av831001154?t=106)|tldraw｜精致灵活的开源白板工具|https://github.com/tldraw/tldraw|
+|[02:19](https://www.bilibili.com/video/av831001154?t=139)|starry night｜开源代码语法高亮库|https://github.com/wooorm/starry-night|
+|[02:48](https://www.bilibili.com/video/av831001154?t=168)|PostgreSQL 发布了 16 版本|https://www.postgresql.org/about/news/postgresql-16-released-2715|
+|[03:14](https://www.bilibili.com/video/av831001154?t=194)|Trickle｜一款基于 AI 的图片信息管理软件|https://www.trickle.so/|
+|[03:48](https://www.bilibili.com/video/av831001154?t=228)|Vercel 发布 AI 功能 v0.dev|https://twitter.com/vercel/status/1702351846445080953|
+
 ## [视频链接](https://www.bilibili.com/video/av958340126)
 
 |时间轴|简介|链接|

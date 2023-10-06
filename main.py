@@ -31,6 +31,10 @@ HEADERS = {
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37',
 }
 
+COOKIES = {
+    'buvid3': '26D5909F-BF02-AD76-4664-5994706B874C27676infoc'
+}
+
 
 def get_aids() -> Iterator[int]:
     """
@@ -51,6 +55,7 @@ def get_aids() -> Iterator[int]:
             params=params,
             headers=HEADERS,
             timeout=10,
+            cookies=COOKIES
         )
         response.raise_for_status()
         data = response.json()
@@ -74,7 +79,11 @@ def get_top_comment(aid: int) -> str | None:
         'oid': aid,
     }
     response = requests.get(
-        url=base_url, params=params, headers=HEADERS, timeout=10)
+        url=base_url, 
+        params=params, 
+        headers=HEADERS, 
+        timeout=10,
+        cookies=COOKIES)
     response.raise_for_status()
     comment_data = response.json()
 
