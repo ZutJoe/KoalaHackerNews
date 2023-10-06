@@ -2,6 +2,8 @@ import os
 import re
 import sys
 import json
+import uuid
+import random
 import itertools
 import dataclasses
 from dataclasses import dataclass
@@ -32,7 +34,8 @@ HEADERS = {
 }
 
 COOKIES = {
-    'buvid3': '26D5909F-BF02-AD76-4664-5994706B874C27676infoc'
+    # 'buvid3': '26D5909F-BF02-AD76-4664-5994706B874C27676infoc'
+    'buvid3': "{}{:05d}infoc".format(uuid.uuid4(), random.randint(1, 99999))
 }
 
 
