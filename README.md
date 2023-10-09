@@ -6,6 +6,18 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av961905108)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av961905108?t=9)|shuttle｜ 面向 Rust 的 serverless 云服务|https://www.shuttle.rs/|
+|[00:43](https://www.bilibili.com/video/av961905108?t=43)|MagicMirror2｜开源魔镜开发方案|https://magicmirror.builders/|
+|[01:11](https://www.bilibili.com/video/av961905108?t=71)|Tailwind Elements｜基于 Tailwind CSS 开发的可复用组件|https://tailwind-elements.com/|
+|[01:40](https://www.bilibili.com/video/av961905108?t=100)|nomnoml｜ 一个基于简单语法绘制 UML 图的工具|https://nomnoml.com/|
+|[01:58](https://www.bilibili.com/video/av961905108?t=118)|store.app｜基于 PWA 实现的各类网站合集|https://store.app/|
+|[02:28](https://www.bilibili.com/video/av961905108?t=148)|ChatGPT 推出了新的语音和图像功能|https://openai.com/blog/chatgpt-can-now-see-hear-and-speak|
+|[02:51](https://www.bilibili.com/video/av961905108?t=171)|一篇交互式介绍 CRDT 的博客|https://jakelazaroff.com/words/an-interactive-intro-to-crdts|
+
 ## [视频链接](https://www.bilibili.com/video/av916616420)
 
 |时间轴|简介|链接|

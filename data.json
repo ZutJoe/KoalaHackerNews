@@ -1,5 +1,58 @@
 [
   {
+    "aid": 961905108,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 43
+        },
+        {
+          "minutes": 1,
+          "seconds": 11
+        },
+        {
+          "minutes": 1,
+          "seconds": 40
+        },
+        {
+          "minutes": 1,
+          "seconds": 58
+        },
+        {
+          "minutes": 2,
+          "seconds": 28
+        },
+        {
+          "minutes": 2,
+          "seconds": 51
+        }
+      ],
+      "introduces": [
+        "shuttle｜ 面向 Rust 的 serverless 云服务",
+        "MagicMirror2｜开源魔镜开发方案",
+        "Tailwind Elements｜基于 Tailwind CSS 开发的可复用组件",
+        "nomnoml｜ 一个基于简单语法绘制 UML 图的工具",
+        "store.app｜基于 PWA 实现的各类网站合集",
+        "ChatGPT 推出了新的语音和图像功能",
+        "一篇交互式介绍 CRDT 的博客"
+      ],
+      "links": [
+        "https://www.shuttle.rs/",
+        "https://magicmirror.builders/",
+        "https://tailwind-elements.com/",
+        "https://nomnoml.com/",
+        "https://store.app/",
+        "https://openai.com/blog/chatgpt-can-now-see-hear-and-speak",
+        "https://jakelazaroff.com/words/an-interactive-intro-to-crdts"
+      ]
+    }
+  },
+  {
     "aid": 916616420,
     "hn_items": {
       "times": [
