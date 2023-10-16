@@ -1,5 +1,52 @@
 [
   {
+    "aid": 662142190,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 51
+        },
+        {
+          "minutes": 1,
+          "seconds": 19
+        },
+        {
+          "minutes": 1,
+          "seconds": 38
+        },
+        {
+          "minutes": 2,
+          "seconds": 2
+        },
+        {
+          "minutes": 2,
+          "seconds": 26
+        }
+      ],
+      "introduces": [
+        "Visual Copilot｜Figma 转代码新方案",
+        "payload 发布了 2.0 版本",
+        "vue-office｜Vue 中预览文件",
+        "Autometrics｜自动为函数添加监控指标",
+        "OpenLLMetry｜基于 OpenTelemetry 标准构建的扩展插件",
+        "Cloud Computing Patterns｜一组基于云计算服务设计的开发最佳实践总结"
+      ],
+      "links": [
+        "https://www.builder.io/blog/figma-to-code-visual-copilot",
+        "https://payloadcms.com/blog/payload-2-0",
+        "https://github.com/501351981/vue-office",
+        "https://autometrics.dev/",
+        "https://github.com/traceloop/openllmetry",
+        "https://www.cloudcomputingpatterns.org/"
+      ]
+    }
+  },
+  {
     "aid": 961905108,
     "hn_items": {
       "times": [

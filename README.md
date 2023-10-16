@@ -6,6 +6,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av662142190)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av662142190?t=9)|Visual Copilot｜Figma 转代码新方案|https://www.builder.io/blog/figma-to-code-visual-copilot|
+|[00:51](https://www.bilibili.com/video/av662142190?t=51)|payload 发布了 2.0 版本|https://payloadcms.com/blog/payload-2-0|
+|[01:19](https://www.bilibili.com/video/av662142190?t=79)|vue-office｜Vue 中预览文件|https://github.com/501351981/vue-office|
+|[01:38](https://www.bilibili.com/video/av662142190?t=98)|Autometrics｜自动为函数添加监控指标|https://autometrics.dev/|
+|[02:02](https://www.bilibili.com/video/av662142190?t=122)|OpenLLMetry｜基于 OpenTelemetry 标准构建的扩展插件|https://github.com/traceloop/openllmetry|
+|[02:26](https://www.bilibili.com/video/av662142190?t=146)|Cloud Computing Patterns｜一组基于云计算服务设计的开发最佳实践总结|https://www.cloudcomputingpatterns.org/|
+
 ## [视频链接](https://www.bilibili.com/video/av961905108)
 
 |时间轴|简介|链接|
