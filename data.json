@@ -1,5 +1,64 @@
 [
   {
+    "aid": 920103822,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 39
+        },
+        {
+          "minutes": 1,
+          "seconds": 6
+        },
+        {
+          "minutes": 1,
+          "seconds": 29
+        },
+        {
+          "minutes": 1,
+          "seconds": 58
+        },
+        {
+          "minutes": 2,
+          "seconds": 24
+        },
+        {
+          "minutes": 2,
+          "seconds": 54
+        },
+        {
+          "minutes": 3,
+          "seconds": 22
+        }
+      ],
+      "introduces": [
+        "Dive｜快速分析优化容器镜像",
+        "LocalSend｜Airdrop 跨平台开源替代品",
+        "Formbricks｜开源用户体验管理和调研平台",
+        "Wandb｜机器学习一站式平台",
+        "Reflect｜ 一个用于构建多人网页应用的同步引擎",
+        "AI 生成 selenium 脚本",
+        "Speakeasy｜一套 API 端到端工具",
+        "《Koala聊开源》频道 App 添加列表页功能"
+      ],
+      "links": [
+        "https://github.com/wagoodman/dive",
+        "https://github.com/localsend/localsend",
+        "https://github.com/formbricks/formbricks",
+        "https://github.com/wandb/wandb",
+        "https://reflect.net/",
+        "https://www.autotab.com/",
+        "https://www.speakeasyapi.dev/",
+        "https://koala-oss.app/"
+      ]
+    }
+  },
+  {
     "aid": 662142190,
     "hn_items": {
       "times": [

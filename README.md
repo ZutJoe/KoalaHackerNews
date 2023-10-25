@@ -6,6 +6,19 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av920103822)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av920103822?t=9)|Dive｜快速分析优化容器镜像|https://github.com/wagoodman/dive|
+|[00:39](https://www.bilibili.com/video/av920103822?t=39)|LocalSend｜Airdrop 跨平台开源替代品|https://github.com/localsend/localsend|
+|[01:06](https://www.bilibili.com/video/av920103822?t=66)|Formbricks｜开源用户体验管理和调研平台|https://github.com/formbricks/formbricks|
+|[01:29](https://www.bilibili.com/video/av920103822?t=89)|Wandb｜机器学习一站式平台|https://github.com/wandb/wandb|
+|[01:58](https://www.bilibili.com/video/av920103822?t=118)|Reflect｜ 一个用于构建多人网页应用的同步引擎|https://reflect.net/|
+|[02:24](https://www.bilibili.com/video/av920103822?t=144)|AI 生成 selenium 脚本|https://www.autotab.com/|
+|[02:54](https://www.bilibili.com/video/av920103822?t=174)|Speakeasy｜一套 API 端到端工具|https://www.speakeasyapi.dev/|
+|[03:22](https://www.bilibili.com/video/av920103822?t=202)|《Koala聊开源》频道 App 添加列表页功能|https://koala-oss.app/|
+
 ## [视频链接](https://www.bilibili.com/video/av662142190)
 
 |时间轴|简介|链接|
