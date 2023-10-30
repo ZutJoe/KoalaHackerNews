@@ -1,5 +1,52 @@
 [
   {
+    "aid": 832844191,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 33
+        },
+        {
+          "minutes": 1,
+          "seconds": 6
+        },
+        {
+          "minutes": 1,
+          "seconds": 47
+        },
+        {
+          "minutes": 2,
+          "seconds": 25
+        },
+        {
+          "minutes": 2,
+          "seconds": 52
+        }
+      ],
+      "introduces": [
+        "Sandpack｜在线实时编程方案",
+        "Protomaps｜高质量开源地图数据",
+        "ArtistAssistApp｜绘制更逼真颜色的网页应用",
+        "一篇博客｜解析 ChatGPT 如何控制 DALL.E 3",
+        "LocalPilot｜本地运行的 GitHub Copilot 替代品",
+        "Epsio 博文｜介绍如何构建流计算的 SQL 引擎"
+      ],
+      "links": [
+        "https://sandpack.codesandbox.io/",
+        "https://protomaps.com/",
+        "https://artistassistapp.com/",
+        "https://simonwillison.net/2023/Oct/26/add-a-walrus/",
+        "https://github.com/danielgross/localpilot",
+        "https://www.epsio.io/blog/how-to-create-a-streaming-sql-engine"
+      ]
+    }
+  },
+  {
     "aid": 920103822,
     "hn_items": {
       "times": [

@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av832844191)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av832844191?t=9)|Sandpack｜在线实时编程方案|https://sandpack.codesandbox.io/|
+|[00:33](https://www.bilibili.com/video/av832844191?t=33)|Protomaps｜高质量开源地图数据|https://protomaps.com/|
+|[01:06](https://www.bilibili.com/video/av832844191?t=66)|ArtistAssistApp｜绘制更逼真颜色的网页应用|https://artistassistapp.com/|
+|[01:47](https://www.bilibili.com/video/av832844191?t=107)|一篇博客｜解析 ChatGPT 如何控制 DALL.E 3|https://simonwillison.net/2023/Oct/26/add-a-walrus/|
+|[02:25](https://www.bilibili.com/video/av832844191?t=145)|LocalPilot｜本地运行的 GitHub Copilot 替代品|https://github.com/danielgross/localpilot|
+|[02:52](https://www.bilibili.com/video/av832844191?t=172)|Epsio 博文｜介绍如何构建流计算的 SQL 引擎|https://www.epsio.io/blog/how-to-create-a-streaming-sql-engine|
+
 ## [视频链接](https://www.bilibili.com/video/av920103822)
 
 |时间轴|简介|链接|
