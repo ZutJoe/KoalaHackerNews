@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av450543574)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:10](https://www.bilibili.com/video/av450543574?t=10)|Grist｜将传统电子表格与关系型数据库相结合的开源项目|https://www.getgrist.com/|
+|[00:42](https://www.bilibili.com/video/av450543574?t=42)|Odigos｜全自动 K8s tracing 和监控|https://odigos.io/|
+|[01:22](https://www.bilibili.com/video/av450543574?t=82)|RedisInsight｜强大的 Redis 客户端|https://github.com/RedisInsight/RedisInsight|
+|[01:55](https://www.bilibili.com/video/av450543574?t=115)|ScratchDB｜ 基于 ClickHouse 构建的数据分析引擎|https://github.com/scratchdata/ScratchDB|
+|[02:39](https://www.bilibili.com/video/av450543574?t=159)|Next.js 新版本惹争议|https://nextjs.org/blog/next-14<br>https://remix.run/blog/remix-heart-vite|
+|[03:27](https://www.bilibili.com/video/av450543574?t=207)|Google SRE 团队总结运维的一篇文章|https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned|
+
 ## [视频链接](https://www.bilibili.com/video/av832844191)
 
 |时间轴|简介|链接|

@@ -1,5 +1,55 @@
 [
   {
+    "aid": 450543574,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 10
+        },
+        {
+          "minutes": 0,
+          "seconds": 42
+        },
+        {
+          "minutes": 1,
+          "seconds": 22
+        },
+        {
+          "minutes": 1,
+          "seconds": 55
+        },
+        {
+          "minutes": 2,
+          "seconds": 39
+        },
+        {
+          "minutes": 3,
+          "seconds": 27
+        }
+      ],
+      "introduces": [
+        "Grist｜将传统电子表格与关系型数据库相结合的开源项目",
+        "Odigos｜全自动 K8s tracing 和监控",
+        "RedisInsight｜强大的 Redis 客户端",
+        "ScratchDB｜ 基于 ClickHouse 构建的数据分析引擎",
+        "Next.js 新版本惹争议",
+        "Google SRE 团队总结运维的一篇文章"
+      ],
+      "links": [
+        "https://www.getgrist.com/",
+        "https://odigos.io/",
+        "https://github.com/RedisInsight/RedisInsight",
+        "https://github.com/scratchdata/ScratchDB",
+        [
+          "https://nextjs.org/blog/next-14",
+          "https://remix.run/blog/remix-heart-vite"
+        ],
+        "https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned"
+      ]
+    }
+  },
+  {
     "aid": 832844191,
     "hn_items": {
       "times": [
