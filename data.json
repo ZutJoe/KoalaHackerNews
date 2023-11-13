@@ -1,5 +1,58 @@
 [
   {
+    "aid": 920776277,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 46
+        },
+        {
+          "minutes": 1,
+          "seconds": 24
+        },
+        {
+          "minutes": 1,
+          "seconds": 50
+        },
+        {
+          "minutes": 2,
+          "seconds": 20
+        },
+        {
+          "minutes": 2,
+          "seconds": 44
+        },
+        {
+          "minutes": 3,
+          "seconds": 7
+        }
+      ],
+      "introduces": [
+        "SSHX｜基于 Web 的终端共享工具",
+        "Pagefind｜专为大型静态网站设计的静态搜索库",
+        "tailspin｜ 基于 Rust 开发的日志查看工具",
+        "Moveable｜实现复杂交互的 JS 库",
+        "Bulletpapers｜为 ArXiv 上的论文基于 AI 进行总结",
+        "Angular 发布 v17 版本和全新官网",
+        "轻松一刻时间｜用 WebAssembly 基于虚幻 4 引擎开发的游戏"
+      ],
+      "links": [
+        "https://sshx.io/",
+        "https://pagefind.app/",
+        "https://github.com/bensadeh/tailspin",
+        "https://github.com/daybrush/moveable",
+        "https://www.bulletpapers.ai/",
+        "https://angular.dev/",
+        "https://play.spacelancers.com/"
+      ]
+    }
+  },
+  {
     "aid": 450543574,
     "hn_items": {
       "times": [

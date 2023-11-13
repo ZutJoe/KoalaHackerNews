@@ -8,6 +8,18 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av920776277)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av920776277?t=9)|SSHX｜基于 Web 的终端共享工具|https://sshx.io/|
+|[00:46](https://www.bilibili.com/video/av920776277?t=46)|Pagefind｜专为大型静态网站设计的静态搜索库|https://pagefind.app/|
+|[01:24](https://www.bilibili.com/video/av920776277?t=84)|tailspin｜ 基于 Rust 开发的日志查看工具|https://github.com/bensadeh/tailspin|
+|[01:50](https://www.bilibili.com/video/av920776277?t=110)|Moveable｜实现复杂交互的 JS 库|https://github.com/daybrush/moveable|
+|[02:20](https://www.bilibili.com/video/av920776277?t=140)|Bulletpapers｜为 ArXiv 上的论文基于 AI 进行总结|https://www.bulletpapers.ai/|
+|[02:44](https://www.bilibili.com/video/av920776277?t=164)|Angular 发布 v17 版本和全新官网|https://angular.dev/|
+|[03:07](https://www.bilibili.com/video/av920776277?t=187)|轻松一刻时间｜用 WebAssembly 基于虚幻 4 引擎开发的游戏|https://play.spacelancers.com/|
+
 ## [视频链接](https://www.bilibili.com/video/av450543574)
 
 |时间轴|简介|链接|
