@@ -8,6 +8,19 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av236018397)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av236018397?t=9)|React Datasheet Grid｜ 开源 Airtable 式表格组件| |
+|[00:40](https://www.bilibili.com/video/av236018397?t=40)|flyscrape｜基于 Go 的数据抓取工具| |
+|[01:05](https://www.bilibili.com/video/av236018397?t=65)|Loro｜ CRDT 工具库| |
+|[01:31](https://www.bilibili.com/video/av236018397?t=91)|GraphCast｜Deepmind 发布高效天气预报模型| |
+|[02:12](https://www.bilibili.com/video/av236018397?t=132)|Tiny LLMs｜在浏览器中本地运行的大语言模型| |
+|[02:33](https://www.bilibili.com/video/av236018397?t=153)|perfect freehand｜手绘功能代码仓库| |
+|[03:02](https://www.bilibili.com/video/av236018397?t=182)|一篇介绍 67 种浏览器中调试技巧的文章| |
+|[03:26](https://www.bilibili.com/video/av236018397?t=206)|一篇介绍消息队列 pgmq 的技术原理的文章| |
+
 ## [视频链接](https://www.bilibili.com/video/av920776277)
 
 |时间轴|简介|链接|
