@@ -12,14 +12,14 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 
 |时间轴|简介|链接|
 |:--:|:--:|:--:|
-|[00:09](https://www.bilibili.com/video/av236018397?t=9)|React Datasheet Grid｜ 开源 Airtable 式表格组件| |
-|[00:40](https://www.bilibili.com/video/av236018397?t=40)|flyscrape｜基于 Go 的数据抓取工具| |
-|[01:05](https://www.bilibili.com/video/av236018397?t=65)|Loro｜ CRDT 工具库| |
-|[01:31](https://www.bilibili.com/video/av236018397?t=91)|GraphCast｜Deepmind 发布高效天气预报模型| |
-|[02:12](https://www.bilibili.com/video/av236018397?t=132)|Tiny LLMs｜在浏览器中本地运行的大语言模型| |
-|[02:33](https://www.bilibili.com/video/av236018397?t=153)|perfect freehand｜手绘功能代码仓库| |
-|[03:02](https://www.bilibili.com/video/av236018397?t=182)|一篇介绍 67 种浏览器中调试技巧的文章| |
-|[03:26](https://www.bilibili.com/video/av236018397?t=206)|一篇介绍消息队列 pgmq 的技术原理的文章| |
+|[00:09](https://www.bilibili.com/video/av236018397?t=9)|React Datasheet Grid｜ 开源 Airtable 式表格组件|https://react-datasheet-grid.netlify.app/|
+|[00:40](https://www.bilibili.com/video/av236018397?t=40)|flyscrape｜基于 Go 的数据抓取工具|https://github.com/philippta/flyscrape|
+|[01:05](https://www.bilibili.com/video/av236018397?t=65)|Loro｜ CRDT 工具库|https://www.loro.dev/|
+|[01:31](https://www.bilibili.com/video/av236018397?t=91)|GraphCast｜Deepmind 发布高效天气预报模型|https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/|
+|[02:12](https://www.bilibili.com/video/av236018397?t=132)|Tiny LLMs｜在浏览器中本地运行的大语言模型|https://tinyllms.vercel.app/|
+|[02:33](https://www.bilibili.com/video/av236018397?t=153)|perfect freehand｜手绘功能代码仓库|https://github.com/steveruizok/perfect-freehand|
+|[03:02](https://www.bilibili.com/video/av236018397?t=182)|一篇介绍 67 种浏览器中调试技巧的文章|https://alan.norbauer.com/articles/browser-debugging-tricks|
+|[03:26](https://www.bilibili.com/video/av236018397?t=206)|一篇介绍消息队列 pgmq 的技术原理的文章|https://tembo.io/blog/pgmq-self-regulating-queue/|
 
 ## [视频链接](https://www.bilibili.com/video/av920776277)
 
