@@ -1,5 +1,55 @@
 [
   {
+    "aid": 236434868,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 38
+        },
+        {
+          "minutes": 1,
+          "seconds": 4
+        },
+        {
+          "minutes": 1,
+          "seconds": 34
+        },
+        {
+          "minutes": 2,
+          "seconds": 9
+        },
+        {
+          "minutes": 2,
+          "seconds": 50
+        }
+      ],
+      "introduces": [
+        "Vite 5.0 发布",
+        "River｜基于 Postgres 和 Go 的任务队列库",
+        "TinaCMS｜ 一个灵活易用的 headless 内容管理系统",
+        "Anthropic 发布 Claude  2.1 版本",
+        "tldraw 的白板+AI 无限创意",
+        "Stripe 促销日在线概览页面"
+      ],
+      "links": [
+        "https://vitejs.dev/blog/announcing-vite5",
+        "https://brandur.org/river",
+        "https://github.com/tinacms/tinacms",
+        "https://www.anthropic.com/index/claude-2-1",
+        [
+          "https://tldraw.substack.com/p/make-real-the-story-so-far",
+          "https://twitter.com/tldraw/status/1727728068968460778"
+        ],
+        "https://bfcm.stripe.dev/"
+      ]
+    }
+  },
+  {
     "aid": 236018397,
     "hn_items": {
       "times": [

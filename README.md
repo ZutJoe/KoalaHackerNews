@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av236434868)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av236434868?t=9)|Vite 5.0 发布|https://vitejs.dev/blog/announcing-vite5|
+|[00:38](https://www.bilibili.com/video/av236434868?t=38)|River｜基于 Postgres 和 Go 的任务队列库|https://brandur.org/river|
+|[01:04](https://www.bilibili.com/video/av236434868?t=64)|TinaCMS｜ 一个灵活易用的 headless 内容管理系统|https://github.com/tinacms/tinacms|
+|[01:34](https://www.bilibili.com/video/av236434868?t=94)|Anthropic 发布 Claude  2.1 版本|https://www.anthropic.com/index/claude-2-1|
+|[02:09](https://www.bilibili.com/video/av236434868?t=129)|tldraw 的白板+AI 无限创意|https://tldraw.substack.com/p/make-real-the-story-so-far<br>https://twitter.com/tldraw/status/1727728068968460778|
+|[02:50](https://www.bilibili.com/video/av236434868?t=170)|Stripe 促销日在线概览页面|https://bfcm.stripe.dev/|
+
 ## [视频链接](https://www.bilibili.com/video/av236018397)
 
 |时间轴|简介|链接|
