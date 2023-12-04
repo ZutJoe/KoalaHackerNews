@@ -8,6 +8,19 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av921625197)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:10](https://www.bilibili.com/video/av921625197?t=10)|dnd kit｜更现代的 React 拖拽库|https://dndkit.com/|
+|[00:41](https://www.bilibili.com/video/av921625197?t=41)|Vest｜ 一个 JS 声明式校验框架|https://vestjs.dev/|
+|[01:12](https://www.bilibili.com/video/av921625197?t=72)|marker｜ PDF 转 markdown 工具|https://github.com/VikParuchuri/marker|
+|[01:37](https://www.bilibili.com/video/av921625197?t=97)|openmeter｜云服务计量工具|https://openmeter.io/|
+|[02:13](https://www.bilibili.com/video/av921625197?t=133)|SQL formatter｜SQL 语句格式化工具|https://github.com/sql-formatter-org/sql-formatter|
+|[02:35](https://www.bilibili.com/video/av921625197?t=155)|Knip｜废弃代码扫描工具|https://github.com/webpro/knip|
+|[02:54](https://www.bilibili.com/video/av921625197?t=174)|MobSlide｜将手机变为 PPT 遥控器|https://thewh1teagle.github.io/mobslide.web/|
+|[03:14](https://www.bilibili.com/video/av921625197?t=194)|《Koala 聊开源》发布生成式 AI 原理讲解视频|https://www.bilibili.com/video/BV1vN4y1Y7u3|
+
 ## [视频链接](https://www.bilibili.com/video/av236434868)
 
 |时间轴|简介|链接|

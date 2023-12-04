@@ -1,5 +1,64 @@
 [
   {
+    "aid": 921625197,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 10
+        },
+        {
+          "minutes": 0,
+          "seconds": 41
+        },
+        {
+          "minutes": 1,
+          "seconds": 12
+        },
+        {
+          "minutes": 1,
+          "seconds": 37
+        },
+        {
+          "minutes": 2,
+          "seconds": 13
+        },
+        {
+          "minutes": 2,
+          "seconds": 35
+        },
+        {
+          "minutes": 2,
+          "seconds": 54
+        },
+        {
+          "minutes": 3,
+          "seconds": 14
+        }
+      ],
+      "introduces": [
+        "dnd kit｜更现代的 React 拖拽库",
+        "Vest｜ 一个 JS 声明式校验框架",
+        "marker｜ PDF 转 markdown 工具",
+        "openmeter｜云服务计量工具",
+        "SQL formatter｜SQL 语句格式化工具",
+        "Knip｜废弃代码扫描工具",
+        "MobSlide｜将手机变为 PPT 遥控器",
+        "《Koala 聊开源》发布生成式 AI 原理讲解视频"
+      ],
+      "links": [
+        "https://dndkit.com/",
+        "https://vestjs.dev/",
+        "https://github.com/VikParuchuri/marker",
+        "https://openmeter.io/",
+        "https://github.com/sql-formatter-org/sql-formatter",
+        "https://github.com/webpro/knip",
+        "https://thewh1teagle.github.io/mobslide.web/",
+        "https://www.bilibili.com/video/BV1vN4y1Y7u3"
+      ]
+    }
+  },
+  {
     "aid": 236434868,
     "hn_items": {
       "times": [
