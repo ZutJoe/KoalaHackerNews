@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av537119136)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av537119136?t=9)|Webstudio｜低代码与 AI 结合的平台|https://webstudio.is/|
+|[00:51](https://www.bilibili.com/video/av537119136?t=51)|Loco｜Rust 快速开发框架|https://loco.rs/|
+|[01:27](https://www.bilibili.com/video/av537119136?t=87)|GQL｜Git 查询语言|https://amrdeveloper.github.io/GQL/|
+|[01:54](https://www.bilibili.com/video/av537119136?t=114)|Apple 开源 MLX 的数组运算框架，进军 AI|https://github.com/ml-explore/mlx|
+|[02:36](https://www.bilibili.com/video/av537119136?t=156)|MagicAnimate｜基于图片和动作序列的动画生成模型|https://github.com/magic-research/magic-animate<br>https://huggingface.co/spaces/zcxu-eric/magicanimate|
+|[03:12](https://www.bilibili.com/video/av537119136?t=192)|Google 发布Gemini 多模态 AI 模型|https://deepmind.google/technologies/gemini/|
+
 ## [视频链接](https://www.bilibili.com/video/av921625197)
 
 |时间轴|简介|链接|

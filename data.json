@@ -1,5 +1,55 @@
 [
   {
+    "aid": 537119136,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 51
+        },
+        {
+          "minutes": 1,
+          "seconds": 27
+        },
+        {
+          "minutes": 1,
+          "seconds": 54
+        },
+        {
+          "minutes": 2,
+          "seconds": 36
+        },
+        {
+          "minutes": 3,
+          "seconds": 12
+        }
+      ],
+      "introduces": [
+        "Webstudio｜低代码与 AI 结合的平台",
+        "Loco｜Rust 快速开发框架",
+        "GQL｜Git 查询语言",
+        "Apple 开源 MLX 的数组运算框架，进军 AI",
+        "MagicAnimate｜基于图片和动作序列的动画生成模型",
+        "Google 发布Gemini 多模态 AI 模型"
+      ],
+      "links": [
+        "https://webstudio.is/",
+        "https://loco.rs/",
+        "https://amrdeveloper.github.io/GQL/",
+        "https://github.com/ml-explore/mlx",
+        [
+          "https://github.com/magic-research/magic-animate",
+          "https://huggingface.co/spaces/zcxu-eric/magicanimate"
+        ],
+        "https://deepmind.google/technologies/gemini/"
+      ]
+    }
+  },
+  {
     "aid": 921625197,
     "hn_items": {
       "times": [
