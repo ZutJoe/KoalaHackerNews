@@ -1,5 +1,58 @@
 [
   {
+    "aid": 367443410,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 51
+        },
+        {
+          "minutes": 1,
+          "seconds": 27
+        },
+        {
+          "minutes": 1,
+          "seconds": 54
+        },
+        {
+          "minutes": 2,
+          "seconds": 36
+        },
+        {
+          "minutes": 3,
+          "seconds": 12
+        },
+        {
+          "minutes": 3,
+          "seconds": 12
+        }
+      ],
+      "introduces": [
+        "Oxlint｜百倍块的 ESlint 替代品",
+        "Trippy｜可视化网络流量追逐工具",
+        "Huh｜TUI 表单组件",
+        "Templ｜ Go 语言的 HTML 模板引擎",
+        "redb｜ Rust 的轻量级嵌入式 KV 存储",
+        "Mixtral-8x7B｜开源多专家混合模型",
+        "Fly Postgres｜托管 Postgres 数据库服务"
+      ],
+      "links": [
+        "https://oxc-project.github.io/blog/2023-12-12-announcing-oxlint.html",
+        "https://trippy.cli.rs/",
+        "https://github.com/charmbracelet/huh",
+        "https://github.com/a-h/templ",
+        "https://github.com/cberner/redb",
+        "https://mistral.ai/",
+        "https://supabase.com/blog/postgres-on-fly-by-supabase"
+      ]
+    }
+  },
+  {
     "aid": 537119136,
     "hn_items": {
       "times": [

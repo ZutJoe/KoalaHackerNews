@@ -8,6 +8,18 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av367443410)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av367443410?t=9)|Oxlint｜百倍块的 ESlint 替代品|https://oxc-project.github.io/blog/2023-12-12-announcing-oxlint.html|
+|[00:51](https://www.bilibili.com/video/av367443410?t=51)|Trippy｜可视化网络流量追逐工具|https://trippy.cli.rs/|
+|[01:27](https://www.bilibili.com/video/av367443410?t=87)|Huh｜TUI 表单组件|https://github.com/charmbracelet/huh|
+|[01:54](https://www.bilibili.com/video/av367443410?t=114)|Templ｜ Go 语言的 HTML 模板引擎|https://github.com/a-h/templ|
+|[02:36](https://www.bilibili.com/video/av367443410?t=156)|redb｜ Rust 的轻量级嵌入式 KV 存储|https://github.com/cberner/redb|
+|[03:12](https://www.bilibili.com/video/av367443410?t=192)|Mixtral-8x7B｜开源多专家混合模型|https://mistral.ai/|
+|[03:12](https://www.bilibili.com/video/av367443410?t=192)|Fly Postgres｜托管 Postgres 数据库服务|https://supabase.com/blog/postgres-on-fly-by-supabase|
+
 ## [视频链接](https://www.bilibili.com/video/av537119136)
 
 |时间轴|简介|链接|
