@@ -1,5 +1,55 @@
 [
   {
+    "aid": 367680645,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 8
+        },
+        {
+          "minutes": 0,
+          "seconds": 41
+        },
+        {
+          "minutes": 1,
+          "seconds": 8
+        },
+        {
+          "minutes": 1,
+          "seconds": 33
+        },
+        {
+          "minutes": 1,
+          "seconds": 59
+        },
+        {
+          "minutes": 2,
+          "seconds": 29
+        }
+      ],
+      "introduces": [
+        "Vue 2 将结束生命周期",
+        "Svelte 发布 SvelteKit  2.0 版本",
+        "nutjs｜基于 JS 的桌面端自动化工具库",
+        "TypeScript 学习与习题平台 Typehero 开源",
+        "macOSpilot｜ 一个 Mac 原生的自动化方案",
+        "vx.dev｜v0.dev 的开源替代"
+      ],
+      "links": [
+        "https://blog.vuejs.org/posts/vue-2-eol",
+        "https://svelte.dev/blog/sveltekit-2",
+        "https://nutjs.dev/",
+        "https://typehero.dev/",
+        "https://github.com/elfvingralf/macOSpilot-ai-assistant",
+        [
+          "https://www.bilibili.com/video/BV1de411r7uU",
+          "https://github.com/Yuyz0112/vx.dev"
+        ]
+      ]
+    }
+  },
+  {
     "aid": 367443410,
     "hn_items": {
       "times": [

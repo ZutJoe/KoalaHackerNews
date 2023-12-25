@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av367680645)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:08](https://www.bilibili.com/video/av367680645?t=8)|Vue 2 将结束生命周期|https://blog.vuejs.org/posts/vue-2-eol|
+|[00:41](https://www.bilibili.com/video/av367680645?t=41)|Svelte 发布 SvelteKit  2.0 版本|https://svelte.dev/blog/sveltekit-2|
+|[01:08](https://www.bilibili.com/video/av367680645?t=68)|nutjs｜基于 JS 的桌面端自动化工具库|https://nutjs.dev/|
+|[01:33](https://www.bilibili.com/video/av367680645?t=93)|TypeScript 学习与习题平台 Typehero 开源|https://typehero.dev/|
+|[01:59](https://www.bilibili.com/video/av367680645?t=119)|macOSpilot｜ 一个 Mac 原生的自动化方案|https://github.com/elfvingralf/macOSpilot-ai-assistant|
+|[02:29](https://www.bilibili.com/video/av367680645?t=149)|vx.dev｜v0.dev 的开源替代|https://www.bilibili.com/video/BV1de411r7uU<br>https://github.com/Yuyz0112/vx.dev|
+
 ## [视频链接](https://www.bilibili.com/video/av367443410)
 
 |时间轴|简介|链接|
