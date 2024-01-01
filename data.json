@@ -1,5 +1,57 @@
 [
   {
+    "aid": 923105208,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 43
+        },
+        {
+          "minutes": 1,
+          "seconds": 8
+        },
+        {
+          "minutes": 1,
+          "seconds": 10
+        },
+        {
+          "minutes": 1,
+          "seconds": 36
+        },
+        {
+          "minutes": 2,
+          "seconds": 8
+        },
+        {
+          "minutes": 2,
+          "seconds": 35
+        }
+      ],
+      "introduces": [
+        "Inbox Zero｜开源邮箱管理工具",
+        "Plate｜ 完全可定制富文本编辑器",
+        "movie-web｜在线看电影应用",
+        "movie-web｜在线看电影应用",
+        "Tree-sitter｜构建编程语言解析器的框架",
+        "Dozzle｜轻量级 Docker 日志监控 Web 应用",
+        "Sonner｜通知弹出 UI 组件"
+      ],
+      "links": [
+        "https://www.getinboxzero.com/",
+        "https://platejs.org/",
+        "https://movie-web.app/",
+        "https://tree-sitter.github.io/tree-sitter/",
+        "https://github.com/amir20/dozzle",
+        "https://sonner.emilkowal.ski/"
+      ]
+    }
+  },
+  {
     "aid": 367680645,
     "hn_items": {
       "times": [

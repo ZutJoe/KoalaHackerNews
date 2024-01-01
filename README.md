@@ -8,6 +8,18 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av923105208)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av923105208?t=9)|Inbox Zero｜开源邮箱管理工具|https://www.getinboxzero.com/|
+|[00:43](https://www.bilibili.com/video/av923105208?t=43)|Plate｜ 完全可定制富文本编辑器|https://platejs.org/|
+|[01:08](https://www.bilibili.com/video/av923105208?t=68)|movie-web｜在线看电影应用|https://movie-web.app/|
+|[01:10](https://www.bilibili.com/video/av923105208?t=70)|movie-web｜在线看电影应用|https://tree-sitter.github.io/tree-sitter/|
+|[01:36](https://www.bilibili.com/video/av923105208?t=96)|Tree-sitter｜构建编程语言解析器的框架|https://github.com/amir20/dozzle|
+|[02:08](https://www.bilibili.com/video/av923105208?t=128)|Dozzle｜轻量级 Docker 日志监控 Web 应用|https://sonner.emilkowal.ski/|
+|[02:35](https://www.bilibili.com/video/av923105208?t=155)|Sonner｜通知弹出 UI 组件| |
+
 ## [视频链接](https://www.bilibili.com/video/av367680645)
 
 |时间轴|简介|链接|
