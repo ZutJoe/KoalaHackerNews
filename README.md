@@ -8,6 +8,18 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av965930187)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:10](https://www.bilibili.com/video/av965930187?t=10)|Blot｜轻量级网站部署工具|https://blot.im/|
+|[00:40](https://www.bilibili.com/video/av965930187?t=40)|Plotteus｜ 专注于数据故事的 JS 库|https://www.plotteus.dev/|
+|[01:06](https://www.bilibili.com/video/av965930187?t=66)|Atuin｜为 shell 历史提供同步、搜索、备份功能的工具|https://atuin.sh/|
+|[01:29](https://www.bilibili.com/video/av965930187?t=89)|pgroll｜开源 Postgres schema 迁移工具|https://xata.io/blog/pgroll-schema-migrations-postgres|
+|[01:55](https://www.bilibili.com/video/av965930187?t=115)|一篇介绍 psql 命令行使用技巧的文章|https://psql-tips.org/psql_tips_all.html|
+|[02:10](https://www.bilibili.com/video/av965930187?t=130)|保时捷发布 UI 设计指南的 v3 版本|https://designsystem.porsche.com/|
+|[02:30](https://www.bilibili.com/video/av965930187?t=150)|starlight｜Astro 出品的文档工具|https://starlight.astro.build/|
+
 ## [视频链接](https://www.bilibili.com/video/av923105208)
 
 |时间轴|简介|链接|

@@ -1,5 +1,58 @@
 [
   {
+    "aid": 965930187,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 10
+        },
+        {
+          "minutes": 0,
+          "seconds": 40
+        },
+        {
+          "minutes": 1,
+          "seconds": 6
+        },
+        {
+          "minutes": 1,
+          "seconds": 29
+        },
+        {
+          "minutes": 1,
+          "seconds": 55
+        },
+        {
+          "minutes": 2,
+          "seconds": 10
+        },
+        {
+          "minutes": 2,
+          "seconds": 30
+        }
+      ],
+      "introduces": [
+        "Blot｜轻量级网站部署工具",
+        "Plotteus｜ 专注于数据故事的 JS 库",
+        "Atuin｜为 shell 历史提供同步、搜索、备份功能的工具",
+        "pgroll｜开源 Postgres schema 迁移工具",
+        "一篇介绍 psql 命令行使用技巧的文章",
+        "保时捷发布 UI 设计指南的 v3 版本",
+        "starlight｜Astro 出品的文档工具"
+      ],
+      "links": [
+        "https://blot.im/",
+        "https://www.plotteus.dev/",
+        "https://atuin.sh/",
+        "https://xata.io/blog/pgroll-schema-migrations-postgres",
+        "https://psql-tips.org/psql_tips_all.html",
+        "https://designsystem.porsche.com/",
+        "https://starlight.astro.build/"
+      ]
+    }
+  },
+  {
     "aid": 923105208,
     "hn_items": {
       "times": [
