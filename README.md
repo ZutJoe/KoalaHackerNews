@@ -8,6 +8,18 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av836255190)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:10](https://www.bilibili.com/video/av836255190?t=10)|shoelace｜web components 组件库|https://shoelace.style/|
+|[00:36](https://www.bilibili.com/video/av836255190?t=36)|Penrose｜ 科研图表库|https://penrose.cs.cmu.edu/|
+|[01:03](https://www.bilibili.com/video/av836255190?t=63)|更好的 nodejs fs API|https://humanwhocodes.com/blog/2024/01/fsx-modern-filesystem-api-javascript/|
+|[01:36](https://www.bilibili.com/video/av836255190?t=96)|ugrep｜比 grep 更友好的命令行搜索工具|https://ugrep.com/|
+|[02:26](https://www.bilibili.com/video/av836255190?t=146)|开源的 prompt 设计工具 priompt|https://github.com/anysphere/priompt|
+|[02:33](https://www.bilibili.com/video/av836255190?t=153)|Go 作者年度总结|https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html|
+|[02:58](https://www.bilibili.com/video/av836255190?t=178)|vx.dev 再度升级多项新功能 开放免费体验|https://www.bilibili.com/video/BV1Ha4y117rZ/|
+
 ## [视频链接](https://www.bilibili.com/video/av965930187)
 
 |时间轴|简介|链接|

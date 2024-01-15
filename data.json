@@ -1,5 +1,58 @@
 [
   {
+    "aid": 836255190,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 10
+        },
+        {
+          "minutes": 0,
+          "seconds": 36
+        },
+        {
+          "minutes": 1,
+          "seconds": 3
+        },
+        {
+          "minutes": 1,
+          "seconds": 36
+        },
+        {
+          "minutes": 2,
+          "seconds": 26
+        },
+        {
+          "minutes": 2,
+          "seconds": 33
+        },
+        {
+          "minutes": 2,
+          "seconds": 58
+        }
+      ],
+      "introduces": [
+        "shoelace｜web components 组件库",
+        "Penrose｜ 科研图表库",
+        "更好的 nodejs fs API",
+        "ugrep｜比 grep 更友好的命令行搜索工具",
+        "开源的 prompt 设计工具 priompt",
+        "Go 作者年度总结",
+        "vx.dev 再度升级多项新功能 开放免费体验"
+      ],
+      "links": [
+        "https://shoelace.style/",
+        "https://penrose.cs.cmu.edu/",
+        "https://humanwhocodes.com/blog/2024/01/fsx-modern-filesystem-api-javascript/",
+        "https://ugrep.com/",
+        "https://github.com/anysphere/priompt",
+        "https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html",
+        "https://www.bilibili.com/video/BV1Ha4y117rZ/"
+      ]
+    }
+  },
+  {
     "aid": 965930187,
     "hn_items": {
       "times": [
