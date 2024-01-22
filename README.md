@@ -8,6 +8,19 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av666618965)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av666618965?t=9)|Marimo｜新一代 python notebook|https://marimo.io/|
+|[00:37](https://www.bilibili.com/video/av666618965?t=37)|Nitro｜高性能 Typescript Web 框架|https://nitro.unjs.io/|
+|[01:09](https://www.bilibili.com/video/av666618965?t=69)|FireDBG｜ Rust 代码调试器|https://firedbg.sea-ql.org/|
+|[01:34](https://www.bilibili.com/video/av666618965?t=94)|DevDocs｜技术文档查询工具|https://devdocs.io/|
+|[01:53](https://www.bilibili.com/video/av666618965?t=113)|Htmldocs｜在线编辑器|https://htmldocs.com/|
+|[02:19](https://www.bilibili.com/video/av666618965?t=139)|Better-commits｜一个编写 commit 的 CLI 工具|https://github.com/Everduin94/better-commits|
+|[02:40](https://www.bilibili.com/video/av666618965?t=160)|OutRun｜ 隐私保护的开源跑步 App|https://outrun.tadris.de/|
+|[03:02](https://www.bilibili.com/video/av666618965?t=182)|Rosebud AI｜AI 驱动的游戏开发平台|https://www.rosebud.ai/|
+
 ## [视频链接](https://www.bilibili.com/video/av836255190)
 
 |时间轴|简介|链接|

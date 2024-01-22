@@ -1,5 +1,64 @@
 [
   {
+    "aid": 666618965,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 37
+        },
+        {
+          "minutes": 1,
+          "seconds": 9
+        },
+        {
+          "minutes": 1,
+          "seconds": 34
+        },
+        {
+          "minutes": 1,
+          "seconds": 53
+        },
+        {
+          "minutes": 2,
+          "seconds": 19
+        },
+        {
+          "minutes": 2,
+          "seconds": 40
+        },
+        {
+          "minutes": 3,
+          "seconds": 2
+        }
+      ],
+      "introduces": [
+        "Marimo｜新一代 python notebook",
+        "Nitro｜高性能 Typescript Web 框架",
+        "FireDBG｜ Rust 代码调试器",
+        "DevDocs｜技术文档查询工具",
+        "Htmldocs｜在线编辑器",
+        "Better-commits｜一个编写 commit 的 CLI 工具",
+        "OutRun｜ 隐私保护的开源跑步 App",
+        "Rosebud AI｜AI 驱动的游戏开发平台"
+      ],
+      "links": [
+        "https://marimo.io/",
+        "https://nitro.unjs.io/",
+        "https://firedbg.sea-ql.org/",
+        "https://devdocs.io/",
+        "https://htmldocs.com/",
+        "https://github.com/Everduin94/better-commits",
+        "https://outrun.tadris.de/",
+        "https://www.rosebud.ai/"
+      ]
+    }
+  },
+  {
     "aid": 836255190,
     "hn_items": {
       "times": [
