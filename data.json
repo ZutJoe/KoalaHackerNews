@@ -1,5 +1,52 @@
 [
   {
+    "aid": 581760581,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 43
+        },
+        {
+          "minutes": 1,
+          "seconds": 19
+        },
+        {
+          "minutes": 1,
+          "seconds": 50
+        },
+        {
+          "minutes": 2,
+          "seconds": 18
+        },
+        {
+          "minutes": 2,
+          "seconds": 45
+        }
+      ],
+      "introduces": [
+        "Zed｜开源的新锐代码编辑器",
+        "TypeSpec｜微软推出 API 定义工具",
+        "ts-reset｜由开源社区维护的 TypeScript 增强规则",
+        "visx｜ 数据可视化库",
+        "Zustand｜年度最受关注的 React 状态管理工具",
+        "一本讲解查询引擎工作原理的电子书"
+      ],
+      "links": [
+        "https://zed.dev/blog/zed-is-now-open-source",
+        "https://typespec.io/",
+        "https://www.totaltypescript.com/ts-reset",
+        "https://airbnb.io/visx/",
+        "https://zustand-demo.pmnd.rs/",
+        "https://howqueryengineswork.com/"
+      ]
+    }
+  },
+  {
     "aid": 666618965,
     "hn_items": {
       "times": [

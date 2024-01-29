@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av581760581)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av581760581?t=9)|Zed｜开源的新锐代码编辑器|https://zed.dev/blog/zed-is-now-open-source|
+|[00:43](https://www.bilibili.com/video/av581760581?t=43)|TypeSpec｜微软推出 API 定义工具|https://typespec.io/|
+|[01:19](https://www.bilibili.com/video/av581760581?t=79)|ts-reset｜由开源社区维护的 TypeScript 增强规则|https://www.totaltypescript.com/ts-reset|
+|[01:50](https://www.bilibili.com/video/av581760581?t=110)|visx｜ 数据可视化库|https://airbnb.io/visx/|
+|[02:18](https://www.bilibili.com/video/av581760581?t=138)|Zustand｜年度最受关注的 React 状态管理工具|https://zustand-demo.pmnd.rs/|
+|[02:45](https://www.bilibili.com/video/av581760581?t=165)|一本讲解查询引擎工作原理的电子书|https://howqueryengineswork.com/|
+
 ## [视频链接](https://www.bilibili.com/video/av666618965)
 
 |时间轴|简介|链接|
