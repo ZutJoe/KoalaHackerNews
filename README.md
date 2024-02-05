@@ -8,6 +8,18 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av1750065440)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av1750065440?t=9)|React Resizable Panels｜React 动态面板库|https://github.com/bvaughn/react-resizable-panels|
+|[00:45](https://www.bilibili.com/video/av1750065440?t=45)|Plot｜为数据分析场景设计的可视化 JS 库|https://github.com/observablehq/plot|
+|[01:15](https://www.bilibili.com/video/av1750065440?t=75)|OpenSaaS｜ 开源 SaaS 框架|https://github.com/wasp-lang/open-saas|
+|[01:46](https://www.bilibili.com/video/av1750065440?t=106)|Code Llama 70B 发布|https://twitter.com/AIatMeta/status/1752013879532782075|
+|[02:05](https://www.bilibili.com/video/av1750065440?t=125)|ChatGPT Prompting｜快速构建提示词的在线小工具|https://mitenmit.github.io/gpt|
+|[02:31](https://www.bilibili.com/video/av1750065440?t=151)|Twine｜使用 Kotlin 和 Compose 构建的多平台 RSS 阅读器|https://github.com/msasikanth/twine|
+|[03:10](https://www.bilibili.com/video/av1750065440?t=190)|本频道技术顾问的播客采访|https://www.xiaoyuzhoufm.com/episode/65bafe551ed6d5797f6c37c2|
+
 ## [视频链接](https://www.bilibili.com/video/av581760581)
 
 |时间轴|简介|链接|
