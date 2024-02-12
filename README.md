@@ -8,6 +8,18 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av1150571929)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av1150571929?t=9)|LLRT｜AWS 开源轻量级 JS 运行时|https://github.com/awslabs/llrt|
+|[00:41](https://www.bilibili.com/video/av1150571929?t=41)|pet｜命令行代码片段管理工具|https://github.com/knqyf263/pet|
+|[01:13](https://www.bilibili.com/video/av1150571929?t=73)|React Email｜ 邮件模版开发工具|https://react.email|
+|[01:35](https://www.bilibili.com/video/av1150571929?t=95)|gping｜网络检测工具|https://github.com/orf/gping|
+|[01:58](https://www.bilibili.com/video/av1150571929?t=118)|Zellij｜一个终端工作区|https://zellij.dev/screencasts/|
+|[02:25](https://www.bilibili.com/video/av1150571929?t=145)|Gemini Ultra 面世|https://blog.google/products/gemini/bard-gemini-advanced-app/|
+|[02:51](https://www.bilibili.com/video/av1150571929?t=171)|react native 开发 vision pro 应用|https://www.callstack.com/blog/announcing-react-native-for-apple-vision-pro|
+
 ## [视频链接](https://www.bilibili.com/video/av1750065440)
 
 |时间轴|简介|链接|

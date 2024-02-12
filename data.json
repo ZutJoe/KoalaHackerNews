@@ -1,5 +1,58 @@
 [
   {
+    "aid": 1150571929,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 41
+        },
+        {
+          "minutes": 1,
+          "seconds": 13
+        },
+        {
+          "minutes": 1,
+          "seconds": 35
+        },
+        {
+          "minutes": 1,
+          "seconds": 58
+        },
+        {
+          "minutes": 2,
+          "seconds": 25
+        },
+        {
+          "minutes": 2,
+          "seconds": 51
+        }
+      ],
+      "introduces": [
+        "LLRT｜AWS 开源轻量级 JS 运行时",
+        "pet｜命令行代码片段管理工具",
+        "React Email｜ 邮件模版开发工具",
+        "gping｜网络检测工具",
+        "Zellij｜一个终端工作区",
+        "Gemini Ultra 面世",
+        "react native 开发 vision pro 应用"
+      ],
+      "links": [
+        "https://github.com/awslabs/llrt",
+        "https://github.com/knqyf263/pet",
+        "https://react.email",
+        "https://github.com/orf/gping",
+        "https://zellij.dev/screencasts/",
+        "https://blog.google/products/gemini/bard-gemini-advanced-app/",
+        "https://www.callstack.com/blog/announcing-react-native-for-apple-vision-pro"
+      ]
+    }
+  },
+  {
     "aid": 1750065440,
     "hn_items": {
       "times": [
