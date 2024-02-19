@@ -8,6 +8,18 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av1650946228)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av1650946228?t=9)|Toolong｜终端日志管理工具|https://github.com/Textualize/toolong|
+|[00:39](https://www.bilibili.com/video/av1650946228?t=39)|GitButler｜ Git 分支管理工具|https://gitbutler.com/|
+|[01:08](https://www.bilibili.com/video/av1650946228?t=68)|WXT｜降低浏览器插件开发复杂度的框架|https://wxt.dev/|
+|[01:38](https://www.bilibili.com/video/av1650946228?t=98)|dstack｜GPU 负载管理方案|https://dstack.ai/|
+|[01:59](https://www.bilibili.com/video/av1650946228?t=119)|OpenAI 发布视频生成模型 Sora|https://openai.com/sora|
+|[02:28](https://www.bilibili.com/video/av1650946228?t=148)|Google 介绍 100 万上下文模型 Gemini 1.5|https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024|
+|[03:06](https://www.bilibili.com/video/av1650946228?t=186)|《Koala聊开源》介绍 2023 年 JS 社区开源前 50 项目|https://space.bilibili.com/489667127/channel/collectiondetail?sid=2214332|
+
 ## [视频链接](https://www.bilibili.com/video/av1150571929)
 
 |时间轴|简介|链接|
