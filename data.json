@@ -1,5 +1,52 @@
 [
   {
+    "aid": 1901026218,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 33
+        },
+        {
+          "minutes": 0,
+          "seconds": 58
+        },
+        {
+          "minutes": 1,
+          "seconds": 27
+        },
+        {
+          "minutes": 2,
+          "seconds": 3
+        },
+        {
+          "minutes": 2,
+          "seconds": 35
+        }
+      ],
+      "introduces": [
+        "uv｜高性能 Python 包管理器",
+        "Markmap｜Markdown 编写思维导图",
+        "Lobe Chat｜开源的 LLM UI 交互界面",
+        "GPTScript｜创建基于自然语言编程体验的脚本语言",
+        "Gemma｜Google 开源大模型",
+        "Ok-Robot｜机器人与 AI 领域的有趣研究项目"
+      ],
+      "links": [
+        "https://astral.sh/blog/uv",
+        "https://markmap.js.org/repl",
+        "https://github.com/lobehub/lobe-chat",
+        "https://github.com/gptscript-ai/gptscript",
+        "https://blog.google/technology/developers/gemma-open-models/",
+        "https://ok-robot.github.io/"
+      ]
+    }
+  },
+  {
     "aid": 1650946228,
     "hn_items": {
       "times": [

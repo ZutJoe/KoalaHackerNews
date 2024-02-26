@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av1901026218)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av1901026218?t=9)|uv｜高性能 Python 包管理器|https://astral.sh/blog/uv|
+|[00:33](https://www.bilibili.com/video/av1901026218?t=33)|Markmap｜Markdown 编写思维导图|https://markmap.js.org/repl|
+|[00:58](https://www.bilibili.com/video/av1901026218?t=58)|Lobe Chat｜开源的 LLM UI 交互界面|https://github.com/lobehub/lobe-chat|
+|[01:27](https://www.bilibili.com/video/av1901026218?t=87)|GPTScript｜创建基于自然语言编程体验的脚本语言|https://github.com/gptscript-ai/gptscript|
+|[02:03](https://www.bilibili.com/video/av1901026218?t=123)|Gemma｜Google 开源大模型|https://blog.google/technology/developers/gemma-open-models/|
+|[02:35](https://www.bilibili.com/video/av1901026218?t=155)|Ok-Robot｜机器人与 AI 领域的有趣研究项目|https://ok-robot.github.io/|
+
 ## [视频链接](https://www.bilibili.com/video/av1650946228)
 
 |时间轴|简介|链接|
