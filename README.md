@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av1251321866)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:08](https://www.bilibili.com/video/av1251321866?t=8)|Pingora｜Cloudflare 发布 Nginx 开源替代品|https://github.com/cloudflare/pingora<br>https://blog.cloudflare.com/pingora-open-source|
+|[01:13](https://www.bilibili.com/video/av1251321866?t=73)|PGlite｜浏览器中运行 Postgres|https://github.com/electric-sql/pglite|
+|[01:57](https://www.bilibili.com/video/av1251321866?t=117)|Testcontainers｜ 一组基于 Docker 实现的开箱即用的容器|https://testcontainers.com/getting-started/|
+|[02:42](https://www.bilibili.com/video/av1251321866?t=162)|Podinfo｜Go 微服务模版项目|https://github.com/stefanprodan/podinfo|
+|[03:24](https://www.bilibili.com/video/av1251321866?t=204)|uikit｜React 3D UI 开发方案|https://github.com/pmndrs/uikit<br>https://twitter.com/BelaBohlender/status/1763258175770235046|
+|[04:02](https://www.bilibili.com/video/av1251321866?t=242)|Zoxide｜一个更聪明更强大的 cd 命令|https://github.com/ajeetdsouza/zoxide|
+
 ## [视频链接](https://www.bilibili.com/video/av1901026218)
 
 |时间轴|简介|链接|

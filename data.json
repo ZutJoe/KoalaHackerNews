@@ -1,5 +1,58 @@
 [
   {
+    "aid": 1251321866,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 8
+        },
+        {
+          "minutes": 1,
+          "seconds": 13
+        },
+        {
+          "minutes": 1,
+          "seconds": 57
+        },
+        {
+          "minutes": 2,
+          "seconds": 42
+        },
+        {
+          "minutes": 3,
+          "seconds": 24
+        },
+        {
+          "minutes": 4,
+          "seconds": 2
+        }
+      ],
+      "introduces": [
+        "Pingora｜Cloudflare 发布 Nginx 开源替代品",
+        "PGlite｜浏览器中运行 Postgres",
+        "Testcontainers｜ 一组基于 Docker 实现的开箱即用的容器",
+        "Podinfo｜Go 微服务模版项目",
+        "uikit｜React 3D UI 开发方案",
+        "Zoxide｜一个更聪明更强大的 cd 命令"
+      ],
+      "links": [
+        [
+          "https://github.com/cloudflare/pingora",
+          "https://blog.cloudflare.com/pingora-open-source"
+        ],
+        "https://github.com/electric-sql/pglite",
+        "https://testcontainers.com/getting-started/",
+        "https://github.com/stefanprodan/podinfo",
+        [
+          "https://github.com/pmndrs/uikit",
+          "https://twitter.com/BelaBohlender/status/1763258175770235046"
+        ],
+        "https://github.com/ajeetdsouza/zoxide"
+      ]
+    }
+  },
+  {
     "aid": 1901026218,
     "hn_items": {
       "times": [
