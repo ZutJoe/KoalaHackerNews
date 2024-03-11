@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av1001584068)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:08](https://www.bilibili.com/video/av1001584068?t=8)|JSR｜Deno 推出 NPM 替代品|https://deno.com/blog/jsr_open_beta|
+|[01:03](https://www.bilibili.com/video/av1001584068?t=63)|Puter｜浏览器中的操作系统|https://github.com/HeyPuter/puter<br>https://puter.com/|
+|[01:51](https://www.bilibili.com/video/av1001584068?t=111)|Expr｜基于 Go 开发的简易脚本语言|https://github.com/expr-lang/expr|
+|[02:43](https://www.bilibili.com/video/av1001584068?t=163)|Finder｜ 生成最短 CSS 选择器的 JS 库|https://github.com/antonmedv/finder|
+|[03:15](https://www.bilibili.com/video/av1001584068?t=195)|Daytona 开源开发环境管理工具|https://www.daytona.io/|
+|[04:00](https://www.bilibili.com/video/av1001584068?t=240)|苹果抢占 AI 笔记本电脑市场|https://www.apple.com/newsroom/2024/03/apple-unveils-the-new-13-and-15-inch-macbook-air-with-the-powerful-m3-chip/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn|
+
 ## [视频链接](https://www.bilibili.com/video/av1251321866)
 
 |时间轴|简介|链接|

@@ -1,5 +1,55 @@
 [
   {
+    "aid": 1001584068,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 8
+        },
+        {
+          "minutes": 1,
+          "seconds": 3
+        },
+        {
+          "minutes": 1,
+          "seconds": 51
+        },
+        {
+          "minutes": 2,
+          "seconds": 43
+        },
+        {
+          "minutes": 3,
+          "seconds": 15
+        },
+        {
+          "minutes": 4,
+          "seconds": 0
+        }
+      ],
+      "introduces": [
+        "JSR｜Deno 推出 NPM 替代品",
+        "Puter｜浏览器中的操作系统",
+        "Expr｜基于 Go 开发的简易脚本语言",
+        "Finder｜ 生成最短 CSS 选择器的 JS 库",
+        "Daytona 开源开发环境管理工具",
+        "苹果抢占 AI 笔记本电脑市场"
+      ],
+      "links": [
+        "https://deno.com/blog/jsr_open_beta",
+        [
+          "https://github.com/HeyPuter/puter",
+          "https://puter.com/"
+        ],
+        "https://github.com/expr-lang/expr",
+        "https://github.com/antonmedv/finder",
+        "https://www.daytona.io/",
+        "https://www.apple.com/newsroom/2024/03/apple-unveils-the-new-13-and-15-inch-macbook-air-with-the-powerful-m3-chip/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn"
+      ]
+    }
+  },
+  {
     "aid": 1251321866,
     "hn_items": {
       "times": [
