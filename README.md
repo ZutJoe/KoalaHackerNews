@@ -4,7 +4,7 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 
 官方[网页版](https://koala-oss.app/) (推荐)
 
-自制[网页版](https://zutjoe.github.io/Koala_hacker_news/)：
+自制[网页版](https://zutjoe.github.io/KoalaHackerNews/)：
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
