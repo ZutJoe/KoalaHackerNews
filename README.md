@@ -4,9 +4,20 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 
 官方[网页版](https://koala-oss.app/) (推荐)
 
-自制[网页版](https://zutjoe.github.io/KoalaHackerNews/)：
+自制[网页版](https://zutjoe.github.io/Koala_hacker_news/)：
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
+
+## [视频链接](https://www.bilibili.com/video/av1001895275)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:08](https://www.bilibili.com/video/av1001895275?t=8)|Aceternity UI｜设计感极强的 UI 组件|https://ui.aceternity.com/components|
+|[00:50](https://www.bilibili.com/video/av1001895275?t=50)|Spreadsheets-are-all-you-need｜ 基于 Excel 实现 GPT|https://spreadsheets-are-all-you-need.ai/index.html|
+|[01:27](https://www.bilibili.com/video/av1001895275?t=87)|Editor.js｜ 块式富文本编辑器框架|https://editorjs.io/|
+|[02:08](https://www.bilibili.com/video/av1001895275?t=128)|Ingestr｜ Python 命令行工具|https://bruin-data.github.io/ingestr/|
+|[02:47](https://www.bilibili.com/video/av1001895275?t=167)|Spin｜ WASM serverless 服务|https://github.com/fermyon/spin|
+|[03:39](https://www.bilibili.com/video/av1001895275?t=219)|Astro 发布数据库方案 Astro DB|https://astro.build/db/<br>https://astro.build/blog/astro-db-deep-dive|
 
 ## [视频链接](https://www.bilibili.com/video/av1001584068)
 
@@ -1266,6 +1277,24 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[02:09](https://www.bilibili.com/video/av894239914?t=129)|Hue.tools ｜ 颜色处理工具|https://hue.tools/|
 |[02:31](https://www.bilibili.com/video/av894239914?t=151)|shortwave ｜ 邮件工具|https://www.shortwave.com/blog/introducing-shortwave/|
 
+## [视频链接](https://www.bilibili.com/video/av465206549)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av465206549?t=9)|blender3.0 图形渲染工具|https://www.blender.org/download/releases/3-0/|
+|[00:31](https://www.bilibili.com/video/av465206549?t=31)|uBlacklist - 阻止特定的站点出现在谷歌的搜索结果中|https://github.com/iorate/uBlacklist|
+|[00:45](https://www.bilibili.com/video/av465206549?t=45)|Apache Guacamole 无客户端的远程桌面网端|https://guacamole.apache.org/|
+|[01:13](https://www.bilibili.com/video/av465206549?t=73)|Learn X in Y minutes|https://learnxinyminutes.com/|
+|[01:33](https://www.bilibili.com/video/av465206549?t=93)|《语义搜索的自然语言处理》|https://www.pinecone.io/learn/nlp/|
+|[01:50](https://www.bilibili.com/video/av465206549?t=110)|Jam 自部署工具|https://github.com/jam-systems/jam|
+|[02:10](https://www.bilibili.com/video/av465206549?t=130)|Milk Video 通过上传的视频和音频生成声波图的工具|https://app.milkvideo.com/|
+|[02:24](https://www.bilibili.com/video/av465206549?t=144)|AlterClass -一个制作和销售编程课程的平台|https://alterclass.io/|
+|[02:43](https://www.bilibili.com/video/av465206549?t=163)|Code Search 搜索代码工具|https://github.blog/2021-12-08-improving-github-code-search/|
+|[02:55](https://www.bilibili.com/video/av465206549?t=175)|Lapce ｜基于原生 GUI 和 Rust 编写的开源代码编辑器|https://github.com/lapce/lapce|
+|[03:07](https://www.bilibili.com/video/av465206549?t=187)|Rough.js -创建一个手绘的，粗略的图形外观的工具|https://roughjs.com/|
+|[03:15](https://www.bilibili.com/video/av465206549?t=195)|Doodle CSS 手绘风格的主题css|https://chr15m.github.io/DoodleCSS/|
+|[03:30](https://www.bilibili.com/video/av465206549?t=210)|Paper Website 从纸上建立一个网站界面|https://daily.tinyprojects.dev/paper_website|
+
 ## [视频链接](https://www.bilibili.com/video/av211446987)
 
 |时间轴|简介|链接|
@@ -1369,21 +1398,3 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[03:11](https://www.bilibili.com/video/av722854302?t=191)|Python CheatSheet python 问题查询手册|https://gto76.github.io/python-cheatsheet/|
 |[03:37](https://www.bilibili.com/video/av722854302?t=217)|《2021年的数据库:回顾的一年》|https://ottertune.com/blog/2021-databases-retrospective/|
 |[04:07](https://www.bilibili.com/video/av722854302?t=247)|Miller -用于查询、塑造、重新格式化CSV、TSV和JSON中的数据的工具|https://miller.readthedocs.io/en/latest/|
-
-## [视频链接](https://www.bilibili.com/video/av465206549)
-
-|时间轴|简介|链接|
-|:--:|:--:|:--:|
-|[00:09](https://www.bilibili.com/video/av465206549?t=9)|blender3.0 图形渲染工具|https://www.blender.org/download/releases/3-0/|
-|[00:31](https://www.bilibili.com/video/av465206549?t=31)|uBlacklist - 阻止特定的站点出现在谷歌的搜索结果中|https://github.com/iorate/uBlacklist|
-|[00:45](https://www.bilibili.com/video/av465206549?t=45)|Apache Guacamole 无客户端的远程桌面网端|https://guacamole.apache.org/|
-|[01:13](https://www.bilibili.com/video/av465206549?t=73)|Learn X in Y minutes|https://learnxinyminutes.com/|
-|[01:33](https://www.bilibili.com/video/av465206549?t=93)|《语义搜索的自然语言处理》|https://www.pinecone.io/learn/nlp/|
-|[01:50](https://www.bilibili.com/video/av465206549?t=110)|Jam 自部署工具|https://github.com/jam-systems/jam|
-|[02:10](https://www.bilibili.com/video/av465206549?t=130)|Milk Video 通过上传的视频和音频生成声波图的工具|https://app.milkvideo.com/|
-|[02:24](https://www.bilibili.com/video/av465206549?t=144)|AlterClass -一个制作和销售编程课程的平台|https://alterclass.io/|
-|[02:43](https://www.bilibili.com/video/av465206549?t=163)|Code Search 搜索代码工具|https://github.blog/2021-12-08-improving-github-code-search/|
-|[02:55](https://www.bilibili.com/video/av465206549?t=175)|Lapce ｜基于原生 GUI 和 Rust 编写的开源代码编辑器|https://github.com/lapce/lapce|
-|[03:07](https://www.bilibili.com/video/av465206549?t=187)|Rough.js -创建一个手绘的，粗略的图形外观的工具|https://roughjs.com/|
-|[03:15](https://www.bilibili.com/video/av465206549?t=195)|Doodle CSS 手绘风格的主题css|https://chr15m.github.io/DoodleCSS/|
-|[03:30](https://www.bilibili.com/video/av465206549?t=210)|Paper Website 从纸上建立一个网站界面|https://daily.tinyprojects.dev/paper_website|
