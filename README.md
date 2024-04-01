@@ -8,6 +8,28 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av1052469051)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av1052469051?t=9)|KeyDB｜Redis 替代方案|https://keydb.dev/|
+|[00:48](https://www.bilibili.com/video/av1052469051?t=48)|Lago｜开源 Stripe 替代品|https://www.getlago.com/|
+|[01:35](https://www.bilibili.com/video/av1052469051?t=95)|GritQL｜ 用于搜索和修改代码的查询语言|https://github.com/getgrit/gritql|
+|[02:26](https://www.bilibili.com/video/av1052469051?t=146)|PrimeVue｜ 一组 Vue 组件库|https://primevue.org/|
+|[03:03](https://www.bilibili.com/video/av1052469051?t=183)|Dropflow｜基于 CSS 标准实现的布局引擎|https://github.com/chearon/dropflow|
+|[03:47](https://www.bilibili.com/video/av1052469051?t=227)|DBRX｜Databricks 开源基础大模型|https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm|
+
+## [视频链接](https://www.bilibili.com/video/av1952467190)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av1952467190?t=9)|difftastic｜智能 diff 工具|https://difftastic.wilfred.me.uk/|
+|[00:52](https://www.bilibili.com/video/av1952467190?t=52)|Retina｜微软发布的开源 K8s 网络观测平台|https://retina.sh/|
+|[01:46](https://www.bilibili.com/video/av1952467190?t=106)|Memories｜开源相册软件|https://memories.gallery/|
+|[02:36](https://www.bilibili.com/video/av1952467190?t=156)|Soul｜Soul ｜ 为 SQLite 提供 REST API|https://github.com/thevahidal/soul|
+|[03:21](https://www.bilibili.com/video/av1952467190?t=201)|jnv｜对 JSON 数据解析和过滤|https://github.com/ynqa/jnv|
+|[04:03](https://www.bilibili.com/video/av1952467190?t=243)|griddycode｜基于 Godot 开发编辑器|https://github.com/face-hh/griddycode|
+
 ## [视频链接](https://www.bilibili.com/video/av1001895275)
 
 |时间轴|简介|链接|

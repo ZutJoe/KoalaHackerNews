@@ -1,5 +1,99 @@
 [
   {
+    "aid": 1052469051,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 48
+        },
+        {
+          "minutes": 1,
+          "seconds": 35
+        },
+        {
+          "minutes": 2,
+          "seconds": 26
+        },
+        {
+          "minutes": 3,
+          "seconds": 3
+        },
+        {
+          "minutes": 3,
+          "seconds": 47
+        }
+      ],
+      "introduces": [
+        "KeyDB｜Redis 替代方案",
+        "Lago｜开源 Stripe 替代品",
+        "GritQL｜ 用于搜索和修改代码的查询语言",
+        "PrimeVue｜ 一组 Vue 组件库",
+        "Dropflow｜基于 CSS 标准实现的布局引擎",
+        "DBRX｜Databricks 开源基础大模型"
+      ],
+      "links": [
+        "https://keydb.dev/",
+        "https://www.getlago.com/",
+        "https://github.com/getgrit/gritql",
+        "https://primevue.org/",
+        "https://github.com/chearon/dropflow",
+        "https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm"
+      ]
+    }
+  },
+  {
+    "aid": 1952467190,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 52
+        },
+        {
+          "minutes": 1,
+          "seconds": 46
+        },
+        {
+          "minutes": 2,
+          "seconds": 36
+        },
+        {
+          "minutes": 3,
+          "seconds": 21
+        },
+        {
+          "minutes": 4,
+          "seconds": 3
+        }
+      ],
+      "introduces": [
+        "difftastic｜智能 diff 工具",
+        "Retina｜微软发布的开源 K8s 网络观测平台",
+        "Memories｜开源相册软件",
+        "Soul｜Soul ｜ 为 SQLite 提供 REST API",
+        "jnv｜对 JSON 数据解析和过滤",
+        "griddycode｜基于 Godot 开发编辑器"
+      ],
+      "links": [
+        "https://difftastic.wilfred.me.uk/",
+        "https://retina.sh/",
+        "https://memories.gallery/",
+        "https://github.com/thevahidal/soul",
+        "https://github.com/ynqa/jnv",
+        "https://github.com/face-hh/griddycode"
+      ]
+    }
+  },
+  {
     "aid": 1001895275,
     "hn_items": {
       "times": [
