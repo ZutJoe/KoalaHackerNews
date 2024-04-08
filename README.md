@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av1802777388)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:10](https://www.bilibili.com/video/av1802777388?t=10)|HeyForm｜ 开源的表单 SaaS 解决方案|https://github.com/heyform/heyform|
+|[00:48](https://www.bilibili.com/video/av1802777388?t=48)|Freeze｜将代码与终端结果转图片的工具|https://github.com/charmbracelet/freeze|
+|[01:31](https://www.bilibili.com/video/av1802777388?t=91)|TS-Pattern｜TS 对 Pattern Matching 的实现|https://github.com/gvergnaud/ts-pattern|
+|[02:11](https://www.bilibili.com/video/av1802777388?t=131)|SPQR｜ 无状态 Postgres 数据库查询路由工具|https://github.com/pg-sharding/spqr|
+|[02:58](https://www.bilibili.com/video/av1802777388?t=178)|llamafile｜Mozilla 开源的单个文件运行大模型|https://github.com/Mozilla-Ocho/llamafile|
+|[03:48](https://www.bilibili.com/video/av1802777388?t=228)|Counterscale｜开源的 Web 数据分析工具|https://counterscale.dev/|
+
 ## [视频链接](https://www.bilibili.com/video/av1052469051)
 
 |时间轴|简介|链接|
@@ -1342,6 +1353,23 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[01:23](https://www.bilibili.com/video/av851363567?t=83)|Rich Cli 由Python编写，可打印各种格式丰富的内容|https://github.com/Textualize/rich-cli|
 |[01:45](https://www.bilibili.com/video/av851363567?t=105)|《我是如何在AWS上发现数千个开放数据库的》|https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32|
 
+## [视频链接](https://www.bilibili.com/video/av722854302)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:08](https://www.bilibili.com/video/av722854302?t=8)|波斯王子 一款为Mac开发的游戏||
+|[00:25](https://www.bilibili.com/video/av722854302?t=25)|《一个HTML文件中的整个网站》|https://css-tricks.com/a-whole-website-in-a-single-html-file/|
+|[00:49](https://www.bilibili.com/video/av722854302?t=49)|街头霸王2||
+|[01:21](https://www.bilibili.com/video/av722854302?t=81)|emfy Emacs编辑器的配置项目|https://github.com/susam/emfy|
+|[01:38](https://www.bilibili.com/video/av722854302?t=98)|HTTP Toolkit|https://httptoolkit.tech/|
+|[01:59](https://www.bilibili.com/video/av722854302?t=119)|Exa - ls的现代替代品|https://the.exa.website/|
+|[02:26](https://www.bilibili.com/video/av722854302?t=146)|Marktext -优雅的Markdown编辑器，适用于Linux, macOS, Windows|https://github.com/marktext/marktext|
+|[02:44](https://www.bilibili.com/video/av722854302?t=164)|Tokio rust编写的开源异步库|https://tokio.rs/blog/2021-12-announcing-tokio-console|
+|[03:01](https://www.bilibili.com/video/av722854302?t=181)|Ruby 3.1|https://www.ruby-lang.org/en/news/2021/12/25/ruby-3-1-0-released/|
+|[03:11](https://www.bilibili.com/video/av722854302?t=191)|Python CheatSheet python 问题查询手册|https://gto76.github.io/python-cheatsheet/|
+|[03:37](https://www.bilibili.com/video/av722854302?t=217)|《2021年的数据库:回顾的一年》|https://ottertune.com/blog/2021-databases-retrospective/|
+|[04:07](https://www.bilibili.com/video/av722854302?t=247)|Miller -用于查询、塑造、重新格式化CSV、TSV和JSON中的数据的工具|https://miller.readthedocs.io/en/latest/|
+
 ## [视频链接](https://www.bilibili.com/video/av808652802)
 
 |时间轴|简介|链接|
@@ -1403,20 +1431,3 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[04:14](https://www.bilibili.com/video/av850617825?t=254)|Raycast 团队信奉无需 code review 的理念|https://www.raycast.com/blog/no-code-reviews-by-default|
 |[04:50](https://www.bilibili.com/video/av850617825?t=290)|利用浏览器 web GL 实现的东京地铁实时可视化地图||
 |[05:13](https://www.bilibili.com/video/av850617825?t=313)|SpaceX Dragon 2 与国际空间站对接的模拟机|https://iss-sim.spacex.com/|
-
-## [视频链接](https://www.bilibili.com/video/av722854302)
-
-|时间轴|简介|链接|
-|:--:|:--:|:--:|
-|[00:08](https://www.bilibili.com/video/av722854302?t=8)|波斯王子 一款为Mac开发的游戏||
-|[00:25](https://www.bilibili.com/video/av722854302?t=25)|《一个HTML文件中的整个网站》|https://css-tricks.com/a-whole-website-in-a-single-html-file/|
-|[00:49](https://www.bilibili.com/video/av722854302?t=49)|街头霸王2||
-|[01:21](https://www.bilibili.com/video/av722854302?t=81)|emfy Emacs编辑器的配置项目|https://github.com/susam/emfy|
-|[01:38](https://www.bilibili.com/video/av722854302?t=98)|HTTP Toolkit|https://httptoolkit.tech/|
-|[01:59](https://www.bilibili.com/video/av722854302?t=119)|Exa - ls的现代替代品|https://the.exa.website/|
-|[02:26](https://www.bilibili.com/video/av722854302?t=146)|Marktext -优雅的Markdown编辑器，适用于Linux, macOS, Windows|https://github.com/marktext/marktext|
-|[02:44](https://www.bilibili.com/video/av722854302?t=164)|Tokio rust编写的开源异步库|https://tokio.rs/blog/2021-12-announcing-tokio-console|
-|[03:01](https://www.bilibili.com/video/av722854302?t=181)|Ruby 3.1|https://www.ruby-lang.org/en/news/2021/12/25/ruby-3-1-0-released/|
-|[03:11](https://www.bilibili.com/video/av722854302?t=191)|Python CheatSheet python 问题查询手册|https://gto76.github.io/python-cheatsheet/|
-|[03:37](https://www.bilibili.com/video/av722854302?t=217)|《2021年的数据库:回顾的一年》|https://ottertune.com/blog/2021-databases-retrospective/|
-|[04:07](https://www.bilibili.com/video/av722854302?t=247)|Miller -用于查询、塑造、重新格式化CSV、TSV和JSON中的数据的工具|https://miller.readthedocs.io/en/latest/|
