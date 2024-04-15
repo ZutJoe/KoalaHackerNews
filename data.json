@@ -1,5 +1,58 @@
 [
   {
+    "aid": 1003024345,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 48
+        },
+        {
+          "minutes": 1,
+          "seconds": 25
+        },
+        {
+          "minutes": 2,
+          "seconds": 3
+        },
+        {
+          "minutes": 2,
+          "seconds": 56
+        },
+        {
+          "minutes": 3,
+          "seconds": 47
+        }
+      ],
+      "introduces": [
+        "Morphic｜增强版 AI 问答引擎",
+        "Scalar｜更加现代化的 API 文档框架",
+        "Faces.js｜生成基于 SVG 的卡通头像的 JS 库",
+        "PythonMonkey｜Python 与 JS 融合运行时",
+        "Alloy｜符合 OpenTelemetry 标准的采集器",
+        "四大 AI 模型突飞猛进"
+      ],
+      "links": [
+        "https://github.com/miurla/morphic",
+        "https://scalar.com/",
+        [
+          "https://github.com/zengm-games/facesjs",
+          "https://zengm.com/facesjs/editor"
+        ],
+        "https://github.com/Distributive-Network/PythonMonkey",
+        "https://github.com/grafana/alloy",
+        "https://twitter.com/OpenAIDevs/status/1777769463258988634",
+        "https://developers.googleblog.com/2024/04/gemini-15-pro-in-public-preview-with-new-features.html",
+        "https://twitter.com/MistralAI/status/1777869263778291896",
+        "https://techcrunch.com/2024/04/09/meta-confirms-that-its-llama-3-open-source-llm-is-coming-in-the-next-month/"
+      ]
+    }
+  },
+  {
     "aid": 1802777388,
     "hn_items": {
       "times": [

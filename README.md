@@ -8,6 +8,20 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av1003024345)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av1003024345?t=9)|Morphic｜增强版 AI 问答引擎|https://github.com/miurla/morphic|
+|[00:48](https://www.bilibili.com/video/av1003024345?t=48)|Scalar｜更加现代化的 API 文档框架|https://scalar.com/|
+|[01:25](https://www.bilibili.com/video/av1003024345?t=85)|Faces.js｜生成基于 SVG 的卡通头像的 JS 库|https://github.com/zengm-games/facesjs<br>https://zengm.com/facesjs/editor|
+|[02:03](https://www.bilibili.com/video/av1003024345?t=123)|PythonMonkey｜Python 与 JS 融合运行时|https://github.com/Distributive-Network/PythonMonkey|
+|[02:56](https://www.bilibili.com/video/av1003024345?t=176)|Alloy｜符合 OpenTelemetry 标准的采集器|https://github.com/grafana/alloy|
+|[03:47](https://www.bilibili.com/video/av1003024345?t=227)|四大 AI 模型突飞猛进|https://twitter.com/OpenAIDevs/status/1777769463258988634|
+| | |https://developers.googleblog.com/2024/04/gemini-15-pro-in-public-preview-with-new-features.html|
+| | |https://twitter.com/MistralAI/status/1777869263778291896|
+| | |https://techcrunch.com/2024/04/09/meta-confirms-that-its-llama-3-open-source-llm-is-coming-in-the-next-month/|
+
 ## [视频链接](https://www.bilibili.com/video/av1802777388)
 
 |时间轴|简介|链接|
