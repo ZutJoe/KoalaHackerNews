@@ -1,5 +1,55 @@
 [
   {
+    "aid": 1653320297,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 10
+        },
+        {
+          "minutes": 0,
+          "seconds": 58
+        },
+        {
+          "minutes": 1,
+          "seconds": 59
+        },
+        {
+          "minutes": 2,
+          "seconds": 36
+        },
+        {
+          "minutes": 3,
+          "seconds": 23
+        },
+        {
+          "minutes": 4,
+          "seconds": 20
+        }
+      ],
+      "introduces": [
+        "Redka｜基于 SQLite 实现 Redis",
+        "otel-profiling-agent｜基于 eBPF 的全局 agent",
+        "DrawDB｜免费易用的开源数据库设计工具",
+        "TresJS｜ Vue 结合 Three.js 的应用开发框架",
+        "reader API｜将网页内容供 LLM 使用的函数服务",
+        "Twenty｜ 流行的开源 CRM 方案"
+      ],
+      "links": [
+        "https://github.com/nalgeon/redka",
+        "https://github.com/elastic/otel-profiling-agent",
+        "https://github.com/drawdb-io/drawdb",
+        "https://tresjs.org/",
+        [
+          "https://github.com/jina-ai/reader",
+          "https://github.com/mendableai/firecrawl",
+          "https://twenty.com/"
+        ]
+      ]
+    }
+  },
+  {
     "aid": 1003024345,
     "hn_items": {
       "times": [

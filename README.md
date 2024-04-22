@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av1653320297)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:10](https://www.bilibili.com/video/av1653320297?t=10)|Redka｜基于 SQLite 实现 Redis|https://github.com/nalgeon/redka|
+|[00:58](https://www.bilibili.com/video/av1653320297?t=58)|otel-profiling-agent｜基于 eBPF 的全局 agent|https://github.com/elastic/otel-profiling-agent|
+|[01:59](https://www.bilibili.com/video/av1653320297?t=119)|DrawDB｜免费易用的开源数据库设计工具|https://github.com/drawdb-io/drawdb|
+|[02:36](https://www.bilibili.com/video/av1653320297?t=156)|TresJS｜ Vue 结合 Three.js 的应用开发框架|https://tresjs.org/|
+|[03:23](https://www.bilibili.com/video/av1653320297?t=203)|reader API｜将网页内容供 LLM 使用的函数服务|https://github.com/jina-ai/reader<br>https://github.com/mendableai/firecrawl<br>https://twenty.com/|
+|[04:20](https://www.bilibili.com/video/av1653320297?t=260)|Twenty｜ 流行的开源 CRM 方案| |
+
 ## [视频链接](https://www.bilibili.com/video/av1003024345)
 
 |时间轴|简介|链接|
