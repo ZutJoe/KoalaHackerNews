@@ -1,5 +1,50 @@
 [
   {
+    "aid": 1053783169,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 46
+        },
+        {
+          "minutes": 1,
+          "seconds": 29
+        },
+        {
+          "minutes": 2,
+          "seconds": 16
+        },
+        {
+          "minutes": 2,
+          "seconds": 52
+        }
+      ],
+      "introduces": [
+        "Cap｜开源桌面端录屏分享工具",
+        "Infisical｜密钥管理方案",
+        "Hatchet｜分布式高容错消息队列",
+        "ServiceLogos｜可爱版 Logo 绘制",
+        "->"
+      ],
+      "links": [
+        "https://cap.so/",
+        "https://infisical.com/",
+        "https://github.com/hatchet-dev/hatchet",
+        "https://github.com/SAWARATSUKI/ServiceLogos",
+        [
+          "https://github.com/myshell-ai/OpenVoice",
+          "https://github.com/apple/corenet",
+          "https://www.balanc3dgame.com/"
+        ]
+      ]
+    }
+  },
+  {
     "aid": 1653320297,
     "hn_items": {
       "times": [
@@ -290,6 +335,89 @@
           "https://astro.build/db/",
           "https://astro.build/blog/astro-db-deep-dive"
         ]
+      ]
+    }
+  },
+  {
+    "aid": 850617825,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 1,
+          "seconds": 10
+        },
+        {
+          "minutes": 1,
+          "seconds": 31
+        },
+        {
+          "minutes": 1,
+          "seconds": 57
+        },
+        {
+          "minutes": 2,
+          "seconds": 16
+        },
+        {
+          "minutes": 2,
+          "seconds": 35
+        },
+        {
+          "minutes": 2,
+          "seconds": 53
+        },
+        {
+          "minutes": 3,
+          "seconds": 20
+        },
+        {
+          "minutes": 3,
+          "seconds": 42
+        },
+        {
+          "minutes": 4,
+          "seconds": 14
+        },
+        {
+          "minutes": 4,
+          "seconds": 50
+        },
+        {
+          "minutes": 5,
+          "seconds": 13
+        }
+      ],
+      "introduces": [
+        "任天堂掌上游戏机发展史回顾",
+        "《为什么要运行自己的 DNS 服务器？》",
+        "Zotero，一个开源的经典文献管理工具",
+        "Darling，一个帮助你在 Linux 上运行 Mac 应用程序的工具",
+        "coqui，克隆你的声音说外语",
+        "OpenDrop, 一个开源版的 AirDrop",
+        "Portmaster，一个帮助你管理电脑网络的开源软件",
+        "Papers We Love，一个专门研读学术类计算机科学论文的开源社区",
+        "关于 Zig 这个新兴编程语言的分析",
+        "Raycast 团队信奉无需 code review 的理念",
+        "利用浏览器 web GL 实现的东京地铁实时可视化地图",
+        "SpaceX Dragon 2 与国际空间站对接的模拟机"
+      ],
+      "links": [
+        "https://www.scanofthemonth.com/scans/game-boy-compendium",
+        "https://www.howtogeek.com/devops/how-to-run-your-own-dns-server-on-your-local-network/",
+        "https://www.zotero.org/",
+        "https://www.darlinghq.org/",
+        "https://coqui.ai/",
+        "https://github.com/seemoo-lab/opendrop",
+        "https://safing.io/",
+        "https://paperswelove.org/",
+        "https://www.duskborn.com/posts/2021-aoc-zig/",
+        "https://www.raycast.com/blog/no-code-reviews-by-default",
+        "",
+        "https://iss-sim.spacex.com/"
       ]
     }
   },
@@ -6413,89 +6541,6 @@
           "https://github.com/antonmedv/fx"
         ],
         "https://looptap.vasanthv.com/"
-      ]
-    }
-  },
-  {
-    "aid": 850617825,
-    "hn_items": {
-      "times": [
-        {
-          "minutes": 0,
-          "seconds": 9
-        },
-        {
-          "minutes": 1,
-          "seconds": 10
-        },
-        {
-          "minutes": 1,
-          "seconds": 31
-        },
-        {
-          "minutes": 1,
-          "seconds": 57
-        },
-        {
-          "minutes": 2,
-          "seconds": 16
-        },
-        {
-          "minutes": 2,
-          "seconds": 35
-        },
-        {
-          "minutes": 2,
-          "seconds": 53
-        },
-        {
-          "minutes": 3,
-          "seconds": 20
-        },
-        {
-          "minutes": 3,
-          "seconds": 42
-        },
-        {
-          "minutes": 4,
-          "seconds": 14
-        },
-        {
-          "minutes": 4,
-          "seconds": 50
-        },
-        {
-          "minutes": 5,
-          "seconds": 13
-        }
-      ],
-      "introduces": [
-        "任天堂掌上游戏机发展史回顾",
-        "《为什么要运行自己的 DNS 服务器？》",
-        "Zotero，一个开源的经典文献管理工具",
-        "Darling，一个帮助你在 Linux 上运行 Mac 应用程序的工具",
-        "coqui，克隆你的声音说外语",
-        "OpenDrop, 一个开源版的 AirDrop",
-        "Portmaster，一个帮助你管理电脑网络的开源软件",
-        "Papers We Love，一个专门研读学术类计算机科学论文的开源社区",
-        "关于 Zig 这个新兴编程语言的分析",
-        "Raycast 团队信奉无需 code review 的理念",
-        "利用浏览器 web GL 实现的东京地铁实时可视化地图",
-        "SpaceX Dragon 2 与国际空间站对接的模拟机"
-      ],
-      "links": [
-        "https://www.scanofthemonth.com/scans/game-boy-compendium",
-        "https://www.howtogeek.com/devops/how-to-run-your-own-dns-server-on-your-local-network/",
-        "https://www.zotero.org/",
-        "https://www.darlinghq.org/",
-        "https://coqui.ai/",
-        "https://github.com/seemoo-lab/opendrop",
-        "https://safing.io/",
-        "https://paperswelove.org/",
-        "https://www.duskborn.com/posts/2021-aoc-zig/",
-        "https://www.raycast.com/blog/no-code-reviews-by-default",
-        "",
-        "https://iss-sim.spacex.com/"
       ]
     }
   }

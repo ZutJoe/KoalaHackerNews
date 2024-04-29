@@ -8,6 +8,16 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av1053783169)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av1053783169?t=9)|Cap｜开源桌面端录屏分享工具|https://cap.so/|
+|[00:46](https://www.bilibili.com/video/av1053783169?t=46)|Infisical｜密钥管理方案|https://infisical.com/|
+|[01:29](https://www.bilibili.com/video/av1053783169?t=89)|Hatchet｜分布式高容错消息队列|https://github.com/hatchet-dev/hatchet|
+|[02:16](https://www.bilibili.com/video/av1053783169?t=136)|ServiceLogos｜可爱版 Logo 绘制|https://github.com/SAWARATSUKI/ServiceLogos|
+|[02:52](https://www.bilibili.com/video/av1053783169?t=172)|->|https://github.com/myshell-ai/OpenVoice<br>https://github.com/apple/corenet<br>https://www.balanc3dgame.com/|
+
 ## [视频链接](https://www.bilibili.com/video/av1653320297)
 
 |时间轴|简介|链接|
@@ -76,6 +86,23 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[02:08](https://www.bilibili.com/video/av1001895275?t=128)|Ingestr｜ Python 命令行工具|https://bruin-data.github.io/ingestr/|
 |[02:47](https://www.bilibili.com/video/av1001895275?t=167)|Spin｜ WASM serverless 服务|https://github.com/fermyon/spin|
 |[03:39](https://www.bilibili.com/video/av1001895275?t=219)|Astro 发布数据库方案 Astro DB|https://astro.build/db/<br>https://astro.build/blog/astro-db-deep-dive|
+
+## [视频链接](https://www.bilibili.com/video/av850617825)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av850617825?t=9)|任天堂掌上游戏机发展史回顾|https://www.scanofthemonth.com/scans/game-boy-compendium|
+|[01:10](https://www.bilibili.com/video/av850617825?t=70)|《为什么要运行自己的 DNS 服务器？》|https://www.howtogeek.com/devops/how-to-run-your-own-dns-server-on-your-local-network/|
+|[01:31](https://www.bilibili.com/video/av850617825?t=91)|Zotero，一个开源的经典文献管理工具|https://www.zotero.org/|
+|[01:57](https://www.bilibili.com/video/av850617825?t=117)|Darling，一个帮助你在 Linux 上运行 Mac 应用程序的工具|https://www.darlinghq.org/|
+|[02:16](https://www.bilibili.com/video/av850617825?t=136)|coqui，克隆你的声音说外语|https://coqui.ai/|
+|[02:35](https://www.bilibili.com/video/av850617825?t=155)|OpenDrop, 一个开源版的 AirDrop|https://github.com/seemoo-lab/opendrop|
+|[02:53](https://www.bilibili.com/video/av850617825?t=173)|Portmaster，一个帮助你管理电脑网络的开源软件|https://safing.io/|
+|[03:20](https://www.bilibili.com/video/av850617825?t=200)|Papers We Love，一个专门研读学术类计算机科学论文的开源社区|https://paperswelove.org/|
+|[03:42](https://www.bilibili.com/video/av850617825?t=222)|关于 Zig 这个新兴编程语言的分析|https://www.duskborn.com/posts/2021-aoc-zig/|
+|[04:14](https://www.bilibili.com/video/av850617825?t=254)|Raycast 团队信奉无需 code review 的理念|https://www.raycast.com/blog/no-code-reviews-by-default|
+|[04:50](https://www.bilibili.com/video/av850617825?t=290)|利用浏览器 web GL 实现的东京地铁实时可视化地图||
+|[05:13](https://www.bilibili.com/video/av850617825?t=313)|SpaceX Dragon 2 与国际空间站对接的模拟机|https://iss-sim.spacex.com/|
 
 ## [视频链接](https://www.bilibili.com/video/av1001584068)
 
@@ -1439,20 +1466,3 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 |[03:33](https://www.bilibili.com/video/av935663579?t=213)|Kagi 一个新型高级付费搜索引擎|https://kagi.com/|
 |[04:07](https://www.bilibili.com/video/av935663579?t=247)|介绍两个 Cli 工具: dsq 和 fx|https://datastation.multiprocess.io/blog/2022-01-11-dsq.html<br>https://github.com/antonmedv/fx|
 |[04:38](https://www.bilibili.com/video/av935663579?t=278)|轻松一刻时间｜介绍一个打发时间的小游戏|https://looptap.vasanthv.com/|
-
-## [视频链接](https://www.bilibili.com/video/av850617825)
-
-|时间轴|简介|链接|
-|:--:|:--:|:--:|
-|[00:09](https://www.bilibili.com/video/av850617825?t=9)|任天堂掌上游戏机发展史回顾|https://www.scanofthemonth.com/scans/game-boy-compendium|
-|[01:10](https://www.bilibili.com/video/av850617825?t=70)|《为什么要运行自己的 DNS 服务器？》|https://www.howtogeek.com/devops/how-to-run-your-own-dns-server-on-your-local-network/|
-|[01:31](https://www.bilibili.com/video/av850617825?t=91)|Zotero，一个开源的经典文献管理工具|https://www.zotero.org/|
-|[01:57](https://www.bilibili.com/video/av850617825?t=117)|Darling，一个帮助你在 Linux 上运行 Mac 应用程序的工具|https://www.darlinghq.org/|
-|[02:16](https://www.bilibili.com/video/av850617825?t=136)|coqui，克隆你的声音说外语|https://coqui.ai/|
-|[02:35](https://www.bilibili.com/video/av850617825?t=155)|OpenDrop, 一个开源版的 AirDrop|https://github.com/seemoo-lab/opendrop|
-|[02:53](https://www.bilibili.com/video/av850617825?t=173)|Portmaster，一个帮助你管理电脑网络的开源软件|https://safing.io/|
-|[03:20](https://www.bilibili.com/video/av850617825?t=200)|Papers We Love，一个专门研读学术类计算机科学论文的开源社区|https://paperswelove.org/|
-|[03:42](https://www.bilibili.com/video/av850617825?t=222)|关于 Zig 这个新兴编程语言的分析|https://www.duskborn.com/posts/2021-aoc-zig/|
-|[04:14](https://www.bilibili.com/video/av850617825?t=254)|Raycast 团队信奉无需 code review 的理念|https://www.raycast.com/blog/no-code-reviews-by-default|
-|[04:50](https://www.bilibili.com/video/av850617825?t=290)|利用浏览器 web GL 实现的东京地铁实时可视化地图||
-|[05:13](https://www.bilibili.com/video/av850617825?t=313)|SpaceX Dragon 2 与国际空间站对接的模拟机|https://iss-sim.spacex.com/|
