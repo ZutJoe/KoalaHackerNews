@@ -1,5 +1,52 @@
 [
   {
+    "aid": 1954115552,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 52
+        },
+        {
+          "minutes": 1,
+          "seconds": 41
+        },
+        {
+          "minutes": 2,
+          "seconds": 28
+        },
+        {
+          "minutes": 3,
+          "seconds": 10
+        },
+        {
+          "minutes": 3,
+          "seconds": 45
+        }
+      ],
+      "introduces": [
+        "sqlc｜ 多语言 SQL 生成器",
+        "Extensions.js｜浏览器插件开发工具",
+        "Verdaccio｜ 轻量级 Node.js 私有化 Registry 方案",
+        "secret-llama｜使用 WebGPU 在浏览器中运行 LLM",
+        "EmojiMart｜表情包选择器组件",
+        "React 19 发布"
+      ],
+      "links": [
+        "https://sqlc.dev/",
+        "https://github.com/cezaraugusto/extension.js",
+        "https://verdaccio.org/",
+        "https://github.com/abi/secret-llama",
+        "https://github.com/missive/emoji-mart",
+        "https://react.dev/blog/2024/04/25/react-19"
+      ]
+    }
+  },
+  {
     "aid": 1053783169,
     "hn_items": {
       "times": [
