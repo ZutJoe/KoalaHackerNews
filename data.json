@@ -1,5 +1,52 @@
 [
   {
+    "aid": 1554332696,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 1,
+          "seconds": 20
+        },
+        {
+          "minutes": 2,
+          "seconds": 24
+        },
+        {
+          "minutes": 3,
+          "seconds": 25
+        },
+        {
+          "minutes": 4,
+          "seconds": 1
+        },
+        {
+          "minutes": 4,
+          "seconds": 50
+        }
+      ],
+      "introduces": [
+        "Glance｜ 开源个人主页工具",
+        "Hurl｜一个命令行工具",
+        "Dokploy｜开源一站式部署管理平台",
+        "Terminal Trove｜专注于 CLI 和 TUI 工具的网站",
+        "微软发布 Phi-3 开源 AI 模型系列",
+        "苹果发布最新一代芯片 M4"
+      ],
+      "links": [
+        "https://github.com/glanceapp/glance",
+        "https://hurl.dev/",
+        "https://dokploy.com/",
+        "https://terminaltrove.com/list/",
+        "https://azure.microsoft.com/en-us/blog/introducing-phi-3-redefining-whats-possible-with-slms/",
+        "https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/"
+      ]
+    }
+  },
+  {
     "aid": 1954115552,
     "hn_items": {
       "times": [

@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av1554332696)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av1554332696?t=9)|Glance｜ 开源个人主页工具|https://github.com/glanceapp/glance|
+|[01:20](https://www.bilibili.com/video/av1554332696?t=80)|Hurl｜一个命令行工具|https://hurl.dev/|
+|[02:24](https://www.bilibili.com/video/av1554332696?t=144)|Dokploy｜开源一站式部署管理平台|https://dokploy.com/|
+|[03:25](https://www.bilibili.com/video/av1554332696?t=205)|Terminal Trove｜专注于 CLI 和 TUI 工具的网站|https://terminaltrove.com/list/|
+|[04:01](https://www.bilibili.com/video/av1554332696?t=241)|微软发布 Phi-3 开源 AI 模型系列|https://azure.microsoft.com/en-us/blog/introducing-phi-3-redefining-whats-possible-with-slms/|
+|[04:50](https://www.bilibili.com/video/av1554332696?t=290)|苹果发布最新一代芯片 M4|https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/|
+
 ## [视频链接](https://www.bilibili.com/video/av1954115552)
 
 |时间轴|简介|链接|
