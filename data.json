@@ -1,5 +1,52 @@
 [
   {
+    "aid": 1754795343,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 1,
+          "seconds": 15
+        },
+        {
+          "minutes": 2,
+          "seconds": 6
+        },
+        {
+          "minutes": 3,
+          "seconds": 3
+        },
+        {
+          "minutes": 4,
+          "seconds": 29
+        },
+        {
+          "minutes": 5,
+          "seconds": 38
+        }
+      ],
+      "introduces": [
+        "React Compiler｜ React 代码优化编译器",
+        "React Flow｜基于 React 构建的开源库",
+        "DuckDB｜内存分析型数据库",
+        "pgsql-http｜提供 HTTP 客户端功能的 postgres 扩展",
+        "Veo｜DeepMind 发布 Sora 竞品",
+        "OpenAI 发布了新的模型 GPT-4o"
+      ],
+      "links": [
+        "https://react.dev/learn/react-compiler",
+        "https://reactflow.dev/",
+        "https://duckdb.org/",
+        "https://github.com/pramsey/pgsql-http",
+        "https://deepmind.google/technologies/veo",
+        "https://openai.com/index/hello-gpt-4o/"
+      ]
+    }
+  },
+  {
     "aid": 1554332696,
     "hn_items": {
       "times": [

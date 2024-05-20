@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av1754795343)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av1754795343?t=9)|React Compiler｜ React 代码优化编译器|https://react.dev/learn/react-compiler|
+|[01:15](https://www.bilibili.com/video/av1754795343?t=75)|React Flow｜基于 React 构建的开源库|https://reactflow.dev/|
+|[02:06](https://www.bilibili.com/video/av1754795343?t=126)|DuckDB｜内存分析型数据库|https://duckdb.org/|
+|[03:03](https://www.bilibili.com/video/av1754795343?t=183)|pgsql-http｜提供 HTTP 客户端功能的 postgres 扩展|https://github.com/pramsey/pgsql-http|
+|[04:29](https://www.bilibili.com/video/av1754795343?t=269)|Veo｜DeepMind 发布 Sora 竞品|https://deepmind.google/technologies/veo|
+|[05:38](https://www.bilibili.com/video/av1754795343?t=338)|OpenAI 发布了新的模型 GPT-4o|https://openai.com/index/hello-gpt-4o/|
+
 ## [视频链接](https://www.bilibili.com/video/av1554332696)
 
 |时间轴|简介|链接|
