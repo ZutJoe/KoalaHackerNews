@@ -1,5 +1,52 @@
 [
   {
+    "aid": 1005151875,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 1,
+          "seconds": 12
+        },
+        {
+          "minutes": 2,
+          "seconds": 20
+        },
+        {
+          "minutes": 2,
+          "seconds": 58
+        },
+        {
+          "minutes": 3,
+          "seconds": 49
+        },
+        {
+          "minutes": 4,
+          "seconds": 30
+        }
+      ],
+      "introduces": [
+        "SST｜ 基于 serverless 架构的全栈框架",
+        "Amber｜编译至 Bash 的现代脚本语言",
+        "Avvvatars｜ 有趣的 React 头像组件库",
+        "Piko｜ Ngrok 的开源替代品",
+        "Unify｜ 一个 LLM AI 路由",
+        "从零构建 Llama3 的精彩教程"
+      ],
+      "links": [
+        "https://sst.dev/",
+        "https://amber-lang.com/",
+        "https://github.com/nusu/avvvatars",
+        "https://github.com/andydunstall/piko",
+        "https://unify.ai/",
+        "https://github.com/naklecha/llama3-from-scratch"
+      ]
+    }
+  },
+  {
     "aid": 1754795343,
     "hn_items": {
       "times": [

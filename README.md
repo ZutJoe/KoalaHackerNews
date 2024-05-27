@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av1005151875)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av1005151875?t=9)|SST｜ 基于 serverless 架构的全栈框架|https://sst.dev/|
+|[01:12](https://www.bilibili.com/video/av1005151875?t=72)|Amber｜编译至 Bash 的现代脚本语言|https://amber-lang.com/|
+|[02:20](https://www.bilibili.com/video/av1005151875?t=140)|Avvvatars｜ 有趣的 React 头像组件库|https://github.com/nusu/avvvatars|
+|[02:58](https://www.bilibili.com/video/av1005151875?t=178)|Piko｜ Ngrok 的开源替代品|https://github.com/andydunstall/piko|
+|[03:49](https://www.bilibili.com/video/av1005151875?t=229)|Unify｜ 一个 LLM AI 路由|https://unify.ai/|
+|[04:30](https://www.bilibili.com/video/av1005151875?t=270)|从零构建 Llama3 的精彩教程|https://github.com/naklecha/llama3-from-scratch|
+
 ## [视频链接](https://www.bilibili.com/video/av1754795343)
 
 |时间轴|简介|链接|
