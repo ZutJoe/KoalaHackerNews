@@ -1,5 +1,52 @@
 [
   {
+    "aid": 1505467645,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 1,
+          "seconds": 20
+        },
+        {
+          "minutes": 2,
+          "seconds": 2
+        },
+        {
+          "minutes": 2,
+          "seconds": 36
+        },
+        {
+          "minutes": 3,
+          "seconds": 20
+        },
+        {
+          "minutes": 3,
+          "seconds": 59
+        }
+      ],
+      "introduces": [
+        "Sandbox｜开源云端 IDE",
+        "Namviek｜开源项目管理工具",
+        "Wired Elements｜手绘风格 UI 组件库",
+        "Vulcain｜基于 HTTP/2 增强 API",
+        "ChatTTS｜文本转语音模型",
+        "Cover-Agent｜AI 生成单元测试"
+      ],
+      "links": [
+        "https://github.com/ishaan1013/sandbox",
+        "https://github.com/hudy9x/namviek",
+        "https://wiredjs.com/",
+        "https://vulcain.rocks/",
+        "https://github.com/2noise/ChatTTS",
+        "https://github.com/Codium-ai/cover-agent"
+      ]
+    }
+  },
+  {
     "aid": 1005151875,
     "hn_items": {
       "times": [
