@@ -1,5 +1,52 @@
 [
   {
+    "aid": 1505658509,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 1,
+          "seconds": 6
+        },
+        {
+          "minutes": 2,
+          "seconds": 26
+        },
+        {
+          "minutes": 3,
+          "seconds": 21
+        },
+        {
+          "minutes": 4,
+          "seconds": 2
+        },
+        {
+          "minutes": 4,
+          "seconds": 51
+        }
+      ],
+      "introduces": [
+        "Pake｜将网页打包为桌面应用",
+        "PlayBooks｜故障排查和修复的效率工具",
+        "File0｜开发者存储服务",
+        "Uppy｜现代文件上传库",
+        "Terminal CSS｜终端风格 CSS",
+        "快手发布可灵｜中国版 Sora 文生视频"
+      ],
+      "links": [
+        "https://github.com/tw93/Pake",
+        "https://drdroid.io/",
+        "https://www.file0.dev/",
+        "https://uppy.io/",
+        "https://terminalcss.xyz/",
+        "https://kling.kuaishou.com/"
+      ]
+    }
+  },
+  {
     "aid": 1505467645,
     "hn_items": {
       "times": [
