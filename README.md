@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av1605811732)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av1605811732?t=9)|Taipy｜Python 开发 Web UI 工具|https://taipy.io/|
+|[01:05](https://www.bilibili.com/video/av1605811732?t=65)|Revideo｜通过代码编辑视频|https://github.com/redotvideo/revideo|
+|[01:45](https://www.bilibili.com/video/av1605811732?t=105)|Piku｜轻量级 PaaS 方案|https://github.com/piku/piku|
+|[02:41](https://www.bilibili.com/video/av1605811732?t=161)|Restate｜ 持久化工作流引擎|https://restate.dev/|
+|[03:32](https://www.bilibili.com/video/av1605811732?t=212)|Ice｜ macOS 菜单栏管理工具|https://github.com/jordanbaird/Ice|
+|[04:01](https://www.bilibili.com/video/av1605811732?t=241)|Pastel｜基于 React 开发命令行工具的框架|https://github.com/vadimdemedes/pastel|
+
 ## [视频链接](https://www.bilibili.com/video/av1505658509)
 
 |时间轴|简介|链接|

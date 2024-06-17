@@ -1,5 +1,52 @@
 [
   {
+    "aid": 1605811732,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 1,
+          "seconds": 5
+        },
+        {
+          "minutes": 1,
+          "seconds": 45
+        },
+        {
+          "minutes": 2,
+          "seconds": 41
+        },
+        {
+          "minutes": 3,
+          "seconds": 32
+        },
+        {
+          "minutes": 4,
+          "seconds": 1
+        }
+      ],
+      "introduces": [
+        "Taipy｜Python 开发 Web UI 工具",
+        "Revideo｜通过代码编辑视频",
+        "Piku｜轻量级 PaaS 方案",
+        "Restate｜ 持久化工作流引擎",
+        "Ice｜ macOS 菜单栏管理工具",
+        "Pastel｜基于 React 开发命令行工具的框架"
+      ],
+      "links": [
+        "https://taipy.io/",
+        "https://github.com/redotvideo/revideo",
+        "https://github.com/piku/piku",
+        "https://restate.dev/",
+        "https://github.com/jordanbaird/Ice",
+        "https://github.com/vadimdemedes/pastel"
+      ]
+    }
+  },
+  {
     "aid": 1505658509,
     "hn_items": {
       "times": [
