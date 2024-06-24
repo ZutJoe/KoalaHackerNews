@@ -1,5 +1,52 @@
 [
   {
+    "aid": 1455879104,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 1,
+          "seconds": 28
+        },
+        {
+          "minutes": 2,
+          "seconds": 39
+        },
+        {
+          "minutes": 3,
+          "seconds": 44
+        },
+        {
+          "minutes": 4,
+          "seconds": 15
+        },
+        {
+          "minutes": 4,
+          "seconds": 58
+        }
+      ],
+      "introduces": [
+        "Cyber Scarecrow｜赛博稻草人",
+        "Teo｜ 快速 CRUD 开发框架",
+        "Dbmate｜数据库迁移工具",
+        "SQL Studio｜跨平台数据库 GUI 客户端",
+        "htmx 2.0 版本正式发布",
+        "TokenCost｜计算 LLM AI 成本"
+      ],
+      "links": [
+        "https://www.cyberscarecrow.com/",
+        "https://github.com/teodevgroup/teo",
+        "https://github.com/amacneil/dbmate",
+        "https://github.com/frectonz/sql-studio",
+        "https://htmx.org/posts/2024-06-17-htmx-2-0-0-is-released",
+        "https://github.com/AgentOps-AI/tokencost"
+      ]
+    }
+  },
+  {
     "aid": 1605811732,
     "hn_items": {
       "times": [

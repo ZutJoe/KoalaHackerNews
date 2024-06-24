@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av1455879104)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av1455879104?t=9)|Cyber Scarecrow｜赛博稻草人|https://www.cyberscarecrow.com/|
+|[01:28](https://www.bilibili.com/video/av1455879104?t=88)|Teo｜ 快速 CRUD 开发框架|https://github.com/teodevgroup/teo|
+|[02:39](https://www.bilibili.com/video/av1455879104?t=159)|Dbmate｜数据库迁移工具|https://github.com/amacneil/dbmate|
+|[03:44](https://www.bilibili.com/video/av1455879104?t=224)|SQL Studio｜跨平台数据库 GUI 客户端|https://github.com/frectonz/sql-studio|
+|[04:15](https://www.bilibili.com/video/av1455879104?t=255)|htmx 2.0 版本正式发布|https://htmx.org/posts/2024-06-17-htmx-2-0-0-is-released|
+|[04:58](https://www.bilibili.com/video/av1455879104?t=298)|TokenCost｜计算 LLM AI 成本|https://github.com/AgentOps-AI/tokencost|
+
 ## [视频链接](https://www.bilibili.com/video/av1605811732)
 
 |时间轴|简介|链接|
