@@ -8,6 +8,14 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av1305935252)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av1305935252?t=9)|Eidos｜离线版 Notion|https://eidos.space/|
+|[01:01](https://www.bilibili.com/video/av1305935252?t=61)|Yazi｜Rust 编写终端文件管理器|https://github.com/sxyazi/yazi|
+|[01:48](https://www.bilibili.com/video/av1305935252?t=108)|Claude 3.5 发布|https://www.anthropic.com/news/claude-3-5-sonnet|
+
 ## [视频链接](https://www.bilibili.com/video/av1455879104)
 
 |时间轴|简介|链接|

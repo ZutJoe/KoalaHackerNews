@@ -1,5 +1,34 @@
 [
   {
+    "aid": 1305935252,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 1,
+          "seconds": 1
+        },
+        {
+          "minutes": 1,
+          "seconds": 48
+        }
+      ],
+      "introduces": [
+        "Eidos｜离线版 Notion",
+        "Yazi｜Rust 编写终端文件管理器",
+        "Claude 3.5 发布"
+      ],
+      "links": [
+        "https://eidos.space/",
+        "https://github.com/sxyazi/yazi",
+        "https://www.anthropic.com/news/claude-3-5-sonnet"
+      ]
+    }
+  },
+  {
     "aid": 1455879104,
     "hn_items": {
       "times": [
