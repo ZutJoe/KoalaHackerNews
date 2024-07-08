@@ -8,6 +8,25 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av1806171859)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av1806171859?t=9)|OmniParse｜高质量数据解析器|https://github.com/adithya-s-k/omniparse|
+|[00:51](https://www.bilibili.com/video/av1806171859?t=51)|Smart Components｜智能 UI 组件|https://github.com/dotnet-smartcomponents/smartcomponents|
+|[01:31](https://www.bilibili.com/video/av1806171859?t=91)|SmoothMQ｜开源 Amazon SQS 替代品|https://github.com/poundifdef/SmoothMQ|
+|[02:08](https://www.bilibili.com/video/av1806171859?t=128)|Omakub｜Ubuntu 配置工具|https://omakub.org/|
+|[02:45](https://www.bilibili.com/video/av1806171859?t=165)|Gridstack｜网格布局 JS 库|https://gridstackjs.com/|
+|[03:20](https://www.bilibili.com/video/av1806171859?t=200)|screego｜开源屏幕共享工具|https://github.com/screego/server|
+
+## [视频链接](https://www.bilibili.com/video/av1405894971)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:10](https://www.bilibili.com/video/av1405894971?t=10)|Glasskube｜K8s 包管理器|https://glasskube.dev/|
+|[01:06](https://www.bilibili.com/video/av1405894971?t=66)|Solid Toast｜Solid JS 通知组件|https://www.solid-toast.com/|
+|[01:59](https://www.bilibili.com/video/av1405894971?t=119)|dotenvx｜下一代 dotenv|https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html|
+
 ## [视频链接](https://www.bilibili.com/video/av1305935252)
 
 |时间轴|简介|链接|

@@ -1,5 +1,81 @@
 [
   {
+    "aid": 1806171859,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 51
+        },
+        {
+          "minutes": 1,
+          "seconds": 31
+        },
+        {
+          "minutes": 2,
+          "seconds": 8
+        },
+        {
+          "minutes": 2,
+          "seconds": 45
+        },
+        {
+          "minutes": 3,
+          "seconds": 20
+        }
+      ],
+      "introduces": [
+        "OmniParse｜高质量数据解析器",
+        "Smart Components｜智能 UI 组件",
+        "SmoothMQ｜开源 Amazon SQS 替代品",
+        "Omakub｜Ubuntu 配置工具",
+        "Gridstack｜网格布局 JS 库",
+        "screego｜开源屏幕共享工具"
+      ],
+      "links": [
+        "https://github.com/adithya-s-k/omniparse",
+        "https://github.com/dotnet-smartcomponents/smartcomponents",
+        "https://github.com/poundifdef/SmoothMQ",
+        "https://omakub.org/",
+        "https://gridstackjs.com/",
+        "https://github.com/screego/server"
+      ]
+    }
+  },
+  {
+    "aid": 1405894971,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 10
+        },
+        {
+          "minutes": 1,
+          "seconds": 6
+        },
+        {
+          "minutes": 1,
+          "seconds": 59
+        }
+      ],
+      "introduces": [
+        "Glasskube｜K8s 包管理器",
+        "Solid Toast｜Solid JS 通知组件",
+        "dotenvx｜下一代 dotenv"
+      ],
+      "links": [
+        "https://glasskube.dev/",
+        "https://www.solid-toast.com/",
+        "https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html"
+      ]
+    }
+  },
+  {
     "aid": 1305935252,
     "hn_items": {
       "times": [
