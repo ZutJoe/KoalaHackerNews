@@ -1,5 +1,52 @@
 [
   {
+    "aid": 1506067194,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 50
+        },
+        {
+          "minutes": 1,
+          "seconds": 22
+        },
+        {
+          "minutes": 2,
+          "seconds": 1
+        },
+        {
+          "minutes": 2,
+          "seconds": 33
+        },
+        {
+          "minutes": 3,
+          "seconds": 1
+        }
+      ],
+      "introduces": [
+        "Pikimov｜网页版 AE",
+        "Posting｜命令行 Postman 替代品",
+        "Onlook Studio｜开源本地运行的 Webflow 替代品",
+        "微软开源了 GraphRAG",
+        "Dropbase｜ Prompt 和 Python 开发 Web 应用工具",
+        "Satyrn｜ Mac Jupyter 客户端"
+      ],
+      "links": [
+        "https://pikimov.com/",
+        "https://github.com/darrenburns/posting",
+        "https://github.com/onlook-dev/studio",
+        "https://github.com/microsoft/graphrag",
+        "https://github.com/DropbaseHQ/dropbase",
+        "https://satyrn.app/"
+      ]
+    }
+  },
+  {
     "aid": 1806171859,
     "hn_items": {
       "times": [

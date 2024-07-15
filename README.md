@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av1506067194)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av1506067194?t=9)|Pikimov｜网页版 AE|https://pikimov.com/|
+|[00:50](https://www.bilibili.com/video/av1506067194?t=50)|Posting｜命令行 Postman 替代品|https://github.com/darrenburns/posting|
+|[01:22](https://www.bilibili.com/video/av1506067194?t=82)|Onlook Studio｜开源本地运行的 Webflow 替代品|https://github.com/onlook-dev/studio|
+|[02:01](https://www.bilibili.com/video/av1506067194?t=121)|微软开源了 GraphRAG|https://github.com/microsoft/graphrag|
+|[02:33](https://www.bilibili.com/video/av1506067194?t=153)|Dropbase｜ Prompt 和 Python 开发 Web 应用工具|https://github.com/DropbaseHQ/dropbase|
+|[03:01](https://www.bilibili.com/video/av1506067194?t=181)|Satyrn｜ Mac Jupyter 客户端|https://satyrn.app/|
+
 ## [视频链接](https://www.bilibili.com/video/av1806171859)
 
 |时间轴|简介|链接|
