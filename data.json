@@ -1,5 +1,52 @@
 [
   {
+    "aid": 1356274104,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 53
+        },
+        {
+          "minutes": 1,
+          "seconds": 36
+        },
+        {
+          "minutes": 2,
+          "seconds": 11
+        },
+        {
+          "minutes": 2,
+          "seconds": 59
+        },
+        {
+          "minutes": 3,
+          "seconds": 46
+        }
+      ],
+      "introduces": [
+        "Logdy｜便捷日志查看工具",
+        "SENDUNE｜开源 HTML 邮件设计工具",
+        "Motion Canvas｜动画创作工具",
+        "SCALE｜AMD GPU 运行 CUDA",
+        "Pezzo｜开源 LLMOps 平台",
+        "Zed 代码编辑器登陆 Linux"
+      ],
+      "links": [
+        "https://logdy.dev/",
+        "https://github.com/SendWithSES/Drag-and-Drop-Email-Designer",
+        "https://motioncanvas.io/",
+        "https://docs.scale-lang.com/",
+        "https://github.com/pezzolabs/pezzo",
+        "https://zed.dev/blog/zed-on-linux"
+      ]
+    }
+  },
+  {
     "aid": 1506067194,
     "hn_items": {
       "times": [

@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av1356274104)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av1356274104?t=9)|Logdy｜便捷日志查看工具|https://logdy.dev/|
+|[00:53](https://www.bilibili.com/video/av1356274104?t=53)|SENDUNE｜开源 HTML 邮件设计工具|https://github.com/SendWithSES/Drag-and-Drop-Email-Designer|
+|[01:36](https://www.bilibili.com/video/av1356274104?t=96)|Motion Canvas｜动画创作工具|https://motioncanvas.io/|
+|[02:11](https://www.bilibili.com/video/av1356274104?t=131)|SCALE｜AMD GPU 运行 CUDA|https://docs.scale-lang.com/|
+|[02:59](https://www.bilibili.com/video/av1356274104?t=179)|Pezzo｜开源 LLMOps 平台|https://github.com/pezzolabs/pezzo|
+|[03:46](https://www.bilibili.com/video/av1356274104?t=226)|Zed 代码编辑器登陆 Linux|https://zed.dev/blog/zed-on-linux|
+
 ## [视频链接](https://www.bilibili.com/video/av1506067194)
 
 |时间轴|简介|链接|
