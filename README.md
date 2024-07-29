@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av1156462894)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av1156462894?t=9)|LinDB｜开源时序数据库 LinDB|https://lindb.io/oss/lindb|
+|[00:54](https://www.bilibili.com/video/av1156462894?t=54)|Zerox OCR｜文档 OCR 工具|https://github.com/getomni-ai/zerox|
+|[01:43](https://www.bilibili.com/video/av1156462894?t=103)|NodeJS 试验性支持原生 TS|https://github.com/nodejs/node/pull/53725|
+|[02:31](https://www.bilibili.com/video/av1156462894?t=151)|交互式 release note 解读 Go 1.23|https://antonz.org/go-1-23|
+|[03:17](https://www.bilibili.com/video/av1156462894?t=197)|Stirling-PDF｜自部署 PDF 处理工具|https://github.com/Stirling-Tools/Stirling-PDF|
+|[03:58](https://www.bilibili.com/video/av1156462894?t=238)|两大基础模型发布|https://ai.meta.com/blog/meta-llama-3-1/<br>https://mistral.ai/news/mistral-large-2407/|
+
 ## [视频链接](https://www.bilibili.com/video/av1356274104)
 
 |时间轴|简介|链接|

@@ -1,5 +1,55 @@
 [
   {
+    "aid": 1156462894,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 54
+        },
+        {
+          "minutes": 1,
+          "seconds": 43
+        },
+        {
+          "minutes": 2,
+          "seconds": 31
+        },
+        {
+          "minutes": 3,
+          "seconds": 17
+        },
+        {
+          "minutes": 3,
+          "seconds": 58
+        }
+      ],
+      "introduces": [
+        "LinDB｜开源时序数据库 LinDB",
+        "Zerox OCR｜文档 OCR 工具",
+        "NodeJS 试验性支持原生 TS",
+        "交互式 release note 解读 Go 1.23",
+        "Stirling-PDF｜自部署 PDF 处理工具",
+        "两大基础模型发布"
+      ],
+      "links": [
+        "https://lindb.io/oss/lindb",
+        "https://github.com/getomni-ai/zerox",
+        "https://github.com/nodejs/node/pull/53725",
+        "https://antonz.org/go-1-23",
+        "https://github.com/Stirling-Tools/Stirling-PDF",
+        [
+          "https://ai.meta.com/blog/meta-llama-3-1/",
+          "https://mistral.ai/news/mistral-large-2407/"
+        ]
+      ]
+    }
+  },
+  {
     "aid": 1356274104,
     "hn_items": {
       "times": [
