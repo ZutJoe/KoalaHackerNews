@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av1506280668)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av1506280668?t=9)|VideoZip.online｜WASM 视频处理工具|https://www.videozip.online/|
+|[00:49](https://www.bilibili.com/video/av1506280668?t=49)|vtool｜手写体文稿生成器|https://vtool.pro/handwriting/index.html|
+|[01:25](https://www.bilibili.com/video/av1506280668?t=85)|exo｜组建自己的 AI 集群|https://github.com/exo-explore/exo|
+|[02:10](https://www.bilibili.com/video/av1506280668?t=130)|Origami｜免费 3D 动画对象|https://tympanus.net/Development/Origami/|
+|[02:49](https://www.bilibili.com/video/av1506280668?t=169)|Google 发布更强端侧模型 Gemma 2 2B|https://developers.googleblog.com/en/smaller-safer-more-transparent-advancing-responsible-ai-with-gemma/|
+|[03:32](https://www.bilibili.com/video/av1506280668?t=212)|Meta 发布 SAM 2 实时视频切割模型|https://ai.meta.com/blog/segment-anything-2/|
+
 ## [视频链接](https://www.bilibili.com/video/av1156462894)
 
 |时间轴|简介|链接|

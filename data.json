@@ -1,5 +1,52 @@
 [
   {
+    "aid": 1506280668,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 49
+        },
+        {
+          "minutes": 1,
+          "seconds": 25
+        },
+        {
+          "minutes": 2,
+          "seconds": 10
+        },
+        {
+          "minutes": 2,
+          "seconds": 49
+        },
+        {
+          "minutes": 3,
+          "seconds": 32
+        }
+      ],
+      "introduces": [
+        "VideoZip.online｜WASM 视频处理工具",
+        "vtool｜手写体文稿生成器",
+        "exo｜组建自己的 AI 集群",
+        "Origami｜免费 3D 动画对象",
+        "Google 发布更强端侧模型 Gemma 2 2B",
+        "Meta 发布 SAM 2 实时视频切割模型"
+      ],
+      "links": [
+        "https://www.videozip.online/",
+        "https://vtool.pro/handwriting/index.html",
+        "https://github.com/exo-explore/exo",
+        "https://tympanus.net/Development/Origami/",
+        "https://developers.googleblog.com/en/smaller-safer-more-transparent-advancing-responsible-ai-with-gemma/",
+        "https://ai.meta.com/blog/segment-anything-2/"
+      ]
+    }
+  },
+  {
     "aid": 1156462894,
     "hn_items": {
       "times": [
