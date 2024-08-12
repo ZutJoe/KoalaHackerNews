@@ -1,5 +1,55 @@
 [
   {
+    "aid": 1056269317,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 52
+        },
+        {
+          "minutes": 1,
+          "seconds": 32
+        },
+        {
+          "minutes": 2,
+          "seconds": 5
+        },
+        {
+          "minutes": 2,
+          "seconds": 44
+        },
+        {
+          "minutes": 3,
+          "seconds": 15
+        }
+      ],
+      "introduces": [
+        "Deep-Live-Cam｜ 开源的一键视频换脸项目",
+        "Outlines｜ 开源的结构化文本生成库",
+        "Plunk｜ 开源的电子邮件平台",
+        "Neon｜在 Node.js 中调用 Rust",
+        "Approf｜ macOS 原生应用",
+        "Go 技术负责人转投 AI"
+      ],
+      "links": [
+        "https://github.com/hacksider/Deep-Live-Cam",
+        "https://github.com/outlines-dev/outlines",
+        "https://www.useplunk.com/",
+        "https://neon-rs.dev/",
+        "https://github.com/moderato-app/approf",
+        [
+          "https://go.googlesource.com/oscar/+/refs/heads/master/README.md",
+          "https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw/m/GzWvX5u6AQAJ"
+        ]
+      ]
+    }
+  },
+  {
     "aid": 1506280668,
     "hn_items": {
       "times": [

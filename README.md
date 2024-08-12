@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av1056269317)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av1056269317?t=9)|Deep-Live-Cam｜ 开源的一键视频换脸项目|https://github.com/hacksider/Deep-Live-Cam|
+|[00:52](https://www.bilibili.com/video/av1056269317?t=52)|Outlines｜ 开源的结构化文本生成库|https://github.com/outlines-dev/outlines|
+|[01:32](https://www.bilibili.com/video/av1056269317?t=92)|Plunk｜ 开源的电子邮件平台|https://www.useplunk.com/|
+|[02:05](https://www.bilibili.com/video/av1056269317?t=125)|Neon｜在 Node.js 中调用 Rust|https://neon-rs.dev/|
+|[02:44](https://www.bilibili.com/video/av1056269317?t=164)|Approf｜ macOS 原生应用|https://github.com/moderato-app/approf|
+|[03:15](https://www.bilibili.com/video/av1056269317?t=195)|Go 技术负责人转投 AI|https://go.googlesource.com/oscar/+/refs/heads/master/README.md<br>https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw/m/GzWvX5u6AQAJ|
+
 ## [视频链接](https://www.bilibili.com/video/av1506280668)
 
 |时间轴|简介|链接|
