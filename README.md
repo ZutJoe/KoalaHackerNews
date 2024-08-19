@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av1056367916)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av1056367916?t=9)|postgres.new｜浏览器中的 Postgres 数据库|https://supabase.com/blog/postgres-new|
+|[00:44](https://www.bilibili.com/video/av1056367916?t=44)|Teable：将 Postgres 数据库变为 Airtable|https://teable.io/|
+|[01:19](https://www.bilibili.com/video/av1056367916?t=79)|Oops.js：给你的应用添加强大的撤销/重做功能|https://github.com/HeyPuter/Oops.js|
+|[01:59](https://www.bilibili.com/video/av1056367916?t=119)|Next.js + Tailwind CSS 博客模版|https://github.com/timlrx/tailwind-nextjs-starter-blog|
+|[02:42](https://www.bilibili.com/video/av1056367916?t=162)|X.AI 发布 Grok 2|https://x.ai/blog/grok-2|
+|[03:30](https://www.bilibili.com/video/av1056367916?t=210)|Black Forest Labs 发布 FLUX.1 模型|https://blackforestlabs.ai/|
+
 ## [视频链接](https://www.bilibili.com/video/av1056269317)
 
 |时间轴|简介|链接|

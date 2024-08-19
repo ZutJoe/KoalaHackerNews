@@ -1,5 +1,52 @@
 [
   {
+    "aid": 1056367916,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 44
+        },
+        {
+          "minutes": 1,
+          "seconds": 19
+        },
+        {
+          "minutes": 1,
+          "seconds": 59
+        },
+        {
+          "minutes": 2,
+          "seconds": 42
+        },
+        {
+          "minutes": 3,
+          "seconds": 30
+        }
+      ],
+      "introduces": [
+        "postgres.new｜浏览器中的 Postgres 数据库",
+        "Teable：将 Postgres 数据库变为 Airtable",
+        "Oops.js：给你的应用添加强大的撤销/重做功能",
+        "Next.js + Tailwind CSS 博客模版",
+        "X.AI 发布 Grok 2",
+        "Black Forest Labs 发布 FLUX.1 模型"
+      ],
+      "links": [
+        "https://supabase.com/blog/postgres-new",
+        "https://teable.io/",
+        "https://github.com/HeyPuter/Oops.js",
+        "https://github.com/timlrx/tailwind-nextjs-starter-blog",
+        "https://x.ai/blog/grok-2",
+        "https://blackforestlabs.ai/"
+      ]
+    }
+  },
+  {
     "aid": 1056269317,
     "hn_items": {
       "times": [
