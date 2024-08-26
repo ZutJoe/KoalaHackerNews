@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av113020470559609)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av113020470559609?t=9)|srcbook｜浏览器中的 JS 交互式编程环境|https://srcbook.com/|
+|[00:58](https://www.bilibili.com/video/av113020470559609?t=58)|tldr｜浏览器中的命令行手册|https://tldr.inbrowser.app/|
+|[01:40](https://www.bilibili.com/video/av113020470559609?t=100)|Instant｜实现实时协作的客户端数据库|https://www.instantdb.com/|
+|[02:22](https://www.bilibili.com/video/av113020470559609?t=142)|go-vcr｜Go语言的HTTP交互录制与回放工具|https://github.com/dnaeon/go-vcr|
+|[03:07](https://www.bilibili.com/video/av113020470559609?t=187)|Cedar｜AWS 开源的权限策略语言|https://www.cedarpolicy.com/|
+|[03:51](https://www.bilibili.com/video/av113020470559609?t=231)|Pink Arrows｜基于 Web 的开源标注工具|https://github.com/robbalian/pinkarrows|
+
 ## [视频链接](https://www.bilibili.com/video/av1056367916)
 
 |时间轴|简介|链接|

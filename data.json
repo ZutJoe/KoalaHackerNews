@@ -1,5 +1,52 @@
 [
   {
+    "aid": 113020470559609,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 58
+        },
+        {
+          "minutes": 1,
+          "seconds": 40
+        },
+        {
+          "minutes": 2,
+          "seconds": 22
+        },
+        {
+          "minutes": 3,
+          "seconds": 7
+        },
+        {
+          "minutes": 3,
+          "seconds": 51
+        }
+      ],
+      "introduces": [
+        "srcbook｜浏览器中的 JS 交互式编程环境",
+        "tldr｜浏览器中的命令行手册",
+        "Instant｜实现实时协作的客户端数据库",
+        "go-vcr｜Go语言的HTTP交互录制与回放工具",
+        "Cedar｜AWS 开源的权限策略语言",
+        "Pink Arrows｜基于 Web 的开源标注工具"
+      ],
+      "links": [
+        "https://srcbook.com/",
+        "https://tldr.inbrowser.app/",
+        "https://www.instantdb.com/",
+        "https://github.com/dnaeon/go-vcr",
+        "https://www.cedarpolicy.com/",
+        "https://github.com/robbalian/pinkarrows"
+      ]
+    }
+  },
+  {
     "aid": 1056367916,
     "hn_items": {
       "times": [
