@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av113060182230505)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av113060182230505?t=9)|Moq｜Go 语言接口模拟工具| |
+|[00:46](https://www.bilibili.com/video/av113060182230505?t=46)|Rspack 1.0 正式发布| |
+|[01:32](https://www.bilibili.com/video/av113060182230505?t=92)|filebrowser｜Web 中的文件管理器| |
+|[02:08](https://www.bilibili.com/video/av113060182230505?t=128)|Departure Mono｜完美结合科幻与像素风的字体| |
+|[02:45](https://www.bilibili.com/video/av113060182230505?t=165)|ChartDB｜数据库架构图可视化工具| |
+|[03:26](https://www.bilibili.com/video/av113060182230505?t=206)|SlateDB｜基于对象存储的嵌入式存储引擎本期项目链接：| |
+
 ## [视频链接](https://www.bilibili.com/video/av113020470559609)
 
 |时间轴|简介|链接|
