@@ -1,5 +1,55 @@
 [
   {
+    "aid": 113099759685226,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 48
+        },
+        {
+          "minutes": 1,
+          "seconds": 24
+        },
+        {
+          "minutes": 1,
+          "seconds": 57
+        },
+        {
+          "minutes": 2,
+          "seconds": 40
+        },
+        {
+          "minutes": 3,
+          "seconds": 18
+        }
+      ],
+      "introduces": [
+        "用代码设计复杂架构图",
+        "纸张的未来已来",
+        "一组精心设计的 3D 图标",
+        "serverless 结合 AI 生成代码",
+        "自托管的 Docker 管理 UI",
+        "AI 驱动的数据库管理平台"
+      ],
+      "links": [
+        "https://metz.sh/",
+        "https://remarkable.com/",
+        "https://www.isocons.app/",
+        [
+          "https://www.val.town/townie",
+          "https://x.com/stevekrouse/status/1832061856787361891"
+        ],
+        "https://github.com/will-moss/isaiah",
+        "https://www.outerbase.com/"
+      ]
+    }
+  },
+  {
     "aid": 113060182230505,
     "hn_items": {
       "times": [
