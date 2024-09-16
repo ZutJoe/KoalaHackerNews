@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av113139572147894)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av113139572147894?t=9)|Konty｜快速绘制手绘风格线框图|https://konty.app/|
+|[00:50](https://www.bilibili.com/video/av113139572147894?t=50)|Ergo｜用 Go 语言打造 Erlang 风格的分布式系统|https://github.com/ergo-services/ergo|
+|[01:24](https://www.bilibili.com/video/av113139572147894?t=84)|TinyStatus｜用 Python 打造的轻量级状态页面|https://github.com/harsxv/tinystatus|
+|[02:04](https://www.bilibili.com/video/av113139572147894?t=124)|Mem0｜为你的 AI 应用添加记忆|https://www.mem0.ai/|
+|[02:46](https://www.bilibili.com/video/av113139572147894?t=166)|PlanetScale 发布介绍 B+ tree 和数据库索引的文章|https://planetscale.com/blog/btrees-and-database-indexes|
+|[03:21](https://www.bilibili.com/video/av113139572147894?t=201)|Briefer｜开源协作的数据平台|https://briefer.cloud/|
+
 ## [视频链接](https://www.bilibili.com/video/av113099759685226)
 
 |时间轴|简介|链接|
