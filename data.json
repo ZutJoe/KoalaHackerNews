@@ -1,5 +1,64 @@
 [
   {
+    "aid": 113218961802199,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 56
+        },
+        {
+          "minutes": 1,
+          "seconds": 43
+        },
+        {
+          "minutes": 2,
+          "seconds": 19
+        },
+        {
+          "minutes": 2,
+          "seconds": 59
+        },
+        {
+          "minutes": 3,
+          "seconds": 43
+        },
+        {
+          "minutes": 4,
+          "seconds": 26
+        },
+        {
+          "minutes": 5,
+          "seconds": 6
+        }
+      ],
+      "introduces": [
+        "System Initiative｜DevOps 自动化的新选择",
+        "Weather Landscape｜用风景画看天气",
+        "Revive｜超快可配置的 Go 代码 linter",
+        "deck.gl｜强大 GPU 驱动的数据可视化框架",
+        "Supervision｜轻松构建你的计算机视觉工具集",
+        "Void｜开源的 AI 代码编辑器",
+        "PostgreSQL 17 正式发布",
+        "Deno 2.0 候选版本发布"
+      ],
+      "links": [
+        "https://www.systeminit.com/",
+        "https://github.com/lds133/weather_landscape",
+        "https://revive.run/",
+        "https://deck.gl/",
+        "https://github.com/roboflow/supervision",
+        "https://voideditor.com/",
+        "https://www.postgresql.org/about/news/postgresql-17-released-2936/",
+        "https://deno.com/blog/v2.0-release-candidate"
+      ]
+    }
+  },
+  {
     "aid": 113139572147894,
     "hn_items": {
       "times": [

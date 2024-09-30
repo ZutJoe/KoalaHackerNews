@@ -8,6 +8,19 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av113218961802199)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av113218961802199?t=9)|System Initiative｜DevOps 自动化的新选择|https://www.systeminit.com/|
+|[00:56](https://www.bilibili.com/video/av113218961802199?t=56)|Weather Landscape｜用风景画看天气|https://github.com/lds133/weather_landscape|
+|[01:43](https://www.bilibili.com/video/av113218961802199?t=103)|Revive｜超快可配置的 Go 代码 linter|https://revive.run/|
+|[02:19](https://www.bilibili.com/video/av113218961802199?t=139)|deck.gl｜强大 GPU 驱动的数据可视化框架|https://deck.gl/|
+|[02:59](https://www.bilibili.com/video/av113218961802199?t=179)|Supervision｜轻松构建你的计算机视觉工具集|https://github.com/roboflow/supervision|
+|[03:43](https://www.bilibili.com/video/av113218961802199?t=223)|Void｜开源的 AI 代码编辑器|https://voideditor.com/|
+|[04:26](https://www.bilibili.com/video/av113218961802199?t=266)|PostgreSQL 17 正式发布|https://www.postgresql.org/about/news/postgresql-17-released-2936/|
+|[05:06](https://www.bilibili.com/video/av113218961802199?t=306)|Deno 2.0 候选版本发布|https://deno.com/blog/v2.0-release-candidate|
+
 ## [视频链接](https://www.bilibili.com/video/av113139572147894)
 
 |时间轴|简介|链接|
