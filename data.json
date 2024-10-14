@@ -1,5 +1,102 @@
 [
   {
+    "aid": 113298032822038,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 43
+        },
+        {
+          "minutes": 1,
+          "seconds": 18
+        },
+        {
+          "minutes": 1,
+          "seconds": 55
+        },
+        {
+          "minutes": 2,
+          "seconds": 33
+        },
+        {
+          "minutes": 3,
+          "seconds": 8
+        }
+      ],
+      "introduces": [
+        "Tenno｜用 Tenno 打造互动文档",
+        "LiveKit 推出 OpenAI 实时 API 支持",
+        "TutorialKit｜创建互动式编程教程",
+        "NotebookLM｜将文档资料转换为播客",
+        "DeskPad｜专为屏幕共享设计的虚拟显示器",
+        "一篇讲解 React 渲染原理的文章"
+      ],
+      "links": [
+        "https://tenno.app/docs",
+        [
+          "https://github.com/livekit/livekit",
+          "https://playground.livekit.io/"
+        ],
+        "https://tutorialkit.dev/",
+        "https://blog.google/technology/ai/notebooklm-audio-overviews/",
+        "https://github.com/Stengo/DeskPad",
+        "https://ui.dev/why-react-renders"
+      ]
+    }
+  },
+  {
+    "aid": 113269796768142,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 45
+        },
+        {
+          "minutes": 1,
+          "seconds": 18
+        },
+        {
+          "minutes": 2,
+          "seconds": 3
+        },
+        {
+          "minutes": 2,
+          "seconds": 37
+        },
+        {
+          "minutes": 3,
+          "seconds": 13
+        }
+      ],
+      "introduces": [
+        "Screenpipe｜私人 AI 助手",
+        "Harper｜开发者专属的语法助手",
+        "Kestra｜开源声明式数据编排平台",
+        "Meshery｜可扩展的云原生管理平台",
+        "Wagtail｜基于 Django 的开源 CMS",
+        "Mitata｜给你温暖的 benchmark 工具"
+      ],
+      "links": [
+        "https://screenpi.pe/",
+        "https://writewithharper.com/",
+        "https://kestra.io/",
+        "https://meshery.io/",
+        "https://wagtail.org/",
+        "https://github.com/evanwashere/mitata"
+      ]
+    }
+  },
+  {
     "aid": 113218961802199,
     "hn_items": {
       "times": [

@@ -8,6 +8,28 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av113298032822038)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av113298032822038?t=9)|Tenno｜用 Tenno 打造互动文档|https://tenno.app/docs|
+|[00:43](https://www.bilibili.com/video/av113298032822038?t=43)|LiveKit 推出 OpenAI 实时 API 支持|https://github.com/livekit/livekit<br>https://playground.livekit.io/|
+|[01:18](https://www.bilibili.com/video/av113298032822038?t=78)|TutorialKit｜创建互动式编程教程|https://tutorialkit.dev/|
+|[01:55](https://www.bilibili.com/video/av113298032822038?t=115)|NotebookLM｜将文档资料转换为播客|https://blog.google/technology/ai/notebooklm-audio-overviews/|
+|[02:33](https://www.bilibili.com/video/av113298032822038?t=153)|DeskPad｜专为屏幕共享设计的虚拟显示器|https://github.com/Stengo/DeskPad|
+|[03:08](https://www.bilibili.com/video/av113298032822038?t=188)|一篇讲解 React 渲染原理的文章|https://ui.dev/why-react-renders|
+
+## [视频链接](https://www.bilibili.com/video/av113269796768142)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av113269796768142?t=9)|Screenpipe｜私人 AI 助手|https://screenpi.pe/|
+|[00:45](https://www.bilibili.com/video/av113269796768142?t=45)|Harper｜开发者专属的语法助手|https://writewithharper.com/|
+|[01:18](https://www.bilibili.com/video/av113269796768142?t=78)|Kestra｜开源声明式数据编排平台|https://kestra.io/|
+|[02:03](https://www.bilibili.com/video/av113269796768142?t=123)|Meshery｜可扩展的云原生管理平台|https://meshery.io/|
+|[02:37](https://www.bilibili.com/video/av113269796768142?t=157)|Wagtail｜基于 Django 的开源 CMS|https://wagtail.org/|
+|[03:13](https://www.bilibili.com/video/av113269796768142?t=193)|Mitata｜给你温暖的 benchmark 工具|https://github.com/evanwashere/mitata|
+
 ## [视频链接](https://www.bilibili.com/video/av113218961802199)
 
 |时间轴|简介|链接|
