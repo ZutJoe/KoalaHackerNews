@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av113337677450120)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av113337677450120?t=9)|Kali Linux｜渗透测试与漏洞扫描的必备平台|https://www.kali.org/|
+|[00:46](https://www.bilibili.com/video/av113337677450120?t=46)|Unikraft｜高效、安全的轻量级操作系统|https://github.com/unikraft/unikraft|
+|[01:28](https://www.bilibili.com/video/av113337677450120?t=88)|Go Blueprint｜Go 项目初始化工具|https://docs.go-blueprint.dev/|
+|[02:09](https://www.bilibili.com/video/av113337677450120?t=129)|Swarm｜OpenAI 开源轻量级 Agent 编排框架|https://github.com/openai/swarm|
+|[02:47](https://www.bilibili.com/video/av113337677450120?t=167)|Claude 开源 AI 数据可视化示例|https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst|
+|[03:25](https://www.bilibili.com/video/av113337677450120?t=205)|基于 Shadcn 的表单生成器|https://shadcn-form-build.vercel.app/|
+
 ## [视频链接](https://www.bilibili.com/video/av113298032822038)
 
 |时间轴|简介|链接|

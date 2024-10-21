@@ -1,5 +1,52 @@
 [
   {
+    "aid": 113337677450120,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 46
+        },
+        {
+          "minutes": 1,
+          "seconds": 28
+        },
+        {
+          "minutes": 2,
+          "seconds": 9
+        },
+        {
+          "minutes": 2,
+          "seconds": 47
+        },
+        {
+          "minutes": 3,
+          "seconds": 25
+        }
+      ],
+      "introduces": [
+        "Kali Linux｜渗透测试与漏洞扫描的必备平台",
+        "Unikraft｜高效、安全的轻量级操作系统",
+        "Go Blueprint｜Go 项目初始化工具",
+        "Swarm｜OpenAI 开源轻量级 Agent 编排框架",
+        "Claude 开源 AI 数据可视化示例",
+        "基于 Shadcn 的表单生成器"
+      ],
+      "links": [
+        "https://www.kali.org/",
+        "https://github.com/unikraft/unikraft",
+        "https://docs.go-blueprint.dev/",
+        "https://github.com/openai/swarm",
+        "https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst",
+        "https://shadcn-form-build.vercel.app/"
+      ]
+    }
+  },
+  {
     "aid": 113298032822038,
     "hn_items": {
       "times": [
