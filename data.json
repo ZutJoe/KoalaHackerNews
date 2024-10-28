@@ -1,5 +1,52 @@
 [
   {
+    "aid": 113377389052308,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 43
+        },
+        {
+          "minutes": 1,
+          "seconds": 25
+        },
+        {
+          "minutes": 2,
+          "seconds": 5
+        },
+        {
+          "minutes": 2,
+          "seconds": 51
+        },
+        {
+          "minutes": 3,
+          "seconds": 37
+        }
+      ],
+      "introduces": [
+        "Manim｜动态数学动画利器",
+        "Claude 3.5 大升级，可操作电脑",
+        "RFHunter V4.0｜便携式隐藏摄像头扫描器",
+        "Triplit｜新式全栈数据库",
+        "Llama 家族发布轻量级模型",
+        "Counter-Strike: Football｜CS 风格开源游戏"
+      ],
+      "links": [
+        "https://www.manim.community/",
+        "https://www.anthropic.com/news/3-5-models-and-computer-use",
+        "https://github.com/RamboRogers/rfhunter",
+        "https://www.triplit.dev/",
+        "https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/",
+        "https://github.com/solcloud/Counter-Strike"
+      ]
+    }
+  },
+  {
     "aid": 113337677450120,
     "hn_items": {
       "times": [

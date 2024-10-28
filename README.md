@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av113377389052308)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av113377389052308?t=9)|Manim｜动态数学动画利器|https://www.manim.community/|
+|[00:43](https://www.bilibili.com/video/av113377389052308?t=43)|Claude 3.5 大升级，可操作电脑|https://www.anthropic.com/news/3-5-models-and-computer-use|
+|[01:25](https://www.bilibili.com/video/av113377389052308?t=85)|RFHunter V4.0｜便携式隐藏摄像头扫描器|https://github.com/RamboRogers/rfhunter|
+|[02:05](https://www.bilibili.com/video/av113377389052308?t=125)|Triplit｜新式全栈数据库|https://www.triplit.dev/|
+|[02:51](https://www.bilibili.com/video/av113377389052308?t=171)|Llama 家族发布轻量级模型|https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/|
+|[03:37](https://www.bilibili.com/video/av113377389052308?t=217)|Counter-Strike: Football｜CS 风格开源游戏|https://github.com/solcloud/Counter-Strike|
+
 ## [视频链接](https://www.bilibili.com/video/av113337677450120)
 
 |时间轴|简介|链接|
