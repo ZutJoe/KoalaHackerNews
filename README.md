@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av113456510470671)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av113456510470671?t=9)|Magic Patterns｜AI设计工具|https://www.magicpatterns.com/<br>https://chromewebstore.google.com/detail/html-to-react-figma-by-ma/chgehghmhgihgmpmdjpolhkcnhkokdfp|
+|[00:43](https://www.bilibili.com/video/av113456510470671?t=43)|KIS tools｜工具软件集合站|https://kis.tools/all/all|
+|[01:16](https://www.bilibili.com/video/av113456510470671?t=76)|Whisper-WebUI｜Whisper UI 界面|https://github.com/jhj0517/Whisper-WebUI|
+|[01:56](https://www.bilibili.com/video/av113456510470671?t=116)|Asynq｜Go语言的高效分布式任务队列|https://github.com/hibiken/asynq|
+|[02:31](https://www.bilibili.com/video/av113456510470671?t=151)|Miri｜检测 Rust 未定义行为的解释器|https://github.com/rust-lang/miri|
+|[03:11](https://www.bilibili.com/video/av113456510470671?t=191)|Vgt｜Go 测试可视化工具|https://github.com/roblaszczak/vgt|
+
 ## [视频链接](https://www.bilibili.com/video/av113377389052308)
 
 |时间轴|简介|链接|

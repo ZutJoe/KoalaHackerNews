@@ -1,5 +1,55 @@
 [
   {
+    "aid": 113456510470671,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 43
+        },
+        {
+          "minutes": 1,
+          "seconds": 16
+        },
+        {
+          "minutes": 1,
+          "seconds": 56
+        },
+        {
+          "minutes": 2,
+          "seconds": 31
+        },
+        {
+          "minutes": 3,
+          "seconds": 11
+        }
+      ],
+      "introduces": [
+        "Magic Patterns｜AI设计工具",
+        "KIS tools｜工具软件集合站",
+        "Whisper-WebUI｜Whisper UI 界面",
+        "Asynq｜Go语言的高效分布式任务队列",
+        "Miri｜检测 Rust 未定义行为的解释器",
+        "Vgt｜Go 测试可视化工具"
+      ],
+      "links": [
+        [
+          "https://www.magicpatterns.com/",
+          "https://chromewebstore.google.com/detail/html-to-react-figma-by-ma/chgehghmhgihgmpmdjpolhkcnhkokdfp"
+        ],
+        "https://kis.tools/all/all",
+        "https://github.com/jhj0517/Whisper-WebUI",
+        "https://github.com/hibiken/asynq",
+        "https://github.com/rust-lang/miri",
+        "https://github.com/roblaszczak/vgt"
+      ]
+    }
+  },
+  {
     "aid": 113377389052308,
     "hn_items": {
       "times": [
