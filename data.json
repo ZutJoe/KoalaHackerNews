@@ -1,5 +1,52 @@
 [
   {
+    "aid": 113496356357744,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 48
+        },
+        {
+          "minutes": 1,
+          "seconds": 26
+        },
+        {
+          "minutes": 2,
+          "seconds": 14
+        },
+        {
+          "minutes": 2,
+          "seconds": 53
+        },
+        {
+          "minutes": 3,
+          "seconds": 30
+        }
+      ],
+      "introduces": [
+        "ChatGPT 将能够与桌面端 App 交互",
+        "React Scan｜定位和优化 React 性能问题的工具",
+        "Hyperlight｜超轻量级虚拟机管理器",
+        "Browser Use｜为 AI 赋能浏览器操作",
+        "开源版 NotebookLM",
+        "Jawsm｜JavaScript 到 WASM 的编译器"
+      ],
+      "links": [
+        "https://x.com/OpenAIDevs/status/1857129790312272179",
+        "https://github.com/aidenybai/react-scan",
+        "https://github.com/hyperlight-dev/hyperlight",
+        "https://github.com/gregpr07/browser-use",
+        "https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama",
+        "https://github.com/drogus/jawsm"
+      ]
+    }
+  },
+  {
     "aid": 113456510470671,
     "hn_items": {
       "times": [

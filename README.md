@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av113496356357744)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av113496356357744?t=9)|ChatGPT 将能够与桌面端 App 交互|https://x.com/OpenAIDevs/status/1857129790312272179|
+|[00:48](https://www.bilibili.com/video/av113496356357744?t=48)|React Scan｜定位和优化 React 性能问题的工具|https://github.com/aidenybai/react-scan|
+|[01:26](https://www.bilibili.com/video/av113496356357744?t=86)|Hyperlight｜超轻量级虚拟机管理器|https://github.com/hyperlight-dev/hyperlight|
+|[02:14](https://www.bilibili.com/video/av113496356357744?t=134)|Browser Use｜为 AI 赋能浏览器操作|https://github.com/gregpr07/browser-use|
+|[02:53](https://www.bilibili.com/video/av113496356357744?t=173)|开源版 NotebookLM|https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama|
+|[03:30](https://www.bilibili.com/video/av113496356357744?t=210)|Jawsm｜JavaScript 到 WASM 的编译器|https://github.com/drogus/jawsm|
+
 ## [视频链接](https://www.bilibili.com/video/av113456510470671)
 
 |时间轴|简介|链接|
