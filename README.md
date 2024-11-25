@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av113535380095740)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av113535380095740?t=9)|Melt UI｜Svelte headless UI 库|https://www.melt-ui.com/|
+|[00:51](https://www.bilibili.com/video/av113535380095740?t=51)|Cofounder｜AI 驱动的全栈应用生成器|https://github.com/raidendotai/cofounder|
+|[01:31](https://www.bilibili.com/video/av113535380095740?t=91)|Fireproof｜一键式实时数据库|https://fireproof.storage/|
+|[02:06](https://www.bilibili.com/video/av113535380095740?t=126)|Next-Forge｜生产级 Next.js 应用模板|https://www.next-forge.com/|
+|[02:46](https://www.bilibili.com/video/av113535380095740?t=166)|Mailpit｜邮件与 SMTP 测试工具|https://mailpit.axllent.org/|
+|[03:28](https://www.bilibili.com/video/av113535380095740?t=208)|MathGPT｜AI 数学解题助手|https://math-gpt.org/|
+
 ## [视频链接](https://www.bilibili.com/video/av113496356357744)
 
 |时间轴|简介|链接|

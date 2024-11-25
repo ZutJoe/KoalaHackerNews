@@ -1,5 +1,52 @@
 [
   {
+    "aid": 113535380095740,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 51
+        },
+        {
+          "minutes": 1,
+          "seconds": 31
+        },
+        {
+          "minutes": 2,
+          "seconds": 6
+        },
+        {
+          "minutes": 2,
+          "seconds": 46
+        },
+        {
+          "minutes": 3,
+          "seconds": 28
+        }
+      ],
+      "introduces": [
+        "Melt UI｜Svelte headless UI 库",
+        "Cofounder｜AI 驱动的全栈应用生成器",
+        "Fireproof｜一键式实时数据库",
+        "Next-Forge｜生产级 Next.js 应用模板",
+        "Mailpit｜邮件与 SMTP 测试工具",
+        "MathGPT｜AI 数学解题助手"
+      ],
+      "links": [
+        "https://www.melt-ui.com/",
+        "https://github.com/raidendotai/cofounder",
+        "https://fireproof.storage/",
+        "https://www.next-forge.com/",
+        "https://mailpit.axllent.org/",
+        "https://math-gpt.org/"
+      ]
+    }
+  },
+  {
     "aid": 113496356357744,
     "hn_items": {
       "times": [
