@@ -1,5 +1,51 @@
 [
   {
+    "aid": 113575360202225,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 52
+        },
+        {
+          "minutes": 1,
+          "seconds": 27
+        },
+        {
+          "minutes": 2,
+          "seconds": 6
+        },
+        {
+          "minutes": 2,
+          "seconds": 48
+        },
+        {
+          "minutes": 3,
+          "seconds": 23
+        }
+      ],
+      "introduces": [
+        "Model Context Protocol｜Anthropic 开源 AI 集成框架",
+        "Screen Sharing｜基于浏览器的屏幕共享",
+        "MagicQuill｜智能化交互式图像编辑",
+        "WeSQL｜基于 S3 的分布式 MySQL",
+        "MicroK8s｜轻量级易用 K8s 发行版",
+        "Rill｜Go 并发工具包"
+      ],
+      "links": [
+        "https://www.anthropic.com/news/model-context-protocol",
+        "https://github.com/tonghohin/screen-sharing",
+        "https://magicquill.art/",
+        "https://github.com/wesql/wesql",
+        "https://microk8s.io/"
+      ]
+    }
+  },
+  {
     "aid": 113535380095740,
     "hn_items": {
       "times": [

@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av113575360202225)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av113575360202225?t=9)|Model Context Protocol｜Anthropic 开源 AI 集成框架|https://www.anthropic.com/news/model-context-protocol|
+|[00:52](https://www.bilibili.com/video/av113575360202225?t=52)|Screen Sharing｜基于浏览器的屏幕共享|https://github.com/tonghohin/screen-sharing|
+|[01:27](https://www.bilibili.com/video/av113575360202225?t=87)|MagicQuill｜智能化交互式图像编辑|https://magicquill.art/|
+|[02:06](https://www.bilibili.com/video/av113575360202225?t=126)|WeSQL｜基于 S3 的分布式 MySQL|https://github.com/wesql/wesql|
+|[02:48](https://www.bilibili.com/video/av113575360202225?t=168)|MicroK8s｜轻量级易用 K8s 发行版|https://microk8s.io/|
+|[03:23](https://www.bilibili.com/video/av113575360202225?t=203)|Rill｜Go 并发工具包| |
+
 ## [视频链接](https://www.bilibili.com/video/av113535380095740)
 
 |时间轴|简介|链接|
