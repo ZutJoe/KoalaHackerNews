@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av113615323597145)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av113615323597145?t=9)|World Labs｜将图片变成 3D 世界|https://www.worldlabs.ai/blog|
+|[00:47](https://www.bilibili.com/video/av113615323597145?t=47)|Typesense｜开源搜索引擎|https://github.com/typesense/typesense|
+|[01:26](https://www.bilibili.com/video/av113615323597145?t=86)|BunkerWeb｜开源 Web 应用防火墙|https://github.com/bunkerity/bunkerweb|
+|[02:05](https://www.bilibili.com/video/av113615323597145?t=125)|Halo｜开源可穿戴设备|https://huggingface.co/blog/cyrilzakka/halo-introduction|
+|[02:55](https://www.bilibili.com/video/av113615323597145?t=175)|Todoctor｜技术债追踪工具|https://github.com/azat-io/todoctor|
+|[03:32](https://www.bilibili.com/video/av113615323597145?t=212)|一篇文章｜2025 数据库学习路线|https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/|
+
 ## [视频链接](https://www.bilibili.com/video/av113575360202225)
 
 |时间轴|简介|链接|

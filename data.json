@@ -1,5 +1,52 @@
 [
   {
+    "aid": 113615323597145,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 47
+        },
+        {
+          "minutes": 1,
+          "seconds": 26
+        },
+        {
+          "minutes": 2,
+          "seconds": 5
+        },
+        {
+          "minutes": 2,
+          "seconds": 55
+        },
+        {
+          "minutes": 3,
+          "seconds": 32
+        }
+      ],
+      "introduces": [
+        "World Labs｜将图片变成 3D 世界",
+        "Typesense｜开源搜索引擎",
+        "BunkerWeb｜开源 Web 应用防火墙",
+        "Halo｜开源可穿戴设备",
+        "Todoctor｜技术债追踪工具",
+        "一篇文章｜2025 数据库学习路线"
+      ],
+      "links": [
+        "https://www.worldlabs.ai/blog",
+        "https://github.com/typesense/typesense",
+        "https://github.com/bunkerity/bunkerweb",
+        "https://huggingface.co/blog/cyrilzakka/halo-introduction",
+        "https://github.com/azat-io/todoctor",
+        "https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/"
+      ]
+    }
+  },
+  {
     "aid": 113575360202225,
     "hn_items": {
       "times": [
