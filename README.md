@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av113654783544961)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av113654783544961?t=9)|Helium ｜ 更轻松的 Python 网页自动化|https://github.com/mherrmann/helium|
+|[00:49](https://www.bilibili.com/video/av113654783544961?t=49)|Limbo ｜ 用 Rust 重写 SQLite|https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust|
+|[01:38](https://www.bilibili.com/video/av113654783544961?t=98)|Mouseless ｜ 键盘操控鼠标|https://mouseless.click/|
+|[02:12](https://www.bilibili.com/video/av113654783544961?t=132)|Gemini 2.0 ｜ 智能体时代全新模型|https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/|
+|[02:49](https://www.bilibili.com/video/av113654783544961?t=169)|Kubespec ｜ K8s YAML 文档工具|https://kubespec.dev/|
+|[03:25](https://www.bilibili.com/video/av113654783544961?t=205)|4 Colors ｜ 配色工具网站|https://www.iamsajid.com/colors/|
+
 ## [视频链接](https://www.bilibili.com/video/av113615323597145)
 
 |时间轴|简介|链接|

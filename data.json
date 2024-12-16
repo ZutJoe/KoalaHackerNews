@@ -1,5 +1,52 @@
 [
   {
+    "aid": 113654783544961,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 49
+        },
+        {
+          "minutes": 1,
+          "seconds": 38
+        },
+        {
+          "minutes": 2,
+          "seconds": 12
+        },
+        {
+          "minutes": 2,
+          "seconds": 49
+        },
+        {
+          "minutes": 3,
+          "seconds": 25
+        }
+      ],
+      "introduces": [
+        "Helium ｜ 更轻松的 Python 网页自动化",
+        "Limbo ｜ 用 Rust 重写 SQLite",
+        "Mouseless ｜ 键盘操控鼠标",
+        "Gemini 2.0 ｜ 智能体时代全新模型",
+        "Kubespec ｜ K8s YAML 文档工具",
+        "4 Colors ｜ 配色工具网站"
+      ],
+      "links": [
+        "https://github.com/mherrmann/helium",
+        "https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust",
+        "https://mouseless.click/",
+        "https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/",
+        "https://kubespec.dev/",
+        "https://www.iamsajid.com/colors/"
+      ]
+    }
+  },
+  {
     "aid": 113615323597145,
     "hn_items": {
       "times": [
