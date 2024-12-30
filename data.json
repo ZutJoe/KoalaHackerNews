@@ -1,5 +1,56 @@
 [
   {
+    "aid": 113733871406883,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 46
+        },
+        {
+          "minutes": 1,
+          "seconds": 26
+        },
+        {
+          "minutes": 2,
+          "seconds": 2
+        },
+        {
+          "minutes": 2,
+          "seconds": 42
+        },
+        {
+          "minutes": 3,
+          "seconds": 18
+        }
+      ],
+      "introduces": [
+        "Stagehand｜浏览器自动化结合 AI 合集",
+        "Ghostty ｜ 高性能、功能丰富的跨平台终端",
+        "Heynote ｜ 开发者的专属草稿本",
+        "Dask ｜ Python 并行计算库",
+        "Fancy Components ｜ 让你的网站更炫酷",
+        "Vito ｜ 自部署服务器管理工具"
+      ],
+      "links": [
+        [
+          "https://github.com/web-infra-dev/midscene",
+          "https://github.com/anti-work/shortest",
+          "https://github.com/browserbase/stagehand"
+        ],
+        "https://ghostty.org/docs",
+        "https://heynote.com/",
+        "https://www.dask.org/",
+        "https://www.fancycomponents.dev/",
+        "https://github.com/vitodeploy/vito"
+      ]
+    }
+  },
+  {
     "aid": 113694495211796,
     "hn_items": {
       "times": [],

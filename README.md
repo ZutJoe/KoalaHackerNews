@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av113733871406883)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av113733871406883?t=9)|Stagehand｜浏览器自动化结合 AI 合集|https://github.com/web-infra-dev/midscene<br>https://github.com/anti-work/shortest<br>https://github.com/browserbase/stagehand|
+|[00:46](https://www.bilibili.com/video/av113733871406883?t=46)|Ghostty ｜ 高性能、功能丰富的跨平台终端|https://ghostty.org/docs|
+|[01:26](https://www.bilibili.com/video/av113733871406883?t=86)|Heynote ｜ 开发者的专属草稿本|https://heynote.com/|
+|[02:02](https://www.bilibili.com/video/av113733871406883?t=122)|Dask ｜ Python 并行计算库|https://www.dask.org/|
+|[02:42](https://www.bilibili.com/video/av113733871406883?t=162)|Fancy Components ｜ 让你的网站更炫酷|https://www.fancycomponents.dev/|
+|[03:18](https://www.bilibili.com/video/av113733871406883?t=198)|Vito ｜ 自部署服务器管理工具|https://github.com/vitodeploy/vito|
+
 ## [视频链接](https://www.bilibili.com/video/av113694495211796)
 
 |时间轴|简介|链接|
