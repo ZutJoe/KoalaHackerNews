@@ -1,5 +1,52 @@
 [
   {
+    "aid": 113773784334796,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 50
+        },
+        {
+          "minutes": 1,
+          "seconds": 24
+        },
+        {
+          "minutes": 1,
+          "seconds": 56
+        },
+        {
+          "minutes": 2,
+          "seconds": 40
+        },
+        {
+          "minutes": 3,
+          "seconds": 23
+        }
+      ],
+      "introduces": [
+        "AI 股 票 交易竞技场 ｜ 三大模型实时对决",
+        "Kando ｜ 快捷手势操作菜单",
+        "Air ｜ Go 应用的实时重载工具",
+        "API Parrot ｜ HTTP API 逆向分析工具",
+        "mitmproxy2swagger｜逆向分析 API 并生成文档",
+        "PydanticAI ｜ Pydantic 团队开发的 AI 代理框架"
+      ],
+      "links": [
+        "https://trading.snagra.com/",
+        "https://kando.menu/",
+        "https://github.com/air-verse/air",
+        "https://apiparrot.com/",
+        "https://github.com/alufers/mitmproxy2swagger",
+        "https://ai.pydantic.dev/"
+      ]
+    }
+  },
+  {
     "aid": 113733871406883,
     "hn_items": {
       "times": [

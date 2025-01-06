@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av113773784334796)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av113773784334796?t=9)|AI 股 票 交易竞技场 ｜ 三大模型实时对决|https://trading.snagra.com/|
+|[00:50](https://www.bilibili.com/video/av113773784334796?t=50)|Kando ｜ 快捷手势操作菜单|https://kando.menu/|
+|[01:24](https://www.bilibili.com/video/av113773784334796?t=84)|Air ｜ Go 应用的实时重载工具|https://github.com/air-verse/air|
+|[01:56](https://www.bilibili.com/video/av113773784334796?t=116)|API Parrot ｜ HTTP API 逆向分析工具|https://apiparrot.com/|
+|[02:40](https://www.bilibili.com/video/av113773784334796?t=160)|mitmproxy2swagger｜逆向分析 API 并生成文档|https://github.com/alufers/mitmproxy2swagger|
+|[03:23](https://www.bilibili.com/video/av113773784334796?t=203)|PydanticAI ｜ Pydantic 团队开发的 AI 代理框架|https://ai.pydantic.dev/|
+
 ## [视频链接](https://www.bilibili.com/video/av113733871406883)
 
 |时间轴|简介|链接|
