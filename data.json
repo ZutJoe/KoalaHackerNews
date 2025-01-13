@@ -1,5 +1,52 @@
 [
   {
+    "aid": 113813412187942,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 50
+        },
+        {
+          "minutes": 1,
+          "seconds": 37
+        },
+        {
+          "minutes": 2,
+          "seconds": 12
+        },
+        {
+          "minutes": 2,
+          "seconds": 47
+        },
+        {
+          "minutes": 3,
+          "seconds": 30
+        }
+      ],
+      "introduces": [
+        "Cline ｜ IDE 中的 AI 编程助手",
+        "Quickwit ｜ 云原生搜索引擎",
+        "PDF 里的俄罗斯方块",
+        "Reka UI ｜ headless Vue UI 库",
+        "Storage Browser ｜ 为 S3 存储提供 UI",
+        "WakaTime ｜ 成为时间管理大师"
+      ],
+      "links": [
+        "https://github.com/cline/cline",
+        "https://github.com/quickwit-oss/quickwit",
+        "https://th0mas.nl/downloads/pdftris.pdf",
+        "https://reka-ui.com/",
+        "https://ui.docs.amplify.aws/react/connected-components/storage/storage-browser",
+        "https://wakatime.com/"
+      ]
+    }
+  },
+  {
     "aid": 113773784334796,
     "hn_items": {
       "times": [

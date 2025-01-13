@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av113813412187942)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av113813412187942?t=9)|Cline ｜ IDE 中的 AI 编程助手|https://github.com/cline/cline|
+|[00:50](https://www.bilibili.com/video/av113813412187942?t=50)|Quickwit ｜ 云原生搜索引擎|https://github.com/quickwit-oss/quickwit|
+|[01:37](https://www.bilibili.com/video/av113813412187942?t=97)|PDF 里的俄罗斯方块|https://th0mas.nl/downloads/pdftris.pdf|
+|[02:12](https://www.bilibili.com/video/av113813412187942?t=132)|Reka UI ｜ headless Vue UI 库|https://reka-ui.com/|
+|[02:47](https://www.bilibili.com/video/av113813412187942?t=167)|Storage Browser ｜ 为 S3 存储提供 UI|https://ui.docs.amplify.aws/react/connected-components/storage/storage-browser|
+|[03:30](https://www.bilibili.com/video/av113813412187942?t=210)|WakaTime ｜ 成为时间管理大师|https://wakatime.com/|
+
 ## [视频链接](https://www.bilibili.com/video/av113773784334796)
 
 |时间轴|简介|链接|
