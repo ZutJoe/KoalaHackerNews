@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av113853123856460)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av113853123856460?t=9)|Lightpanda ｜ headless 开源浏览器|https://github.com/lightpanda-io/browser|
+|[00:53](https://www.bilibili.com/video/av113853123856460?t=53)|ArkType ｜ TS 运行时类型校验库|https://arktype.io/|
+|[01:38](https://www.bilibili.com/video/av113853123856460?t=98)|Kokoro ｜ 高效文本转语音模型|https://huggingface.co/hexgrad/Kokoro-82M|
+|[02:16](https://www.bilibili.com/video/av113853123856460?t=136)|PostgreSQL Anonymizer ｜ PostgreSQL 数据脱敏工具|https://postgresql-anonymizer.readthedocs.io/en/stable/|
+|[02:59](https://www.bilibili.com/video/av113853123856460?t=179)|Agent Recipes ｜ LLM 工作流图文示例|https://www.agentrecipes.com/|
+|[03:42](https://www.bilibili.com/video/av113853123856460?t=222)|SimpleGantt ｜ 轻量级甘特图工具|https://github.com/aerugo/simplegantt|
+
 ## [视频链接](https://www.bilibili.com/video/av113813412187942)
 
 |时间轴|简介|链接|

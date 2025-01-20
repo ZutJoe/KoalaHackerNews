@@ -1,5 +1,52 @@
 [
   {
+    "aid": 113853123856460,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 53
+        },
+        {
+          "minutes": 1,
+          "seconds": 38
+        },
+        {
+          "minutes": 2,
+          "seconds": 16
+        },
+        {
+          "minutes": 2,
+          "seconds": 59
+        },
+        {
+          "minutes": 3,
+          "seconds": 42
+        }
+      ],
+      "introduces": [
+        "Lightpanda ｜ headless 开源浏览器",
+        "ArkType ｜ TS 运行时类型校验库",
+        "Kokoro ｜ 高效文本转语音模型",
+        "PostgreSQL Anonymizer ｜ PostgreSQL 数据脱敏工具",
+        "Agent Recipes ｜ LLM 工作流图文示例",
+        "SimpleGantt ｜ 轻量级甘特图工具"
+      ],
+      "links": [
+        "https://github.com/lightpanda-io/browser",
+        "https://arktype.io/",
+        "https://huggingface.co/hexgrad/Kokoro-82M",
+        "https://postgresql-anonymizer.readthedocs.io/en/stable/",
+        "https://www.agentrecipes.com/",
+        "https://github.com/aerugo/simplegantt"
+      ]
+    }
+  },
+  {
     "aid": 113813412187942,
     "hn_items": {
       "times": [
