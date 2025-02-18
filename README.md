@@ -8,6 +8,52 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av114010678624760)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av114010678624760?t=9)|GitDiagram ｜ 为代码库生成架构图|https://github.com/ahmedkhaleel2004/gitdiagram|
+|[00:54](https://www.bilibili.com/video/av114010678624760?t=54)|Dexie.js ｜ 易用的 IndexedDB 封装|https://dexie.org/|
+|[01:42](https://www.bilibili.com/video/av114010678624760?t=102)|ElevenReader ｜ AI 听文章神器|https://elevenreader.io/|
+|[02:25](https://www.bilibili.com/video/av114010678624760?t=145)|BentoML ｜ LLM 推理平台|https://bentoml.com/|
+|[03:13](https://www.bilibili.com/video/av114010678624760?t=193)|Airbroke ｜ 开源应用异 常 追 踪平台|https://github.com/icoretech/airbroke|
+|[03:57](https://www.bilibili.com/video/av114010678624760?t=237)|Orate ｜ 语音类 AI SDK|https://www.orate.dev/|
+
+## [视频链接](https://www.bilibili.com/video/av113971940098816)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av113971940098816?t=9)|Semaphore UI：DevOps 工具的现代化 UI|https://semaphoreui.com/|
+|[00:52](https://www.bilibili.com/video/av113971940098816?t=52)|Logocreator：开源 AI Logo 生成器|https://github.com/Nutlope/logocreator|
+|[01:34](https://www.bilibili.com/video/av113971940098816?t=94)|Dockur Windows：在容器中运行 Windows|https://github.com/dockur/windows|
+|[02:19](https://www.bilibili.com/video/av113971940098816?t=139)|KHI ｜ Kubernetes 日志可视化工具|https://github.com/GoogleCloudPlatform/khi|
+|[03:05](https://www.bilibili.com/video/av113971940098816?t=185)|Ruck ｜ 无需构建的 React 框架|https://ruck.tech/|
+|[03:49](https://www.bilibili.com/video/av113971940098816?t=229)|Citus：分布式Postgres 数据库|https://www.citusdata.com/|
+
+## [视频链接](https://www.bilibili.com/video/av113945163596296)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av113945163596296?t=9)|Perforator ｜ Yandex 开源性能分析工具|https://perforator.tech/docs/en/|
+|[00:55](https://www.bilibili.com/video/av113945163596296?t=55)|Goose ｜ 开发者的通用智能助手|https://block.github.io/goose/|
+|[01:34](https://www.bilibili.com/video/av113945163596296?t=94)|Manifest - 单文件搭建微后端|https://manifest.build/|
+|[02:12](https://www.bilibili.com/video/av113945163596296?t=132)|Onlook – 设计师的 React 编辑器|https://onlook.com/|
+|[02:50](https://www.bilibili.com/video/av113945163596296?t=170)|Bunster ｜ 将 Shell 编译为可执行程序|https://bunster.netlify.app/|
+|[03:27](https://www.bilibili.com/video/av113945163596296?t=207)|Frappe Helpdesk ｜ 开源工单系统|https://frappe.io/helpdesk|
+
+## [视频链接](https://www.bilibili.com/video/av113892885792151)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av113892885792151?t=9)|WordPecker App ｜ 个性化语言学习工具|https://github.com/baturyilmaz/wordpecker-app|
+|[00:51](https://www.bilibili.com/video/av113892885792151?t=51)|Stratoshark ｜ 系统调用分析工具|https://stratoshark.org/|
+|[01:39](https://www.bilibili.com/video/av113892885792151?t=99)|SRCL ｜ 终端风格React 组件库|https://www.sacred.computer/|
+|[02:21](https://www.bilibili.com/video/av113892885792151?t=141)|SQL 基础教程 ｜ SQL 互动学习平台|https://sql.programmable.net/lessons/sql-basics|
+|[02:57](https://www.bilibili.com/video/av113892885792151?t=177)|Printercow ｜ 为热敏打印机提供 API|https://www.printercow.com/|
+|[03:41](https://www.bilibili.com/video/av113892885792151?t=221)|DeepSeek-R1 ｜ 开源推理模型|https://github.com/deepseek-ai/DeepSeek-R1|
+|[04:21](https://www.bilibili.com/video/av113892885792151?t=261)|Tailwind CSS v4 ｜ 性能与灵活性的全面提升|https://tailwindcss.com/blog/tailwindcss-v4|
+|[05:00](https://www.bilibili.com/video/av113892885792151?t=300)|Yek ｜ 为 LLM 设计的代码读取工具|https://github.com/bodo-run/yek|
+
 ## [视频链接](https://www.bilibili.com/video/av113853123856460)
 
 |时间轴|简介|链接|

@@ -1,5 +1,205 @@
 [
   {
+    "aid": 114010678624760,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 54
+        },
+        {
+          "minutes": 1,
+          "seconds": 42
+        },
+        {
+          "minutes": 2,
+          "seconds": 25
+        },
+        {
+          "minutes": 3,
+          "seconds": 13
+        },
+        {
+          "minutes": 3,
+          "seconds": 57
+        }
+      ],
+      "introduces": [
+        "GitDiagram ｜ 为代码库生成架构图",
+        "Dexie.js ｜ 易用的 IndexedDB 封装",
+        "ElevenReader ｜ AI 听文章神器",
+        "BentoML ｜ LLM 推理平台",
+        "Airbroke ｜ 开源应用异 常 追 踪平台",
+        "Orate ｜ 语音类 AI SDK"
+      ],
+      "links": [
+        "https://github.com/ahmedkhaleel2004/gitdiagram",
+        "https://dexie.org/",
+        "https://elevenreader.io/",
+        "https://bentoml.com/",
+        "https://github.com/icoretech/airbroke",
+        "https://www.orate.dev/"
+      ]
+    }
+  },
+  {
+    "aid": 113971940098816,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 52
+        },
+        {
+          "minutes": 1,
+          "seconds": 34
+        },
+        {
+          "minutes": 2,
+          "seconds": 19
+        },
+        {
+          "minutes": 3,
+          "seconds": 5
+        },
+        {
+          "minutes": 3,
+          "seconds": 49
+        }
+      ],
+      "introduces": [
+        "Semaphore UI：DevOps 工具的现代化 UI",
+        "Logocreator：开源 AI Logo 生成器",
+        "Dockur Windows：在容器中运行 Windows",
+        "KHI ｜ Kubernetes 日志可视化工具",
+        "Ruck ｜ 无需构建的 React 框架",
+        "Citus：分布式Postgres 数据库"
+      ],
+      "links": [
+        "https://semaphoreui.com/",
+        "https://github.com/Nutlope/logocreator",
+        "https://github.com/dockur/windows",
+        "https://github.com/GoogleCloudPlatform/khi",
+        "https://ruck.tech/",
+        "https://www.citusdata.com/"
+      ]
+    }
+  },
+  {
+    "aid": 113945163596296,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 55
+        },
+        {
+          "minutes": 1,
+          "seconds": 34
+        },
+        {
+          "minutes": 2,
+          "seconds": 12
+        },
+        {
+          "minutes": 2,
+          "seconds": 50
+        },
+        {
+          "minutes": 3,
+          "seconds": 27
+        }
+      ],
+      "introduces": [
+        "Perforator ｜ Yandex 开源性能分析工具",
+        "Goose ｜ 开发者的通用智能助手",
+        "Manifest - 单文件搭建微后端",
+        "Onlook – 设计师的 React 编辑器",
+        "Bunster ｜ 将 Shell 编译为可执行程序",
+        "Frappe Helpdesk ｜ 开源工单系统"
+      ],
+      "links": [
+        "https://perforator.tech/docs/en/",
+        "https://block.github.io/goose/",
+        "https://manifest.build/",
+        "https://onlook.com/",
+        "https://bunster.netlify.app/",
+        "https://frappe.io/helpdesk"
+      ]
+    }
+  },
+  {
+    "aid": 113892885792151,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 51
+        },
+        {
+          "minutes": 1,
+          "seconds": 39
+        },
+        {
+          "minutes": 2,
+          "seconds": 21
+        },
+        {
+          "minutes": 2,
+          "seconds": 57
+        },
+        {
+          "minutes": 3,
+          "seconds": 41
+        },
+        {
+          "minutes": 4,
+          "seconds": 21
+        },
+        {
+          "minutes": 5,
+          "seconds": 0
+        }
+      ],
+      "introduces": [
+        "WordPecker App ｜ 个性化语言学习工具",
+        "Stratoshark ｜ 系统调用分析工具",
+        "SRCL ｜ 终端风格React 组件库",
+        "SQL 基础教程 ｜ SQL 互动学习平台",
+        "Printercow ｜ 为热敏打印机提供 API",
+        "DeepSeek-R1 ｜ 开源推理模型",
+        "Tailwind CSS v4 ｜ 性能与灵活性的全面提升",
+        "Yek ｜ 为 LLM 设计的代码读取工具"
+      ],
+      "links": [
+        "https://github.com/baturyilmaz/wordpecker-app",
+        "https://stratoshark.org/",
+        "https://www.sacred.computer/",
+        "https://sql.programmable.net/lessons/sql-basics",
+        "https://www.printercow.com/",
+        "https://github.com/deepseek-ai/DeepSeek-R1",
+        "https://tailwindcss.com/blog/tailwindcss-v4",
+        "https://github.com/bodo-run/yek"
+      ]
+    }
+  },
+  {
     "aid": 113853123856460,
     "hn_items": {
       "times": [
