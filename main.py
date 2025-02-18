@@ -72,7 +72,7 @@ def get_aids() -> Iterator[int]:
             "page_size": "30",
         }
         response = requests.get(
-            "https://api.bilibili.com/x/polymer/space/seasons_archives_list",
+            "https://api.bilibili.com/x/polymer/web-space/seasons_archives_list",
             params=params,
             headers=HEADERS,
             timeout=10,
