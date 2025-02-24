@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av114051917023735)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av114051917023735?t=9)|Mastra.ai ｜ TS agent 框架|https://mastra.ai/|
+|[00:49](https://www.bilibili.com/video/av114051917023735?t=49)|Unsloth ｜ 高性能大模型微调|https://github.com/unslothai/unsloth|
+|[01:24](https://www.bilibili.com/video/av114051917023735?t=84)|Scripton ｜ 可视化 Python IDE|https://scripton.dev/|
+|[02:06](https://www.bilibili.com/video/av114051917023735?t=126)|Inscribed ｜ 用 Excalidraw 制作 PPT|https://github.com/chunrapeepat/inscribed|
+|[02:41](https://www.bilibili.com/video/av114051917023735?t=161)|Inko ｜ 为并发而生的编程语言|https://inko-lang.org/|
+|[03:21](https://www.bilibili.com/video/av114051917023735?t=201)|Kestra ｜ 声明式数据编排平台|https://kestra.io/|
+
 ## [视频链接](https://www.bilibili.com/video/av114010678624760)
 
 |时间轴|简介|链接|

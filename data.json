@@ -1,5 +1,52 @@
 [
   {
+    "aid": 114051917023735,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 49
+        },
+        {
+          "minutes": 1,
+          "seconds": 24
+        },
+        {
+          "minutes": 2,
+          "seconds": 6
+        },
+        {
+          "minutes": 2,
+          "seconds": 41
+        },
+        {
+          "minutes": 3,
+          "seconds": 21
+        }
+      ],
+      "introduces": [
+        "Mastra.ai ｜ TS agent 框架",
+        "Unsloth ｜ 高性能大模型微调",
+        "Scripton ｜ 可视化 Python IDE",
+        "Inscribed ｜ 用 Excalidraw 制作 PPT",
+        "Inko ｜ 为并发而生的编程语言",
+        "Kestra ｜ 声明式数据编排平台"
+      ],
+      "links": [
+        "https://mastra.ai/",
+        "https://github.com/unslothai/unsloth",
+        "https://scripton.dev/",
+        "https://github.com/chunrapeepat/inscribed",
+        "https://inko-lang.org/",
+        "https://kestra.io/"
+      ]
+    }
+  },
+  {
     "aid": 114010678624760,
     "hn_items": {
       "times": [
