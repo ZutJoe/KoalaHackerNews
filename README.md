@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av114091175708090)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av114091175708090?t=9)|Ray ｜ 大规模分布式 AI 引擎|https://www.ray.io/|
+|[00:53](https://www.bilibili.com/video/av114091175708090?t=53)|DeepSeek 开源 AI 基础设施工具集|https://github.com/deepseek-ai/open-infra-index|
+|[01:29](https://www.bilibili.com/video/av114091175708090?t=89)|up-fetch ｜ 更友好的 fetch 封装|https://github.com/L-Blondy/up-fetch|
+|[02:11](https://www.bilibili.com/video/av114091175708090?t=131)|JetKVM ｜ 开源 KVM over IP|https://github.com/jetkvm/kvm|
+|[02:52](https://www.bilibili.com/video/av114091175708090?t=172)|mdq ｜ 像 jq 一样处理 Markdown|https://github.com/yshavit/mdq|
+|[03:35](https://www.bilibili.com/video/av114091175708090?t=215)|Nping ｜ 实时网络可视化 Ping|https://github.com/hanshuaikang/Nping|
+
 ## [视频链接](https://www.bilibili.com/video/av114051917023735)
 
 |时间轴|简介|链接|

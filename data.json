@@ -1,5 +1,52 @@
 [
   {
+    "aid": 114091175708090,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 53
+        },
+        {
+          "minutes": 1,
+          "seconds": 29
+        },
+        {
+          "minutes": 2,
+          "seconds": 11
+        },
+        {
+          "minutes": 2,
+          "seconds": 52
+        },
+        {
+          "minutes": 3,
+          "seconds": 35
+        }
+      ],
+      "introduces": [
+        "Ray ｜ 大规模分布式 AI 引擎",
+        "DeepSeek 开源 AI 基础设施工具集",
+        "up-fetch ｜ 更友好的 fetch 封装",
+        "JetKVM ｜ 开源 KVM over IP",
+        "mdq ｜ 像 jq 一样处理 Markdown",
+        "Nping ｜ 实时网络可视化 Ping"
+      ],
+      "links": [
+        "https://www.ray.io/",
+        "https://github.com/deepseek-ai/open-infra-index",
+        "https://github.com/L-Blondy/up-fetch",
+        "https://github.com/jetkvm/kvm",
+        "https://github.com/yshavit/mdq",
+        "https://github.com/hanshuaikang/Nping"
+      ]
+    }
+  },
+  {
     "aid": 114051917023735,
     "hn_items": {
       "times": [
