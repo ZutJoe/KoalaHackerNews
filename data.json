@@ -1,5 +1,52 @@
 [
   {
+    "aid": 114130618944434,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 59
+        },
+        {
+          "minutes": 1,
+          "seconds": 40
+        },
+        {
+          "minutes": 2,
+          "seconds": 25
+        },
+        {
+          "minutes": 3,
+          "seconds": 11
+        },
+        {
+          "minutes": 3,
+          "seconds": 50
+        }
+      ],
+      "introduces": [
+        "Mistral OCR ｜ 文档 OCR 新标杆",
+        "Superglue ｜ 自修复数据连接器",
+        "Lynx ｜ 跨平台原生 UI 开发框架",
+        "TanStack Form v1 ｜ Headless React 表单",
+        "Usertour ｜ 开源用户引导工具",
+        "troubleshooting：永不过时的技能"
+      ],
+      "links": [
+        "https://mistral.ai/fr/news/mistral-ocr",
+        "https://github.com/superglue-ai/superglue",
+        "https://github.com/lynx-family/lynx",
+        "https://tanstack.com/blog/announcing-tanstack-form-v1",
+        "https://github.com/usertour/usertour",
+        "https://www.autodidacts.io/troubleshooting/"
+      ]
+    }
+  },
+  {
     "aid": 114091175708090,
     "hn_items": {
       "times": [

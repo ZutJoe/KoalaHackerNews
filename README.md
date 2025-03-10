@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av114130618944434)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av114130618944434?t=9)|Mistral OCR ｜ 文档 OCR 新标杆|https://mistral.ai/fr/news/mistral-ocr|
+|[00:59](https://www.bilibili.com/video/av114130618944434?t=59)|Superglue ｜ 自修复数据连接器|https://github.com/superglue-ai/superglue|
+|[01:40](https://www.bilibili.com/video/av114130618944434?t=100)|Lynx ｜ 跨平台原生 UI 开发框架|https://github.com/lynx-family/lynx|
+|[02:25](https://www.bilibili.com/video/av114130618944434?t=145)|TanStack Form v1 ｜ Headless React 表单|https://tanstack.com/blog/announcing-tanstack-form-v1|
+|[03:11](https://www.bilibili.com/video/av114130618944434?t=191)|Usertour ｜ 开源用户引导工具|https://github.com/usertour/usertour|
+|[03:50](https://www.bilibili.com/video/av114130618944434?t=230)|troubleshooting：永不过时的技能|https://www.autodidacts.io/troubleshooting/|
+
 ## [视频链接](https://www.bilibili.com/video/av114091175708090)
 
 |时间轴|简介|链接|
