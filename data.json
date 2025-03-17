@@ -1,5 +1,52 @@
 [
   {
+    "aid": 114170129287832,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 1,
+          "seconds": 1
+        },
+        {
+          "minutes": 1,
+          "seconds": 40
+        },
+        {
+          "minutes": 2,
+          "seconds": 21
+        },
+        {
+          "minutes": 3,
+          "seconds": 1
+        },
+        {
+          "minutes": 3,
+          "seconds": 41
+        }
+      ],
+      "introduces": [
+        "TypeScript 使用 Go 开发新编译器",
+        "Leaflet ｜ 快速灵活有趣的文档工具",
+        "Presenterm ｜ 终端 Markdown 幻灯片工具",
+        "Swapy ｜ 拖拽交换布局 JS 工具",
+        "FilePizza ｜ 浏览器中点对点传输文件",
+        "DuckDB 推出本地 UI 界面"
+      ],
+      "links": [
+        "https://devblogs.microsoft.com/typescript/typescript-native-port/",
+        "https://about.leaflet.pub/",
+        "https://github.com/mfontanini/presenterm",
+        "https://swapy.tahazsh.com/",
+        "https://github.com/kern/filepizza",
+        "https://duckdb.org/2025/03/12/duckdb-ui.html"
+      ]
+    }
+  },
+  {
     "aid": 114130618944434,
     "hn_items": {
       "times": [

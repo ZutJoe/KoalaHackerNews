@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av114170129287832)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av114170129287832?t=9)|TypeScript 使用 Go 开发新编译器|https://devblogs.microsoft.com/typescript/typescript-native-port/|
+|[01:01](https://www.bilibili.com/video/av114170129287832?t=61)|Leaflet ｜ 快速灵活有趣的文档工具|https://about.leaflet.pub/|
+|[01:40](https://www.bilibili.com/video/av114170129287832?t=100)|Presenterm ｜ 终端 Markdown 幻灯片工具|https://github.com/mfontanini/presenterm|
+|[02:21](https://www.bilibili.com/video/av114170129287832?t=141)|Swapy ｜ 拖拽交换布局 JS 工具|https://swapy.tahazsh.com/|
+|[03:01](https://www.bilibili.com/video/av114170129287832?t=181)|FilePizza ｜ 浏览器中点对点传输文件|https://github.com/kern/filepizza|
+|[03:41](https://www.bilibili.com/video/av114170129287832?t=221)|DuckDB 推出本地 UI 界面|https://duckdb.org/2025/03/12/duckdb-ui.html|
+
 ## [视频链接](https://www.bilibili.com/video/av114130618944434)
 
 |时间轴|简介|链接|
