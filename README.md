@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av114209723516061)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av114209723516061?t=9)|cascii-core ｜ ASCII 图表设计工具|https://github.com/casparwylie/cascii-core|
+|[00:52](https://www.bilibili.com/video/av114209723516061?t=52)|codemcp ｜ 让 Claude Desktop 成为编程助手|https://github.com/ezyang/codemcp|
+|[01:39](https://www.bilibili.com/video/av114209723516061?t=99)|Rsdoctor ｜ Rspack/Webpack 构建分析利器|https://rsdoctor.dev/zh/blog/release/release-note-1_0|
+|[02:20](https://www.bilibili.com/video/av114209723516061?t=140)|DiceDB ｜ Go 响应式内存数据库|https://dicedb.io/|
+|[02:54](https://www.bilibili.com/video/av114209723516061?t=174)|Goravel ｜ Go 实现的 Laravel 风格框架|https://www.goravel.dev/|
+|[03:42](https://www.bilibili.com/video/av114209723516061?t=222)|Motion for Vue ｜ Vue 动画库|https://motion.dev/blog/introducing-motion-for-vue|
+
 ## [视频链接](https://www.bilibili.com/video/av114170129287832)
 
 |时间轴|简介|链接|

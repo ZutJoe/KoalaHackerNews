@@ -1,5 +1,52 @@
 [
   {
+    "aid": 114209723516061,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 52
+        },
+        {
+          "minutes": 1,
+          "seconds": 39
+        },
+        {
+          "minutes": 2,
+          "seconds": 20
+        },
+        {
+          "minutes": 2,
+          "seconds": 54
+        },
+        {
+          "minutes": 3,
+          "seconds": 42
+        }
+      ],
+      "introduces": [
+        "cascii-core ｜ ASCII 图表设计工具",
+        "codemcp ｜ 让 Claude Desktop 成为编程助手",
+        "Rsdoctor ｜ Rspack/Webpack 构建分析利器",
+        "DiceDB ｜ Go 响应式内存数据库",
+        "Goravel ｜ Go 实现的 Laravel 风格框架",
+        "Motion for Vue ｜ Vue 动画库"
+      ],
+      "links": [
+        "https://github.com/casparwylie/cascii-core",
+        "https://github.com/ezyang/codemcp",
+        "https://rsdoctor.dev/zh/blog/release/release-note-1_0",
+        "https://dicedb.io/",
+        "https://www.goravel.dev/",
+        "https://motion.dev/blog/introducing-motion-for-vue"
+      ]
+    }
+  },
+  {
     "aid": 114170129287832,
     "hn_items": {
       "times": [
