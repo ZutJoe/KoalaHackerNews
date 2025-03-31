@@ -1,5 +1,52 @@
 [
   {
+    "aid": 114249586180286,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 48
+        },
+        {
+          "minutes": 1,
+          "seconds": 35
+        },
+        {
+          "minutes": 2,
+          "seconds": 18
+        },
+        {
+          "minutes": 3,
+          "seconds": 3
+        },
+        {
+          "minutes": 3,
+          "seconds": 45
+        }
+      ],
+      "introduces": [
+        "Blender 4.4 稳定性大提升",
+        "ttyd ｜ 用 Web 分享你的终端",
+        "GhidraMCP ｜ 用 LLM 增强逆向工程能力",
+        "Simple AI ｜ AI 场景 UI 组件库",
+        "Valibot ｜ TS Schema 库",
+        "LoRAX ｜ 多 LoRA LLM 推理引擎"
+      ],
+      "links": [
+        "https://www.blender.org/download/releases/4-4/",
+        "https://tsl0922.github.io/ttyd/",
+        "https://github.com/LaurieWired/GhidraMCP/",
+        "https://www.simple-ai.dev/",
+        "https://valibot.dev/",
+        "https://github.com/predibase/lorax"
+      ]
+    }
+  },
+  {
     "aid": 114209723516061,
     "hn_items": {
       "times": [

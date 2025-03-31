@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av114249586180286)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av114249586180286?t=9)|Blender 4.4 稳定性大提升|https://www.blender.org/download/releases/4-4/|
+|[00:48](https://www.bilibili.com/video/av114249586180286?t=48)|ttyd ｜ 用 Web 分享你的终端|https://tsl0922.github.io/ttyd/|
+|[01:35](https://www.bilibili.com/video/av114249586180286?t=95)|GhidraMCP ｜ 用 LLM 增强逆向工程能力|https://github.com/LaurieWired/GhidraMCP/|
+|[02:18](https://www.bilibili.com/video/av114249586180286?t=138)|Simple AI ｜ AI 场景 UI 组件库|https://www.simple-ai.dev/|
+|[03:03](https://www.bilibili.com/video/av114249586180286?t=183)|Valibot ｜ TS Schema 库|https://valibot.dev/|
+|[03:45](https://www.bilibili.com/video/av114249586180286?t=225)|LoRAX ｜ 多 LoRA LLM 推理引擎|https://github.com/predibase/lorax|
+
 ## [视频链接](https://www.bilibili.com/video/av114209723516061)
 
 |时间轴|简介|链接|
