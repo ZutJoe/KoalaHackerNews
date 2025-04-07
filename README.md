@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av114289365026122)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av114289365026122?t=9)|Anime.js ｜ 强大的 JS 动画引擎|https://animejs.com/|
+|[00:55](https://www.bilibili.com/video/av114289365026122?t=55)|GitDiagram ｜ 为 GitHub 仓库生成架构图|https://github.com/ahmedkhaleel2004/gitdiagram|
+|[01:36](https://www.bilibili.com/video/av114289365026122?t=96)|pico.sh ｜ 基于 SSH 的轻量级 PAAS|https://pico.sh/|
+|[02:17](https://www.bilibili.com/video/av114289365026122?t=137)|Postgres Language Server ｜ Postgres 语言服务器|https://github.com/supabase-community/postgres-language-server|
+|[02:56](https://www.bilibili.com/video/av114289365026122?t=176)|Bare ｜ 轻量级模块化 JS 运行时|https://bare.pears.com/|
+|[03:35](https://www.bilibili.com/video/av114289365026122?t=215)|bazza/ui ｜ shadcn 复杂表格过滤器|https://ui.bazza.dev/|
+
 ## [视频链接](https://www.bilibili.com/video/av114249586180286)
 
 |时间轴|简介|链接|

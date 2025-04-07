@@ -1,5 +1,52 @@
 [
   {
+    "aid": 114289365026122,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 55
+        },
+        {
+          "minutes": 1,
+          "seconds": 36
+        },
+        {
+          "minutes": 2,
+          "seconds": 17
+        },
+        {
+          "minutes": 2,
+          "seconds": 56
+        },
+        {
+          "minutes": 3,
+          "seconds": 35
+        }
+      ],
+      "introduces": [
+        "Anime.js ｜ 强大的 JS 动画引擎",
+        "GitDiagram ｜ 为 GitHub 仓库生成架构图",
+        "pico.sh ｜ 基于 SSH 的轻量级 PAAS",
+        "Postgres Language Server ｜ Postgres 语言服务器",
+        "Bare ｜ 轻量级模块化 JS 运行时",
+        "bazza/ui ｜ shadcn 复杂表格过滤器"
+      ],
+      "links": [
+        "https://animejs.com/",
+        "https://github.com/ahmedkhaleel2004/gitdiagram",
+        "https://pico.sh/",
+        "https://github.com/supabase-community/postgres-language-server",
+        "https://bare.pears.com/",
+        "https://ui.bazza.dev/"
+      ]
+    }
+  },
+  {
     "aid": 114249586180286,
     "hn_items": {
       "times": [
