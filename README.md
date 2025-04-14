@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av114328472718145)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av114328472718145?t=9)|Coroot ｜ 开源 eBPF 可观测性工具|https://github.com/coroot/coroot|
+|[00:49](https://www.bilibili.com/video/av114328472718145?t=49)|GitMCP ｜ 让 AI 理解 GitHub 项目|https://github.com/idosal/git-mcp|
+|[01:27](https://www.bilibili.com/video/av114328472718145?t=87)|NVIDIA 为 CUDA 添加原生 Python 支持|https://busy.bar/|
+|[02:11](https://www.bilibili.com/video/av114328472718145?t=131)|BUSY Bar ｜ LED 效率小工具|https://headlamp.dev/|
+|[02:49](https://www.bilibili.com/video/av114328472718145?t=169)|Headlamp ｜ 可定制的 K8s UI|https://browsermcp.io/|
+|[03:32](https://www.bilibili.com/video/av114328472718145?t=212)|Browser MCP ｜ 用 AI 自动化浏览器| |
+
 ## [视频链接](https://www.bilibili.com/video/av114289365026122)
 
 |时间轴|简介|链接|

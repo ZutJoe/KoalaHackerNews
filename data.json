@@ -1,5 +1,51 @@
 [
   {
+    "aid": 114328472718145,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 49
+        },
+        {
+          "minutes": 1,
+          "seconds": 27
+        },
+        {
+          "minutes": 2,
+          "seconds": 11
+        },
+        {
+          "minutes": 2,
+          "seconds": 49
+        },
+        {
+          "minutes": 3,
+          "seconds": 32
+        }
+      ],
+      "introduces": [
+        "Coroot ｜ 开源 eBPF 可观测性工具",
+        "GitMCP ｜ 让 AI 理解 GitHub 项目",
+        "NVIDIA 为 CUDA 添加原生 Python 支持",
+        "BUSY Bar ｜ LED 效率小工具",
+        "Headlamp ｜ 可定制的 K8s UI",
+        "Browser MCP ｜ 用 AI 自动化浏览器"
+      ],
+      "links": [
+        "https://github.com/coroot/coroot",
+        "https://github.com/idosal/git-mcp",
+        "https://busy.bar/",
+        "https://headlamp.dev/",
+        "https://browsermcp.io/"
+      ]
+    }
+  },
+  {
     "aid": 114289365026122,
     "hn_items": {
       "times": [
