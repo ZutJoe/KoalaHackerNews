@@ -1,5 +1,52 @@
 [
   {
+    "aid": 114368402427659,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 53
+        },
+        {
+          "minutes": 1,
+          "seconds": 33
+        },
+        {
+          "minutes": 2,
+          "seconds": 11
+        },
+        {
+          "minutes": 2,
+          "seconds": 48
+        },
+        {
+          "minutes": 3,
+          "seconds": 15
+        }
+      ],
+      "introduces": [
+        "Plandex ｜ 面向大型项目的 AI 助手",
+        "Datastar ｜ 轻量级 HTMX 替代",
+        "SpacetimeDB ｜ 多人游戏开发新选择",
+        "AutoRAG ｜ 全托管的 RAG 方案",
+        "Better Auth ｜ 身份认证方案",
+        "Smartfunc ｜ 把 Docstring 变成 LLM 函数"
+      ],
+      "links": [
+        "https://github.com/plandex-ai/plandex",
+        "https://data-star.dev/",
+        "https://spacetimedb.com/",
+        "https://blog.cloudflare.com/introducing-autorag-on-cloudflare/",
+        "https://www.better-auth.com/",
+        "https://github.com/koaning/smartfunc"
+      ]
+    }
+  },
+  {
     "aid": 114328472718145,
     "hn_items": {
       "times": [

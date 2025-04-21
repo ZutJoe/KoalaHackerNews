@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av114368402427659)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av114368402427659?t=9)|Plandex ｜ 面向大型项目的 AI 助手|https://github.com/plandex-ai/plandex|
+|[00:53](https://www.bilibili.com/video/av114368402427659?t=53)|Datastar ｜ 轻量级 HTMX 替代|https://data-star.dev/|
+|[01:33](https://www.bilibili.com/video/av114368402427659?t=93)|SpacetimeDB ｜ 多人游戏开发新选择|https://spacetimedb.com/|
+|[02:11](https://www.bilibili.com/video/av114368402427659?t=131)|AutoRAG ｜ 全托管的 RAG 方案|https://blog.cloudflare.com/introducing-autorag-on-cloudflare/|
+|[02:48](https://www.bilibili.com/video/av114368402427659?t=168)|Better Auth ｜ 身份认证方案|https://www.better-auth.com/|
+|[03:15](https://www.bilibili.com/video/av114368402427659?t=195)|Smartfunc ｜ 把 Docstring 变成 LLM 函数|https://github.com/koaning/smartfunc|
+
 ## [视频链接](https://www.bilibili.com/video/av114328472718145)
 
 |时间轴|简介|链接|
