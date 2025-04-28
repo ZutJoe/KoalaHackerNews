@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av114407996655627)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av114407996655627?t=9)|DeepWiki：AI 生成代码库指南|https://deepwiki.com/|
+|[00:59](https://www.bilibili.com/video/av114407996655627?t=59)|PocketFlow：百行代码的 Agent 框架|https://github.com/The-Pocket/PocketFlow|
+|[01:48](https://www.bilibili.com/video/av114407996655627?t=108)|Trivy：多合一安全扫描神器|https://github.com/aquasecurity/trivy|
+|[02:33](https://www.bilibili.com/video/av114407996655627?t=153)|Atuin Desktop ｜ 让 Runbook 运行起来|https://blog.atuin.sh/atuin-desktop-runbooks-that-run/|
+|[03:19](https://www.bilibili.com/video/av114407996655627?t=199)|ActorCore：有状态 Serverless 框架|https://actorcore.org/|
+|[04:02](https://www.bilibili.com/video/av114407996655627?t=242)|spm: macOS 包管理器|https://github.com/alexykn/spm|
+
 ## [视频链接](https://www.bilibili.com/video/av114368402427659)
 
 |时间轴|简介|链接|

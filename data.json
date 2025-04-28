@@ -1,5 +1,52 @@
 [
   {
+    "aid": 114407996655627,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 59
+        },
+        {
+          "minutes": 1,
+          "seconds": 48
+        },
+        {
+          "minutes": 2,
+          "seconds": 33
+        },
+        {
+          "minutes": 3,
+          "seconds": 19
+        },
+        {
+          "minutes": 4,
+          "seconds": 2
+        }
+      ],
+      "introduces": [
+        "DeepWiki：AI 生成代码库指南",
+        "PocketFlow：百行代码的 Agent 框架",
+        "Trivy：多合一安全扫描神器",
+        "Atuin Desktop ｜ 让 Runbook 运行起来",
+        "ActorCore：有状态 Serverless 框架",
+        "spm: macOS 包管理器"
+      ],
+      "links": [
+        "https://deepwiki.com/",
+        "https://github.com/The-Pocket/PocketFlow",
+        "https://github.com/aquasecurity/trivy",
+        "https://blog.atuin.sh/atuin-desktop-runbooks-that-run/",
+        "https://actorcore.org/",
+        "https://github.com/alexykn/spm"
+      ]
+    }
+  },
+  {
     "aid": 114368402427659,
     "hn_items": {
       "times": [
