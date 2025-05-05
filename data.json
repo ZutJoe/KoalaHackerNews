@@ -1,5 +1,45 @@
 [
   {
+    "aid": 114447523774625,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 58
+        },
+        {
+          "minutes": 1,
+          "seconds": 30
+        },
+        {
+          "minutes": 2,
+          "seconds": 13
+        },
+        {
+          "minutes": 2,
+          "seconds": 57
+        },
+        {
+          "minutes": 3,
+          "seconds": 36
+        }
+      ],
+      "introduces": [
+        "TmuxAI ｜ AI 驱动的终端助手",
+        "ScreenRecorder.me ｜ 开源录屏工具",
+        "OpenPipe ART ｜ 用强化学习训练 Agent",
+        "Magnitude ｜ 开源 AI E2E 测试框架",
+        "Wiredoor ｜ 自托管的内网穿透服务",
+        "Zodest ｜ 基于 Zod 的 CLI 构建工具"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 114407996655627,
     "hn_items": {
       "times": [
