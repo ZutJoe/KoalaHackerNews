@@ -1,5 +1,52 @@
 [
   {
+    "aid": 114488107861396,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 46
+        },
+        {
+          "minutes": 1,
+          "seconds": 28
+        },
+        {
+          "minutes": 2,
+          "seconds": 13
+        },
+        {
+          "minutes": 2,
+          "seconds": 44
+        },
+        {
+          "minutes": 3,
+          "seconds": 10
+        }
+      ],
+      "introduces": [
+        "Ty ｜ 高性能 Python 类型检查器",
+        "Tilt ｜ 微服务开发利器",
+        "VectorVFS ｜ 把文件系统变成向量数据库",
+        "Kubectl-AI ｜ AI 赋能的 K8s 助手",
+        "HelloCSV ｜ 极简 CSV 导入 UI",
+        "Outpost ｜ 开源的出站 Webhooks 和事件目标基础设施"
+      ],
+      "links": [
+        "https://github.com/astral-sh/ty",
+        "https://tilt.dev/",
+        "https://vectorvfs.readthedocs.io/",
+        "https://github.com/GoogleCloudPlatform/kubectl-ai",
+        "https://hellocsv.github.io/HelloCSV/",
+        "https://github.com/hookdeck/outpost"
+      ]
+    }
+  },
+  {
     "aid": 114447523774625,
     "hn_items": {
       "times": [

@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av114488107861396)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av114488107861396?t=9)|Ty ｜ 高性能 Python 类型检查器|https://github.com/astral-sh/ty|
+|[00:46](https://www.bilibili.com/video/av114488107861396?t=46)|Tilt ｜ 微服务开发利器|https://tilt.dev/|
+|[01:28](https://www.bilibili.com/video/av114488107861396?t=88)|VectorVFS ｜ 把文件系统变成向量数据库|https://vectorvfs.readthedocs.io/|
+|[02:13](https://www.bilibili.com/video/av114488107861396?t=133)|Kubectl-AI ｜ AI 赋能的 K8s 助手|https://github.com/GoogleCloudPlatform/kubectl-ai|
+|[02:44](https://www.bilibili.com/video/av114488107861396?t=164)|HelloCSV ｜ 极简 CSV 导入 UI|https://hellocsv.github.io/HelloCSV/|
+|[03:10](https://www.bilibili.com/video/av114488107861396?t=190)|Outpost ｜ 开源的出站 Webhooks 和事件目标基础设施|https://github.com/hookdeck/outpost|
+
 ## [视频链接](https://www.bilibili.com/video/av114447523774625)
 
 |时间轴|简介|链接|
