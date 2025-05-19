@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av114526510909173)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av114526510909173?t=9)|WeClone ｜ 用聊天记录创造数字分身|https://github.com/xming521/WeClone|
+|[00:43](https://www.bilibili.com/video/av114526510909173?t=43)|Airweave ｜ 让 AI Agent 搜索任何应用|https://github.com/airweave-ai/airweave|
+|[01:18](https://www.bilibili.com/video/av114526510909173?t=78)|GoVisual ｜ Go Web 开发调试利器|https://github.com/doganarif/govisual|
+|[01:57](https://www.bilibili.com/video/av114526510909173?t=117)|supermemory ｜ 通用 AI 记忆 API|https://supermemory.ai/|
+|[02:31](https://www.bilibili.com/video/av114526510909173?t=151)|Makepad ｜ Rust 跨平台 UI 框架|https://makepad.nl/|
+|[03:12](https://www.bilibili.com/video/av114526510909173?t=192)|TanStack DB ｜ 构建超快速同步应用的响应式客户端存储|https://github.com/TanStack/db|
+
 ## [视频链接](https://www.bilibili.com/video/av114488107861396)
 
 |时间轴|简介|链接|

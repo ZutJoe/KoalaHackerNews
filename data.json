@@ -1,5 +1,52 @@
 [
   {
+    "aid": 114526510909173,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 43
+        },
+        {
+          "minutes": 1,
+          "seconds": 18
+        },
+        {
+          "minutes": 1,
+          "seconds": 57
+        },
+        {
+          "minutes": 2,
+          "seconds": 31
+        },
+        {
+          "minutes": 3,
+          "seconds": 12
+        }
+      ],
+      "introduces": [
+        "WeClone ｜ 用聊天记录创造数字分身",
+        "Airweave ｜ 让 AI Agent 搜索任何应用",
+        "GoVisual ｜ Go Web 开发调试利器",
+        "supermemory ｜ 通用 AI 记忆 API",
+        "Makepad ｜ Rust 跨平台 UI 框架",
+        "TanStack DB ｜ 构建超快速同步应用的响应式客户端存储"
+      ],
+      "links": [
+        "https://github.com/xming521/WeClone",
+        "https://github.com/airweave-ai/airweave",
+        "https://github.com/doganarif/govisual",
+        "https://supermemory.ai/",
+        "https://makepad.nl/",
+        "https://github.com/TanStack/db"
+      ]
+    }
+  },
+  {
     "aid": 114488107861396,
     "hn_items": {
       "times": [
