@@ -1,5 +1,100 @@
 [
   {
+    "aid": 114611705610537,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 40
+        },
+        {
+          "minutes": 1,
+          "seconds": 17
+        },
+        {
+          "minutes": 1,
+          "seconds": 48
+        },
+        {
+          "minutes": 2,
+          "seconds": 25
+        },
+        {
+          "minutes": 3,
+          "seconds": 2
+        }
+      ],
+      "introduces": [
+        "KeyboardCowboy ｜ MacOS 快捷工作流",
+        "Svelte Flow ｜ Svelte 的工作流框架",
+        "pgdog ｜ PostgreSQL 自动分片方案",
+        "Cap ｜ 开源轻量级验证码",
+        "Linkify ｜ 文本链接识别工具",
+        "科普博客 ｜ 什么时候微调有意义"
+      ],
+      "links": [
+        "https://github.com/zenangst/KeyboardCowboy",
+        "https://xyflow.com/blog/svelte-flow-release",
+        "https://github.com/pgdogdev/pgdog",
+        "https://capjs.js.org/",
+        "https://linkify.js.org/",
+        "https://getkiln.ai/blog/why_fine_tune_LLM_models_and_how_to_get_started"
+      ]
+    }
+  },
+  {
+    "aid": 114573503889814,
+    "hn_items": {
+      "times": [],
+      "introduces": [],
+      "links": []
+    }
+  },
+  {
+    "aid": 114567094996714,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 48
+        },
+        {
+          "minutes": 1,
+          "seconds": 31
+        },
+        {
+          "minutes": 2,
+          "seconds": 4
+        },
+        {
+          "minutes": 2,
+          "seconds": 55
+        },
+        {
+          "minutes": 3,
+          "seconds": 30
+        }
+      ],
+      "introduces": [
+        "TypeScript Native ｜ 原生 TS 工具链览版",
+        "DoubleMemory ｜ 你的第二大脑",
+        "roboflow/sports ｜ 体育赛事结合 AI",
+        "Dream 7B ｜ 开源扩散大语言模型",
+        "Suna ｜ 开源通用 AI 助手",
+        "ClipJS ｜ 开源视频编辑器"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 114526510909173,
     "hn_items": {
       "times": [

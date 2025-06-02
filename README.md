@@ -8,6 +8,33 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av114611705610537)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av114611705610537?t=9)|KeyboardCowboy ｜ MacOS 快捷工作流|https://github.com/zenangst/KeyboardCowboy|
+|[00:40](https://www.bilibili.com/video/av114611705610537?t=40)|Svelte Flow ｜ Svelte 的工作流框架|https://xyflow.com/blog/svelte-flow-release|
+|[01:17](https://www.bilibili.com/video/av114611705610537?t=77)|pgdog ｜ PostgreSQL 自动分片方案|https://github.com/pgdogdev/pgdog|
+|[01:48](https://www.bilibili.com/video/av114611705610537?t=108)|Cap ｜ 开源轻量级验证码|https://capjs.js.org/|
+|[02:25](https://www.bilibili.com/video/av114611705610537?t=145)|Linkify ｜ 文本链接识别工具|https://linkify.js.org/|
+|[03:02](https://www.bilibili.com/video/av114611705610537?t=182)|科普博客 ｜ 什么时候微调有意义|https://getkiln.ai/blog/why_fine_tune_LLM_models_and_how_to_get_started|
+
+## [视频链接](https://www.bilibili.com/video/av114573503889814)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+
+## [视频链接](https://www.bilibili.com/video/av114567094996714)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av114567094996714?t=9)|TypeScript Native ｜ 原生 TS 工具链览版| |
+|[00:48](https://www.bilibili.com/video/av114567094996714?t=48)|DoubleMemory ｜ 你的第二大脑| |
+|[01:31](https://www.bilibili.com/video/av114567094996714?t=91)|roboflow/sports ｜ 体育赛事结合 AI| |
+|[02:04](https://www.bilibili.com/video/av114567094996714?t=124)|Dream 7B ｜ 开源扩散大语言模型| |
+|[02:55](https://www.bilibili.com/video/av114567094996714?t=175)|Suna ｜ 开源通用 AI 助手| |
+|[03:30](https://www.bilibili.com/video/av114567094996714?t=210)|ClipJS ｜ 开源视频编辑器| |
+
 ## [视频链接](https://www.bilibili.com/video/av114526510909173)
 
 |时间轴|简介|链接|
