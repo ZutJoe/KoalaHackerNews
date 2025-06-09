@@ -8,6 +8,22 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av114645545258184)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av114645545258184?t=9)|Rolldown-Vite ｜ Vite 构建速度提升显著|https://voidzero.dev/posts/announcing-rolldown-vite|
+|[00:41](https://www.bilibili.com/video/av114645545258184?t=41)|ast-grep ｜ 基于语法树的搜索工具|https://ast-grep.github.io/|
+|[01:03](https://www.bilibili.com/video/av114645545258184?t=63)|Quarkdown ｜ 超能力多功能 Markdown|https://github.com/iamgio/quarkdown|
+|[01:33](https://www.bilibili.com/video/av114645545258184?t=93)|Workers OAuth Provider ｜ 为 CloudFlare  Workers 添加 OAuth 认证|https://github.com/cloudflare/workers-oauth-provider|
+|[02:22](https://www.bilibili.com/video/av114645545258184?t=142)|go-binsize-treemap ｜ Go binary 体积可视化工具|https://github.com/nikolaydubina/go-binsize-treemap|
+|[02:52](https://www.bilibili.com/video/av114645545258184?t=172)|Go 官方 ｜ 不再改进错误处理语法|https://go.dev/blog/error-syntax|
+
+## [视频链接](https://www.bilibili.com/video/av114629153917125)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+
 ## [视频链接](https://www.bilibili.com/video/av114611705610537)
 
 |时间轴|简介|链接|

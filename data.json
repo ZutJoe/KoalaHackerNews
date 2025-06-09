@@ -1,5 +1,60 @@
 [
   {
+    "aid": 114645545258184,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 41
+        },
+        {
+          "minutes": 1,
+          "seconds": 3
+        },
+        {
+          "minutes": 1,
+          "seconds": 33
+        },
+        {
+          "minutes": 2,
+          "seconds": 22
+        },
+        {
+          "minutes": 2,
+          "seconds": 52
+        }
+      ],
+      "introduces": [
+        "Rolldown-Vite ｜ Vite 构建速度提升显著",
+        "ast-grep ｜ 基于语法树的搜索工具",
+        "Quarkdown ｜ 超能力多功能 Markdown",
+        "Workers OAuth Provider ｜ 为 CloudFlare  Workers 添加 OAuth 认证",
+        "go-binsize-treemap ｜ Go binary 体积可视化工具",
+        "Go 官方 ｜ 不再改进错误处理语法"
+      ],
+      "links": [
+        "https://voidzero.dev/posts/announcing-rolldown-vite",
+        "https://ast-grep.github.io/",
+        "https://github.com/iamgio/quarkdown",
+        "https://github.com/cloudflare/workers-oauth-provider",
+        "https://github.com/nikolaydubina/go-binsize-treemap",
+        "https://go.dev/blog/error-syntax"
+      ]
+    }
+  },
+  {
+    "aid": 114629153917125,
+    "hn_items": {
+      "times": [],
+      "introduces": [],
+      "links": []
+    }
+  },
+  {
     "aid": 114611705610537,
     "hn_items": {
       "times": [
