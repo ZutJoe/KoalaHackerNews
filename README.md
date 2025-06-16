@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av114684585840468)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av114684585840468?t=9)|Multigres ｜ Vitess 作者主导的 Postgres 扩展方案|https://supabase.com/blog/multigres-vitess-for-postgres|
+|[00:59](https://www.bilibili.com/video/av114684585840468?t=59)|TensorZero ｜ 高效优化 LLM 应用|https://github.com/tensorzero/tensorzero|
+|[01:43](https://www.bilibili.com/video/av114684585840468?t=103)|Somo ｜ 更友好的 netstat 替代品|https://github.com/theopfr/somo|
+|[02:19](https://www.bilibili.com/video/av114684585840468?t=139)|Taskmaster ｜ AI agent 专用项目经理|https://www.task-master.dev/|
+|[02:54](https://www.bilibili.com/video/av114684585840468?t=174)|s3mini ｜ 超轻量级 S3 客户端|https://github.com/good-lly/s3mini|
+|[03:31](https://www.bilibili.com/video/av114684585840468?t=211)|Spark ｜ THREE.js 的高效渲染器|https://github.com/sparkjsdev/spark|
+
 ## [视频链接](https://www.bilibili.com/video/av114645545258184)
 
 |时间轴|简介|链接|

@@ -1,5 +1,52 @@
 [
   {
+    "aid": 114684585840468,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 59
+        },
+        {
+          "minutes": 1,
+          "seconds": 43
+        },
+        {
+          "minutes": 2,
+          "seconds": 19
+        },
+        {
+          "minutes": 2,
+          "seconds": 54
+        },
+        {
+          "minutes": 3,
+          "seconds": 31
+        }
+      ],
+      "introduces": [
+        "Multigres ｜ Vitess 作者主导的 Postgres 扩展方案",
+        "TensorZero ｜ 高效优化 LLM 应用",
+        "Somo ｜ 更友好的 netstat 替代品",
+        "Taskmaster ｜ AI agent 专用项目经理",
+        "s3mini ｜ 超轻量级 S3 客户端",
+        "Spark ｜ THREE.js 的高效渲染器"
+      ],
+      "links": [
+        "https://supabase.com/blog/multigres-vitess-for-postgres",
+        "https://github.com/tensorzero/tensorzero",
+        "https://github.com/theopfr/somo",
+        "https://www.task-master.dev/",
+        "https://github.com/good-lly/s3mini",
+        "https://github.com/sparkjsdev/spark"
+      ]
+    }
+  },
+  {
     "aid": 114645545258184,
     "hn_items": {
       "times": [
