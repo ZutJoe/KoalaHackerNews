@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av114724767269031)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av114724767269031?t=9)|NoxDir ｜ 查看文件系统使用情况|https://github.com/crumbyte/noxdir|
+|[00:44](https://www.bilibili.com/video/av114724767269031?t=44)|Raggo ｜ Go 实现的轻量级 RAG 库|https://github.com/teilomillet/raggo|
+|[01:20](https://www.bilibili.com/video/av114724767269031?t=80)|Lingo.dev ｜ AI 18n 工具包|https://github.com/lingodotdev/lingo.dev|
+|[01:52](https://www.bilibili.com/video/av114724767269031?t=112)|Prefect ｜ Python 数据管道框架|https://github.com/PrefectHQ/prefect|
+|[02:33](https://www.bilibili.com/video/av114724767269031?t=153)|Liveblocks ｜ 为产品加入 AI 协同助手|https://liveblocks.io/|
+|[03:07](https://www.bilibili.com/video/av114724767269031?t=187)|Canine ｜ K8s 的强大，Heroku 的简洁|https://github.com/czhu12/canine|
+
 ## [视频链接](https://www.bilibili.com/video/av114684585840468)
 
 |时间轴|简介|链接|

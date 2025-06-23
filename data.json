@@ -1,5 +1,52 @@
 [
   {
+    "aid": 114724767269031,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 44
+        },
+        {
+          "minutes": 1,
+          "seconds": 20
+        },
+        {
+          "minutes": 1,
+          "seconds": 52
+        },
+        {
+          "minutes": 2,
+          "seconds": 33
+        },
+        {
+          "minutes": 3,
+          "seconds": 7
+        }
+      ],
+      "introduces": [
+        "NoxDir ｜ 查看文件系统使用情况",
+        "Raggo ｜ Go 实现的轻量级 RAG 库",
+        "Lingo.dev ｜ AI 18n 工具包",
+        "Prefect ｜ Python 数据管道框架",
+        "Liveblocks ｜ 为产品加入 AI 协同助手",
+        "Canine ｜ K8s 的强大，Heroku 的简洁"
+      ],
+      "links": [
+        "https://github.com/crumbyte/noxdir",
+        "https://github.com/teilomillet/raggo",
+        "https://github.com/lingodotdev/lingo.dev",
+        "https://github.com/PrefectHQ/prefect",
+        "https://liveblocks.io/",
+        "https://github.com/czhu12/canine"
+      ]
+    }
+  },
+  {
     "aid": 114684585840468,
     "hn_items": {
       "times": [
