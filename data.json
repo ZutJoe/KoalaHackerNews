@@ -1,5 +1,52 @@
 [
   {
+    "aid": 114804022840406,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 47
+        },
+        {
+          "minutes": 1,
+          "seconds": 28
+        },
+        {
+          "minutes": 2,
+          "seconds": 3
+        },
+        {
+          "minutes": 2,
+          "seconds": 29
+        },
+        {
+          "minutes": 3,
+          "seconds": 0
+        }
+      ],
+      "introduces": [
+        "Graphite ｜ 下一代开源图形编辑器",
+        "Evalite ｜ GenAI 测试工具",
+        "Kingfisher ｜ 高性能密钥扫描工具",
+        "Glass3D generator ｜ 玻璃质感 CSS 生成器",
+        "OpenCut ｜ 开源 CapCut 替代品",
+        "TokenDagger ｜ 高性能 tokenizer 实现"
+      ],
+      "links": [
+        "https://github.com/GraphiteEditor/Graphite",
+        "https://www.evalite.dev/",
+        "https://github.com/mongodb/kingfisher",
+        "https://glass3d.dev/",
+        "https://github.com/OpenCut-app/OpenCut",
+        "https://github.com/M4THYOU/TokenDagger"
+      ]
+    }
+  },
+  {
     "aid": 114764495719473,
     "hn_items": {
       "times": [],

@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av114804022840406)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av114804022840406?t=9)|Graphite ｜ 下一代开源图形编辑器|https://github.com/GraphiteEditor/Graphite|
+|[00:47](https://www.bilibili.com/video/av114804022840406?t=47)|Evalite ｜ GenAI 测试工具|https://www.evalite.dev/|
+|[01:28](https://www.bilibili.com/video/av114804022840406?t=88)|Kingfisher ｜ 高性能密钥扫描工具|https://github.com/mongodb/kingfisher|
+|[02:03](https://www.bilibili.com/video/av114804022840406?t=123)|Glass3D generator ｜ 玻璃质感 CSS 生成器|https://glass3d.dev/|
+|[02:29](https://www.bilibili.com/video/av114804022840406?t=149)|OpenCut ｜ 开源 CapCut 替代品|https://github.com/OpenCut-app/OpenCut|
+|[03:00](https://www.bilibili.com/video/av114804022840406?t=180)|TokenDagger ｜ 高性能 tokenizer 实现|https://github.com/M4THYOU/TokenDagger|
+
 ## [视频链接](https://www.bilibili.com/video/av114764495719473)
 
 |时间轴|简介|链接|
