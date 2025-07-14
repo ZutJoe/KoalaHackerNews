@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av114843600291149)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av114843600291149?t=9)|bknd ｜ Firebase/Supabase 替代方案|https://github.com/bknd-io/bknd|
+|[00:53](https://www.bilibili.com/video/av114843600291149?t=53)|Backlog.md ｜ 基于 Markdown 的看板|https://github.com/MrLesk/Backlog.md|
+|[01:31](https://www.bilibili.com/video/av114843600291149?t=91)|Cactus ｜ 手机里的 Ollama|https://github.com/cactus-compute/cactus|
+|[02:10](https://www.bilibili.com/video/av114843600291149?t=130)|BrowserOS ｜ 开源 Agentic 浏览器|https://www.browseros.com/|
+|[02:46](https://www.bilibili.com/video/av114843600291149?t=166)|Meilisearch ｜ 开源搜索引擎|https://www.meilisearch.com/|
+|[03:24](https://www.bilibili.com/video/av114843600291149?t=204)|思源笔记 ｜ 开源个人知识管理软件|https://github.com/siyuan-note/siyuan|
+
 ## [视频链接](https://www.bilibili.com/video/av114804022840406)
 
 |时间轴|简介|链接|

@@ -1,5 +1,52 @@
 [
   {
+    "aid": 114843600291149,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 53
+        },
+        {
+          "minutes": 1,
+          "seconds": 31
+        },
+        {
+          "minutes": 2,
+          "seconds": 10
+        },
+        {
+          "minutes": 2,
+          "seconds": 46
+        },
+        {
+          "minutes": 3,
+          "seconds": 24
+        }
+      ],
+      "introduces": [
+        "bknd ｜ Firebase/Supabase 替代方案",
+        "Backlog.md ｜ 基于 Markdown 的看板",
+        "Cactus ｜ 手机里的 Ollama",
+        "BrowserOS ｜ 开源 Agentic 浏览器",
+        "Meilisearch ｜ 开源搜索引擎",
+        "思源笔记 ｜ 开源个人知识管理软件"
+      ],
+      "links": [
+        "https://github.com/bknd-io/bknd",
+        "https://github.com/MrLesk/Backlog.md",
+        "https://github.com/cactus-compute/cactus",
+        "https://www.browseros.com/",
+        "https://www.meilisearch.com/",
+        "https://github.com/siyuan-note/siyuan"
+      ]
+    }
+  },
+  {
     "aid": 114804022840406,
     "hn_items": {
       "times": [
