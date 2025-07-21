@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av114883597175522)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av114883597175522?t=9)|VarLock ｜ .env 管理工具|https://varlock.dev/|
+|[00:43](https://www.bilibili.com/video/av114883597175522?t=43)|Kiro ｜ AWS 推出 coding agent|https://kiro.dev/|
+|[01:28](https://www.bilibili.com/video/av114883597175522?t=88)|RustFS ｜ 高性能分布式对象存储|https://github.com/rustfs/rustfs|
+|[02:15](https://www.bilibili.com/video/av114883597175522?t=135)|AI 辅助写日志 ｜ 专用小模型实践|https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/|
+|[02:58](https://www.bilibili.com/video/av114883597175522?t=178)|Uzu ｜ Apple 芯片高性能推理引擎|https://github.com/trymirai/uzu|
+|[03:40](https://www.bilibili.com/video/av114883597175522?t=220)|AmazingHand ｜ 开源低成本人形机械手|https://github.com/pollen-robotics/AmazingHand|
+
 ## [视频链接](https://www.bilibili.com/video/av114843600291149)
 
 |时间轴|简介|链接|

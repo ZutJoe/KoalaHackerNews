@@ -1,5 +1,52 @@
 [
   {
+    "aid": 114883597175522,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 43
+        },
+        {
+          "minutes": 1,
+          "seconds": 28
+        },
+        {
+          "minutes": 2,
+          "seconds": 15
+        },
+        {
+          "minutes": 2,
+          "seconds": 58
+        },
+        {
+          "minutes": 3,
+          "seconds": 40
+        }
+      ],
+      "introduces": [
+        "VarLock ｜ .env 管理工具",
+        "Kiro ｜ AWS 推出 coding agent",
+        "RustFS ｜ 高性能分布式对象存储",
+        "AI 辅助写日志 ｜ 专用小模型实践",
+        "Uzu ｜ Apple 芯片高性能推理引擎",
+        "AmazingHand ｜ 开源低成本人形机械手"
+      ],
+      "links": [
+        "https://varlock.dev/",
+        "https://kiro.dev/",
+        "https://github.com/rustfs/rustfs",
+        "https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/",
+        "https://github.com/trymirai/uzu",
+        "https://github.com/pollen-robotics/AmazingHand"
+      ]
+    }
+  },
+  {
     "aid": 114843600291149,
     "hn_items": {
       "times": [
