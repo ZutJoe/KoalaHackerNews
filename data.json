@@ -1,5 +1,45 @@
 [
   {
+    "aid": 114923409508599,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 47
+        },
+        {
+          "minutes": 1,
+          "seconds": 19
+        },
+        {
+          "minutes": 2,
+          "seconds": 7
+        },
+        {
+          "minutes": 2,
+          "seconds": 32
+        },
+        {
+          "minutes": 3,
+          "seconds": 17
+        }
+      ],
+      "introduces": [
+        "Conductor ｜ Claude Code 多任务并行",
+        "Fider ｜ 开源反馈收集平台",
+        "Redis 作者 LLM 编程感悟",
+        "AnimeAI ｜ GPT-4o 绘图画廊",
+        "Qwen3-Coder ｜ Qwen 最新代码大模型",
+        "Maybe ｜ 个人理财工具"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 114883597175522,
     "hn_items": {
       "times": [
@@ -3218,89 +3258,6 @@
           "https://astro.build/db/",
           "https://astro.build/blog/astro-db-deep-dive"
         ]
-      ]
-    }
-  },
-  {
-    "aid": 850617825,
-    "hn_items": {
-      "times": [
-        {
-          "minutes": 0,
-          "seconds": 9
-        },
-        {
-          "minutes": 1,
-          "seconds": 10
-        },
-        {
-          "minutes": 1,
-          "seconds": 31
-        },
-        {
-          "minutes": 1,
-          "seconds": 57
-        },
-        {
-          "minutes": 2,
-          "seconds": 16
-        },
-        {
-          "minutes": 2,
-          "seconds": 35
-        },
-        {
-          "minutes": 2,
-          "seconds": 53
-        },
-        {
-          "minutes": 3,
-          "seconds": 20
-        },
-        {
-          "minutes": 3,
-          "seconds": 42
-        },
-        {
-          "minutes": 4,
-          "seconds": 14
-        },
-        {
-          "minutes": 4,
-          "seconds": 50
-        },
-        {
-          "minutes": 5,
-          "seconds": 13
-        }
-      ],
-      "introduces": [
-        "任天堂掌上游戏机发展史回顾",
-        "《为什么要运行自己的 DNS 服务器？》",
-        "Zotero，一个开源的经典文献管理工具",
-        "Darling，一个帮助你在 Linux 上运行 Mac 应用程序的工具",
-        "coqui，克隆你的声音说外语",
-        "OpenDrop, 一个开源版的 AirDrop",
-        "Portmaster，一个帮助你管理电脑网络的开源软件",
-        "Papers We Love，一个专门研读学术类计算机科学论文的开源社区",
-        "关于 Zig 这个新兴编程语言的分析",
-        "Raycast 团队信奉无需 code review 的理念",
-        "利用浏览器 web GL 实现的东京地铁实时可视化地图",
-        "SpaceX Dragon 2 与国际空间站对接的模拟机"
-      ],
-      "links": [
-        "https://www.scanofthemonth.com/scans/game-boy-compendium",
-        "https://www.howtogeek.com/devops/how-to-run-your-own-dns-server-on-your-local-network/",
-        "https://www.zotero.org/",
-        "https://www.darlinghq.org/",
-        "https://coqui.ai/",
-        "https://github.com/seemoo-lab/opendrop",
-        "https://safing.io/",
-        "https://paperswelove.org/",
-        "https://www.duskborn.com/posts/2021-aoc-zig/",
-        "https://www.raycast.com/blog/no-code-reviews-by-default",
-        "",
-        "https://iss-sim.spacex.com/"
       ]
     }
   },
@@ -8925,95 +8882,6 @@
     }
   },
   {
-    "aid": 465206549,
-    "hn_items": {
-      "times": [
-        {
-          "minutes": 0,
-          "seconds": 9
-        },
-        {
-          "minutes": 0,
-          "seconds": 31
-        },
-        {
-          "minutes": 0,
-          "seconds": 45
-        },
-        {
-          "minutes": 1,
-          "seconds": 13
-        },
-        {
-          "minutes": 1,
-          "seconds": 33
-        },
-        {
-          "minutes": 1,
-          "seconds": 50
-        },
-        {
-          "minutes": 2,
-          "seconds": 10
-        },
-        {
-          "minutes": 2,
-          "seconds": 24
-        },
-        {
-          "minutes": 2,
-          "seconds": 43
-        },
-        {
-          "minutes": 2,
-          "seconds": 55
-        },
-        {
-          "minutes": 3,
-          "seconds": 7
-        },
-        {
-          "minutes": 3,
-          "seconds": 15
-        },
-        {
-          "minutes": 3,
-          "seconds": 30
-        }
-      ],
-      "introduces": [
-        "blender3.0 图形渲染工具",
-        "uBlacklist - 阻止特定的站点出现在谷歌的搜索结果中",
-        "Apache Guacamole 无客户端的远程桌面网端",
-        "Learn X in Y minutes",
-        "《语义搜索的自然语言处理》",
-        "Jam 自部署工具",
-        "Milk Video 通过上传的视频和音频生成声波图的工具",
-        "AlterClass -一个制作和销售编程课程的平台",
-        "Code Search 搜索代码工具",
-        "Lapce ｜基于原生 GUI 和 Rust 编写的开源代码编辑器",
-        "Rough.js -创建一个手绘的，粗略的图形外观的工具",
-        "Doodle CSS 手绘风格的主题css",
-        "Paper Website 从纸上建立一个网站界面"
-      ],
-      "links": [
-        "https://www.blender.org/download/releases/3-0/",
-        "https://github.com/iorate/uBlacklist",
-        "https://guacamole.apache.org/",
-        "https://learnxinyminutes.com/",
-        "https://www.pinecone.io/learn/nlp/",
-        "https://github.com/jam-systems/jam",
-        "https://app.milkvideo.com/",
-        "https://alterclass.io/",
-        "https://github.blog/2021-12-08-improving-github-code-search/",
-        "https://github.com/lapce/lapce",
-        "https://roughjs.com/",
-        "https://chr15m.github.io/DoodleCSS/",
-        "https://daily.tinyprojects.dev/paper_website"
-      ]
-    }
-  },
-  {
     "aid": 211446987,
     "hn_items": {
       "times": [
@@ -9122,89 +8990,6 @@
         "https://github.com/looker-open-source/malloy",
         "https://github.com/Textualize/rich-cli",
         "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32"
-      ]
-    }
-  },
-  {
-    "aid": 722854302,
-    "hn_items": {
-      "times": [
-        {
-          "minutes": 0,
-          "seconds": 8
-        },
-        {
-          "minutes": 0,
-          "seconds": 25
-        },
-        {
-          "minutes": 0,
-          "seconds": 49
-        },
-        {
-          "minutes": 1,
-          "seconds": 21
-        },
-        {
-          "minutes": 1,
-          "seconds": 38
-        },
-        {
-          "minutes": 1,
-          "seconds": 59
-        },
-        {
-          "minutes": 2,
-          "seconds": 26
-        },
-        {
-          "minutes": 2,
-          "seconds": 44
-        },
-        {
-          "minutes": 3,
-          "seconds": 1
-        },
-        {
-          "minutes": 3,
-          "seconds": 11
-        },
-        {
-          "minutes": 3,
-          "seconds": 37
-        },
-        {
-          "minutes": 4,
-          "seconds": 7
-        }
-      ],
-      "introduces": [
-        "波斯王子 一款为Mac开发的游戏",
-        "《一个HTML文件中的整个网站》",
-        "街头霸王2",
-        "emfy Emacs编辑器的配置项目",
-        "HTTP Toolkit",
-        "Exa - ls的现代替代品",
-        "Marktext -优雅的Markdown编辑器，适用于Linux, macOS, Windows",
-        "Tokio rust编写的开源异步库",
-        "Ruby 3.1",
-        "Python CheatSheet python 问题查询手册",
-        "《2021年的数据库:回顾的一年》",
-        "Miller -用于查询、塑造、重新格式化CSV、TSV和JSON中的数据的工具"
-      ],
-      "links": [
-        "",
-        "https://css-tricks.com/a-whole-website-in-a-single-html-file/",
-        "",
-        "https://github.com/susam/emfy",
-        "https://httptoolkit.tech/",
-        "https://the.exa.website/",
-        "https://github.com/marktext/marktext",
-        "https://tokio.rs/blog/2021-12-announcing-tokio-console",
-        "https://www.ruby-lang.org/en/news/2021/12/25/ruby-3-1-0-released/",
-        "https://gto76.github.io/python-cheatsheet/",
-        "https://ottertune.com/blog/2021-databases-retrospective/",
-        "https://miller.readthedocs.io/en/latest/"
       ]
     }
   },
@@ -9424,6 +9209,261 @@
           "https://github.com/antonmedv/fx"
         ],
         "https://looptap.vasanthv.com/"
+      ]
+    }
+  },
+  {
+    "aid": 850617825,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 1,
+          "seconds": 10
+        },
+        {
+          "minutes": 1,
+          "seconds": 31
+        },
+        {
+          "minutes": 1,
+          "seconds": 57
+        },
+        {
+          "minutes": 2,
+          "seconds": 16
+        },
+        {
+          "minutes": 2,
+          "seconds": 35
+        },
+        {
+          "minutes": 2,
+          "seconds": 53
+        },
+        {
+          "minutes": 3,
+          "seconds": 20
+        },
+        {
+          "minutes": 3,
+          "seconds": 42
+        },
+        {
+          "minutes": 4,
+          "seconds": 14
+        },
+        {
+          "minutes": 4,
+          "seconds": 50
+        },
+        {
+          "minutes": 5,
+          "seconds": 13
+        }
+      ],
+      "introduces": [
+        "任天堂掌上游戏机发展史回顾",
+        "《为什么要运行自己的 DNS 服务器？》",
+        "Zotero，一个开源的经典文献管理工具",
+        "Darling，一个帮助你在 Linux 上运行 Mac 应用程序的工具",
+        "coqui，克隆你的声音说外语",
+        "OpenDrop, 一个开源版的 AirDrop",
+        "Portmaster，一个帮助你管理电脑网络的开源软件",
+        "Papers We Love，一个专门研读学术类计算机科学论文的开源社区",
+        "关于 Zig 这个新兴编程语言的分析",
+        "Raycast 团队信奉无需 code review 的理念",
+        "利用浏览器 web GL 实现的东京地铁实时可视化地图",
+        "SpaceX Dragon 2 与国际空间站对接的模拟机"
+      ],
+      "links": [
+        "https://www.scanofthemonth.com/scans/game-boy-compendium",
+        "https://www.howtogeek.com/devops/how-to-run-your-own-dns-server-on-your-local-network/",
+        "https://www.zotero.org/",
+        "https://www.darlinghq.org/",
+        "https://coqui.ai/",
+        "https://github.com/seemoo-lab/opendrop",
+        "https://safing.io/",
+        "https://paperswelove.org/",
+        "https://www.duskborn.com/posts/2021-aoc-zig/",
+        "https://www.raycast.com/blog/no-code-reviews-by-default",
+        "",
+        "https://iss-sim.spacex.com/"
+      ]
+    }
+  },
+  {
+    "aid": 722854302,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 8
+        },
+        {
+          "minutes": 0,
+          "seconds": 25
+        },
+        {
+          "minutes": 0,
+          "seconds": 49
+        },
+        {
+          "minutes": 1,
+          "seconds": 21
+        },
+        {
+          "minutes": 1,
+          "seconds": 38
+        },
+        {
+          "minutes": 1,
+          "seconds": 59
+        },
+        {
+          "minutes": 2,
+          "seconds": 26
+        },
+        {
+          "minutes": 2,
+          "seconds": 44
+        },
+        {
+          "minutes": 3,
+          "seconds": 1
+        },
+        {
+          "minutes": 3,
+          "seconds": 11
+        },
+        {
+          "minutes": 3,
+          "seconds": 37
+        },
+        {
+          "minutes": 4,
+          "seconds": 7
+        }
+      ],
+      "introduces": [
+        "波斯王子 一款为Mac开发的游戏",
+        "《一个HTML文件中的整个网站》",
+        "街头霸王2",
+        "emfy Emacs编辑器的配置项目",
+        "HTTP Toolkit",
+        "Exa - ls的现代替代品",
+        "Marktext -优雅的Markdown编辑器，适用于Linux, macOS, Windows",
+        "Tokio rust编写的开源异步库",
+        "Ruby 3.1",
+        "Python CheatSheet python 问题查询手册",
+        "《2021年的数据库:回顾的一年》",
+        "Miller -用于查询、塑造、重新格式化CSV、TSV和JSON中的数据的工具"
+      ],
+      "links": [
+        "",
+        "https://css-tricks.com/a-whole-website-in-a-single-html-file/",
+        "",
+        "https://github.com/susam/emfy",
+        "https://httptoolkit.tech/",
+        "https://the.exa.website/",
+        "https://github.com/marktext/marktext",
+        "https://tokio.rs/blog/2021-12-announcing-tokio-console",
+        "https://www.ruby-lang.org/en/news/2021/12/25/ruby-3-1-0-released/",
+        "https://gto76.github.io/python-cheatsheet/",
+        "https://ottertune.com/blog/2021-databases-retrospective/",
+        "https://miller.readthedocs.io/en/latest/"
+      ]
+    }
+  },
+  {
+    "aid": 465206549,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 31
+        },
+        {
+          "minutes": 0,
+          "seconds": 45
+        },
+        {
+          "minutes": 1,
+          "seconds": 13
+        },
+        {
+          "minutes": 1,
+          "seconds": 33
+        },
+        {
+          "minutes": 1,
+          "seconds": 50
+        },
+        {
+          "minutes": 2,
+          "seconds": 10
+        },
+        {
+          "minutes": 2,
+          "seconds": 24
+        },
+        {
+          "minutes": 2,
+          "seconds": 43
+        },
+        {
+          "minutes": 2,
+          "seconds": 55
+        },
+        {
+          "minutes": 3,
+          "seconds": 7
+        },
+        {
+          "minutes": 3,
+          "seconds": 15
+        },
+        {
+          "minutes": 3,
+          "seconds": 30
+        }
+      ],
+      "introduces": [
+        "blender3.0 图形渲染工具",
+        "uBlacklist - 阻止特定的站点出现在谷歌的搜索结果中",
+        "Apache Guacamole 无客户端的远程桌面网端",
+        "Learn X in Y minutes",
+        "《语义搜索的自然语言处理》",
+        "Jam 自部署工具",
+        "Milk Video 通过上传的视频和音频生成声波图的工具",
+        "AlterClass -一个制作和销售编程课程的平台",
+        "Code Search 搜索代码工具",
+        "Lapce ｜基于原生 GUI 和 Rust 编写的开源代码编辑器",
+        "Rough.js -创建一个手绘的，粗略的图形外观的工具",
+        "Doodle CSS 手绘风格的主题css",
+        "Paper Website 从纸上建立一个网站界面"
+      ],
+      "links": [
+        "https://www.blender.org/download/releases/3-0/",
+        "https://github.com/iorate/uBlacklist",
+        "https://guacamole.apache.org/",
+        "https://learnxinyminutes.com/",
+        "https://www.pinecone.io/learn/nlp/",
+        "https://github.com/jam-systems/jam",
+        "https://app.milkvideo.com/",
+        "https://alterclass.io/",
+        "https://github.blog/2021-12-08-improving-github-code-search/",
+        "https://github.com/lapce/lapce",
+        "https://roughjs.com/",
+        "https://chr15m.github.io/DoodleCSS/",
+        "https://daily.tinyprojects.dev/paper_website"
       ]
     }
   }
