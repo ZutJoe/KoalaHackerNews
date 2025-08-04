@@ -1,5 +1,45 @@
 [
   {
+    "aid": 114962735303486,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 44
+        },
+        {
+          "minutes": 1,
+          "seconds": 16
+        },
+        {
+          "minutes": 1,
+          "seconds": 50
+        },
+        {
+          "minutes": 2,
+          "seconds": 26
+        },
+        {
+          "minutes": 3,
+          "seconds": 0
+        }
+      ],
+      "introduces": [
+        "copyparty ｜ 多协议文件服务器",
+        "KubeSphere ｜ 国产容器平台宣布闭源",
+        "claude-code-reverse ｜ Claude Code 逆向工具",
+        "mirrord ｜ 本地开发，云端体验",
+        "Change Detection ｜ 网站变更监控神器",
+        "wg-easy ｜ WireGuard 管理界面"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 114923409508599,
     "hn_items": {
       "times": [

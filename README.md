@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av114962735303486)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av114962735303486?t=9)|copyparty ｜ 多协议文件服务器| |
+|[00:44](https://www.bilibili.com/video/av114962735303486?t=44)|KubeSphere ｜ 国产容器平台宣布闭源| |
+|[01:16](https://www.bilibili.com/video/av114962735303486?t=76)|claude-code-reverse ｜ Claude Code 逆向工具| |
+|[01:50](https://www.bilibili.com/video/av114962735303486?t=110)|mirrord ｜ 本地开发，云端体验| |
+|[02:26](https://www.bilibili.com/video/av114962735303486?t=146)|Change Detection ｜ 网站变更监控神器| |
+|[03:00](https://www.bilibili.com/video/av114962735303486?t=180)|wg-easy ｜ WireGuard 管理界面| |
+
 ## [视频链接](https://www.bilibili.com/video/av114923409508599)
 
 |时间轴|简介|链接|
