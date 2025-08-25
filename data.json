@@ -1,5 +1,45 @@
 [
   {
+    "aid": 115081635433570,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 46
+        },
+        {
+          "minutes": 1,
+          "seconds": 28
+        },
+        {
+          "minutes": 2,
+          "seconds": 7
+        },
+        {
+          "minutes": 2,
+          "seconds": 41
+        },
+        {
+          "minutes": 3,
+          "seconds": 23
+        }
+      ],
+      "introduces": [
+        "Langfuse ｜ 大模型工程平台现新选择",
+        "OverType ｜ 简约 Markdown 编辑器",
+        "Sidequest.js ｜ Node.js 消息队列中间件",
+        "Hyperclay ｜ 单文件 Web 应用",
+        "Effect ｜ TS 函数式编程利器",
+        "Rotel ｜ 高性能可观测数据采集"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 115041906983359,
     "hn_items": {
       "times": [
