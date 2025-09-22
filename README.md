@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av115240532511001)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av115240532511001?t=9)|LÖVE ｜ 轻量级2D游戏框架| |
+|[00:44](https://www.bilibili.com/video/av115240532511001?t=44)|asciinema 3.0 ｜ 终端录制工具大升级| |
+|[01:15](https://www.bilibili.com/video/av115240532511001?t=75)|Murex ｜ 智能化命令行终端| |
+|[01:55](https://www.bilibili.com/video/av115240532511001?t=115)|Fluid ｜ 云原生数据加速平台| |
+|[02:33](https://www.bilibili.com/video/av115240532511001?t=153)|Mooncake  ｜ Kimi 背后的 KVCache 框架| |
+|[03:15](https://www.bilibili.com/video/av115240532511001?t=195)|Jetzig ｜ Zig 高性能 Web 框架| |
+
 ## [视频链接](https://www.bilibili.com/video/av115161243321870)
 
 |时间轴|简介|链接|

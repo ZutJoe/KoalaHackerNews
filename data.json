@@ -1,5 +1,45 @@
 [
   {
+    "aid": 115240532511001,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 44
+        },
+        {
+          "minutes": 1,
+          "seconds": 15
+        },
+        {
+          "minutes": 1,
+          "seconds": 55
+        },
+        {
+          "minutes": 2,
+          "seconds": 33
+        },
+        {
+          "minutes": 3,
+          "seconds": 15
+        }
+      ],
+      "introduces": [
+        "LÖVE ｜ 轻量级2D游戏框架",
+        "asciinema 3.0 ｜ 终端录制工具大升级",
+        "Murex ｜ 智能化命令行终端",
+        "Fluid ｜ 云原生数据加速平台",
+        "Mooncake  ｜ Kimi 背后的 KVCache 框架",
+        "Jetzig ｜ Zig 高性能 Web 框架"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 115161243321870,
     "hn_items": {
       "times": [],
