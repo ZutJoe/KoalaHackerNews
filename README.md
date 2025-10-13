@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av115359130650936)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av115359130650936?t=9)|bat ｜ 终端下的代码阅读器| |
+|[00:41](https://www.bilibili.com/video/av115359130650936?t=41)|ut ｜ 命令行瑞士军刀| |
+|[01:21](https://www.bilibili.com/video/av115359130650936?t=81)|WinBoat ｜ 在 Linux 运行 Windows 应用| |
+|[02:07](https://www.bilibili.com/video/av115359130650936?t=127)|Modal Notebooks ｜ 云端 GPU Notebook| |
+|[02:53](https://www.bilibili.com/video/av115359130650936?t=173)|Spock ｜ PostgreSQL 多主复制方案| |
+|[03:33](https://www.bilibili.com/video/av115359130650936?t=213)|Reverse Engineering Browser ｜ 深入浏览器内核的逆向工具| |
+
 ## [视频链接](https://www.bilibili.com/video/av115280160229488)
 
 |时间轴|简介|链接|
