@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av115398808767179)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av115398808767179?t=9)|MCP Inspector ｜ MCP 调试工具| |
+|[00:49](https://www.bilibili.com/video/av115398808767179?t=49)|Cloudflare Sandbox ｜ 边缘网络代码沙盒| |
+|[01:24](https://www.bilibili.com/video/av115398808767179?t=84)|DevPush：开源版 Vercel，一键部署任何语言| |
+|[02:14](https://www.bilibili.com/video/av115398808767179?t=134)|Apache Iceberg ｜ 大数据新标准| |
+|[03:01](https://www.bilibili.com/video/av115398808767179?t=181)|WebAV ｜ WebCodecs 视频处理库| |
+|[03:46](https://www.bilibili.com/video/av115398808767179?t=226)|Halloy ｜ Rust 编写的 IRC 客户端| |
+
 ## [视频链接](https://www.bilibili.com/video/av115359130650936)
 
 |时间轴|简介|链接|

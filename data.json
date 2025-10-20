@@ -1,5 +1,45 @@
 [
   {
+    "aid": 115398808767179,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 49
+        },
+        {
+          "minutes": 1,
+          "seconds": 24
+        },
+        {
+          "minutes": 2,
+          "seconds": 14
+        },
+        {
+          "minutes": 3,
+          "seconds": 1
+        },
+        {
+          "minutes": 3,
+          "seconds": 46
+        }
+      ],
+      "introduces": [
+        "MCP Inspector ｜ MCP 调试工具",
+        "Cloudflare Sandbox ｜ 边缘网络代码沙盒",
+        "DevPush：开源版 Vercel，一键部署任何语言",
+        "Apache Iceberg ｜ 大数据新标准",
+        "WebAV ｜ WebCodecs 视频处理库",
+        "Halloy ｜ Rust 编写的 IRC 客户端"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 115359130650936,
     "hn_items": {
       "times": [
