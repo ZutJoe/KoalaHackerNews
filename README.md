@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av115438352664082)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av115438352664082?t=9)|Vitest 4.0 ｜ 测试框架的成熟跃迁| |
+|[00:39](https://www.bilibili.com/video/av115438352664082?t=39)|daily scripts ｜ 开发者的私房工具箱| |
+|[01:18](https://www.bilibili.com/video/av115438352664082?t=78)|AWS 故障复盘| |
+|[02:07](https://www.bilibili.com/video/av115438352664082?t=127)|Easy Dataset ｜ 微调数据集生成工具| |
+|[02:48](https://www.bilibili.com/video/av115438352664082?t=168)|Workflow DevKit ｜ Vercel 开源持久化工作流| |
+|[03:31](https://www.bilibili.com/video/av115438352664082?t=211)|Pogocache ｜ 缓存领域的新挑战者| |
+
 ## [视频链接](https://www.bilibili.com/video/av115398808767179)
 
 |时间轴|简介|链接|

@@ -1,5 +1,45 @@
 [
   {
+    "aid": 115438352664082,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 39
+        },
+        {
+          "minutes": 1,
+          "seconds": 18
+        },
+        {
+          "minutes": 2,
+          "seconds": 7
+        },
+        {
+          "minutes": 2,
+          "seconds": 48
+        },
+        {
+          "minutes": 3,
+          "seconds": 31
+        }
+      ],
+      "introduces": [
+        "Vitest 4.0 ｜ 测试框架的成熟跃迁",
+        "daily scripts ｜ 开发者的私房工具箱",
+        "AWS 故障复盘",
+        "Easy Dataset ｜ 微调数据集生成工具",
+        "Workflow DevKit ｜ Vercel 开源持久化工作流",
+        "Pogocache ｜ 缓存领域的新挑战者"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 115398808767179,
     "hn_items": {
       "times": [
