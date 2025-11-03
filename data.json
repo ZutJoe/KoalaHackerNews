@@ -1,5 +1,45 @@
 [
   {
+    "aid": 115478181776471,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 47
+        },
+        {
+          "minutes": 1,
+          "seconds": 27
+        },
+        {
+          "minutes": 2,
+          "seconds": 4
+        },
+        {
+          "minutes": 2,
+          "seconds": 41
+        },
+        {
+          "minutes": 3,
+          "seconds": 20
+        }
+      ],
+      "introduces": [
+        "0github ｜ 给 PR 装上热力图",
+        "ArkRegex ｜ 神奇的类型安全正则",
+        "NavCat ｜ JS 3D导航网格库",
+        "GPUI Component ｜ Rust 桌面应用组件库",
+        "GoBackup ｜ 轻量级服务器备份方案",
+        "Deta Surf 开源 ｜ AI 笔记本"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 115438352664082,
     "hn_items": {
       "times": [
