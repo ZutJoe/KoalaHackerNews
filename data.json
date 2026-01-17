@@ -1,5 +1,405 @@
 [
   {
+    "aid": 115871120951441,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 41
+        },
+        {
+          "minutes": 1,
+          "seconds": 30
+        },
+        {
+          "minutes": 2,
+          "seconds": 12
+        },
+        {
+          "minutes": 2,
+          "seconds": 48
+        },
+        {
+          "minutes": 3,
+          "seconds": 31
+        }
+      ],
+      "introduces": [
+        "Worktrunk ｜ Git Worktree 管理工具",
+        "Vibe Kanban ｜ Agent 统一指挥中枢",
+        "docker-android ｜ 一键可用的安卓环境",
+        "Diffs ｜ 更美观易读的 diff 渲染",
+        "taws ｜ 把 AWS 控制台搬进终端",
+        "Memos ｜ 5 分钟搭好的私有笔记"
+      ],
+      "links": []
+    }
+  },
+  {
+    "aid": 115840703793411,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 51
+        },
+        {
+          "minutes": 1,
+          "seconds": 34
+        },
+        {
+          "minutes": 2,
+          "seconds": 15
+        },
+        {
+          "minutes": 2,
+          "seconds": 57
+        },
+        {
+          "minutes": 3,
+          "seconds": 34
+        }
+      ],
+      "introduces": [
+        "Osaurus ｜ Mac上的 AI 集成终端",
+        "FracturedJson ｜ 更聪明的JSON格式化",
+        "CocoIndex ｜ AI时代的数据管道",
+        "mapcn ｜ 高颜值极简地图组件",
+        "BundleMon ｜ 包体积监控利器",
+        "Codecrafters ｜ 73个硬核编程项目"
+      ],
+      "links": []
+    }
+  },
+  {
+    "aid": 115795036210670,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 46
+        },
+        {
+          "minutes": 1,
+          "seconds": 23
+        },
+        {
+          "minutes": 1,
+          "seconds": 59
+        },
+        {
+          "minutes": 2,
+          "seconds": 42
+        },
+        {
+          "minutes": 3,
+          "seconds": 24
+        }
+      ],
+      "introduces": [
+        "Micro QuickJS  ｜ 嵌入式JS引擎",
+        "picknplace.js ｜ 排序交互新思路",
+        "witr ｜ 进程追踪利器",
+        "HTML2PNG ｜ HTML直出图片服务",
+        "Vibium ｜ Selenium 创始人新自动化工具",
+        "Gaming Couch ｜ 轻量级 8 人小游戏平台"
+      ],
+      "links": []
+    }
+  },
+  {
+    "aid": 115755525867834,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 45
+        },
+        {
+          "minutes": 1,
+          "seconds": 25
+        },
+        {
+          "minutes": 2,
+          "seconds": 4
+        },
+        {
+          "minutes": 2,
+          "seconds": 42
+        },
+        {
+          "minutes": 3,
+          "seconds": 29
+        }
+      ],
+      "introduces": [
+        "ty ｜ 极速 Python 类型检查器",
+        "Agent Skills ｜ 智能体的技能包标准",
+        "Tangled ｜ 去中心化社交 Git",
+        "Runme ｜ 基于 Markdown 的 DevOps 工具",
+        "pg_textsearch：Postgres 内嵌 BM25 搜索",
+        "Karpathy 眼中的 2025 LLM"
+      ],
+      "links": []
+    }
+  },
+  {
+    "aid": 115715914990838,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 55
+        },
+        {
+          "minutes": 1,
+          "seconds": 33
+        },
+        {
+          "minutes": 2,
+          "seconds": 11
+        },
+        {
+          "minutes": 2,
+          "seconds": 53
+        },
+        {
+          "minutes": 3,
+          "seconds": 28
+        }
+      ],
+      "introduces": [
+        "Elysia ｜ Bun 生态的新锐框架",
+        "Analytics Buckets ｜ Supabase 推出分析存储",
+        "Remix Store ｜ Remix 开源实战项目",
+        "Walrus ｜ 开源数据流引擎",
+        "check-if-email-exists ｜ 邮箱真实性验证工具",
+        "Marmot ｜ Marmot 开源数据资产目录"
+      ],
+      "links": []
+    }
+  },
+  {
+    "aid": 115676270430733,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 56
+        },
+        {
+          "minutes": 1,
+          "seconds": 38
+        },
+        {
+          "minutes": 2,
+          "seconds": 16
+        },
+        {
+          "minutes": 2,
+          "seconds": 57
+        },
+        {
+          "minutes": 3,
+          "seconds": 29
+        }
+      ],
+      "introduces": [
+        "TanStack AI ｜ TanStack 进军 AI",
+        "Uncloud ｜ 去 K8s 的简易云方案",
+        "Fresh ｜ 现代终端文本编辑器",
+        "go-size-analyzer ｜ Go 二进制瘦身",
+        "Bun ｜ JS 运行时的新归宿",
+        "Vite 8 Beta ｜ Rust重写的构建工具链"
+      ],
+      "links": []
+    }
+  },
+  {
+    "aid": 115636608960783,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 44
+        },
+        {
+          "minutes": 1,
+          "seconds": 23
+        },
+        {
+          "minutes": 1,
+          "seconds": 58
+        },
+        {
+          "minutes": 2,
+          "seconds": 30
+        },
+        {
+          "minutes": 3,
+          "seconds": 15
+        }
+      ],
+      "introduces": [
+        "gitlogue ｜ 把 Git 历史拍成终端大片",
+        "KTransformers ｜ 大模型异构计算框架",
+        "hl ｜ 高性能日志解析器",
+        "CrossPaste ｜ 跨设备剪贴板神器",
+        "Prisma 7 ｜ 告别Rust重构成功",
+        "Weblate ｜ 开源本地化平台"
+      ],
+      "links": []
+    }
+  },
+  {
+    "aid": 115597048285519,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 55
+        },
+        {
+          "minutes": 1,
+          "seconds": 30
+        },
+        {
+          "minutes": 2,
+          "seconds": 7
+        },
+        {
+          "minutes": 2,
+          "seconds": 41
+        },
+        {
+          "minutes": 3,
+          "seconds": 16
+        }
+      ],
+      "introduces": [
+        "Gemini 3 ｜ Google 的「满配」旗舰",
+        "Lima ｜ macOS 上的 Linux 虚拟机神器",
+        "Tracy ｜ 纳秒级的性能显微镜",
+        "Rallly ｜ 告别邮件来回的日程协调",
+        "Wealthfolio ｜ 开源离线私人投资管家",
+        "Blockly 毕业，加入树莓派基金会"
+      ],
+      "links": []
+    }
+  },
+  {
+    "aid": 115557269505761,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 49
+        },
+        {
+          "minutes": 1,
+          "seconds": 26
+        },
+        {
+          "minutes": 2,
+          "seconds": 3
+        },
+        {
+          "minutes": 2,
+          "seconds": 47
+        },
+        {
+          "minutes": 3,
+          "seconds": 20
+        }
+      ],
+      "introduces": [
+        "Valdi ｜ Snapchat 开源跨平台框架",
+        "Ratatui ｜ 终端界面也能很现代",
+        "Strix ｜ AI 渗透测试工具",
+        "Thermoptic ｜ HTTP 隐身代理",
+        "Gametje ｜ 聚会小游戏大全",
+        "Figma Weave ｜ Figma 收购创意平台"
+      ],
+      "links": []
+    }
+  },
+  {
+    "aid": 115517608167397,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 38
+        },
+        {
+          "minutes": 1,
+          "seconds": 18
+        },
+        {
+          "minutes": 1,
+          "seconds": 57
+        },
+        {
+          "minutes": 2,
+          "seconds": 38
+        },
+        {
+          "minutes": 3,
+          "seconds": 20
+        }
+      ],
+      "introduces": [
+        "Fang ｜ Go CLI 应用脚手架",
+        "OpenTUI ｜ JS TUI 框架新选择",
+        "pg_lake ｜ Postgres 湖仓集成",
+        "TOON ｜ LLM 专属数据格式",
+        "Skyvern ｜ AI 浏览器自动化",
+        "slime ｜ LLM RL 训练框架"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 115478181776471,
     "hn_items": {
       "times": [

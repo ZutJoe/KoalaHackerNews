@@ -66,7 +66,8 @@ def get_aids() -> Iterator[int]:
     for page_num in itertools.count(1):
         params = {
             "mid": "489667127",
-            "season_id": "249279",
+            # "season_id": "249279", # Koala聊开源的 hacker news 合集 sid 1-200 期
+            "season_id": "6725872",  # Koala聊开源的 hacker news 合集 sid 201 期及以后
             "sort_reverse": "false",
             "page_num": str(page_num),
             "page_size": "30",
@@ -230,12 +231,17 @@ def load_data_json() -> list[VideoInfo]:
 def save_data_json(video_info_list: list[VideoInfo]) -> None:
     data = [dataclasses.asdict(video_info) for video_info in video_info_list]
 
+    # 获取 data.json 中的数据
+    with open("data.json", encoding="utf-8") as f:
+        existing_data = json.load(f)
+    data = data + existing_data
+
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
         f.write("\n")  # 为文本文件添加行尾换行符
 
 
-def update_data_json() -> list[VideoInfo]:
+def update_data_json():
     """
     更新最新视频数据，解析后保存到 data.json
     """
@@ -256,10 +262,9 @@ def update_data_json() -> list[VideoInfo]:
                 aid=aid,
                 hn_items=parse_top_comment(get_top_comment(aid)),
             )
-        new_video_infos.append(video_info)
+            new_video_infos.append(video_info)
 
     save_data_json(new_video_infos)
-    return new_video_infos
 
 
 def generate_md_table(video_info: VideoInfo) -> list[str]:
@@ -504,9 +509,12 @@ def write_html(video_infos: list[VideoInfo]) -> None:
 
 def main() -> None:
     # video_infos = load_data_json()
-    video_infos = update_data_json()
-    write_md(video_infos)
-    write_html(video_infos)
+    update_data_json()
+    with open("data.json", encoding="utf-8") as f:
+        existing_data = json.load(f)
+        video_infos = [VideoInfo.from_dict(video_info) for video_info in existing_data]
+        write_md(video_infos)
+        write_html(video_infos)
 
 
 if __name__ == "__main__":

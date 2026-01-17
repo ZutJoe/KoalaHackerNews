@@ -8,6 +8,116 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av115871120951441)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av115871120951441?t=9)|Worktrunk ｜ Git Worktree 管理工具| |
+|[00:41](https://www.bilibili.com/video/av115871120951441?t=41)|Vibe Kanban ｜ Agent 统一指挥中枢| |
+|[01:30](https://www.bilibili.com/video/av115871120951441?t=90)|docker-android ｜ 一键可用的安卓环境| |
+|[02:12](https://www.bilibili.com/video/av115871120951441?t=132)|Diffs ｜ 更美观易读的 diff 渲染| |
+|[02:48](https://www.bilibili.com/video/av115871120951441?t=168)|taws ｜ 把 AWS 控制台搬进终端| |
+|[03:31](https://www.bilibili.com/video/av115871120951441?t=211)|Memos ｜ 5 分钟搭好的私有笔记| |
+
+## [视频链接](https://www.bilibili.com/video/av115840703793411)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av115840703793411?t=9)|Osaurus ｜ Mac上的 AI 集成终端| |
+|[00:51](https://www.bilibili.com/video/av115840703793411?t=51)|FracturedJson ｜ 更聪明的JSON格式化| |
+|[01:34](https://www.bilibili.com/video/av115840703793411?t=94)|CocoIndex ｜ AI时代的数据管道| |
+|[02:15](https://www.bilibili.com/video/av115840703793411?t=135)|mapcn ｜ 高颜值极简地图组件| |
+|[02:57](https://www.bilibili.com/video/av115840703793411?t=177)|BundleMon ｜ 包体积监控利器| |
+|[03:34](https://www.bilibili.com/video/av115840703793411?t=214)|Codecrafters ｜ 73个硬核编程项目| |
+
+## [视频链接](https://www.bilibili.com/video/av115795036210670)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av115795036210670?t=9)|Micro QuickJS  ｜ 嵌入式JS引擎| |
+|[00:46](https://www.bilibili.com/video/av115795036210670?t=46)|picknplace.js ｜ 排序交互新思路| |
+|[01:23](https://www.bilibili.com/video/av115795036210670?t=83)|witr ｜ 进程追踪利器| |
+|[01:59](https://www.bilibili.com/video/av115795036210670?t=119)|HTML2PNG ｜ HTML直出图片服务| |
+|[02:42](https://www.bilibili.com/video/av115795036210670?t=162)|Vibium ｜ Selenium 创始人新自动化工具| |
+|[03:24](https://www.bilibili.com/video/av115795036210670?t=204)|Gaming Couch ｜ 轻量级 8 人小游戏平台| |
+
+## [视频链接](https://www.bilibili.com/video/av115755525867834)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av115755525867834?t=9)|ty ｜ 极速 Python 类型检查器| |
+|[00:45](https://www.bilibili.com/video/av115755525867834?t=45)|Agent Skills ｜ 智能体的技能包标准| |
+|[01:25](https://www.bilibili.com/video/av115755525867834?t=85)|Tangled ｜ 去中心化社交 Git| |
+|[02:04](https://www.bilibili.com/video/av115755525867834?t=124)|Runme ｜ 基于 Markdown 的 DevOps 工具| |
+|[02:42](https://www.bilibili.com/video/av115755525867834?t=162)|pg_textsearch：Postgres 内嵌 BM25 搜索| |
+|[03:29](https://www.bilibili.com/video/av115755525867834?t=209)|Karpathy 眼中的 2025 LLM| |
+
+## [视频链接](https://www.bilibili.com/video/av115715914990838)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av115715914990838?t=9)|Elysia ｜ Bun 生态的新锐框架| |
+|[00:55](https://www.bilibili.com/video/av115715914990838?t=55)|Analytics Buckets ｜ Supabase 推出分析存储| |
+|[01:33](https://www.bilibili.com/video/av115715914990838?t=93)|Remix Store ｜ Remix 开源实战项目| |
+|[02:11](https://www.bilibili.com/video/av115715914990838?t=131)|Walrus ｜ 开源数据流引擎| |
+|[02:53](https://www.bilibili.com/video/av115715914990838?t=173)|check-if-email-exists ｜ 邮箱真实性验证工具| |
+|[03:28](https://www.bilibili.com/video/av115715914990838?t=208)|Marmot ｜ Marmot 开源数据资产目录| |
+
+## [视频链接](https://www.bilibili.com/video/av115676270430733)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av115676270430733?t=9)|TanStack AI ｜ TanStack 进军 AI| |
+|[00:56](https://www.bilibili.com/video/av115676270430733?t=56)|Uncloud ｜ 去 K8s 的简易云方案| |
+|[01:38](https://www.bilibili.com/video/av115676270430733?t=98)|Fresh ｜ 现代终端文本编辑器| |
+|[02:16](https://www.bilibili.com/video/av115676270430733?t=136)|go-size-analyzer ｜ Go 二进制瘦身| |
+|[02:57](https://www.bilibili.com/video/av115676270430733?t=177)|Bun ｜ JS 运行时的新归宿| |
+|[03:29](https://www.bilibili.com/video/av115676270430733?t=209)|Vite 8 Beta ｜ Rust重写的构建工具链| |
+
+## [视频链接](https://www.bilibili.com/video/av115636608960783)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av115636608960783?t=9)|gitlogue ｜ 把 Git 历史拍成终端大片| |
+|[00:44](https://www.bilibili.com/video/av115636608960783?t=44)|KTransformers ｜ 大模型异构计算框架| |
+|[01:23](https://www.bilibili.com/video/av115636608960783?t=83)|hl ｜ 高性能日志解析器| |
+|[01:58](https://www.bilibili.com/video/av115636608960783?t=118)|CrossPaste ｜ 跨设备剪贴板神器| |
+|[02:30](https://www.bilibili.com/video/av115636608960783?t=150)|Prisma 7 ｜ 告别Rust重构成功| |
+|[03:15](https://www.bilibili.com/video/av115636608960783?t=195)|Weblate ｜ 开源本地化平台| |
+
+## [视频链接](https://www.bilibili.com/video/av115597048285519)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av115597048285519?t=9)|Gemini 3 ｜ Google 的「满配」旗舰| |
+|[00:55](https://www.bilibili.com/video/av115597048285519?t=55)|Lima ｜ macOS 上的 Linux 虚拟机神器| |
+|[01:30](https://www.bilibili.com/video/av115597048285519?t=90)|Tracy ｜ 纳秒级的性能显微镜| |
+|[02:07](https://www.bilibili.com/video/av115597048285519?t=127)|Rallly ｜ 告别邮件来回的日程协调| |
+|[02:41](https://www.bilibili.com/video/av115597048285519?t=161)|Wealthfolio ｜ 开源离线私人投资管家| |
+|[03:16](https://www.bilibili.com/video/av115597048285519?t=196)|Blockly 毕业，加入树莓派基金会| |
+
+## [视频链接](https://www.bilibili.com/video/av115557269505761)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av115557269505761?t=9)|Valdi ｜ Snapchat 开源跨平台框架| |
+|[00:49](https://www.bilibili.com/video/av115557269505761?t=49)|Ratatui ｜ 终端界面也能很现代| |
+|[01:26](https://www.bilibili.com/video/av115557269505761?t=86)|Strix ｜ AI 渗透测试工具| |
+|[02:03](https://www.bilibili.com/video/av115557269505761?t=123)|Thermoptic ｜ HTTP 隐身代理| |
+|[02:47](https://www.bilibili.com/video/av115557269505761?t=167)|Gametje ｜ 聚会小游戏大全| |
+|[03:20](https://www.bilibili.com/video/av115557269505761?t=200)|Figma Weave ｜ Figma 收购创意平台| |
+
+## [视频链接](https://www.bilibili.com/video/av115517608167397)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av115517608167397?t=9)|Fang ｜ Go CLI 应用脚手架| |
+|[00:38](https://www.bilibili.com/video/av115517608167397?t=38)|OpenTUI ｜ JS TUI 框架新选择| |
+|[01:18](https://www.bilibili.com/video/av115517608167397?t=78)|pg_lake ｜ Postgres 湖仓集成| |
+|[01:57](https://www.bilibili.com/video/av115517608167397?t=117)|TOON ｜ LLM 专属数据格式| |
+|[02:38](https://www.bilibili.com/video/av115517608167397?t=158)|Skyvern ｜ AI 浏览器自动化| |
+|[03:20](https://www.bilibili.com/video/av115517608167397?t=200)|slime ｜ LLM RL 训练框架| |
+
 ## [视频链接](https://www.bilibili.com/video/av115478181776471)
 
 |时间轴|简介|链接|
