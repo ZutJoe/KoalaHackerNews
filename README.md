@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av115914154707186)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av115914154707186?t=9)|AgentFS ｜ 给 AI agent 的沙盒文件系统| |
+|[00:51](https://www.bilibili.com/video/av115914154707186?t=51)|json-render ｜ 基于 JSON 的 AI 生成 UI| |
+|[01:37](https://www.bilibili.com/video/av115914154707186?t=97)|Open Responses ｜ OpenAI Response 接口规范| |
+|[02:20](https://www.bilibili.com/video/av115914154707186?t=140)|TranslateGemma ｜ 谷歌开源翻译模型全家桶| |
+|[03:04](https://www.bilibili.com/video/av115914154707186?t=184)|eBPF.party ｜ 交互式学 ebpf| |
+|[03:38](https://www.bilibili.com/video/av115914154707186?t=218)|Astro 正式加入 Cloudflare| |
+
 ## [视频链接](https://www.bilibili.com/video/av115871120951441)
 
 |时间轴|简介|链接|

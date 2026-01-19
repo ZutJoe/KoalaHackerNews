@@ -1,5 +1,45 @@
 [
   {
+    "aid": 115914154707186,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 51
+        },
+        {
+          "minutes": 1,
+          "seconds": 37
+        },
+        {
+          "minutes": 2,
+          "seconds": 20
+        },
+        {
+          "minutes": 3,
+          "seconds": 4
+        },
+        {
+          "minutes": 3,
+          "seconds": 38
+        }
+      ],
+      "introduces": [
+        "AgentFS ｜ 给 AI agent 的沙盒文件系统",
+        "json-render ｜ 基于 JSON 的 AI 生成 UI",
+        "Open Responses ｜ OpenAI Response 接口规范",
+        "TranslateGemma ｜ 谷歌开源翻译模型全家桶",
+        "eBPF.party ｜ 交互式学 ebpf",
+        "Astro 正式加入 Cloudflare"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 115871120951441,
     "hn_items": {
       "times": [
