@@ -8,6 +8,18 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av115955829049250)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av115955829049250?t=9)|Remotion Agent Skills ｜ 用自然语言做视频| |
+|[00:50](https://www.bilibili.com/video/av115955829049250?t=50)|Mole ｜ 命令行清理 Mac| |
+|[01:25](https://www.bilibili.com/video/av115955829049250?t=85)|MapToPoster ｜ 把城市地图变成装饰画| |
+|[02:01](https://www.bilibili.com/video/av115955829049250?t=121)|Playwright CLI ｜ Agent 专用 playwright CLI| |
+|[02:18](https://www.bilibili.com/video/av115955829049250?t=138)|agent-browser ｜ Vercel 的 AI 浏览器方案| |
+|[02:57](https://www.bilibili.com/video/av115955829049250?t=177)|ChartGPU ｜ WebGPU 加速图表库| |
+|[03:42](https://www.bilibili.com/video/av115955829049250?t=222)|Agentation ｜ 给 AI 标注界面元素| |
+
 ## [视频链接](https://www.bilibili.com/video/av115914154707186)
 
 |时间轴|简介|链接|

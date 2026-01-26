@@ -1,5 +1,50 @@
 [
   {
+    "aid": 115955829049250,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 50
+        },
+        {
+          "minutes": 1,
+          "seconds": 25
+        },
+        {
+          "minutes": 2,
+          "seconds": 1
+        },
+        {
+          "minutes": 2,
+          "seconds": 18
+        },
+        {
+          "minutes": 2,
+          "seconds": 57
+        },
+        {
+          "minutes": 3,
+          "seconds": 42
+        }
+      ],
+      "introduces": [
+        "Remotion Agent Skills ｜ 用自然语言做视频",
+        "Mole ｜ 命令行清理 Mac",
+        "MapToPoster ｜ 把城市地图变成装饰画",
+        "Playwright CLI ｜ Agent 专用 playwright CLI",
+        "agent-browser ｜ Vercel 的 AI 浏览器方案",
+        "ChartGPU ｜ WebGPU 加速图表库",
+        "Agentation ｜ 给 AI 标注界面元素"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 115914154707186,
     "hn_items": {
       "times": [
