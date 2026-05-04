@@ -1,5 +1,45 @@
 [
   {
+    "aid": 116508604763004,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 1,
+          "seconds": 1
+        },
+        {
+          "minutes": 1,
+          "seconds": 50
+        },
+        {
+          "minutes": 2,
+          "seconds": 32
+        },
+        {
+          "minutes": 3,
+          "seconds": 18
+        },
+        {
+          "minutes": 4,
+          "seconds": 8
+        }
+      ],
+      "introduces": [
+        "Open Design ｜ Claude Design 开源替代",
+        "Composio ｜ Agent 千种工具集成层",
+        "goshs ｜ 全能型 HTTP 文件服务器",
+        "DuckLake 1.0 ｜ SQL 即元数据的 Lakehouse",
+        "Agent Vault ｜ AI Agent 凭证代理",
+        "Ghostty 离开 GitHub ｜ 开源治理事件"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 116431328903394,
     "hn_items": {
       "times": [

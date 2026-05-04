@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av116508604763004)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av116508604763004?t=9)|Open Design ｜ Claude Design 开源替代| |
+|[01:01](https://www.bilibili.com/video/av116508604763004?t=61)|Composio ｜ Agent 千种工具集成层| |
+|[01:50](https://www.bilibili.com/video/av116508604763004?t=110)|goshs ｜ 全能型 HTTP 文件服务器| |
+|[02:32](https://www.bilibili.com/video/av116508604763004?t=152)|DuckLake 1.0 ｜ SQL 即元数据的 Lakehouse| |
+|[03:18](https://www.bilibili.com/video/av116508604763004?t=198)|Agent Vault ｜ AI Agent 凭证代理| |
+|[04:08](https://www.bilibili.com/video/av116508604763004?t=248)|Ghostty 离开 GitHub ｜ 开源治理事件| |
+
 ## [视频链接](https://www.bilibili.com/video/av116431328903394)
 
 |时间轴|简介|链接|
