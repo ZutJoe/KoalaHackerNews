@@ -1,5 +1,45 @@
 [
   {
+    "aid": 116548484271991,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 45
+        },
+        {
+          "minutes": 1,
+          "seconds": 27
+        },
+        {
+          "minutes": 2,
+          "seconds": 1
+        },
+        {
+          "minutes": 2,
+          "seconds": 45
+        },
+        {
+          "minutes": 3,
+          "seconds": 45
+        }
+      ],
+      "introduces": [
+        "dev3000 ｜ 给 AI 看的开发时间线",
+        "Agentic Inbox ｜ Cloudflare 的 AI 邮件客户端",
+        "gh-dashboard ｜ GitHub 数据聚合面板",
+        "AnimateIcons ｜ React 动画图标库",
+        "Alchemy v2 ｜ TypeScript 原生的 IaC",
+        "Tilde ｜ Agent 的事务性沙箱"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 116508604763004,
     "hn_items": {
       "times": [

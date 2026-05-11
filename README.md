@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av116548484271991)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av116548484271991?t=9)|dev3000 ｜ 给 AI 看的开发时间线| |
+|[00:45](https://www.bilibili.com/video/av116548484271991?t=45)|Agentic Inbox ｜ Cloudflare 的 AI 邮件客户端| |
+|[01:27](https://www.bilibili.com/video/av116548484271991?t=87)|gh-dashboard ｜ GitHub 数据聚合面板| |
+|[02:01](https://www.bilibili.com/video/av116548484271991?t=121)|AnimateIcons ｜ React 动画图标库| |
+|[02:45](https://www.bilibili.com/video/av116548484271991?t=165)|Alchemy v2 ｜ TypeScript 原生的 IaC| |
+|[03:45](https://www.bilibili.com/video/av116548484271991?t=225)|Tilde ｜ Agent 的事务性沙箱| |
+
 ## [视频链接](https://www.bilibili.com/video/av116508604763004)
 
 |时间轴|简介|链接|
