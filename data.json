@@ -1,5 +1,45 @@
 [
   {
+    "aid": 116587994547834,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 53
+        },
+        {
+          "minutes": 1,
+          "seconds": 42
+        },
+        {
+          "minutes": 2,
+          "seconds": 23
+        },
+        {
+          "minutes": 3,
+          "seconds": 1
+        },
+        {
+          "minutes": 3,
+          "seconds": 45
+        }
+      ],
+      "introduces": [
+        "CodeBurn ｜ AI 编码工具花费看板",
+        "Mirage ｜ Agent 统一虚拟文件系统",
+        "boring ｜ 命令行 SSH 隧道管理器",
+        "@pierre/trees ｜ 文件树渲染库",
+        "Datatype ｜ 将图表做成字体",
+        "Flue ｜ TypeScript Agent 框架"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 116548484271991,
     "hn_items": {
       "times": [
