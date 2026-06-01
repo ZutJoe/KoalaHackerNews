@@ -8,6 +8,22 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av116663861117534)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+
+## [视频链接](https://www.bilibili.com/video/av116628259932702)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av116628259932702?t=9)|Semble ｜ 给 Agent 用的代码检索库| |
+|[00:37](https://www.bilibili.com/video/av116628259932702?t=37)|files.md ｜ Obsidian 本地开源替代| |
+|[01:37](https://www.bilibili.com/video/av116628259932702?t=97)|DiffsHub ｜ GitHub Diff 的高性能替代| |
+|[02:29](https://www.bilibili.com/video/av116628259932702?t=149)|dotlottie-web ｜ Web 版 Lottie 播放器| |
+|[03:23](https://www.bilibili.com/video/av116628259932702?t=203)|Polypad ｜ 数学虚拟教具集大成者| |
+|[03:58](https://www.bilibili.com/video/av116628259932702?t=238)|Kubernetes Skill ｜ 深度优化的 K8s Skill| |
+
 ## [视频链接](https://www.bilibili.com/video/av116587994547834)
 
 |时间轴|简介|链接|
