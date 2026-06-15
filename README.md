@@ -8,6 +8,28 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av116746707141237)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av116746707141237?t=9)|sem ｜ 语义级代码 Diff| |
+|[00:59](https://www.bilibili.com/video/av116746707141237?t=59)|pg_durable ｜ 数据库内的持久化工作流| |
+|[02:01](https://www.bilibili.com/video/av116746707141237?t=121)|Apple Container ｜ Mac 原生 Linux 容器| |
+|[02:42](https://www.bilibili.com/video/av116746707141237?t=162)|Mattermost ｜ 自托管团队协作平台| |
+|[03:26](https://www.bilibili.com/video/av116746707141237?t=206)|Extend UI ｜ 文档处理组件库| |
+|[04:17](https://www.bilibili.com/video/av116746707141237?t=257)|FablePool ｜ AI 项目众筹平台| |
+
+## [视频链接](https://www.bilibili.com/video/av116706693483146)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av116706693483146?t=9)|Stop Slop ｜ AI 味去除指南| |
+|[00:43](https://www.bilibili.com/video/av116706693483146?t=43)|mq ｜ Markdown 版的 jq| |
+|[01:27](https://www.bilibili.com/video/av116706693483146?t=87)|The Website Specification ｜ 网站质量标准清单| |
+|[02:13](https://www.bilibili.com/video/av116706693483146?t=133)|Copilot CLI ｜ 小黄鸭与定时任务| |
+|[02:56](https://www.bilibili.com/video/av116706693483146?t=176)|Hocuspocus ｜ 实时协作后端| |
+|[03:41](https://www.bilibili.com/video/av116706693483146?t=221)|driftwm ｜ 无限画布窗口管理器| |
+
 ## [视频链接](https://www.bilibili.com/video/av116663861117534)
 
 |时间轴|简介|链接|

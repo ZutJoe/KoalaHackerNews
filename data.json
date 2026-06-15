@@ -1,5 +1,85 @@
 [
   {
+    "aid": 116746707141237,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 59
+        },
+        {
+          "minutes": 2,
+          "seconds": 1
+        },
+        {
+          "minutes": 2,
+          "seconds": 42
+        },
+        {
+          "minutes": 3,
+          "seconds": 26
+        },
+        {
+          "minutes": 4,
+          "seconds": 17
+        }
+      ],
+      "introduces": [
+        "sem ｜ 语义级代码 Diff",
+        "pg_durable ｜ 数据库内的持久化工作流",
+        "Apple Container ｜ Mac 原生 Linux 容器",
+        "Mattermost ｜ 自托管团队协作平台",
+        "Extend UI ｜ 文档处理组件库",
+        "FablePool ｜ AI 项目众筹平台"
+      ],
+      "links": []
+    }
+  },
+  {
+    "aid": 116706693483146,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 43
+        },
+        {
+          "minutes": 1,
+          "seconds": 27
+        },
+        {
+          "minutes": 2,
+          "seconds": 13
+        },
+        {
+          "minutes": 2,
+          "seconds": 56
+        },
+        {
+          "minutes": 3,
+          "seconds": 41
+        }
+      ],
+      "introduces": [
+        "Stop Slop ｜ AI 味去除指南",
+        "mq ｜ Markdown 版的 jq",
+        "The Website Specification ｜ 网站质量标准清单",
+        "Copilot CLI ｜ 小黄鸭与定时任务",
+        "Hocuspocus ｜ 实时协作后端",
+        "driftwm ｜ 无限画布窗口管理器"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 116663861117534,
     "hn_items": {
       "times": [],
