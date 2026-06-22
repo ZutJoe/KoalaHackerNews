@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av116786250911076)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av116786250911076?t=9)|Loop Library ｜ AI Loop 配方库| |
+|[00:56](https://www.bilibili.com/video/av116786250911076?t=56)|Eve ｜ Vercel 的 Agent 框架| |
+|[01:57](https://www.bilibili.com/video/av116786250911076?t=117)|Paca ｜ AI 原生项目管理| |
+|[02:55](https://www.bilibili.com/video/av116786250911076?t=175)|Iroh ｜ 端到端 P2P 连接库| |
+|[03:41](https://www.bilibili.com/video/av116786250911076?t=221)|DBX ｜ 统一数据库客户端| |
+|[04:20](https://www.bilibili.com/video/av116786250911076?t=260)|SkillSpector ｜ Agent Skill 安全扫描| |
+
 ## [视频链接](https://www.bilibili.com/video/av116746707141237)
 
 |时间轴|简介|链接|

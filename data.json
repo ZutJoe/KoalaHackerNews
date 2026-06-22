@@ -1,5 +1,45 @@
 [
   {
+    "aid": 116786250911076,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 56
+        },
+        {
+          "minutes": 1,
+          "seconds": 57
+        },
+        {
+          "minutes": 2,
+          "seconds": 55
+        },
+        {
+          "minutes": 3,
+          "seconds": 41
+        },
+        {
+          "minutes": 4,
+          "seconds": 20
+        }
+      ],
+      "introduces": [
+        "Loop Library ｜ AI Loop 配方库",
+        "Eve ｜ Vercel 的 Agent 框架",
+        "Paca ｜ AI 原生项目管理",
+        "Iroh ｜ 端到端 P2P 连接库",
+        "DBX ｜ 统一数据库客户端",
+        "SkillSpector ｜ Agent Skill 安全扫描"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 116746707141237,
     "hn_items": {
       "times": [
