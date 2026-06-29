@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av116825861915875)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av116825861915875?t=9)|F3 ｜ 自带 Wasm 解码器的列存格式| |
+|[01:10](https://www.bilibili.com/video/av116825861915875?t=70)|AI SDK 7 ｜ 全周期 AI 代理框架| |
+|[02:04](https://www.bilibili.com/video/av116825861915875?t=124)|Go Micro ｜ 微服务框架转身 Agent 运行时| |
+|[02:51](https://www.bilibili.com/video/av116825861915875?t=171)|Nub ｜ Node 全能 TS 工具链| |
+|[03:51](https://www.bilibili.com/video/av116825861915875?t=231)|ProseKit ｜ 富文本编辑器框架| |
+|[04:39](https://www.bilibili.com/video/av116825861915875?t=279)|Deno Desktop ｜ Web 应用一键打包桌面端| |
+
 ## [视频链接](https://www.bilibili.com/video/av116786250911076)
 
 |时间轴|简介|链接|

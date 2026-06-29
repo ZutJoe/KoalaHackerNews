@@ -1,5 +1,45 @@
 [
   {
+    "aid": 116825861915875,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 1,
+          "seconds": 10
+        },
+        {
+          "minutes": 2,
+          "seconds": 4
+        },
+        {
+          "minutes": 2,
+          "seconds": 51
+        },
+        {
+          "minutes": 3,
+          "seconds": 51
+        },
+        {
+          "minutes": 4,
+          "seconds": 39
+        }
+      ],
+      "introduces": [
+        "F3 ｜ 自带 Wasm 解码器的列存格式",
+        "AI SDK 7 ｜ 全周期 AI 代理框架",
+        "Go Micro ｜ 微服务框架转身 Agent 运行时",
+        "Nub ｜ Node 全能 TS 工具链",
+        "ProseKit ｜ 富文本编辑器框架",
+        "Deno Desktop ｜ Web 应用一键打包桌面端"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 116786250911076,
     "hn_items": {
       "times": [
