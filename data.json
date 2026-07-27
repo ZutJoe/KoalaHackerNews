@@ -1,5 +1,45 @@
 [
   {
+    "aid": 116985295866212,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 46
+        },
+        {
+          "minutes": 1,
+          "seconds": 17
+        },
+        {
+          "minutes": 2,
+          "seconds": 8
+        },
+        {
+          "minutes": 2,
+          "seconds": 51
+        },
+        {
+          "minutes": 3,
+          "seconds": 41
+        }
+      ],
+      "introduces": [
+        "Bento ｜ 单文件 PPT 编辑器",
+        "Openship ｜ 开源自托管部署平台",
+        "Redential ｜ 技术能力通行证",
+        "Topcoat ｜ Rust 全栈开发框架",
+        "Databasement ｜ 数据库备份管理平台",
+        "OneCLI ｜ AI Agent 凭证网关"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 116944661383938,
     "hn_items": {
       "times": [

@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av116985295866212)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av116985295866212?t=9)|Bento ｜ 单文件 PPT 编辑器| |
+|[00:46](https://www.bilibili.com/video/av116985295866212?t=46)|Openship ｜ 开源自托管部署平台| |
+|[01:17](https://www.bilibili.com/video/av116985295866212?t=77)|Redential ｜ 技术能力通行证| |
+|[02:08](https://www.bilibili.com/video/av116985295866212?t=128)|Topcoat ｜ Rust 全栈开发框架| |
+|[02:51](https://www.bilibili.com/video/av116985295866212?t=171)|Databasement ｜ 数据库备份管理平台| |
+|[03:41](https://www.bilibili.com/video/av116985295866212?t=221)|OneCLI ｜ AI Agent 凭证网关| |
+
 ## [视频链接](https://www.bilibili.com/video/av116944661383938)
 
 |时间轴|简介|链接|
