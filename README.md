@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av117023984060142)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av117023984060142?t=9)|DeepSeek-V4-Flash ｜ DeepSeek 正式版 V4-Flash| |
+|[00:48](https://www.bilibili.com/video/av117023984060142?t=48)|TurboFieldfare ｜ 2G 内存跑 26B 模型| |
+|[01:37](https://www.bilibili.com/video/av117023984060142?t=97)|Dokku ｜ 自托管的迷你 Heroku| |
+|[02:33](https://www.bilibili.com/video/av117023984060142?t=153)|GitHub Stacked PRs ｜ 官方堆叠式合并请求| |
+|[03:20](https://www.bilibili.com/video/av117023984060142?t=200)|Supapool ｜ Agent 用的临时 Supabase 实例| |
+|[04:04](https://www.bilibili.com/video/av117023984060142?t=244)|Buzz ｜ 自托管协作平台| |
+
 ## [视频链接](https://www.bilibili.com/video/av116985295866212)
 
 |时间轴|简介|链接|

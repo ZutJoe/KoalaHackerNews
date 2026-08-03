@@ -1,5 +1,45 @@
 [
   {
+    "aid": 117023984060142,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 48
+        },
+        {
+          "minutes": 1,
+          "seconds": 37
+        },
+        {
+          "minutes": 2,
+          "seconds": 33
+        },
+        {
+          "minutes": 3,
+          "seconds": 20
+        },
+        {
+          "minutes": 4,
+          "seconds": 4
+        }
+      ],
+      "introduces": [
+        "DeepSeek-V4-Flash ｜ DeepSeek 正式版 V4-Flash",
+        "TurboFieldfare ｜ 2G 内存跑 26B 模型",
+        "Dokku ｜ 自托管的迷你 Heroku",
+        "GitHub Stacked PRs ｜ 官方堆叠式合并请求",
+        "Supapool ｜ Agent 用的临时 Supabase 实例",
+        "Buzz ｜ 自托管协作平台"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 116985295866212,
     "hn_items": {
       "times": [
