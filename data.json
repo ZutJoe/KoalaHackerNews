@@ -1,5 +1,45 @@
 [
   {
+    "aid": 117103206206700,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 58
+        },
+        {
+          "minutes": 1,
+          "seconds": 50
+        },
+        {
+          "minutes": 2,
+          "seconds": 31
+        },
+        {
+          "minutes": 3,
+          "seconds": 20
+        },
+        {
+          "minutes": 4,
+          "seconds": 6
+        }
+      ],
+      "introduces": [
+        "celld ｜ 自托管 Durable Objects",
+        "Flint ｜ 面向 Agent 的可视化语言",
+        "unbash ｜ Bash 解析器",
+        "Perses ｜ 开源可观测性仪表盘",
+        "Gloomberb ｜ 开源金融终端",
+        "git-knife ｜ Git 元数据编辑器"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 117023984060142,
     "hn_items": {
       "times": [

@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av117103206206700)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av117103206206700?t=9)|celld ｜ 自托管 Durable Objects| |
+|[00:58](https://www.bilibili.com/video/av117103206206700?t=58)|Flint ｜ 面向 Agent 的可视化语言| |
+|[01:50](https://www.bilibili.com/video/av117103206206700?t=110)|unbash ｜ Bash 解析器| |
+|[02:31](https://www.bilibili.com/video/av117103206206700?t=151)|Perses ｜ 开源可观测性仪表盘| |
+|[03:20](https://www.bilibili.com/video/av117103206206700?t=200)|Gloomberb ｜ 开源金融终端| |
+|[04:06](https://www.bilibili.com/video/av117103206206700?t=246)|git-knife ｜ Git 元数据编辑器| |
+
 ## [视频链接](https://www.bilibili.com/video/av117023984060142)
 
 |时间轴|简介|链接|
