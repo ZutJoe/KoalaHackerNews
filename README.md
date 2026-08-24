@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av117142884191176)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av117142884191176?t=9)|Claude System Prompt ｜ Claude 官方 Prompt 存档| |
+|[00:56](https://www.bilibili.com/video/av117142884191176?t=56)|TanStack Hotkeys ｜ 键盘快捷键命令系统| |
+|[01:41](https://www.bilibili.com/video/av117142884191176?t=101)|TermDOM ｜ 用 DOM 写终端界面| |
+|[02:32](https://www.bilibili.com/video/av117142884191176?t=152)|Modal Training Gym ｜ 开箱即用的 RL 训练场| |
+|[03:15](https://www.bilibili.com/video/av117142884191176?t=195)|llmfit ｜ 本地模型选型助手| |
+|[03:56](https://www.bilibili.com/video/av117142884191176?t=236)|Needle 2 ｜ 端侧工具调用小模型| |
+
 ## [视频链接](https://www.bilibili.com/video/av117103206206700)
 
 |时间轴|简介|链接|

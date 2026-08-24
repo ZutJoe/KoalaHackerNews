@@ -1,5 +1,45 @@
 [
   {
+    "aid": 117142884191176,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 56
+        },
+        {
+          "minutes": 1,
+          "seconds": 41
+        },
+        {
+          "minutes": 2,
+          "seconds": 32
+        },
+        {
+          "minutes": 3,
+          "seconds": 15
+        },
+        {
+          "minutes": 3,
+          "seconds": 56
+        }
+      ],
+      "introduces": [
+        "Claude System Prompt ｜ Claude 官方 Prompt 存档",
+        "TanStack Hotkeys ｜ 键盘快捷键命令系统",
+        "TermDOM ｜ 用 DOM 写终端界面",
+        "Modal Training Gym ｜ 开箱即用的 RL 训练场",
+        "llmfit ｜ 本地模型选型助手",
+        "Needle 2 ｜ 端侧工具调用小模型"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 117103206206700,
     "hn_items": {
       "times": [
