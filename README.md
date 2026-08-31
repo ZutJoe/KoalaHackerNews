@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av117182411311798)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av117182411311798?t=9)|PicoMQ ｜ 对象存储上的消息队列| |
+|[00:59](https://www.bilibili.com/video/av117182411311798?t=59)|MicroLighter ｜ 高性能语法高亮| |
+|[01:46](https://www.bilibili.com/video/av117182411311798?t=106)|Experiential ｜ AI 模型网关与路由| |
+|[02:32](https://www.bilibili.com/video/av117182411311798?t=152)|Maka ｜ 本地优先 Agent 工作区| |
+|[03:07](https://www.bilibili.com/video/av117182411311798?t=187)|Kern ｜ 毫秒级非 root 容器沙箱| |
+|[03:42](https://www.bilibili.com/video/av117182411311798?t=222)|RestoreDrill ｜ PG 备份验证工具| |
+
 ## [视频链接](https://www.bilibili.com/video/av117142884191176)
 
 |时间轴|简介|链接|

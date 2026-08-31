@@ -1,5 +1,45 @@
 [
   {
+    "aid": 117182411311798,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 59
+        },
+        {
+          "minutes": 1,
+          "seconds": 46
+        },
+        {
+          "minutes": 2,
+          "seconds": 32
+        },
+        {
+          "minutes": 3,
+          "seconds": 7
+        },
+        {
+          "minutes": 3,
+          "seconds": 42
+        }
+      ],
+      "introduces": [
+        "PicoMQ ｜ 对象存储上的消息队列",
+        "MicroLighter ｜ 高性能语法高亮",
+        "Experiential ｜ AI 模型网关与路由",
+        "Maka ｜ 本地优先 Agent 工作区",
+        "Kern ｜ 毫秒级非 root 容器沙箱",
+        "RestoreDrill ｜ PG 备份验证工具"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 117142884191176,
     "hn_items": {
       "times": [
