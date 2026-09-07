@@ -1,5 +1,45 @@
 [
   {
+    "aid": 117222324309075,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 53
+        },
+        {
+          "minutes": 1,
+          "seconds": 48
+        },
+        {
+          "minutes": 2,
+          "seconds": 39
+        },
+        {
+          "minutes": 3,
+          "seconds": 33
+        },
+        {
+          "minutes": 4,
+          "seconds": 24
+        }
+      ],
+      "introduces": [
+        "Archify ｜ 自然语言生成架构图",
+        "Tailcat ｜ 点对点加密管道",
+        "OpenMAIC ｜ 多智能体互动课堂",
+        "TimesFM 3.0 ｜ 时序预测基础模型",
+        "OpenTrailPaper ｜ 开源自行车码表",
+        "OpenShot 4.0 ｜ 开源视频编辑器"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 117182411311798,
     "hn_items": {
       "times": [
