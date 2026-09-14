@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av117262572850072)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av117262572850072?t=9)|Blume ｜ 零配置文档站生成器| |
+|[00:49](https://www.bilibili.com/video/av117262572850072?t=49)|OpenResearch ｜ 本地并行研究平台| |
+|[01:23](https://www.bilibili.com/video/av117262572850072?t=83)|Omarchy ｜ Agent 原生 Linux 发行版| |
+|[02:00](https://www.bilibili.com/video/av117262572850072?t=120)|Tailwind CSS 加入 Shopify| |
+|[02:34](https://www.bilibili.com/video/av117262572850072?t=154)|Mojo ｜ 编译器全面开源| |
+|[03:08](https://www.bilibili.com/video/av117262572850072?t=188)|Cloud in a Bottle ｜ 个人私有云上操作系统| |
+
 ## [视频链接](https://www.bilibili.com/video/av117222324309075)
 
 |时间轴|简介|链接|

@@ -1,5 +1,45 @@
 [
   {
+    "aid": 117262572850072,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 49
+        },
+        {
+          "minutes": 1,
+          "seconds": 23
+        },
+        {
+          "minutes": 2,
+          "seconds": 0
+        },
+        {
+          "minutes": 2,
+          "seconds": 34
+        },
+        {
+          "minutes": 3,
+          "seconds": 8
+        }
+      ],
+      "introduces": [
+        "Blume ｜ 零配置文档站生成器",
+        "OpenResearch ｜ 本地并行研究平台",
+        "Omarchy ｜ Agent 原生 Linux 发行版",
+        "Tailwind CSS 加入 Shopify",
+        "Mojo ｜ 编译器全面开源",
+        "Cloud in a Bottle ｜ 个人私有云上操作系统"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 117222324309075,
     "hn_items": {
       "times": [
