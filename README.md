@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av117287134693219)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av117287134693219?t=9)|Jev ｜ 面向自动化的决策模型| |
+|[01:14](https://www.bilibili.com/video/av117287134693219?t=74)|Himalaya ｜ 命令行邮件客户端| |
+|[02:05](https://www.bilibili.com/video/av117287134693219?t=125)|Dex ｜ 联邦 OIDC 身份认证| |
+|[03:03](https://www.bilibili.com/video/av117287134693219?t=183)|Open-Compute ｜ 自托管 Workers 平台| |
+|[03:57](https://www.bilibili.com/video/av117287134693219?t=237)|Tinycast ｜ 原生 macOS 启动器| |
+|[04:43](https://www.bilibili.com/video/av117287134693219?t=283)|Rive CLI ｜ 命令行动画制作| |
+
 ## [视频链接](https://www.bilibili.com/video/av117262572850072)
 
 |时间轴|简介|链接|

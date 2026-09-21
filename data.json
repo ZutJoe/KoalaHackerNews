@@ -1,5 +1,45 @@
 [
   {
+    "aid": 117287134693219,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 1,
+          "seconds": 14
+        },
+        {
+          "minutes": 2,
+          "seconds": 5
+        },
+        {
+          "minutes": 3,
+          "seconds": 3
+        },
+        {
+          "minutes": 3,
+          "seconds": 57
+        },
+        {
+          "minutes": 4,
+          "seconds": 43
+        }
+      ],
+      "introduces": [
+        "Jev ｜ 面向自动化的决策模型",
+        "Himalaya ｜ 命令行邮件客户端",
+        "Dex ｜ 联邦 OIDC 身份认证",
+        "Open-Compute ｜ 自托管 Workers 平台",
+        "Tinycast ｜ 原生 macOS 启动器",
+        "Rive CLI ｜ 命令行动画制作"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 117262572850072,
     "hn_items": {
       "times": [
