@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av117380718136018)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av117380718136018?t=9)|Strata ｜ 消费级显卡本地推理引擎| |
+|[00:56](https://www.bilibili.com/video/av117380718136018?t=56)|Ledge ｜ 可执行的 Markdown 笔记| |
+|[01:41](https://www.bilibili.com/video/av117380718136018?t=101)|Clef ｜ Cloudflare 开源决策模型| |
+|[02:28](https://www.bilibili.com/video/av117380718136018?t=148)|walgit ｜ 对象存储上的 Git 服务器| |
+|[03:17](https://www.bilibili.com/video/av117380718136018?t=197)|TanStack Intent ｜ 随 NPM 包分发 Skills| |
+|[03:58](https://www.bilibili.com/video/av117380718136018?t=238)|Forge ｜ Cloudflare 开源 SDK 生成器| |
+
 ## [视频链接](https://www.bilibili.com/video/av117341073443328)
 
 |时间轴|简介|链接|

@@ -1,5 +1,45 @@
 [
   {
+    "aid": 117380718136018,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 56
+        },
+        {
+          "minutes": 1,
+          "seconds": 41
+        },
+        {
+          "minutes": 2,
+          "seconds": 28
+        },
+        {
+          "minutes": 3,
+          "seconds": 17
+        },
+        {
+          "minutes": 3,
+          "seconds": 58
+        }
+      ],
+      "introduces": [
+        "Strata ｜ 消费级显卡本地推理引擎",
+        "Ledge ｜ 可执行的 Markdown 笔记",
+        "Clef ｜ Cloudflare 开源决策模型",
+        "walgit ｜ 对象存储上的 Git 服务器",
+        "TanStack Intent ｜ 随 NPM 包分发 Skills",
+        "Forge ｜ Cloudflare 开源 SDK 生成器"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 117341073443328,
     "hn_items": {
       "times": [],
