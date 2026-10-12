@@ -8,6 +8,18 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av117420496847111)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av117420496847111?t=9)|Python 3.15 惰性导入与 JIT 提速| |
+|[00:57](https://www.bilibili.com/video/av117420496847111?t=57)|AnyPS5 ｜ PS5 程序原生移植| |
+|[01:46](https://www.bilibili.com/video/av117420496847111?t=106)|TeamAI ｜ 团队共享 Agent 配置| |
+|[02:28](https://www.bilibili.com/video/av117420496847111?t=148)|PhotoCraft ｜ Rust 重写 Photoshop| |
+|[03:16](https://www.bilibili.com/video/av117420496847111?t=196)|DuckLake ｜ SQL 元数据湖仓格式| |
+|[04:04](https://www.bilibili.com/video/av117420496847111?t=244)|Deno 加入 Cloudflare| |
+|[04:38](https://www.bilibili.com/video/av117420496847111?t=278)|Supabase 收购 Turso| |
+
 ## [视频链接](https://www.bilibili.com/video/av117380718136018)
 
 |时间轴|简介|链接|

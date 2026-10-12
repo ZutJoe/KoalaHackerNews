@@ -1,5 +1,50 @@
 [
   {
+    "aid": 117420496847111,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 57
+        },
+        {
+          "minutes": 1,
+          "seconds": 46
+        },
+        {
+          "minutes": 2,
+          "seconds": 28
+        },
+        {
+          "minutes": 3,
+          "seconds": 16
+        },
+        {
+          "minutes": 4,
+          "seconds": 4
+        },
+        {
+          "minutes": 4,
+          "seconds": 38
+        }
+      ],
+      "introduces": [
+        "Python 3.15 惰性导入与 JIT 提速",
+        "AnyPS5 ｜ PS5 程序原生移植",
+        "TeamAI ｜ 团队共享 Agent 配置",
+        "PhotoCraft ｜ Rust 重写 Photoshop",
+        "DuckLake ｜ SQL 元数据湖仓格式",
+        "Deno 加入 Cloudflare",
+        "Supabase 收购 Turso"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 117380718136018,
     "hn_items": {
       "times": [
