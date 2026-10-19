@@ -1,5 +1,45 @@
 [
   {
+    "aid": 117459856195901,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 1,
+          "seconds": 4
+        },
+        {
+          "minutes": 1,
+          "seconds": 58
+        },
+        {
+          "minutes": 2,
+          "seconds": 48
+        },
+        {
+          "minutes": 3,
+          "seconds": 29
+        },
+        {
+          "minutes": 4,
+          "seconds": 19
+        }
+      ],
+      "introduces": [
+        "DeepSeek-V4.1-Flash ｜ 更快更省的开源模型",
+        "Void ｜ Vite 全栈应用平台",
+        "Herdr ｜ 编程 Agent 终端运行时",
+        "Jevgrep ｜ Agent 语义代码检索",
+        "GoNIX ｜ Go 写成的 UNIX",
+        "Plannotator ｜ Agent 计划批注审阅"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 117420496847111,
     "hn_items": {
       "times": [

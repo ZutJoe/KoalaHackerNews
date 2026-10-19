@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av117459856195901)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av117459856195901?t=9)|DeepSeek-V4.1-Flash ｜ 更快更省的开源模型| |
+|[01:04](https://www.bilibili.com/video/av117459856195901?t=64)|Void ｜ Vite 全栈应用平台| |
+|[01:58](https://www.bilibili.com/video/av117459856195901?t=118)|Herdr ｜ 编程 Agent 终端运行时| |
+|[02:48](https://www.bilibili.com/video/av117459856195901?t=168)|Jevgrep ｜ Agent 语义代码检索| |
+|[03:29](https://www.bilibili.com/video/av117459856195901?t=209)|GoNIX ｜ Go 写成的 UNIX| |
+|[04:19](https://www.bilibili.com/video/av117459856195901?t=259)|Plannotator ｜ Agent 计划批注审阅| |
+
 ## [视频链接](https://www.bilibili.com/video/av117420496847111)
 
 |时间轴|简介|链接|
