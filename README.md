@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av117499634976351)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av117499634976351?t=9)|DeepInfer ｜ DeepSeek 生产推理框架| |
+|[01:05](https://www.bilibili.com/video/av117499634976351?t=65)|DuckDB 2.0 ｜ 嵌入式数据库走向服务端| |
+|[01:53](https://www.bilibili.com/video/av117499634976351?t=113)|tsrs ｜ Rust 版 TypeScript 编译器| |
+|[02:43](https://www.bilibili.com/video/av117499634976351?t=163)|Mac.apk ｜ Mac 原生运行安卓应用| |
+|[03:25](https://www.bilibili.com/video/av117499634976351?t=205)|DesignCraft ｜ Rust 开源排版软件| |
+|[04:18](https://www.bilibili.com/video/av117499634976351?t=258)|Aerial ｜ 国产电视去广告| |
+
 ## [视频链接](https://www.bilibili.com/video/av117459856195901)
 
 |时间轴|简介|链接|

@@ -1,5 +1,45 @@
 [
   {
+    "aid": 117499634976351,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 1,
+          "seconds": 5
+        },
+        {
+          "minutes": 1,
+          "seconds": 53
+        },
+        {
+          "minutes": 2,
+          "seconds": 43
+        },
+        {
+          "minutes": 3,
+          "seconds": 25
+        },
+        {
+          "minutes": 4,
+          "seconds": 18
+        }
+      ],
+      "introduces": [
+        "DeepInfer ｜ DeepSeek 生产推理框架",
+        "DuckDB 2.0 ｜ 嵌入式数据库走向服务端",
+        "tsrs ｜ Rust 版 TypeScript 编译器",
+        "Mac.apk ｜ Mac 原生运行安卓应用",
+        "DesignCraft ｜ Rust 开源排版软件",
+        "Aerial ｜ 国产电视去广告"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 117459856195901,
     "hn_items": {
       "times": [
