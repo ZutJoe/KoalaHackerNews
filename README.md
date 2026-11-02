@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av117539245918110)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av117539245918110?t=9)|3D Model Anything ｜ 房间扫描转三维场景| |
+|[00:53](https://www.bilibili.com/video/av117539245918110?t=53)|VoiceStudio ｜ 本地版 ElevenLabs| |
+|[01:34](https://www.bilibili.com/video/av117539245918110?t=94)|Mistral Large 4 ｜ 欧洲万亿参数开源模型| |
+|[02:19](https://www.bilibili.com/video/av117539245918110?t=139)|HatchZip ｜ 原地解压工具| |
+|[02:54](https://www.bilibili.com/video/av117539245918110?t=174)|词光 ｜ 插画版雅思背词| |
+|[03:31](https://www.bilibili.com/video/av117539245918110?t=211)|OnKey ｜ Mac 跑调纠正器| |
+
 ## [视频链接](https://www.bilibili.com/video/av117499634976351)
 
 |时间轴|简介|链接|

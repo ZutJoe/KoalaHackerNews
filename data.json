@@ -1,5 +1,45 @@
 [
   {
+    "aid": 117539245918110,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 53
+        },
+        {
+          "minutes": 1,
+          "seconds": 34
+        },
+        {
+          "minutes": 2,
+          "seconds": 19
+        },
+        {
+          "minutes": 2,
+          "seconds": 54
+        },
+        {
+          "minutes": 3,
+          "seconds": 31
+        }
+      ],
+      "introduces": [
+        "3D Model Anything ｜ 房间扫描转三维场景",
+        "VoiceStudio ｜ 本地版 ElevenLabs",
+        "Mistral Large 4 ｜ 欧洲万亿参数开源模型",
+        "HatchZip ｜ 原地解压工具",
+        "词光 ｜ 插画版雅思背词",
+        "OnKey ｜ Mac 跑调纠正器"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 117499634976351,
     "hn_items": {
       "times": [
