@@ -8,6 +8,19 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av117657240143855)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av117657240143855?t=9)|ZigZag ｜ 开源刺绣设计软件| |
+|[01:02](https://www.bilibili.com/video/av117657240143855?t=62)|unkernel ｜ 编译成 WASM 的 Linux| |
+|[02:05](https://www.bilibili.com/video/av117657240143855?t=125)|pixelfx ｜ 像素风特效库| |
+|[02:58](https://www.bilibili.com/video/av117657240143855?t=178)|Yogurt ｜ 本地 AI 会议纪要| |
+|[03:36](https://www.bilibili.com/video/av117657240143855?t=216)|Declarative Dragging ｜ 声明式拖拽交互| |
+|[04:28](https://www.bilibili.com/video/av117657240143855?t=268)|Stringman ｜ 绳驱家用开源机器人| |
+|[05:16](https://www.bilibili.com/video/av117657240143855?t=316)|PostgreSQL 19 ｜ 年度大版本| |
+|[06:14](https://www.bilibili.com/video/av117657240143855?t=374)|AWS Emulator ｜ 官方本地 AWS 模拟器| |
+
 ## [视频链接](https://www.bilibili.com/video/av117539245918110)
 
 |时间轴|简介|链接|

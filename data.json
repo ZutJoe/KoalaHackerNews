@@ -1,5 +1,55 @@
 [
   {
+    "aid": 117657240143855,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 1,
+          "seconds": 2
+        },
+        {
+          "minutes": 2,
+          "seconds": 5
+        },
+        {
+          "minutes": 2,
+          "seconds": 58
+        },
+        {
+          "minutes": 3,
+          "seconds": 36
+        },
+        {
+          "minutes": 4,
+          "seconds": 28
+        },
+        {
+          "minutes": 5,
+          "seconds": 16
+        },
+        {
+          "minutes": 6,
+          "seconds": 14
+        }
+      ],
+      "introduces": [
+        "ZigZag ｜ 开源刺绣设计软件",
+        "unkernel ｜ 编译成 WASM 的 Linux",
+        "pixelfx ｜ 像素风特效库",
+        "Yogurt ｜ 本地 AI 会议纪要",
+        "Declarative Dragging ｜ 声明式拖拽交互",
+        "Stringman ｜ 绳驱家用开源机器人",
+        "PostgreSQL 19 ｜ 年度大版本",
+        "AWS Emulator ｜ 官方本地 AWS 模拟器"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 117539245918110,
     "hn_items": {
       "times": [
